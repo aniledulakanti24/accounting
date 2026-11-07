@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Günden güne",
+      "finance": "Finans",
+      "advanced": "Gelişmiş"
+    },
+    "mainMenu": "Ana Menü",
+    "short": {
+      "parties": "Partiler"
+    },
+    "sections": {
+      "dashboard": "Kontrol Paneli",
+      "sales": "Satış",
+      "receivables": "Para Girişi",
+      "procurement": "Satın almalar",
+      "payables": "Para Çıkışı",
+      "cashbank": "Nakit ve Banka",
+      "expenses": "Giderler",
+      "tax": "Vergi",
+      "reports": "Raporlar",
+      "advanced-features": "Gelişmiş Özellikler",
+      "parties": "Müşteriler ve Tedarikçiler",
+      "inventory": "Öğeler",
+      "assets": "Duran Varlıklar",
+      "masters": "Kurulum ve Yapılandırma",
+      "business-tools": "Ekip ve Araçlar",
+      "party-tools": "Parti Araçları",
+      "item-tools": "Öğe Araçları",
+      "storage": "Belgeler",
+      "alerts": "Uyarılar",
+      "migration": "Veri Taşıma"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Genel Bakış",
+        "cash-flow": "Nakit akımı",
+        "tax-calendar": "Vergi Takvimi"
+      },
+      "sales": {
+        "quotations": "Alıntılar",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fatura",
+        "delivery-challans": "Teslimat Challan",
+        "receipts": "Fiş",
+        "invoice-desk": "Fatura Masası"
+      },
+      "receivables": {
+        "money-in-center": "Merkezde Para",
+        "receivables": "Alacaklar",
+        "payments-received": "Alınan Ödemeler",
+        "overdue-collections": "Koleksiyonlar ve Hatırlatıcılar",
+        "credit-notes": "Kredi Notları ve Geri Ödemeler",
+        "sales-returns": "Satış İadeleri",
+        "customer-statements": "Müşteri Beyanları",
+        "payment-links": "Ödeme Bağlantıları"
+      },
+      "procurement": {
+        "purchase-center": "Satın Alma Merkezi",
+        "purchase-orders": "Satınalma Siparişleri",
+        "goods-receipt": "Mal girişi",
+        "purchase-invoices": "Satın Alma Faturaları",
+        "payment-out": "Yapılan Ödemeler",
+        "returns-debit-notes": "İadeler ve Borç Senetleri",
+        "bill-approvals": "Fatura Onayları"
+      },
+      "payables": {
+        "bills": "Ödeme Merkezi",
+        "payments": "Tedarikçi Ödemeleri",
+        "workforce": "İşgücü",
+        "adjustments": "Ayarlamalar",
+        "bank-release": "Banka Tahsisi"
+      },
+      "cashbank": {
+        "bank-accounts": "Hesaplarım",
+        "reconciliation": "Eşleşme İşlemleri",
+        "cash-petty": "Küçük Nakit",
+        "contra": "Hesaplar Arası",
+        "cheque-register": "Çekler",
+        "foreign-currency": "Döviz",
+        "bank-feeds": "Banka Haberleri",
+        "bank-rules": "Kurallar ve Mutabakat"
+      },
+      "expenses": {
+        "expense-center": "Tüm Masraflar",
+        "categories": "Gider Türleri",
+        "automated-bills": "Tekrarlanan Giderler",
+        "journal-vouchers": "Manuel Girişler",
+        "provisions": "Tahakkuklar",
+        "write-offs": "İptaller",
+        "period-close": "Ay Sonu"
+      },
+      "tax": {
+        "gst-returns": "GST Dosyalama",
+        "gst-filing-wizard": "⚡ GSTR-3B dosyası",
+        "gst-reconciliation": "GST Eşleştirme",
+        "e-invoicing": "E-Faturalar",
+        "e-way-bills": "E-Yol Faturaları",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Vergi öde",
+        "quarterly-compliance": "Uyumluluk Takvimi",
+        "ca-access": "CA Geçici Erişimi",
+        "gst-from-books": "Kitaplardan GST"
+      },
+      "reports": {
+        "financial-statements": "Mali Raporlar",
+        "books": "İşlem Defterleri",
+        "gst-reports": "GST Raporları",
+        "ar-ap": "Alacaklar ve Borçlar",
+        "profitability": "karlılık",
+        "period-comparatives": "Yıl Karşılaştırması",
+        "budget-vs-actuals": "Bütçe Takibi",
+        "cashflow-projection": "Nakit Tahmini",
+        "report-builder": "Özel Raporlar",
+        "general-ledger": "Genel Muhasebe",
+        "live-financials": "Canlı Finansallar",
+        "ai-analyst": "Yapay Zeka Analisti"
+      },
+      "advanced-features": {
+        "overview": "Genel Bakış"
+      },
+      "parties": {
+        "all-parties": "Tüm Taraflar",
+        "customer-ledgers": "Müşteriler",
+        "supplier-ledgers": "Tedarikçiler",
+        "shared-ledger": "Paylaşılan Defter",
+        "statements": "İfadeler",
+        "reminders": "Hatırlatıcılar",
+        "documents": "Parti Belgeleri",
+        "portal": "Parti Portalı",
+        "import": "Parti İçe Aktarımı",
+        "duplicate-merge": "Yinelenen Birleştirme",
+        "gap-analysis": "Boşluk Analizi"
+      },
+      "inventory": {
+        "inventory-items": "Öğeler",
+        "godowns": "Depolar",
+        "stock-movement": "Stok Hareketi",
+        "item-pricing": "Fiyatlandırma",
+        "stock-valuation": "Hisse Değerlemesi",
+        "reorder-alerts": "Uyarıları Yeniden Sırala",
+        "batch-serials": "Toplu ve Seri",
+        "barcode-labels": "Barkod Etiketleri",
+        "item-import": "Öğe İçe Aktarma",
+        "gap-analysis": "Boşluk Analizi"
+      },
+      "assets": {
+        "asset-register": "Varlık Listesi",
+        "depreciation": "Amortisman",
+        "disposal-revaluation": "Sat veya Yeniden Değerlendir"
+      },
+      "masters": {
+        "chart-of-accounts": "Hesap Listesi",
+        "tax-masters": "Vergi Oranları",
+        "cost-centers": "Maliyet Merkezleri",
+        "voucher-types": "İşlem Türleri",
+        "opening-balances": "Bakiyelerin Başlatılması",
+        "currencies": "Para birimleri"
+      },
+      "business-tools": {
+        "staff-payroll": "Bordro",
+        "manage-users": "Kullanıcı Erişimi",
+        "online-orders": "Çevrimiçi Siparişler",
+        "sms-marketing": "SMS Pazarlama",
+        "accountant-hub": "Muhasebeciler ve Destek"
+      },
+      "party-tools": {
+        "documents": "Parti Belgeleri",
+        "portal": "Parti Portalı",
+        "import": "Parti İçe Aktarımı",
+        "duplicate-merge": "Yinelenen Birleştirme",
+        "gap-analysis": "Boşluk Analizi"
+      },
+      "item-tools": {
+        "reorder-alerts": "Uyarıları Yeniden Sırala",
+        "batch-serials": "Toplu ve Seri",
+        "barcode-labels": "Barkod Etiketleri",
+        "item-import": "Öğe İçe Aktarma",
+        "gap-analysis": "Boşluk Analizi"
+      },
+      "storage": {
+        "client-storage": "İstemci Dosyaları",
+        "unifiedtree-storage": "Bulut Depolama"
+      },
+      "alerts": {
+        "accountant-alerts": "Muhasebeci Uyarıları",
+        "compliance-alerts": "Uyumluluk Uyarıları",
+        "cash-risk-alerts": "Nakit ve Risk Uyarıları",
+        "ca-access": "CA Geçici Erişimi"
+      },
+      "migration": {
+        "import": "Verileri İçe Aktar",
+        "export": "Verileri Dışa Aktar",
+        "history": "İçe Aktarma Geçmişi",
+        "tally-import": "Tally ve Zoho'dan içe aktar"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Satın Almalar ve Ödemeler",
+      "accountingSetup": "Muhasebe Kurulumu",
+      "dataDocuments": "Veri ve Belgeler"
+    }
+  },
+  "common": {
+    "save": "Değişiklikleri Kaydet",
+    "cancel": "İptal etmek",
+    "create": "Yaratmak",
+    "edit": "Düzenlemek",
+    "delete": "Silmek",
+    "search": "Aramak",
+    "connect": "Bağlamak",
+    "configure": "Yapılandır",
+    "disconnect": "Bağlantıyı kes",
+    "sync": "Şimdi Senkronize Et",
+    "close": "Kapalı",
+    "reset": "Varsayılanlara Sıfırla",
+    "back": "Geri",
+    "continue": "Devam etmek",
+    "all": "Tüm",
+    "retry": "Yeniden dene",
+    "loading": "Yükleniyor…",
+    "resetDemo": "Demo verilerini sıfırla"
+  },
+  "shell": {
+    "searchPlaceholder": "Herhangi bir şeyi arayın…",
+    "settings": "Ayarlar",
+    "language": "Dil",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Günaydın",
+      "afternoon": "Tünaydın",
+      "evening": "İyi akşamlar"
+    },
+    "settingsItems": {
+      "company-profile": "Şirket Profili",
+      "configuration": "Yapılandırma",
+      "fiscal-periods": "Mali Dönemler",
+      "roles": "Roller ve Kullanıcılar",
+      "integrations": "Entegrasyonlar",
+      "notifications": "Bildirimler",
+      "audit-logs": "Denetim ve Günlükler",
+      "audit-trail": "Kurcalamaya dayanıklı Denetim Yolu",
+      "developer": "Geliştirici ve API"
+    },
+    "translatedLanguages": "Çevrildi",
+    "untranslatedLanguages": "tercüme edilene kadar İngilizce"
+  },
+  "status": {
+    "filed": "Dosyalandı",
+    "ready": "Dosyalamaya hazır",
+    "open": "Dönem açık",
+    "paid": "Paralı",
+    "pending": "Askıda olması",
+    "accepted": "Kabul edildi",
+    "delivered": "Teslim edilmiş",
+    "rejected": "Reddedilmiş",
+    "pdf-sent": "PDF gönderildi",
+    "not-sent": "Gönderilmedi",
+    "matched": "Eşleşti",
+    "mismatch": "Uyumsuzluk",
+    "missing-supplier": "Tedarikçi tarafından bildirilmedi",
+    "missing-books": "Kitaplarda eksik",
+    "deferred": "Ertelenen",
+    "deducted": "Düşüldü",
+    "remitted": "Gönderildi",
+    "certified": "Sertifikalı",
+    "to-report": "Rapor etmek",
+    "reported": "Bildirildi",
+    "accounted": "Hesaplandı",
+    "overdue": "vadesi geçmiş"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Dosyalamaya hazır",
+      "liabilityDue": "Sorumluluk",
+      "paidThisYear": "Bu yıl ödendi",
+      "nextDeadline": "Sonraki son tarih",
+      "noneOverdue": "Vadesi geçmiş hiçbir şey yok",
+      "overdue": "{{count}} gecikmiş"
+    },
+    "filter": {
+      "ready": "Dosyalamaya hazır",
+      "open": "Açık",
+      "filed": "Dosyalandı"
+    },
+    "col": {
+      "period": "Dönem",
+      "authority": "Yetki",
+      "rate": "Oran",
+      "due": "Vadesi dolmuş",
+      "netPayable": "Net borç",
+      "status": "Durum",
+      "ack": "Teşekkür"
+    },
+    "file": "Dosya",
+    "view": "Görüş",
+    "fileForm": "Dosya {{form}}",
+    "loadingJurisdiction": "Yargı yetkisi yükleniyor…",
+    "nothingToFile": "Hiçbir iadenin dosyalanması beklenmiyor; tüm kapalı dönemler gönderildi.",
+    "fileNext": "Sonraki dosya: {{name}}",
+    "steps": {
+      "review": "Gözden geçirmek",
+      "validate": "Doğrula",
+      "declare": "Beyan et ve gönder",
+      "ack": "Teşekkür"
+    },
+    "runValidation": "Doğrulamayı çalıştır",
+    "validating": "Doğrulanıyor…",
+    "submit": "{{form}}'u gönder",
+    "submitting": "Gönderiliyor…",
+    "declaration": "Bu beyanda yer alan bilgilerin doğru ve eksiksiz olduğunu ve bunları {{authority}}'a göndermeye yetkili olduğumu beyan ederim.",
+    "netAmount": "Net tutar",
+    "submitted": "Gönderildi",
+    "filedOn": "Dosyalanma tarihi",
+    "regime": {
+      "authority": "Yetki",
+      "channel": "Dosyalama kanalı",
+      "return": "Geri dönmek",
+      "due": "Vadesi dolmuş",
+      "standardRate": "Standart ücret",
+      "threshold": "Kayıt eşiği"
+    },
+    "demoNote": "Yerleşik sahte vergi API'sinden alınan demo verileri; başvurular ve ödemeler simüle edilir ve vergi dairesine hiçbir şey gönderilmez."
+  },
+  "fx": {
+    "title": "Döviz",
+    "subtitle": "Temel para birimi {{base}} · gösterge niteliğindeki sahte piyasa oranları",
+    "newDoc": "Yeni döviz faturası/fatura",
+    "kpi": {
+      "netExposure": "Net döviz riski",
+      "openDocs": "{{count}} açık belge",
+      "unrealized": "Gerçekleşmemiş kazanç / kayıp",
+      "postedSplit": "{{posted}} gönderildi · {{unposted}} henüz gönderilmedi",
+      "realized": "Bu yıl gerçekleştirildi",
+      "lastReval": "Son yeniden değerleme",
+      "never": "Asla",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Öğeleri aç",
+      "settled": "Yerleşik",
+      "revaluation": "Ay sonu yeniden değerleme",
+      "journal": "FX günlüğü"
+    },
+    "col": {
+      "document": "Belge",
+      "type": "Tip",
+      "openForeign": "Açık (yabancı)",
+      "bookedNow": "Rezervasyon yapıldı / şimdi",
+      "valueIn": "{{base}} cinsinden değer",
+      "unrealized": "Gerçekleşmemiş",
+      "status": "Durum",
+      "amount": "Miktar",
+      "bookedRate": "Rezervasyon ücreti",
+      "realized": "Gerçekleştirilmiş"
+    },
+    "receivable": "alacak",
+    "payable": "Ödenecek",
+    "receive": "Almak",
+    "pay": "Ödemek",
+    "netIn": "{{base}} cinsinden net",
+    "state": {
+      "settled": "Yerleşik",
+      "partial": "Kısmen yerleşik",
+      "open": "Açık"
+    },
+    "demoNote": "Yerleşik sahte API'den alınan demo verileri; oranlar canlı piyasa verileri değil, simüle edilmiştir."
+  }
+}

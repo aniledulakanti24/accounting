@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "كۈندىن كۈنگە",
+      "finance": "مالىيە",
+      "advanced": "ئىلغار"
+    },
+    "mainMenu": "Main menu",
+    "short": {
+      "parties": "تەرەپلەر"
+    },
+    "sections": {
+      "dashboard": "باش تاختا",
+      "sales": "سېتىش",
+      "receivables": "Money In",
+      "procurement": "سېتىۋېلىش",
+      "payables": "Money Out",
+      "cashbank": "نەق پۇل ۋە بانكا",
+      "expenses": "چىقىم",
+      "tax": "باج",
+      "reports": "دوكلات",
+      "advanced-features": "Advanced Features",
+      "parties": "خېرىدارلار ۋە تەمىنلىگۈچىلەر",
+      "inventory": "تۈرلەر",
+      "assets": "تۇراقلىق مۈلۈك",
+      "masters": "تەڭشەش ۋە تەڭشەش",
+      "business-tools": "گۇرۇپپا ۋە قوراللار",
+      "party-tools": "پارتىيە قوراللىرى",
+      "item-tools": "تۈر قوراللىرى",
+      "storage": "ھۆججەتلەر",
+      "alerts": "ئاگاھلاندۇرۇش",
+      "migration": "سانلىق مەلۇمات كۆچۈش"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ئومۇمىي چۈشەنچە",
+        "cash-flow": "نەق پۇل ئېقىمى",
+        "tax-calendar": "باج كالېندارى"
+      },
+      "sales": {
+        "quotations": "نەقىل",
+        "proforma-invoices": "PI",
+        "sales-invoices": "تالون",
+        "delivery-challans": "Delivery Challan",
+        "receipts": "تالون",
+        "invoice-desk": "تالون ئۈستىلى"
+      },
+      "receivables": {
+        "money-in-center": "پۇل مەركىزى",
+        "receivables": "تاپشۇرۇۋالغىلى بولىدۇ",
+        "payments-received": "تاپشۇرۇۋېلىندى",
+        "overdue-collections": "يىغىش ۋە ئەسكەرتىش",
+        "credit-notes": "ئىناۋەتلىك خاتىرە ۋە پۇل قايتۇرۇش",
+        "sales-returns": "سېتىش قايتىش",
+        "customer-statements": "خېرىدارلارنىڭ بايانلىرى",
+        "payment-links": "چىقىم ئۇلىنىشى"
+      },
+      "procurement": {
+        "purchase-center": "سېتىۋېلىش مەركىزى",
+        "purchase-orders": "زاكاز سېتىۋېلىش",
+        "goods-receipt": "مال تاپشۇرۇۋېلىش تالونى",
+        "purchase-invoices": "تالون سېتىۋېلىش",
+        "payment-out": "چىقىم قىلىندى",
+        "returns-debit-notes": "قايتۇرۇش ۋە قەرز خاتىرىلىرى",
+        "bill-approvals": "Bill Approvals"
+      },
+      "payables": {
+        "bills": "چىقىم قىلىش مەركىزى",
+        "payments": "تەمىنلىگۈچى چىقىم",
+        "workforce": "ئەمگەك كۈچى",
+        "adjustments": "تەڭشەش",
+        "bank-release": "Bank Release"
+      },
+      "cashbank": {
+        "bank-accounts": "ھېساباتىم",
+        "reconciliation": "سودا سودىسى",
+        "cash-petty": "Petty Cash",
+        "contra": "ھېسابات ئارىلىقىدا",
+        "cheque-register": "Checks",
+        "foreign-currency": "چەتئەل پۇلى",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "قائىدە ۋە ياراشتۇرۇش"
+      },
+      "expenses": {
+        "expense-center": "بارلىق چىقىملار",
+        "categories": "چىقىم تۈرلىرى",
+        "automated-bills": "تەكرار چىقىم",
+        "journal-vouchers": "Manual Entries",
+        "provisions": "Accruals",
+        "write-offs": "يېزىش",
+        "period-close": "ئاي ئاخىرى"
+      },
+      "tax": {
+        "gst-returns": "GST Filing",
+        "gst-filing-wizard": "⚡ File GSTR-3B",
+        "gst-reconciliation": "GST ماسلاشتۇرۇش",
+        "e-invoicing": "ئېلېكترونلۇق تالون",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "باج تاپشۇرۇش",
+        "quarterly-compliance": "ماسلىشىش كالېندارى",
+        "ca-access": "CA ۋاقىتلىق زىيارەت",
+        "gst-from-books": "كىتابلاردىن GST"
+      },
+      "reports": {
+        "financial-statements": "مالىيە دوكلاتى",
+        "books": "سودا كىتابلىرى",
+        "gst-reports": "GST دوكلاتلىرى",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "پايدا نىسبىتى",
+        "period-comparatives": "يىل سېلىشتۇرۇش",
+        "budget-vs-actuals": "خامچوت ئىز قوغلاش",
+        "cashflow-projection": "نەق پۇل مۆلچەرى",
+        "report-builder": "ئىختىيارى دوكلات",
+        "general-ledger": "General Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI تەھلىلچىسى"
+      },
+      "advanced-features": {
+        "overview": "ئومۇمىي چۈشەنچە"
+      },
+      "parties": {
+        "all-parties": "بارلىق تەرەپلەر",
+        "customer-ledgers": "خېرىدارلار",
+        "supplier-ledgers": "تەمىنلىگۈچىلەر",
+        "shared-ledger": "Shared Ledger",
+        "statements": "بايانلار",
+        "reminders": "ئەسكەرتىش",
+        "documents": "پارتىيە ھۆججەتلىرى",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "كۆپەيتىش",
+        "gap-analysis": "Gap Analysis"
+      },
+      "inventory": {
+        "inventory-items": "تۈرلەر",
+        "godowns": "ئامبار",
+        "stock-movement": "پاي چېكى ھەرىكىتى",
+        "item-pricing": "باھا",
+        "stock-valuation": "پاي باھاسى",
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "تاياقچە بەلگە",
+        "item-import": "تۈر ئەكىرىش",
+        "gap-analysis": "Gap Analysis"
+      },
+      "assets": {
+        "asset-register": "مۈلۈك تىزىملىكى",
+        "depreciation": "ئامورتىزاتسىيە",
+        "disposal-revaluation": "سېتىش ياكى باھالاش"
+      },
+      "masters": {
+        "chart-of-accounts": "ھېسابات تىزىملىكى",
+        "tax-masters": "باج نىسبىتى",
+        "cost-centers": "تەننەرخ مەركىزى",
+        "voucher-types": "سودا تىپلىرى",
+        "opening-balances": "تەڭپۇڭلۇقنى باشلاش",
+        "currencies": "پۇللار"
+      },
+      "business-tools": {
+        "staff-payroll": "مائاش",
+        "manage-users": "ئىشلەتكۈچى زىيارەت قىلىش",
+        "online-orders": "توردىكى زاكازلار",
+        "sms-marketing": "قىسقا ئۇچۇر سېتىش",
+        "accountant-hub": "بوغالتىر ۋە ياردەم"
+      },
+      "party-tools": {
+        "documents": "پارتىيە ھۆججەتلىرى",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "كۆپەيتىش",
+        "gap-analysis": "Gap Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "تاياقچە بەلگە",
+        "item-import": "تۈر ئەكىرىش",
+        "gap-analysis": "Gap Analysis"
+      },
+      "storage": {
+        "client-storage": "Client Files",
+        "unifiedtree-storage": "بۇلۇت ساقلاش"
+      },
+      "alerts": {
+        "accountant-alerts": "بوغالتىر ئاگاھلاندۇرۇشى",
+        "compliance-alerts": "ماسلىشىش ئاگاھلاندۇرۇشى",
+        "cash-risk-alerts": "نەق پۇل ۋە خەتەر ئاگاھلاندۇرۇشى",
+        "ca-access": "CA ۋاقىتلىق زىيارەت"
+      },
+      "migration": {
+        "import": "سانلىق مەلۇمات ئەكىرىش",
+        "export": "سانلىق مەلۇماتلارنى چىقىرىش",
+        "history": "ئىمپورت تارىخى",
+        "tally-import": "Tally & Zoho دىن ئىمپورت قىلىڭ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "سېتىۋېلىش ۋە چىقىم قىلىش",
+      "accountingSetup": "بوغالتىرلىق تەڭشەش",
+      "dataDocuments": "Data & Documents"
+    }
+  },
+  "common": {
+    "save": "ئۆزگەرتىشلەرنى ساقلاڭ",
+    "cancel": "بىكار قىلىش",
+    "create": "قۇر",
+    "edit": "تەھرىر",
+    "delete": "ئۆچۈرۈش",
+    "search": "ئىزدەش",
+    "connect": "ئۇلاڭ",
+    "configure": "سەپلەڭ",
+    "disconnect": "ئۈزۈڭ",
+    "sync": "Sync Now",
+    "close": "تاقاش",
+    "reset": "سۈكۈتتىكى ھالەتكە قايتىڭ",
+    "back": "قايتىش",
+    "continue": "داۋاملاشتۇر",
+    "all": "ھەممىسى",
+    "retry": "قايتا سىناڭ",
+    "loading": "Loading…",
+    "resetDemo": "ئۈلگە سانلىق مەلۇماتنى ئەسلىگە كەلتۈرۈش"
+  },
+  "shell": {
+    "searchPlaceholder": "ھەر قانداق نەرسىنى ئىزدەڭ…",
+    "settings": "تەڭشەك",
+    "language": "تىل",
+    "role": "رولى",
+    "greeting": {
+      "morning": "خەيرلىك ئەتىگەن!",
+      "afternoon": "خەيرلىك چۈشتىن كېيىن",
+      "evening": "خەيرلىك كەچ!"
+    },
+    "settingsItems": {
+      "company-profile": "شىركەت ئارخىپى",
+      "configuration": "سەپلىمىسى",
+      "fiscal-periods": "مالىيە دەۋرى",
+      "roles": "رولى ۋە ئىشلەتكۈچى",
+      "integrations": "بىرىكتۈرۈش",
+      "notifications": "ئۇقتۇرۇش",
+      "audit-logs": "ئىقتىسادىي تەپتىش ۋە خاتىرىلەر",
+      "audit-trail": "تامپېردىن مۇداپىئەلىنىش ئىقتىسادىي تەپتىش يولى",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "تەرجىمە قىلىندى",
+    "untranslatedLanguages": "تەرجىمە قىلىنغانغا قەدەر ئىنگىلىزچە"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "ھۆججەت تەييار",
+    "open": "قەرەلى ئوچۇق",
+    "paid": "ھەقلىق",
+    "pending": "ساقلىنىۋاتىدۇ",
+    "accepted": "قوبۇل قىلىندى",
+    "delivered": "يەتكۈزۈلدى",
+    "rejected": "رەت قىلىندى",
+    "pdf-sent": "PDF ئەۋەتىلدى",
+    "not-sent": "ئەۋەتىلمىدى",
+    "matched": "ماسلاشتى",
+    "mismatch": "Mismatch",
+    "missing-supplier": "تەمىنلىگۈچى دوكلات قىلمىغان",
+    "missing-books": "كىتابلاردا كەم",
+    "deferred": "كېچىكتۈرۈلدى",
+    "deducted": "تۇتۇپ قېلىندى",
+    "remitted": "چىقىرىۋېتىلدى",
+    "certified": "گۇۋاھنامە",
+    "to-report": "دوكلات قىلىش",
+    "reported": "دوكلات قىلىندى",
+    "accounted": "ھېسابات",
+    "overdue": "ۋاقتى ئۆتۈپ كەتتى"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ھۆججەت تەييار",
+      "liabilityDue": "جاۋابكارلىقنى ئۈستىگە ئېلىش",
+      "paidThisYear": "بۇ يىل ھەق بەردى",
+      "nextDeadline": "كېيىنكى مۆھلەت",
+      "noneOverdue": "ۋاقتى ئۆتۈپ كەتمىدى",
+      "overdue": "{{count}} ۋاقتى ئۆتۈپ كەتتى"
+    },
+    "filter": {
+      "ready": "ھۆججەت تەييار",
+      "open": "ئېچىڭ",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "دەۋر",
+      "authority": "ھوقۇق",
+      "rate": "باھا",
+      "due": "تېگىشلىك",
+      "netPayable": "ساپ تۆلەشكە بولىدۇ",
+      "status": "ھالەت",
+      "ack": "ئېتىراپ قىلىش"
+    },
+    "file": "ھۆججەت",
+    "view": "كۆرۈش",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "يۈكلەش ھوقۇقى…",
+    "nothingToFile": "ھېچقانداق جاۋاب قايتۇرۇشنى كۈتمەيدۇ - بارلىق يېپىق ۋاقىتلار يوللىنىدۇ.",
+    "fileNext": "كېيىنكى ھۆججەت: {{name}}",
+    "steps": {
+      "review": "ئوبزور",
+      "validate": "ئىناۋەتلىك",
+      "declare": "ئېلان قىلىش ۋە يوللاش",
+      "ack": "ئېتىراپ قىلىش"
+    },
+    "runValidation": "دەلىللەشنى ئىجرا قىلىڭ",
+    "validating": "ئىناۋەتلىك…",
+    "submit": "Submit {{form}}",
+    "submitting": "يوللاش…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "ساپ سومما",
+    "submitted": "يوللاندى",
+    "filedOn": "Filed on",
+    "regime": {
+      "authority": "ھوقۇق",
+      "channel": "Filing channel",
+      "return": "قايتىش",
+      "due": "تېگىشلىك",
+      "standardRate": "ئۆلچەملىك نىسبىتى",
+      "threshold": "تىزىملىتىش چېكى"
+    },
+    "demoNote": "ئىچىگە تەقلىد قىلىنغان باج API دىن كەلگەن سانلىق مەلۇماتلار - ئەنگە ئالدۇرۇش ۋە چىقىم قىلىش تەقلىد قىلىنغان بولۇپ ، باج ئورگىنىغا ھېچقانداق نەرسە ئەۋەتىلمەيدۇ."
+  },
+  "fx": {
+    "title": "چەتئەل پۇلى",
+    "subtitle": "ئاساسىي پۇل {{base}} · كۆرسەتكۈچ تەقلىدى بازار نىسبىتى",
+    "newDoc": "يېڭى FX تالون / تالون",
+    "kpi": {
+      "netExposure": "Net FX ئاشكارلىنىش",
+      "openDocs": "{{count}} ئوچۇق ھۆججەتلەر",
+      "unrealized": "ئەمەلگە ئاشمىغان پايدا / زىيان",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "بۇ يىل ئەمەلگە ئاشتى",
+      "lastReval": "ئاخىرقى باھالاش",
+      "never": "ھەرگىز بولمايدۇ",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "تۈرلەرنى ئېچىڭ",
+      "settled": "ھەل قىلىندى",
+      "revaluation": "ئاي ئاخىرىدىكى باھالاش",
+      "journal": "FX ژۇرنىلى"
+    },
+    "col": {
+      "document": "پۈتۈك",
+      "type": "تىپ",
+      "openForeign": "ئوچۇق (چەتئەل)",
+      "bookedNow": "زاكاز قىلىندى / ھازىر",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "ئەمەلگە ئاشمىغان",
+      "status": "ھالەت",
+      "amount": "سومما",
+      "bookedRate": "زاكاز نىسبىتى",
+      "realized": "ئەمەلگە ئاشتى"
+    },
+    "receivable": "قوبۇل قىلغىلى بولىدۇ",
+    "payable": "ھەقلىق",
+    "receive": "قوبۇل قىلىڭ",
+    "pay": "پۇل تۆلەش",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "ھەل قىلىندى",
+      "partial": "قىسمەن ئورۇنلاشتۇرۇلغان",
+      "open": "ئېچىڭ"
+    },
+    "demoNote": "ئىچىگە تەقلىد قىلىنغان API دىكى سانلىق مەلۇمات سانلىق مەلۇماتلىرى تەقلىد قىلىنغان ، نەق مەيدان سانلىق مەلۇمات ئەمەس."
+  }
+}

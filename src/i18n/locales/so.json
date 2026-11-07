@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Maalin-maalin-maalin",
+      "finance": "Maaliyadda",
+      "advanced": "Sareeye"
+    },
+    "mainMenu": "Menu-ga ugu weyn",
+    "short": {
+      "parties": "Xisbiyada"
+    },
+    "sections": {
+      "dashboard": "Dashboard-ka",
+      "sales": "Iibka",
+      "receivables": "Lacagta Gudaha",
+      "procurement": "Iibsiga",
+      "payables": "Lacag Banaan",
+      "cashbank": "Lacag caddaan ah & Bangiga",
+      "expenses": "Kharashaadka",
+      "tax": "Canshuur",
+      "reports": "Warbixinada",
+      "advanced-features": "Astaamaha Sare",
+      "parties": "Macaamiisha & Alaabta",
+      "inventory": "Walxaha",
+      "assets": "Hanti go'an",
+      "masters": "Dejinta & Habaynta",
+      "business-tools": "Kooxda & Qalabka",
+      "party-tools": "Qalabka Xafladaha",
+      "item-tools": "Qalabka Shayga",
+      "storage": "Dukumentiyada",
+      "alerts": "Digniin",
+      "migration": "Socdaalka Xogta"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Dulmar",
+        "cash-flow": "Socodka Lacagta",
+        "tax-calendar": "Jadwalka Cashuurta"
+      },
+      "sales": {
+        "quotations": "Xigasho",
+        "proforma-invoices": "PI",
+        "sales-invoices": "qaansheeg",
+        "delivery-challans": "Bixinta Challan",
+        "receipts": "Rasiidka",
+        "invoice-desk": "miiska qaansheegta"
+      },
+      "receivables": {
+        "money-in-center": "Lacagta Xarunta",
+        "receivables": "Lacagta la qaadan karo",
+        "payments-received": "Lacagaha La Helay",
+        "overdue-collections": "Aruurinta & Xusuusinta",
+        "credit-notes": "Xusuus-qorka Daynta & Lacag-celinta",
+        "sales-returns": "Soo Celinta Iibka",
+        "customer-statements": "Bayaanka Macaamiisha",
+        "payment-links": "Xiriirinta Lacag-bixinta"
+      },
+      "procurement": {
+        "purchase-center": "Xarunta Iibka",
+        "purchase-orders": "Dalabka Iibka",
+        "goods-receipt": "Rasiidka alaabta",
+        "purchase-invoices": "Qaansheegyada Iibka",
+        "payment-out": "Lacagaha La Sameeyay",
+        "returns-debit-notes": "Soo celinta & Qoraallada Lacag-bixinta",
+        "bill-approvals": "Ansixinta sharciga"
+      },
+      "payables": {
+        "bills": "Xarunta Lacag-bixinta",
+        "payments": "Lacag-bixinta alaab-qeybiyaha",
+        "workforce": "Xoog shaqaale",
+        "adjustments": "Hagaajinta",
+        "bank-release": "Siideynta Bangiga"
+      },
+      "cashbank": {
+        "bank-accounts": "Xisaabaadkayga",
+        "reconciliation": "Isu-dheellitirka macaamilka",
+        "cash-petty": "Lacag yar",
+        "contra": "Inta u dhaxaysa Xisaabaadka",
+        "cheque-register": "Hubinta",
+        "foreign-currency": "Lacagta Qalaad",
+        "bank-feeds": "Quudinta Bankiga",
+        "bank-rules": "Xeerarka & Dib-u-heshiisiinta"
+      },
+      "expenses": {
+        "expense-center": "Dhammaan Kharashaadka",
+        "categories": "Noocyada Kharashka",
+        "automated-bills": "Kharashyada soo noqnoqda",
+        "journal-vouchers": "Galitaanka gacanta",
+        "provisions": "Waxqabadyo",
+        "write-offs": "Wax-qoritaan",
+        "period-close": "Bisha-Dhammaadka"
+      },
+      "tax": {
+        "gst-returns": "Diiwaangelinta GST",
+        "gst-filing-wizard": "⚡ Faylka GSTR-3B",
+        "gst-reconciliation": "Isbarbardhigga GST",
+        "e-invoicing": "E- qaansheegyada",
+        "e-way-bills": "Biilasha E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bixi Cashuurta",
+        "quarterly-compliance": "Jadwalka u hoggaansanaanta",
+        "ca-access": "CA Helitaanka Ku Meel Gaarka ah",
+        "gst-from-books": "GST ee Buugaagta"
+      },
+      "reports": {
+        "financial-statements": "Warbixinnada Maaliyadda",
+        "books": "Buugaagta wax kala iibsiga",
+        "gst-reports": "Warbixinnada GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Faa'iidada",
+        "period-comparatives": "Isbarbardhigga Sannadka",
+        "budget-vs-actuals": "Daba-galka Miisaaniyadda",
+        "cashflow-projection": "Saadaasha lacagta caddaanka ah",
+        "report-builder": "Warbixinada gaarka ah",
+        "general-ledger": "Ledger-ka guud",
+        "live-financials": "Dhaqaale toos ah",
+        "ai-analyst": "Falanqeeyaha AI"
+      },
+      "advanced-features": {
+        "overview": "Dulmar"
+      },
+      "parties": {
+        "all-parties": "Dhammaan Xisbiyada",
+        "customer-ledgers": "Macaamiisha",
+        "supplier-ledgers": "Alaab-qeybiyeyaal",
+        "shared-ledger": "Ledger-ka La Wadaago",
+        "statements": "Odhaahyo",
+        "reminders": "Xusuusin",
+        "documents": "Dukumentiyada Xisbiga",
+        "portal": "Xariirka Xisbiga",
+        "import": "Soo dejinta xisbiga",
+        "duplicate-merge": "Isku-darka nuqul",
+        "gap-analysis": "Falanqaynta farqiga"
+      },
+      "inventory": {
+        "inventory-items": "Walxaha",
+        "godowns": "Bakhaarada",
+        "stock-movement": "Dhaqdhaqaaqa saamiyada",
+        "item-pricing": "Qiimaha",
+        "stock-valuation": "Qiimaha saamiyada",
+        "reorder-alerts": "Dib u dalbo ogeysiisyada",
+        "batch-serials": "Dufcaddii & Taxane",
+        "barcode-labels": "Calaamadaha Barcode",
+        "item-import": "Soo Dejinta Shayga",
+        "gap-analysis": "Falanqaynta farqiga"
+      },
+      "assets": {
+        "asset-register": "Liiska Hantida",
+        "depreciation": "Qiimo dhaca",
+        "disposal-revaluation": "Iibi ama qiimee"
+      },
+      "masters": {
+        "chart-of-accounts": "Liiska Xisaabaadka",
+        "tax-masters": "Heerarka Canshuuraha",
+        "cost-centers": "Xarumaha Qiimaha",
+        "voucher-types": "Noocyada wax kala iibsiga",
+        "opening-balances": "Bilaabida dheelitirnaanta",
+        "currencies": "Lacagaha"
+      },
+      "business-tools": {
+        "staff-payroll": "Mushaharka",
+        "manage-users": "Helitaanka Isticmaalaha",
+        "online-orders": "Dalabka onlaynka ah",
+        "sms-marketing": "Suuqgeynta SMS",
+        "accountant-hub": "Xisaabiyeyaasha & Taageerada"
+      },
+      "party-tools": {
+        "documents": "Dukumentiyada Xisbiga",
+        "portal": "Xariirka Xisbiga",
+        "import": "Soo dejinta xisbiga",
+        "duplicate-merge": "Isku-darka nuqul",
+        "gap-analysis": "Falanqaynta farqiga"
+      },
+      "item-tools": {
+        "reorder-alerts": "Dib u dalbo ogeysiisyada",
+        "batch-serials": "Dufcaddii & Taxane",
+        "barcode-labels": "Calaamadaha Barcode",
+        "item-import": "Soo Dejinta Shayga",
+        "gap-analysis": "Falanqaynta farqiga"
+      },
+      "storage": {
+        "client-storage": "Faylasha macmiilka",
+        "unifiedtree-storage": "Kaydinta daruuraha"
+      },
+      "alerts": {
+        "accountant-alerts": "Digniin Xisaabiyaha",
+        "compliance-alerts": "Ogeysiinta u hoggaansanaanta",
+        "cash-risk-alerts": "Lacag caddaan ah & Digniinaha Khatarta",
+        "ca-access": "CA Helitaanka Ku Meel Gaarka ah"
+      },
+      "migration": {
+        "import": "Soo dejinta Xogta",
+        "export": "Dhoofinta Xogta",
+        "history": "Soo dejinta Taariikhda",
+        "tally-import": "Ka soo dejinta Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Iibka & Lacag-bixinta",
+      "accountingSetup": "Dejinta Xisaabinta",
+      "dataDocuments": "Xogta & Dukumentiyada"
+    }
+  },
+  "common": {
+    "save": "Badbaadada isbedelada",
+    "cancel": "Jooji",
+    "create": "Abuur",
+    "edit": "Wax ka beddel",
+    "delete": "Tirtir",
+    "search": "Raadi",
+    "connect": "Ku xidhnow",
+    "configure": "Habee",
+    "disconnect": "Xiriirka ka jar",
+    "sync": "Isku xidh hadda",
+    "close": "Xir",
+    "reset": "Dib u dajinta Defaults",
+    "back": "Dib u noqo",
+    "continue": "Sii wad",
+    "all": "Dhammaan",
+    "retry": "Isku day",
+    "loading": "Soodejinaya…",
+    "resetDemo": "Dib u deji xogta demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Wax ka raadi...",
+    "settings": "Dejinta",
+    "language": "Luuqad",
+    "role": "Doorka",
+    "greeting": {
+      "morning": "Subax wanaagsan",
+      "afternoon": "galab wanaagsan",
+      "evening": "Habeen wanaagsan"
+    },
+    "settingsItems": {
+      "company-profile": "Xogta Shirkadda",
+      "configuration": "Habaynta",
+      "fiscal-periods": "Xilliyada Maaliyadda",
+      "roles": "Doorarka & Isticmaalayaasha",
+      "integrations": "Is-dhexgalka",
+      "notifications": "Ogeysiisyada",
+      "audit-logs": "Hantidhawrka & Logs",
+      "audit-trail": "Jidka Hanti-dhawrka aan xad-dhaafka lahayn",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "La turjumay",
+    "untranslatedLanguages": "English ilaa laga turjumay"
+  },
+  "status": {
+    "filed": "La xareeyay",
+    "ready": "Diyaar u ah in la xareeyo",
+    "open": "Mudada furan",
+    "paid": "La bixiyay",
+    "pending": "La sugayo",
+    "accepted": "Waa la aqbalay",
+    "delivered": "la keenay",
+    "rejected": "Waa la diiday",
+    "pdf-sent": "PDF soo diray",
+    "not-sent": "Lama dirin",
+    "matched": "Isku beegma",
+    "mismatch": "Isku-dheeli la'aan",
+    "missing-supplier": "Ma soo sheegin alaab-qeybiye",
+    "missing-books": "Ka maqan buugaagta",
+    "deferred": "Dib loo dhigay",
+    "deducted": "Laga jaray",
+    "remitted": "La fasaxay",
+    "certified": "shahaado",
+    "to-report": "In la soo sheego",
+    "reported": "la sheegay",
+    "accounted": "Xisaabtan",
+    "overdue": "Daahitaan"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Diyaar u ah in la xareeyo",
+      "liabilityDue": "Waajibaadka mas'uuliyadda",
+      "paidThisYear": "La bixiyay sanadkan",
+      "nextDeadline": "kama dambaysta xigta",
+      "noneOverdue": "Midna dib uma dhicin",
+      "overdue": "{{count}} wakhtigeedii dhacay"
+    },
+    "filter": {
+      "ready": "Diyaar u ah in la xareeyo",
+      "open": "Furan",
+      "filed": "La xareeyay"
+    },
+    "col": {
+      "period": "Muddada",
+      "authority": "Maamulka",
+      "rate": "Qiime",
+      "due": "Waa waajib",
+      "netPayable": "Net la bixin karo",
+      "status": "Xaalada",
+      "ack": "Ictiraaf"
+    },
+    "file": "Faylka",
+    "view": "Daawo",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Soodejinaya xukunka…",
+    "nothingToFile": "Wax soo celin ah lama sugayo in la xareeyo - dhammaan xilliyada xiran waa la gudbiyay.",
+    "fileNext": "Faylka xiga: {{name}}",
+    "steps": {
+      "review": "Dib u eegis",
+      "validate": "Xaqiiji",
+      "declare": "Ku dhawaaq oo gudbi",
+      "ack": "Ictiraaf"
+    },
+    "runValidation": "Orod ansaxinta",
+    "validating": "Ansixinaya…",
+    "submit": "Soo gudbi {{form}}",
+    "submitting": "Gudbinta…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Qadarka saafiga ah",
+    "submitted": "La soo gudbiyay",
+    "filedOn": "Lagu xereeyay",
+    "regime": {
+      "authority": "Maamulka",
+      "channel": "Kanaalka xeraynta",
+      "return": "Soo noqo",
+      "due": "Waa waajib",
+      "standardRate": "Heerka caadiga ah",
+      "threshold": "Heerka diiwaangelinta"
+    },
+    "demoNote": "Xogta demo ee ku dhex dhisan mock tax API - xaraynta iyo lacag bixinta waa la ekaysiiyay oo waxba looma diro maamulka cashuuraha."
+  },
+  "fx": {
+    "title": "Lacagta Qalaad",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "qaansheegta FX cusub",
+    "kpi": {
+      "netExposure": "Soo-gaadhista FX ee saafiga ah",
+      "openDocs": "{{count}} dukumeenti furan",
+      "unrealized": "Faa'iido / khasaare aan la xaqiijin",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "La ogaaday sanadkan",
+      "lastReval": "Qiimaynta u dambaysa",
+      "never": "Marna",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Alaabooyinka fur",
+      "settled": "Degeen",
+      "revaluation": "Qiimaynta bisha-dhammaadka",
+      "journal": "joornaalka FX"
+    },
+    "col": {
+      "document": "Dukumeenti",
+      "type": "Nooca",
+      "openForeign": "Furan (ajnabi)",
+      "bookedNow": "La sii qabsaday / hadda",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Lama oga",
+      "status": "Xaalada",
+      "amount": "Qadarka",
+      "bookedRate": "Qiimaha la ballansan yahay",
+      "realized": "La gartay"
+    },
+    "receivable": "La qaadan karo",
+    "payable": "La bixin karo",
+    "receive": "Aqbal",
+    "pay": "Bixi",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Degeen",
+      "partial": "Qayb-degan",
+      "open": "Furan"
+    },
+    "demoNote": "Xogta demo ee ku dhex jirta API mock - qiimayaasha waa la ekaysiiyay, maaha xogta suuqa tooska ah."
+  }
+}

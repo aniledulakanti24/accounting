@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "दिवस-दिवस",
+      "finance": "वित्त",
+      "advanced": "प्रगत"
+    },
+    "mainMenu": "मुख्य मेनू",
+    "short": {
+      "parties": "पक्ष"
+    },
+    "sections": {
+      "dashboard": "डॅशबोर्ड",
+      "sales": "विक्री",
+      "receivables": "मध्ये पैसे",
+      "procurement": "खरेदी",
+      "payables": "पैसे बाहेर",
+      "cashbank": "रोख आणि बँक",
+      "expenses": "खर्च",
+      "tax": "कर",
+      "reports": "अहवाल",
+      "advanced-features": "प्रगत वैशिष्ट्ये",
+      "parties": "ग्राहक आणि पुरवठादार",
+      "inventory": "वस्तू",
+      "assets": "स्थिर मालमत्ता",
+      "masters": "सेटअप आणि कॉन्फिगरेशन",
+      "business-tools": "संघ आणि साधने",
+      "party-tools": "पार्टी साधने",
+      "item-tools": "आयटम साधने",
+      "storage": "कागदपत्रे",
+      "alerts": "इशारे",
+      "migration": "डेटा स्थलांतर"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "विहंगावलोकन",
+        "cash-flow": "रोख प्रवाह",
+        "tax-calendar": "कर कॅलेंडर"
+      },
+      "sales": {
+        "quotations": "अवतरण",
+        "proforma-invoices": "पीआय",
+        "sales-invoices": "चलन",
+        "delivery-challans": "डिलिव्हरी चालान",
+        "receipts": "पावती",
+        "invoice-desk": "चलन डेस्क"
+      },
+      "receivables": {
+        "money-in-center": "केंद्रात पैसे",
+        "receivables": "प्राप्य",
+        "payments-received": "देयके प्राप्त झाली",
+        "overdue-collections": "संग्रह आणि स्मरणपत्रे",
+        "credit-notes": "क्रेडिट नोट्स आणि परतावा",
+        "sales-returns": "विक्री परतावा",
+        "customer-statements": "ग्राहक विधाने",
+        "payment-links": "पेमेंट लिंक्स"
+      },
+      "procurement": {
+        "purchase-center": "खरेदी केंद्र",
+        "purchase-orders": "खरेदी ऑर्डर",
+        "goods-receipt": "मालाची पावती",
+        "purchase-invoices": "पावत्या खरेदी करा",
+        "payment-out": "पेमेंट केले",
+        "returns-debit-notes": "रिटर्न आणि डेबिट नोट्स",
+        "bill-approvals": "बिल मंजूरी"
+      },
+      "payables": {
+        "bills": "पे सेंटर",
+        "payments": "पुरवठादार देयके",
+        "workforce": "कार्यशक्ती",
+        "adjustments": "समायोजन",
+        "bank-release": "बँक प्रकाशन"
+      },
+      "cashbank": {
+        "bank-accounts": "माझी खाती",
+        "reconciliation": "व्यवहार जुळवा",
+        "cash-petty": "क्षुल्लक रोख",
+        "contra": "खात्यांच्या दरम्यान",
+        "cheque-register": "चेक करतो",
+        "foreign-currency": "परकीय चलन",
+        "bank-feeds": "बँक फीड्स",
+        "bank-rules": "नियम आणि सलोखा"
+      },
+      "expenses": {
+        "expense-center": "सर्व खर्च",
+        "categories": "खर्चाचे प्रकार",
+        "automated-bills": "आवर्ती खर्च",
+        "journal-vouchers": "मॅन्युअल नोंदी",
+        "provisions": "जमा",
+        "write-offs": "राइट-ऑफ",
+        "period-close": "महिना-अखेर"
+      },
+      "tax": {
+        "gst-returns": "जीएसटी फाइलिंग",
+        "gst-filing-wizard": "⚡ फाइल GSTR-3B",
+        "gst-reconciliation": "जीएसटी जुळणी",
+        "e-invoicing": "ई-इनव्हॉइस",
+        "e-way-bills": "ई-वे बिले",
+        "tds": "TDS",
+        "tcs": "टीसीएस",
+        "tax-payments": "कर भरा",
+        "quarterly-compliance": "अनुपालन कॅलेंडर",
+        "ca-access": "CA तात्पुरता प्रवेश",
+        "gst-from-books": "पुस्तकांवरून जीएसटी"
+      },
+      "reports": {
+        "financial-statements": "आर्थिक अहवाल",
+        "books": "व्यवहार पुस्तके",
+        "gst-reports": "GST अहवाल",
+        "ar-ap": "प्राप्य वि देय",
+        "profitability": "नफा",
+        "period-comparatives": "वर्षाची तुलना",
+        "budget-vs-actuals": "बजेट ट्रॅकर",
+        "cashflow-projection": "रोख अंदाज",
+        "report-builder": "सानुकूल अहवाल",
+        "general-ledger": "जनरल लेजर",
+        "live-financials": "थेट आर्थिक",
+        "ai-analyst": "एआय विश्लेषक"
+      },
+      "advanced-features": {
+        "overview": "विहंगावलोकन"
+      },
+      "parties": {
+        "all-parties": "सर्व पक्ष",
+        "customer-ledgers": "ग्राहक",
+        "supplier-ledgers": "पुरवठादार",
+        "shared-ledger": "शेअर्ड लेजर",
+        "statements": "विधाने",
+        "reminders": "स्मरणपत्रे",
+        "documents": "पक्ष दस्तऐवज",
+        "portal": "पार्टी पोर्टल",
+        "import": "पक्ष आयात",
+        "duplicate-merge": "डुप्लिकेट मर्ज",
+        "gap-analysis": "अंतर विश्लेषण"
+      },
+      "inventory": {
+        "inventory-items": "वस्तू",
+        "godowns": "गोदामे",
+        "stock-movement": "स्टॉकची हालचाल",
+        "item-pricing": "किंमत",
+        "stock-valuation": "स्टॉक मूल्यांकन",
+        "reorder-alerts": "चेतावणी पुनर्क्रमित करा",
+        "batch-serials": "बॅच आणि सिरियल",
+        "barcode-labels": "बारकोड लेबल्स",
+        "item-import": "आयटम आयात",
+        "gap-analysis": "अंतर विश्लेषण"
+      },
+      "assets": {
+        "asset-register": "मालमत्ता यादी",
+        "depreciation": "घसारा",
+        "disposal-revaluation": "विक्री करा किंवा पुनर्मूल्यांकन करा"
+      },
+      "masters": {
+        "chart-of-accounts": "खात्यांची यादी",
+        "tax-masters": "कर दर",
+        "cost-centers": "खर्च केंद्रे",
+        "voucher-types": "व्यवहाराचे प्रकार",
+        "opening-balances": "प्रारंभ शिल्लक",
+        "currencies": "चलने"
+      },
+      "business-tools": {
+        "staff-payroll": "पगार",
+        "manage-users": "वापरकर्ता प्रवेश",
+        "online-orders": "ऑनलाइन ऑर्डर",
+        "sms-marketing": "एसएमएस मार्केटिंग",
+        "accountant-hub": "लेखापाल आणि समर्थन"
+      },
+      "party-tools": {
+        "documents": "पक्ष दस्तऐवज",
+        "portal": "पार्टी पोर्टल",
+        "import": "पक्ष आयात",
+        "duplicate-merge": "डुप्लिकेट मर्ज",
+        "gap-analysis": "अंतर विश्लेषण"
+      },
+      "item-tools": {
+        "reorder-alerts": "चेतावणी पुनर्क्रमित करा",
+        "batch-serials": "बॅच आणि सिरियल",
+        "barcode-labels": "बारकोड लेबल्स",
+        "item-import": "आयटम आयात",
+        "gap-analysis": "अंतर विश्लेषण"
+      },
+      "storage": {
+        "client-storage": "क्लायंट फाइल्स",
+        "unifiedtree-storage": "क्लाउड स्टोरेज"
+      },
+      "alerts": {
+        "accountant-alerts": "अकाउंटंट अलर्ट",
+        "compliance-alerts": "अनुपालन सूचना",
+        "cash-risk-alerts": "रोख आणि जोखीम सूचना",
+        "ca-access": "CA तात्पुरता प्रवेश"
+      },
+      "migration": {
+        "import": "डेटा आयात करा",
+        "export": "डेटा निर्यात करा",
+        "history": "इतिहास आयात करा",
+        "tally-import": "Tally आणि Zoho वरून आयात करा"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "खरेदी आणि देयके",
+      "accountingSetup": "अकाउंटिंग सेटअप",
+      "dataDocuments": "डेटा आणि दस्तऐवज"
+    }
+  },
+  "common": {
+    "save": "बदल जतन करा",
+    "cancel": "रद्द करा",
+    "create": "तयार करा",
+    "edit": "संपादित करा",
+    "delete": "हटवा",
+    "search": "शोधा",
+    "connect": "कनेक्ट करा",
+    "configure": "कॉन्फिगर करा",
+    "disconnect": "डिस्कनेक्ट करा",
+    "sync": "आता सिंक करा",
+    "close": "बंद करा",
+    "reset": "डीफॉल्टवर रीसेट करा",
+    "back": "मागे",
+    "continue": "चालू ठेवा",
+    "all": "सर्व",
+    "retry": "पुन्हा प्रयत्न करा",
+    "loading": "लोड करत आहे...",
+    "resetDemo": "डेमो डेटा रीसेट करा"
+  },
+  "shell": {
+    "searchPlaceholder": "काहीही शोधा…",
+    "settings": "सेटिंग्ज",
+    "language": "भाषा",
+    "role": "भूमिका",
+    "greeting": {
+      "morning": "शुभ सकाळ",
+      "afternoon": "शुभ दुपार",
+      "evening": "शुभ संध्याकाळ"
+    },
+    "settingsItems": {
+      "company-profile": "कंपनी प्रोफाइल",
+      "configuration": "कॉन्फिगरेशन",
+      "fiscal-periods": "आथिर्क कालावधी",
+      "roles": "भूमिका आणि वापरकर्ते",
+      "integrations": "एकत्रीकरण",
+      "notifications": "सूचना",
+      "audit-logs": "ऑडिट आणि नोंदी",
+      "audit-trail": "छेडछाड-प्रूफ ऑडिट ट्रेल",
+      "developer": "विकसक आणि API"
+    },
+    "translatedLanguages": "अनुवादित",
+    "untranslatedLanguages": "अनुवादित होईपर्यंत इंग्रजी"
+  },
+  "status": {
+    "filed": "दाखल केले",
+    "ready": "फाइल करण्यास तयार आहे",
+    "open": "कालावधी उघडा",
+    "paid": "पैसे दिले",
+    "pending": "प्रलंबित",
+    "accepted": "स्वीकारले",
+    "delivered": "वितरित केले",
+    "rejected": "नाकारले",
+    "pdf-sent": "PDF पाठवली",
+    "not-sent": "पाठवले नाही",
+    "matched": "जुळले",
+    "mismatch": "जुळत नाही",
+    "missing-supplier": "पुरवठादाराने अहवाल दिला नाही",
+    "missing-books": "पुस्तकांत हरवलेला",
+    "deferred": "पुढे ढकलले",
+    "deducted": "वजा केले",
+    "remitted": "पाठवले",
+    "certified": "प्रमाणित",
+    "to-report": "तक्रार करणे",
+    "reported": "कळवले",
+    "accounted": "हिशेब",
+    "overdue": "ओव्हरड्यू"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "फाइल करण्यास तयार आहे",
+      "liabilityDue": "देय दायित्व",
+      "paidThisYear": "यावर्षी दिले",
+      "nextDeadline": "पुढील मुदत",
+      "noneOverdue": "कोणतीही मुदतवाढ नाही",
+      "overdue": "{{count}} थकीत"
+    },
+    "filter": {
+      "ready": "फाइल करण्यास तयार आहे",
+      "open": "उघडा",
+      "filed": "दाखल केले"
+    },
+    "col": {
+      "period": "कालावधी",
+      "authority": "प्राधिकरण",
+      "rate": "रेट करा",
+      "due": "देय",
+      "netPayable": "निव्वळ देय",
+      "status": "स्थिती",
+      "ack": "पावती"
+    },
+    "file": "फाईल",
+    "view": "पहा",
+    "fileForm": "फाइल {{form}}",
+    "loadingJurisdiction": "अधिकार क्षेत्र लोड करत आहे...",
+    "nothingToFile": "कोणतेही रिटर्न भरण्याची प्रतीक्षा नाही - सर्व बंद कालावधी सबमिट केले जातात.",
+    "fileNext": "पुढील फाइल: {{name}}",
+    "steps": {
+      "review": "पुनरावलोकन करा",
+      "validate": "प्रमाणित करा",
+      "declare": "घोषित करा आणि सबमिट करा",
+      "ack": "पावती"
+    },
+    "runValidation": "प्रमाणीकरण चालवा",
+    "validating": "प्रमाणित करत आहे...",
+    "submit": "Submit {{form}}",
+    "submitting": "सबमिट करत आहे...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "निव्वळ रक्कम",
+    "submitted": "सादर केले",
+    "filedOn": "वर दाखल केले",
+    "regime": {
+      "authority": "प्राधिकरण",
+      "channel": "फाइलिंग चॅनेल",
+      "return": "परतावे",
+      "due": "देय",
+      "standardRate": "मानक दर",
+      "threshold": "नोंदणी थ्रेशोल्ड"
+    },
+    "demoNote": "बिल्ट-इन मॉक टॅक्स API मधील डेमो डेटा — फाइलिंग आणि पेमेंट सिम्युलेटेड आहेत आणि कर प्राधिकरणाला काहीही पाठवले जात नाही."
+  },
+  "fx": {
+    "title": "परकीय चलन",
+    "subtitle": "मूळ चलन {{base}} · सूचक मॉक बाजार दर",
+    "newDoc": "नवीन FX बीजक / बिल",
+    "kpi": {
+      "netExposure": "नेट एफएक्स एक्सपोजर",
+      "openDocs": "{{count}} कागदपत्रे उघडा",
+      "unrealized": "अवास्तव फायदा/तोटा",
+      "postedSplit": "{{posted}} पोस्ट केले · {{unposted}} अद्याप नाही",
+      "realized": "या वर्षी जाणवले",
+      "lastReval": "शेवटचे पुनर्मूल्यांकन",
+      "never": "कधीच नाही",
+      "suggested": "सुचविलेले: {{date}}"
+    },
+    "view": {
+      "open": "आयटम उघडा",
+      "settled": "सेटल",
+      "revaluation": "महिन्याच्या शेवटी पुनर्मूल्यांकन",
+      "journal": "FX जर्नल"
+    },
+    "col": {
+      "document": "दस्तऐवज",
+      "type": "प्रकार",
+      "openForeign": "उघडा (विदेशी)",
+      "bookedNow": "बुक केले / आता",
+      "valueIn": "{{base}} मधील मूल्य",
+      "unrealized": "अवास्तव",
+      "status": "स्थिती",
+      "amount": "रक्कम",
+      "bookedRate": "बुक केलेला दर",
+      "realized": "लक्षात आले"
+    },
+    "receivable": "प्राप्य",
+    "payable": "देय",
+    "receive": "प्राप्त करा",
+    "pay": "पे",
+    "netIn": "{{base}} मध्ये निव्वळ",
+    "state": {
+      "settled": "सेटल",
+      "partial": "भाग-स्थायिक",
+      "open": "उघडा"
+    },
+    "demoNote": "बिल्ट-इन मॉक API मधील डेमो डेटा — दर सिम्युलेटेड आहेत, थेट मार्केट डेटा नाही."
+  }
+}

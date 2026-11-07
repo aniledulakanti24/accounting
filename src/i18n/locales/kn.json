@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ದಿನದಿಂದ ದಿನಕ್ಕೆ",
+      "finance": "ಹಣಕಾಸು",
+      "advanced": "ಸುಧಾರಿತ"
+    },
+    "mainMenu": "ಮುಖ್ಯ ಮೆನು",
+    "short": {
+      "parties": "ಪಕ್ಷಗಳು"
+    },
+    "sections": {
+      "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+      "sales": "ಮಾರಾಟ",
+      "receivables": "ಮನಿ ಇನ್",
+      "procurement": "ಖರೀದಿಗಳು",
+      "payables": "ಮನಿ ಔಟ್",
+      "cashbank": "ನಗದು ಮತ್ತು ಬ್ಯಾಂಕ್",
+      "expenses": "ವೆಚ್ಚಗಳು",
+      "tax": "ತೆರಿಗೆ",
+      "reports": "ವರದಿಗಳು",
+      "advanced-features": "ಸುಧಾರಿತ ವೈಶಿಷ್ಟ್ಯಗಳು",
+      "parties": "ಗ್ರಾಹಕರು ಮತ್ತು ಪೂರೈಕೆದಾರರು",
+      "inventory": "ವಸ್ತುಗಳು",
+      "assets": "ಸ್ಥಿರ ಆಸ್ತಿಗಳು",
+      "masters": "ಸೆಟಪ್ ಮತ್ತು ಕಾನ್ಫಿಗರೇಶನ್",
+      "business-tools": "ತಂಡ ಮತ್ತು ಪರಿಕರಗಳು",
+      "party-tools": "ಪಾರ್ಟಿ ಪರಿಕರಗಳು",
+      "item-tools": "ಐಟಂ ಪರಿಕರಗಳು",
+      "storage": "ದಾಖಲೆಗಳು",
+      "alerts": "ಎಚ್ಚರಿಕೆಗಳು",
+      "migration": "ಡೇಟಾ ವಲಸೆ"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ಅವಲೋಕನ",
+        "cash-flow": "ನಗದು ಹರಿವು",
+        "tax-calendar": "ತೆರಿಗೆ ಕ್ಯಾಲೆಂಡರ್"
+      },
+      "sales": {
+        "quotations": "ಉಲ್ಲೇಖಗಳು",
+        "proforma-invoices": "PI",
+        "sales-invoices": "ಸರಕುಪಟ್ಟಿ",
+        "delivery-challans": "ಡೆಲಿವರಿ ಚಲನ್",
+        "receipts": "ರಶೀದಿ",
+        "invoice-desk": "ಸರಕುಪಟ್ಟಿ ಡೆಸ್ಕ್"
+      },
+      "receivables": {
+        "money-in-center": "ಕೇಂದ್ರದಲ್ಲಿ ಹಣ",
+        "receivables": "ಕರಾರುಗಳು",
+        "payments-received": "ಪಾವತಿಗಳನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ",
+        "overdue-collections": "ಸಂಗ್ರಹಣೆಗಳು ಮತ್ತು ಜ್ಞಾಪನೆಗಳು",
+        "credit-notes": "ಕ್ರೆಡಿಟ್ ಟಿಪ್ಪಣಿಗಳು ಮತ್ತು ಮರುಪಾವತಿಗಳು",
+        "sales-returns": "ಮಾರಾಟದ ರಿಟರ್ನ್ಸ್",
+        "customer-statements": "ಗ್ರಾಹಕರ ಹೇಳಿಕೆಗಳು",
+        "payment-links": "ಪಾವತಿ ಲಿಂಕ್‌ಗಳು"
+      },
+      "procurement": {
+        "purchase-center": "ಖರೀದಿ ಕೇಂದ್ರ",
+        "purchase-orders": "ಖರೀದಿ ಆದೇಶಗಳು",
+        "goods-receipt": "ಸರಕು ರಶೀದಿ",
+        "purchase-invoices": "ಇನ್‌ವಾಯ್ಸ್‌ಗಳನ್ನು ಖರೀದಿಸಿ",
+        "payment-out": "ಪಾವತಿಗಳನ್ನು ಮಾಡಲಾಗಿದೆ",
+        "returns-debit-notes": "ರಿಟರ್ನ್ಸ್ ಮತ್ತು ಡೆಬಿಟ್ ಟಿಪ್ಪಣಿಗಳು",
+        "bill-approvals": "ಬಿಲ್ ಅನುಮೋದನೆಗಳು"
+      },
+      "payables": {
+        "bills": "ಪಾವತಿ ಕೇಂದ್ರ",
+        "payments": "ಪೂರೈಕೆದಾರ ಪಾವತಿಗಳು",
+        "workforce": "ಕಾರ್ಯಪಡೆ",
+        "adjustments": "ಹೊಂದಾಣಿಕೆಗಳು",
+        "bank-release": "ಬ್ಯಾಂಕ್ ಬಿಡುಗಡೆ"
+      },
+      "cashbank": {
+        "bank-accounts": "ನನ್ನ ಖಾತೆಗಳು",
+        "reconciliation": "ಹೊಂದಾಣಿಕೆ ವಹಿವಾಟುಗಳು",
+        "cash-petty": "ಸಣ್ಣ ನಗದು",
+        "contra": "ಖಾತೆಗಳ ನಡುವೆ",
+        "cheque-register": "ಪರಿಶೀಲಿಸುತ್ತದೆ",
+        "foreign-currency": "ವಿದೇಶಿ ಕರೆನ್ಸಿ",
+        "bank-feeds": "ಬ್ಯಾಂಕ್ ಫೀಡ್ಸ್",
+        "bank-rules": "ನಿಯಮಗಳು ಮತ್ತು ಸಮನ್ವಯ"
+      },
+      "expenses": {
+        "expense-center": "ಎಲ್ಲಾ ವೆಚ್ಚಗಳು",
+        "categories": "ವೆಚ್ಚದ ವಿಧಗಳು",
+        "automated-bills": "ಮರುಕಳಿಸುವ ವೆಚ್ಚಗಳು",
+        "journal-vouchers": "ಹಸ್ತಚಾಲಿತ ನಮೂದುಗಳು",
+        "provisions": "ಸಂಚಯಗಳು",
+        "write-offs": "ರೈಟ್-ಆಫ್ಗಳು",
+        "period-close": "ತಿಂಗಳು-ಅಂತ್ಯ"
+      },
+      "tax": {
+        "gst-returns": "GST ಫೈಲಿಂಗ್",
+        "gst-filing-wizard": "⚡ GSTR-3B ಫೈಲ್ ಮಾಡಿ",
+        "gst-reconciliation": "GST ಹೊಂದಾಣಿಕೆ",
+        "e-invoicing": "ಇ-ಇನ್‌ವಾಯ್ಸ್‌ಗಳು",
+        "e-way-bills": "ಇ-ವೇ ಬಿಲ್‌ಗಳು",
+        "tds": "ಟಿಡಿಎಸ್",
+        "tcs": "ಟಿಸಿಎಸ್",
+        "tax-payments": "ತೆರಿಗೆ ಪಾವತಿಸಿ",
+        "quarterly-compliance": "ಅನುಸರಣೆ ಕ್ಯಾಲೆಂಡರ್",
+        "ca-access": "CA ತಾತ್ಕಾಲಿಕ ಪ್ರವೇಶ",
+        "gst-from-books": "ಪುಸ್ತಕಗಳಿಂದ ಜಿ.ಎಸ್.ಟಿ"
+      },
+      "reports": {
+        "financial-statements": "ಹಣಕಾಸು ವರದಿಗಳು",
+        "books": "ವಹಿವಾಟು ಪುಸ್ತಕಗಳು",
+        "gst-reports": "GST ವರದಿಗಳು",
+        "ar-ap": "ಕರಾರುಗಳು ವಿರುದ್ಧ ಪಾವತಿಗಳು",
+        "profitability": "ಲಾಭದಾಯಕತೆ",
+        "period-comparatives": "ವರ್ಷದ ಹೋಲಿಕೆ",
+        "budget-vs-actuals": "ಬಜೆಟ್ ಟ್ರ್ಯಾಕರ್",
+        "cashflow-projection": "ನಗದು ಮುನ್ಸೂಚನೆ",
+        "report-builder": "ಕಸ್ಟಮ್ ವರದಿಗಳು",
+        "general-ledger": "ಜನರಲ್ ಲೆಡ್ಜರ್",
+        "live-financials": "ಲೈವ್ ಹಣಕಾಸು",
+        "ai-analyst": "AI ವಿಶ್ಲೇಷಕ"
+      },
+      "advanced-features": {
+        "overview": "ಅವಲೋಕನ"
+      },
+      "parties": {
+        "all-parties": "ಎಲ್ಲಾ ಪಕ್ಷಗಳು",
+        "customer-ledgers": "ಗ್ರಾಹಕರು",
+        "supplier-ledgers": "ಪೂರೈಕೆದಾರರು",
+        "shared-ledger": "ಹಂಚಿದ ಲೆಡ್ಜರ್",
+        "statements": "ಹೇಳಿಕೆಗಳು",
+        "reminders": "ಜ್ಞಾಪನೆಗಳು",
+        "documents": "ಪಕ್ಷದ ದಾಖಲೆಗಳು",
+        "portal": "ಪಾರ್ಟಿ ಪೋರ್ಟಲ್",
+        "import": "ಪಾರ್ಟಿ ಆಮದು",
+        "duplicate-merge": "ನಕಲಿ ವಿಲೀನ",
+        "gap-analysis": "ಗ್ಯಾಪ್ ವಿಶ್ಲೇಷಣೆ"
+      },
+      "inventory": {
+        "inventory-items": "ವಸ್ತುಗಳು",
+        "godowns": "ಗೋದಾಮುಗಳು",
+        "stock-movement": "ಸ್ಟಾಕ್ ಚಳುವಳಿ",
+        "item-pricing": "ಬೆಲೆ ನಿಗದಿ",
+        "stock-valuation": "ಸ್ಟಾಕ್ ಮೌಲ್ಯಮಾಪನ",
+        "reorder-alerts": "ಎಚ್ಚರಿಕೆಗಳನ್ನು ಮರುಕ್ರಮಗೊಳಿಸಿ",
+        "batch-serials": "ಬ್ಯಾಚ್ ಮತ್ತು ಸೀರಿಯಲ್",
+        "barcode-labels": "ಬಾರ್ಕೋಡ್ ಲೇಬಲ್ಗಳು",
+        "item-import": "ಐಟಂ ಆಮದು",
+        "gap-analysis": "ಗ್ಯಾಪ್ ವಿಶ್ಲೇಷಣೆ"
+      },
+      "assets": {
+        "asset-register": "ಆಸ್ತಿ ಪಟ್ಟಿ",
+        "depreciation": "ಸವಕಳಿ",
+        "disposal-revaluation": "ಮಾರಾಟ ಅಥವಾ ಮರುಮೌಲ್ಯಮಾಪನ"
+      },
+      "masters": {
+        "chart-of-accounts": "ಖಾತೆಗಳ ಪಟ್ಟಿ",
+        "tax-masters": "ತೆರಿಗೆ ದರಗಳು",
+        "cost-centers": "ವೆಚ್ಚ ಕೇಂದ್ರಗಳು",
+        "voucher-types": "ವಹಿವಾಟಿನ ವಿಧಗಳು",
+        "opening-balances": "ಬ್ಯಾಲೆನ್ಸ್‌ಗಳನ್ನು ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ",
+        "currencies": "ಕರೆನ್ಸಿಗಳು"
+      },
+      "business-tools": {
+        "staff-payroll": "ವೇತನದಾರರ ಪಟ್ಟಿ",
+        "manage-users": "ಬಳಕೆದಾರರ ಪ್ರವೇಶ",
+        "online-orders": "ಆನ್ಲೈನ್ ​​ಆದೇಶಗಳು",
+        "sms-marketing": "SMS ಮಾರ್ಕೆಟಿಂಗ್",
+        "accountant-hub": "ಲೆಕ್ಕಪರಿಶೋಧಕರು ಮತ್ತು ಬೆಂಬಲ"
+      },
+      "party-tools": {
+        "documents": "ಪಕ್ಷದ ದಾಖಲೆಗಳು",
+        "portal": "ಪಾರ್ಟಿ ಪೋರ್ಟಲ್",
+        "import": "ಪಾರ್ಟಿ ಆಮದು",
+        "duplicate-merge": "ನಕಲಿ ವಿಲೀನ",
+        "gap-analysis": "ಗ್ಯಾಪ್ ವಿಶ್ಲೇಷಣೆ"
+      },
+      "item-tools": {
+        "reorder-alerts": "ಎಚ್ಚರಿಕೆಗಳನ್ನು ಮರುಕ್ರಮಗೊಳಿಸಿ",
+        "batch-serials": "ಬ್ಯಾಚ್ ಮತ್ತು ಸೀರಿಯಲ್",
+        "barcode-labels": "ಬಾರ್ಕೋಡ್ ಲೇಬಲ್ಗಳು",
+        "item-import": "ಐಟಂ ಆಮದು",
+        "gap-analysis": "ಗ್ಯಾಪ್ ವಿಶ್ಲೇಷಣೆ"
+      },
+      "storage": {
+        "client-storage": "ಕ್ಲೈಂಟ್ ಫೈಲ್‌ಗಳು",
+        "unifiedtree-storage": "ಮೇಘ ಸಂಗ್ರಹಣೆ"
+      },
+      "alerts": {
+        "accountant-alerts": "ಅಕೌಂಟೆಂಟ್ ಎಚ್ಚರಿಕೆಗಳು",
+        "compliance-alerts": "ಅನುಸರಣೆ ಎಚ್ಚರಿಕೆಗಳು",
+        "cash-risk-alerts": "ನಗದು ಮತ್ತು ಅಪಾಯದ ಎಚ್ಚರಿಕೆಗಳು",
+        "ca-access": "CA ತಾತ್ಕಾಲಿಕ ಪ್ರವೇಶ"
+      },
+      "migration": {
+        "import": "ಡೇಟಾವನ್ನು ಆಮದು ಮಾಡಿ",
+        "export": "ಡೇಟಾವನ್ನು ರಫ್ತು ಮಾಡಿ",
+        "history": "ಆಮದು ಇತಿಹಾಸ",
+        "tally-import": "Tally & Zoho ನಿಂದ ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ಖರೀದಿಗಳು ಮತ್ತು ಪಾವತಿಗಳು",
+      "accountingSetup": "ಲೆಕ್ಕಪರಿಶೋಧಕ ಸೆಟಪ್",
+      "dataDocuments": "ಡೇಟಾ ಮತ್ತು ದಾಖಲೆಗಳು"
+    }
+  },
+  "common": {
+    "save": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ",
+    "create": "ರಚಿಸಿ",
+    "edit": "ಸಂಪಾದಿಸು",
+    "delete": "ಅಳಿಸಿ",
+    "search": "ಹುಡುಕು",
+    "connect": "ಸಂಪರ್ಕಿಸಿ",
+    "configure": "ಕಾನ್ಫಿಗರ್ ಮಾಡಿ",
+    "disconnect": "ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ",
+    "sync": "ಈಗ ಸಿಂಕ್ ಮಾಡಿ",
+    "close": "ಮುಚ್ಚಿ",
+    "reset": "ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ",
+    "back": "ಹಿಂದೆ",
+    "continue": "ಮುಂದುವರಿಸಿ",
+    "all": "ಎಲ್ಲಾ",
+    "retry": "ಮರುಪ್ರಯತ್ನಿಸಿ",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "resetDemo": "ಡೆಮೊ ಡೇಟಾವನ್ನು ಮರುಹೊಂದಿಸಿ"
+  },
+  "shell": {
+    "searchPlaceholder": "ಯಾವುದನ್ನಾದರೂ ಹುಡುಕಿ...",
+    "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "language": "ಭಾಷೆ",
+    "role": "ಪಾತ್ರ",
+    "greeting": {
+      "morning": "ಶುಭೋದಯ",
+      "afternoon": "ಶುಭ ಮಧ್ಯಾಹ್ನ",
+      "evening": "ಶುಭ ಸಂಜೆ"
+    },
+    "settingsItems": {
+      "company-profile": "ಕಂಪನಿಯ ವಿವರ",
+      "configuration": "ಸಂರಚನೆ",
+      "fiscal-periods": "ಹಣಕಾಸಿನ ಅವಧಿಗಳು",
+      "roles": "ಪಾತ್ರಗಳು ಮತ್ತು ಬಳಕೆದಾರರು",
+      "integrations": "ಏಕೀಕರಣಗಳು",
+      "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+      "audit-logs": "ಲೆಕ್ಕಪರಿಶೋಧನೆ ಮತ್ತು ದಾಖಲೆಗಳು",
+      "audit-trail": "ಟ್ಯಾಂಪರ್-ಪ್ರೂಫ್ ಆಡಿಟ್ ಟ್ರಯಲ್",
+      "developer": "ಡೆವಲಪರ್ ಮತ್ತು API"
+    },
+    "translatedLanguages": "ಅನುವಾದಿಸಲಾಗಿದೆ",
+    "untranslatedLanguages": "ಅನುವಾದವಾಗುವವರೆಗೆ ಇಂಗ್ಲಿಷ್"
+  },
+  "status": {
+    "filed": "ಸಲ್ಲಿಸಲಾಗಿದೆ",
+    "ready": "ಫೈಲ್ ಮಾಡಲು ಸಿದ್ಧವಾಗಿದೆ",
+    "open": "ಅವಧಿ ತೆರೆದಿದೆ",
+    "paid": "ಪಾವತಿಸಲಾಗಿದೆ",
+    "pending": "ಬಾಕಿಯಿದೆ",
+    "accepted": "ಸ್ವೀಕರಿಸಲಾಗಿದೆ",
+    "delivered": "ವಿತರಿಸಲಾಗಿದೆ",
+    "rejected": "ತಿರಸ್ಕರಿಸಲಾಗಿದೆ",
+    "pdf-sent": "PDF ಕಳುಹಿಸಲಾಗಿದೆ",
+    "not-sent": "ಕಳುಹಿಸಲಾಗಿಲ್ಲ",
+    "matched": "ಹೊಂದಿಕೆಯಾಯಿತು",
+    "mismatch": "ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ",
+    "missing-supplier": "ಪೂರೈಕೆದಾರರಿಂದ ವರದಿ ಮಾಡಲಾಗಿಲ್ಲ",
+    "missing-books": "ಪುಸ್ತಕಗಳಲ್ಲಿ ಕಾಣೆಯಾಗಿದೆ",
+    "deferred": "ಮುಂದೂಡಲಾಗಿದೆ",
+    "deducted": "ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ",
+    "remitted": "ರವಾನೆ ಮಾಡಲಾಗಿದೆ",
+    "certified": "ಪ್ರಮಾಣೀಕರಿಸಲಾಗಿದೆ",
+    "to-report": "ವರದಿ ಮಾಡಲು",
+    "reported": "ವರದಿಯಾಗಿದೆ",
+    "accounted": "ಲೆಕ್ಕ ಹಾಕಲಾಗಿದೆ",
+    "overdue": "ಅವಧಿ ಮೀರಿದೆ"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ಫೈಲ್ ಮಾಡಲು ಸಿದ್ಧವಾಗಿದೆ",
+      "liabilityDue": "ಹೊಣೆಗಾರಿಕೆ ಬಾಕಿ",
+      "paidThisYear": "ಈ ವರ್ಷ ಪಾವತಿಸಲಾಗಿದೆ",
+      "nextDeadline": "ಮುಂದಿನ ಗಡುವು",
+      "noneOverdue": "ಯಾವುದೂ ತಡವಾಗಿಲ್ಲ",
+      "overdue": "{{count}} ಅವಧಿ ಮೀರಿದೆ"
+    },
+    "filter": {
+      "ready": "ಫೈಲ್ ಮಾಡಲು ಸಿದ್ಧವಾಗಿದೆ",
+      "open": "ತೆರೆಯಿರಿ",
+      "filed": "ಸಲ್ಲಿಸಲಾಗಿದೆ"
+    },
+    "col": {
+      "period": "ಅವಧಿ",
+      "authority": "ಅಧಿಕಾರ",
+      "rate": "ದರ",
+      "due": "ಕಾರಣ",
+      "netPayable": "ನಿವ್ವಳ ಪಾವತಿ",
+      "status": "ಸ್ಥಿತಿ",
+      "ack": "ಸ್ವೀಕೃತಿ"
+    },
+    "file": "ಫೈಲ್",
+    "view": "ವೀಕ್ಷಿಸಿ",
+    "fileForm": "ಫೈಲ್ {{form}}",
+    "loadingJurisdiction": "ನ್ಯಾಯವ್ಯಾಪ್ತಿಯನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
+    "nothingToFile": "ಯಾವುದೇ ರಿಟರ್ನ್ಸ್ ಸಲ್ಲಿಸಲು ಕಾಯುತ್ತಿಲ್ಲ - ಎಲ್ಲಾ ಮುಚ್ಚಿದ ಅವಧಿಗಳನ್ನು ಸಲ್ಲಿಸಲಾಗಿದೆ.",
+    "fileNext": "ಮುಂದಿನ ಫೈಲ್: {{name}}",
+    "steps": {
+      "review": "ವಿಮರ್ಶೆ",
+      "validate": "ಮೌಲ್ಯೀಕರಿಸಿ",
+      "declare": "ಘೋಷಿಸಿ ಮತ್ತು ಸಲ್ಲಿಸಿ",
+      "ack": "ಸ್ವೀಕೃತಿ"
+    },
+    "runValidation": "ಮೌಲ್ಯೀಕರಣವನ್ನು ರನ್ ಮಾಡಿ",
+    "validating": "ಮೌಲ್ಯೀಕರಿಸಲಾಗುತ್ತಿದೆ...",
+    "submit": "ಸಲ್ಲಿಸಿ {{form}}",
+    "submitting": "ಸಲ್ಲಿಸಲಾಗುತ್ತಿದೆ...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "ನಿವ್ವಳ ಮೊತ್ತ",
+    "submitted": "ಸಲ್ಲಿಸಲಾಗಿದೆ",
+    "filedOn": "ಸಲ್ಲಿಸಲಾಗಿದೆ",
+    "regime": {
+      "authority": "ಅಧಿಕಾರ",
+      "channel": "ಫೈಲಿಂಗ್ ಚಾನಲ್",
+      "return": "ಹಿಂತಿರುಗಿ",
+      "due": "ಕಾರಣ",
+      "standardRate": "ಪ್ರಮಾಣಿತ ದರ",
+      "threshold": "ನೋಂದಣಿ ಮಿತಿ"
+    },
+    "demoNote": "ಅಂತರ್ನಿರ್ಮಿತ ಅಣಕು ತೆರಿಗೆ API ನಿಂದ ಡೆಮೊ ಡೇಟಾ - ಫೈಲಿಂಗ್‌ಗಳು ಮತ್ತು ಪಾವತಿಗಳನ್ನು ಅನುಕರಿಸಲಾಗಿದೆ ಮತ್ತು ತೆರಿಗೆ ಪ್ರಾಧಿಕಾರಕ್ಕೆ ಏನನ್ನೂ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ."
+  },
+  "fx": {
+    "title": "ವಿದೇಶಿ ಕರೆನ್ಸಿ",
+    "subtitle": "ಮೂಲ ಕರೆನ್ಸಿ {{base}} · ಸೂಚಕ ಅಣಕು ಮಾರುಕಟ್ಟೆ ದರಗಳು",
+    "newDoc": "ಹೊಸ FX ಸರಕುಪಟ್ಟಿ / ಬಿಲ್",
+    "kpi": {
+      "netExposure": "ನಿವ್ವಳ ಎಫ್ಎಕ್ಸ್ ಮಾನ್ಯತೆ",
+      "openDocs": "{{count}} ತೆರೆದ ದಾಖಲೆಗಳು",
+      "unrealized": "ಅವಾಸ್ತವಿಕ ಲಾಭ/ನಷ್ಟ",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "ಈ ವರ್ಷ ಅರಿವಾಯಿತು",
+      "lastReval": "ಕೊನೆಯ ಮರುಮೌಲ್ಯಮಾಪನ",
+      "never": "ಎಂದಿಗೂ ಇಲ್ಲ",
+      "suggested": "ಸೂಚಿಸಲಾಗಿದೆ: {{date}}"
+    },
+    "view": {
+      "open": "ಐಟಂಗಳನ್ನು ತೆರೆಯಿರಿ",
+      "settled": "ನೆಲೆಸಿದೆ",
+      "revaluation": "ತಿಂಗಳ ಅಂತ್ಯದ ಮರುಮೌಲ್ಯಮಾಪನ",
+      "journal": "ಎಫ್ಎಕ್ಸ್ ಜರ್ನಲ್"
+    },
+    "col": {
+      "document": "ಡಾಕ್ಯುಮೆಂಟ್",
+      "type": "ಟೈಪ್ ಮಾಡಿ",
+      "openForeign": "ಮುಕ್ತ (ವಿದೇಶಿ)",
+      "bookedNow": "ಬುಕ್ ಮಾಡಲಾಗಿದೆ / ಈಗ",
+      "valueIn": "{{base}} ನಲ್ಲಿ ಮೌಲ್ಯ",
+      "unrealized": "ಅರಿತುಕೊಂಡಿಲ್ಲ",
+      "status": "ಸ್ಥಿತಿ",
+      "amount": "ಮೊತ್ತ",
+      "bookedRate": "ಬುಕ್ ಮಾಡಿದ ದರ",
+      "realized": "ಅರಿವಾಯಿತು"
+    },
+    "receivable": "ಸ್ವೀಕಾರಾರ್ಹ",
+    "payable": "ಪಾವತಿಸಬೇಕು",
+    "receive": "ಸ್ವೀಕರಿಸಿ",
+    "pay": "ಪಾವತಿಸಿ",
+    "netIn": "ನಿವ್ವಳ {{base}}",
+    "state": {
+      "settled": "ನೆಲೆಸಿದೆ",
+      "partial": "ಭಾಗಶಃ ನೆಲೆಸಿದೆ",
+      "open": "ತೆರೆಯಿರಿ"
+    },
+    "demoNote": "ಅಂತರ್ನಿರ್ಮಿತ ಅಣಕು API ನಿಂದ ಡೆಮೊ ಡೇಟಾ - ದರಗಳನ್ನು ಅನುಕರಿಸಲಾಗಿದೆ, ಲೈವ್ ಮಾರುಕಟ್ಟೆ ಡೇಟಾ ಅಲ್ಲ."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "दिन-प्रतिदिन",
+      "finance": "वित्त",
+      "advanced": "उन्नत"
+    },
+    "mainMenu": "मुख्य मेनु",
+    "short": {
+      "parties": "पार्टीहरू"
+    },
+    "sections": {
+      "dashboard": "ड्यासबोर्ड",
+      "sales": "बिक्री",
+      "receivables": "पैसा भित्र",
+      "procurement": "खरिदहरू",
+      "payables": "पैसा बाहिर",
+      "cashbank": "नगद र बैंक",
+      "expenses": "खर्च",
+      "tax": "कर",
+      "reports": "रिपोर्टहरू",
+      "advanced-features": "उन्नत सुविधाहरू",
+      "parties": "ग्राहक र आपूर्तिकर्ता",
+      "inventory": "वस्तुहरू",
+      "assets": "स्थिर सम्पत्ति",
+      "masters": "सेटअप र कन्फिगरेसन",
+      "business-tools": "टोली र उपकरणहरू",
+      "party-tools": "पार्टी उपकरणहरू",
+      "item-tools": "वस्तु उपकरण",
+      "storage": "कागजातहरू",
+      "alerts": "अलर्टहरू",
+      "migration": "डाटा माइग्रेसन"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "अवलोकन",
+        "cash-flow": "नगद प्रवाह",
+        "tax-calendar": "कर क्यालेन्डर"
+      },
+      "sales": {
+        "quotations": "उद्धरणहरू",
+        "proforma-invoices": "PI",
+        "sales-invoices": "बीजक",
+        "delivery-challans": "डेलिभरी चालान",
+        "receipts": "रसिद",
+        "invoice-desk": "इनभ्वाइस डेस्क"
+      },
+      "receivables": {
+        "money-in-center": "केन्द्रमा पैसा",
+        "receivables": "प्राप्य",
+        "payments-received": "भुक्तानी प्राप्त भयो",
+        "overdue-collections": "सङ्ग्रह र रिमाइन्डरहरू",
+        "credit-notes": "क्रेडिट नोटहरू र फिर्ताहरू",
+        "sales-returns": "बिक्री रिटर्न",
+        "customer-statements": "ग्राहक बयान",
+        "payment-links": "भुक्तानी लिङ्कहरू"
+      },
+      "procurement": {
+        "purchase-center": "खरिद केन्द्र",
+        "purchase-orders": "खरिद आदेश",
+        "goods-receipt": "सामानको रसिद",
+        "purchase-invoices": "इनभ्वाइसहरू खरिद गर्नुहोस्",
+        "payment-out": "भुक्तानी गरियो",
+        "returns-debit-notes": "रिटर्न र डेबिट नोटहरू",
+        "bill-approvals": "बिल अनुमोदनहरू"
+      },
+      "payables": {
+        "bills": "भुक्तान केन्द्र",
+        "payments": "आपूर्तिकर्ता भुक्तानी",
+        "workforce": "कार्यबल",
+        "adjustments": "समायोजनहरू",
+        "bank-release": "बैंक रिलीज"
+      },
+      "cashbank": {
+        "bank-accounts": "मेरो खाताहरू",
+        "reconciliation": "मिलान लेनदेन",
+        "cash-petty": "सानो नगद",
+        "contra": "खाताहरू बीच",
+        "cheque-register": "चेक",
+        "foreign-currency": "विदेशी मुद्रा",
+        "bank-feeds": "बैंक फिडहरू",
+        "bank-rules": "नियम र मेलमिलाप"
+      },
+      "expenses": {
+        "expense-center": "सबै खर्च",
+        "categories": "खर्चका प्रकारहरू",
+        "automated-bills": "आवर्ती खर्चहरू",
+        "journal-vouchers": "म्यानुअल प्रविष्टिहरू",
+        "provisions": "उपार्जन",
+        "write-offs": "राइट-अफहरू",
+        "period-close": "महिनाको अन्त्य"
+      },
+      "tax": {
+        "gst-returns": "GST फाइलिङ",
+        "gst-filing-wizard": "⚡ फाइल GSTR-3B",
+        "gst-reconciliation": "जीएसटी मिलान",
+        "e-invoicing": "ई-इनभ्वाइसहरू",
+        "e-way-bills": "ई-वे बिलहरू",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "कर तिर्नुहोस्",
+        "quarterly-compliance": "अनुपालन क्यालेन्डर",
+        "ca-access": "CA अस्थायी पहुँच",
+        "gst-from-books": "पुस्तकहरूबाट GST"
+      },
+      "reports": {
+        "financial-statements": "वित्तीय रिपोर्टहरू",
+        "books": "लेनदेन पुस्तकहरू",
+        "gst-reports": "GST रिपोर्ट",
+        "ar-ap": "प्राप्य बनाम भुक्तानयोग्यहरू",
+        "profitability": "नाफा",
+        "period-comparatives": "वर्ष तुलना",
+        "budget-vs-actuals": "बजेट ट्र्याकर",
+        "cashflow-projection": "नगद पूर्वानुमान",
+        "report-builder": "अनुकूलन रिपोर्टहरू",
+        "general-ledger": "सामान्य लेजर",
+        "live-financials": "प्रत्यक्ष वित्तीय",
+        "ai-analyst": "एआई विश्लेषक"
+      },
+      "advanced-features": {
+        "overview": "अवलोकन"
+      },
+      "parties": {
+        "all-parties": "सबै दलहरू",
+        "customer-ledgers": "ग्राहकहरु",
+        "supplier-ledgers": "आपूर्तिकर्ताहरू",
+        "shared-ledger": "साझा खाता",
+        "statements": "कथनहरू",
+        "reminders": "रिमाइन्डरहरू",
+        "documents": "पार्टी कागजातहरू",
+        "portal": "पार्टी पोर्टल",
+        "import": "पार्टी आयात",
+        "duplicate-merge": "डुप्लिकेट मर्ज",
+        "gap-analysis": "ग्याप विश्लेषण"
+      },
+      "inventory": {
+        "inventory-items": "वस्तुहरू",
+        "godowns": "गोदामहरू",
+        "stock-movement": "स्टक आन्दोलन",
+        "item-pricing": "मूल्य निर्धारण",
+        "stock-valuation": "स्टक मूल्याङ्कन",
+        "reorder-alerts": "अलर्टहरू पुन: क्रमबद्ध गर्नुहोस्",
+        "batch-serials": "ब्याच र सिरियल",
+        "barcode-labels": "बारकोड लेबलहरू",
+        "item-import": "वस्तु आयात",
+        "gap-analysis": "ग्याप विश्लेषण"
+      },
+      "assets": {
+        "asset-register": "सम्पत्ति सूची",
+        "depreciation": "मूल्यह्रास",
+        "disposal-revaluation": "बेच्नुहोस् वा पुन: मूल्याङ्कन गर्नुहोस्"
+      },
+      "masters": {
+        "chart-of-accounts": "खाताहरूको सूची",
+        "tax-masters": "कर दरहरू",
+        "cost-centers": "लागत केन्द्रहरू",
+        "voucher-types": "लेनदेन प्रकारहरू",
+        "opening-balances": "ब्यालेन्स सुरु गर्दै",
+        "currencies": "मुद्राहरू"
+      },
+      "business-tools": {
+        "staff-payroll": "तलब",
+        "manage-users": "प्रयोगकर्ता पहुँच",
+        "online-orders": "अनलाइन अर्डरहरू",
+        "sms-marketing": "एसएमएस मार्केटिङ",
+        "accountant-hub": "लेखाकार र समर्थन"
+      },
+      "party-tools": {
+        "documents": "पार्टी कागजातहरू",
+        "portal": "पार्टी पोर्टल",
+        "import": "पार्टी आयात",
+        "duplicate-merge": "डुप्लिकेट मर्ज",
+        "gap-analysis": "ग्याप विश्लेषण"
+      },
+      "item-tools": {
+        "reorder-alerts": "अलर्टहरू पुन: क्रमबद्ध गर्नुहोस्",
+        "batch-serials": "ब्याच र सिरियल",
+        "barcode-labels": "बारकोड लेबलहरू",
+        "item-import": "वस्तु आयात",
+        "gap-analysis": "ग्याप विश्लेषण"
+      },
+      "storage": {
+        "client-storage": "ग्राहक फाइलहरू",
+        "unifiedtree-storage": "क्लाउड भण्डारण"
+      },
+      "alerts": {
+        "accountant-alerts": "लेखापाल अलर्ट",
+        "compliance-alerts": "अनुपालन अलर्टहरू",
+        "cash-risk-alerts": "नगद र जोखिम अलर्ट",
+        "ca-access": "CA अस्थायी पहुँच"
+      },
+      "migration": {
+        "import": "डाटा आयात गर्नुहोस्",
+        "export": "डाटा निर्यात गर्नुहोस्",
+        "history": "इतिहास आयात गर्नुहोस्",
+        "tally-import": "Tally र Zoho बाट आयात गर्नुहोस्"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "खरिद र भुक्तानी",
+      "accountingSetup": "लेखा सेटअप",
+      "dataDocuments": "डाटा र कागजातहरू"
+    }
+  },
+  "common": {
+    "save": "परिवर्तनहरू बचत गर्नुहोस्",
+    "cancel": "रद्द गर्नुहोस्",
+    "create": "सिर्जना गर्नुहोस्",
+    "edit": "सम्पादन गर्नुहोस्",
+    "delete": "मेट्नुहोस्",
+    "search": "खोज्नुहोस्",
+    "connect": "जडान गर्नुहोस्",
+    "configure": "कन्फिगर गर्नुहोस्",
+    "disconnect": "जडान विच्छेद गर्नुहोस्",
+    "sync": "अहिले सिङ्क गर्नुहोस्",
+    "close": "बन्द गर्नुहोस्",
+    "reset": "पूर्वनिर्धारितमा रिसेट गर्नुहोस्",
+    "back": "पछाडि",
+    "continue": "जारी राख्नुहोस्",
+    "all": "सबै",
+    "retry": "पुन: प्रयास गर्नुहोस्",
+    "loading": "लोड हुँदै...",
+    "resetDemo": "डेमो डेटा रिसेट गर्नुहोस्"
+  },
+  "shell": {
+    "searchPlaceholder": "केहि खोज्नुहोस् ...",
+    "settings": "सेटिङहरू",
+    "language": "भाषा",
+    "role": "भूमिका",
+    "greeting": {
+      "morning": "शुभ प्रभात",
+      "afternoon": "शुभ दिउँसो",
+      "evening": "शुभ साँझ"
+    },
+    "settingsItems": {
+      "company-profile": "कम्पनी प्रोफाइल",
+      "configuration": "कन्फिगरेसन",
+      "fiscal-periods": "वित्तीय अवधिहरू",
+      "roles": "भूमिका र प्रयोगकर्ताहरू",
+      "integrations": "एकीकरण",
+      "notifications": "सूचनाहरू",
+      "audit-logs": "अडिट र लगहरू",
+      "audit-trail": "टेम्पर-प्रूफ लेखा परीक्षण ट्रेल",
+      "developer": "विकासकर्ता र API"
+    },
+    "translatedLanguages": "अनुवादित",
+    "untranslatedLanguages": "अंग्रेजी अनुवाद नभएसम्म"
+  },
+  "status": {
+    "filed": "दायर गरियो",
+    "ready": "फाइल गर्न तयार छ",
+    "open": "खुल्ला अवधि",
+    "paid": "भुक्तान गरियो",
+    "pending": "विचाराधीन",
+    "accepted": "स्वीकार गरियो",
+    "delivered": "डेलिभर गरियो",
+    "rejected": "अस्वीकार गरियो",
+    "pdf-sent": "PDF पठाइयो",
+    "not-sent": "पठाइएको छैन",
+    "matched": "मिल्यो",
+    "mismatch": "बेमेल",
+    "missing-supplier": "आपूर्तिकर्ता द्वारा रिपोर्ट गरिएको छैन",
+    "missing-books": "किताबमा हराएको छ",
+    "deferred": "स्थगित",
+    "deducted": "कटौती गरियो",
+    "remitted": "पठाइयो",
+    "certified": "प्रमाणित",
+    "to-report": "रिपोर्ट गर्न",
+    "reported": "रिपोर्ट गरियो",
+    "accounted": "लेखा",
+    "overdue": "ओभरडियो"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "फाइल गर्न तयार छ",
+      "liabilityDue": "दायित्व बाँकी",
+      "paidThisYear": "यस वर्ष भुक्तान गरियो",
+      "nextDeadline": "अर्को म्याद",
+      "noneOverdue": "कुनै पनि ढिलो छैन",
+      "overdue": "{{count}} समय बाँकी छ"
+    },
+    "filter": {
+      "ready": "फाइल गर्न तयार छ",
+      "open": "खोल्नुहोस्",
+      "filed": "दायर गरियो"
+    },
+    "col": {
+      "period": "अवधि",
+      "authority": "प्राधिकरण",
+      "rate": "दर",
+      "due": "बाँकी",
+      "netPayable": "शुद्ध भुक्तान योग्य",
+      "status": "स्थिति",
+      "ack": "स्वीकृति"
+    },
+    "file": "फाइल",
+    "view": "हेर्नुहोस्",
+    "fileForm": "फाइल {{form}}",
+    "loadingJurisdiction": "अधिकार क्षेत्र लोड गर्दै...",
+    "nothingToFile": "कुनै रिटर्नहरू फाइल गर्न पर्खिरहेका छैनन् - सबै बन्द अवधिहरू पेश गरिएका छन्।",
+    "fileNext": "अर्को फाइल: {{name}}",
+    "steps": {
+      "review": "समीक्षा गर्नुहोस्",
+      "validate": "प्रमाणीकरण गर्नुहोस्",
+      "declare": "घोषणा र पेश गर्नुहोस्",
+      "ack": "स्वीकृति"
+    },
+    "runValidation": "प्रमाणीकरण चलाउनुहोस्",
+    "validating": "प्रमाणीकरण गर्दै...",
+    "submit": "पेश गर्नुहोस् {{form}}",
+    "submitting": "पेस गर्दै...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "शुद्ध रकम",
+    "submitted": "पेस गरियो",
+    "filedOn": "मा दायर गरियो",
+    "regime": {
+      "authority": "प्राधिकरण",
+      "channel": "फाइलिङ च्यानल",
+      "return": "फिर्ता",
+      "due": "बाँकी",
+      "standardRate": "मानक दर",
+      "threshold": "दर्ता सीमा"
+    },
+    "demoNote": "बिल्ट-इन नक्कली कर API बाट डेमो डेटा - फाइलिङ र भुक्तानीहरू सिमुलेटेड छन् र कर प्राधिकरणमा केहि पठाइँदैन।"
+  },
+  "fx": {
+    "title": "विदेशी मुद्रा",
+    "subtitle": "आधार मुद्रा {{base}} · सूचक नक्कली बजार दरहरू",
+    "newDoc": "नयाँ FX इनभ्वाइस / बिल",
+    "kpi": {
+      "netExposure": "नेट FX एक्सपोजर",
+      "openDocs": "{{count}} खुला कागजातहरू",
+      "unrealized": "अवास्तविक लाभ / हानि",
+      "postedSplit": "{{posted}} पोस्ट गरियो · {{unposted}} अझै छैन",
+      "realized": "यो वर्ष बुझियो",
+      "lastReval": "पछिल्लो पुनर्मूल्यांकन",
+      "never": "कहिल्यै",
+      "suggested": "सुझाव गरिएको: {{date}}"
+    },
+    "view": {
+      "open": "वस्तुहरू खोल्नुहोस्",
+      "settled": "बसाइयो",
+      "revaluation": "महिना-अन्तको पुनर्मूल्यांकन",
+      "journal": "FX जर्नल"
+    },
+    "col": {
+      "document": "कागजात",
+      "type": "टाइप गर्नुहोस्",
+      "openForeign": "खुला (विदेशी)",
+      "bookedNow": "बुक गरिएको / अहिले",
+      "valueIn": "{{base}} मा मान",
+      "unrealized": "अवास्तविक",
+      "status": "स्थिति",
+      "amount": "रकम",
+      "bookedRate": "बुक गरिएको दर",
+      "realized": "बुझियो"
+    },
+    "receivable": "प्राप्य",
+    "payable": "भुक्तान योग्य",
+    "receive": "प्राप्त गर्नुहोस्",
+    "pay": "तिर्नुहोस्",
+    "netIn": "{{base}} मा नेट",
+    "state": {
+      "settled": "बसाइयो",
+      "partial": "अंश-निर्धारण",
+      "open": "खोल्नुहोस्"
+    },
+    "demoNote": "बिल्ट-इन मक API बाट डेमो डाटा — दरहरू सिमुलेटेड छन्, प्रत्यक्ष बजार डाटा होइन।"
+  }
+}

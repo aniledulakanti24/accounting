@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "O lea aso ma lea aso",
+      "finance": "Tupe",
+      "advanced": "Maualuluga"
+    },
+    "mainMenu": "Menu Autu",
+    "short": {
+      "parties": "Pati"
+    },
+    "sections": {
+      "dashboard": "Laupapa laupapa",
+      "sales": "Fa'atauga",
+      "receivables": "Tupe I",
+      "procurement": "Fa'atauga",
+      "payables": "Tupe i fafo",
+      "cashbank": "Tupe & Faletupe",
+      "expenses": "Tupe alu",
+      "tax": "Lafoga",
+      "reports": "Lipoti",
+      "advanced-features": "Avatu Fa'apitoa",
+      "parties": "Tagata fa'atau & Fa'atau",
+      "inventory": "Aitema",
+      "assets": "Aseta Tumau",
+      "masters": "Seti & Fa'atonu",
+      "business-tools": "Au & Meafaigaluega",
+      "party-tools": "Meafaigaluega Pati",
+      "item-tools": "Mea faigaluega",
+      "storage": "Pepa",
+      "alerts": "Fa'aliga",
+      "migration": "Fa'amatalaga Fa'amatalaga"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Va'aiga lautele",
+        "cash-flow": "Tupe Maua",
+        "tax-calendar": "Kalena Lafoga"
+      },
+      "sales": {
+        "quotations": "Upusii",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Tilivaina Chalan",
+        "receipts": "lisiti",
+        "invoice-desk": "Kesi o pili"
+      },
+      "receivables": {
+        "money-in-center": "Tupe I totonu",
+        "receivables": "Tupe maua",
+        "payments-received": "Totogi Maua",
+        "overdue-collections": "Aoina ma Faamanatu",
+        "credit-notes": "Fa'amatalaga Fa'aaitalafu & Toe Fa'afo'i",
+        "sales-returns": "Fa'afo'i Fa'atau",
+        "customer-statements": "Fa'amatalaga a Tagata Fa'atau",
+        "payment-links": "Totogi So'oga"
+      },
+      "procurement": {
+        "purchase-center": "Nofoaga Fa'atau",
+        "purchase-orders": "Fa'atauga Poloaiga",
+        "goods-receipt": "Lisi o Oloa",
+        "purchase-invoices": "Fa'atau Invoice",
+        "payment-out": "Totogi Faia",
+        "returns-debit-notes": "Fa'afo'i & Fa'amatalaga Fa'amatalaga",
+        "bill-approvals": "Faamaonia o Pili"
+      },
+      "payables": {
+        "bills": "Totogi Nofoaga",
+        "payments": "Totogi a le Fa'atau",
+        "workforce": "Tagata faigaluega",
+        "adjustments": "Fetuunaiga",
+        "bank-release": "Fa'asalalau Faletupe"
+      },
+      "cashbank": {
+        "bank-accounts": "O'u Tala",
+        "reconciliation": "Fegaiga Faafetaui",
+        "cash-petty": "Petty Cash",
+        "contra": "Va o Fa'amatalaga",
+        "cheque-register": "Siaki",
+        "foreign-currency": "Tupe mai fafo",
+        "bank-feeds": "Faletupe Fafaga",
+        "bank-rules": "Tulafono & Fa'aleleiga"
+      },
+      "expenses": {
+        "expense-center": "Tupe Totogi Uma",
+        "categories": "Tulaga o Tupe Fa'aalu",
+        "automated-bills": "Tupe Totogi Fa'aauau",
+        "journal-vouchers": "Tusitusi Tusia",
+        "provisions": "Accruals",
+        "write-offs": "Tusitala",
+        "period-close": "Fa'ai'uga masina"
+      },
+      "tax": {
+        "gst-returns": "Fa'auluina o GST",
+        "gst-filing-wizard": "⚡ Faila GSTR-3B",
+        "gst-reconciliation": "GST Fa'afetaui",
+        "e-invoicing": "E-Invoice",
+        "e-way-bills": "E-Way Pili",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Totogi Lafoga",
+        "quarterly-compliance": "Kalena Tausi",
+        "ca-access": "CA Avanoa Le tumau",
+        "gst-from-books": "GST mai Tusi"
+      },
+      "reports": {
+        "financial-statements": "Lipoti tau Tupe",
+        "books": "Tusi o Fefaatauaiga",
+        "gst-reports": "Lipoti o GST",
+        "ar-ap": "Tupe maua vs aitalafu",
+        "profitability": "Tupe maua",
+        "period-comparatives": "Tausaga Faatusatusa",
+        "budget-vs-actuals": "Su'e Tala o le Tupe",
+        "cashflow-projection": "Tupe Fuafuaga",
+        "report-builder": "Lipoti Fa'aleaganu'u",
+        "general-ledger": "Tusitala Lautele",
+        "live-financials": "Ola Tupe",
+        "ai-analyst": "AI Su'esu'e"
+      },
+      "advanced-features": {
+        "overview": "Va'aiga lautele"
+      },
+      "parties": {
+        "all-parties": "Itu uma",
+        "customer-ledgers": "Tagata fa'atau",
+        "supplier-ledgers": "Fa'atau oloa",
+        "shared-ledger": "Tusitala Fa'asoa",
+        "statements": "Fa'amatalaga",
+        "reminders": "Faamanatu",
+        "documents": "Pepa a Pati",
+        "portal": "Portal Pati",
+        "import": "Vaega Faaulufale mai",
+        "duplicate-merge": "Fa'alua Fa'atasi",
+        "gap-analysis": "Su'esu'ega Gap"
+      },
+      "inventory": {
+        "inventory-items": "Aitema",
+        "godowns": "Faleteuoloa",
+        "stock-movement": "Fa'agaioiga Fa'asoa",
+        "item-pricing": "Tau",
+        "stock-valuation": "Fa'atauga Fa'asoa",
+        "reorder-alerts": "Toe fa'atonu Fa'aliga",
+        "batch-serials": "Vaega & Fa'asologa",
+        "barcode-labels": "Fa'ailoga Barcode",
+        "item-import": "Auina mai mea",
+        "gap-analysis": "Su'esu'ega Gap"
+      },
+      "assets": {
+        "asset-register": "Lisi o Aseta",
+        "depreciation": "Pa'u tau",
+        "disposal-revaluation": "Fa'atau atu pe Toe Fa'atau"
+      },
+      "masters": {
+        "chart-of-accounts": "Lisi Fa'amatalaga",
+        "tax-masters": "Fua Faatatau o Lafoga",
+        "cost-centers": "Nofoaga Tutotonu o Tau",
+        "voucher-types": "Ituaiga Fefaatauaiga",
+        "opening-balances": "Paleni Amata",
+        "currencies": "Tupe"
+      },
+      "business-tools": {
+        "staff-payroll": "Totogi",
+        "manage-users": "Avanoa a le tagata fa'aoga",
+        "online-orders": "Poloaiga i luga ole laiga",
+        "sms-marketing": "SMS Maketi",
+        "accountant-hub": "Tausitusi & Lagolago"
+      },
+      "party-tools": {
+        "documents": "Pepa a Pati",
+        "portal": "Portal Pati",
+        "import": "Vaega Faaulufale mai",
+        "duplicate-merge": "Fa'alua Fa'atasi",
+        "gap-analysis": "Su'esu'ega Gap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Toe fa'atonu Fa'aliga",
+        "batch-serials": "Vaega & Fa'asologa",
+        "barcode-labels": "Fa'ailoga Barcode",
+        "item-import": "Auina mai mea",
+        "gap-analysis": "Su'esu'ega Gap"
+      },
+      "storage": {
+        "client-storage": "Client Files",
+        "unifiedtree-storage": "Teuga o Ao"
+      },
+      "alerts": {
+        "accountant-alerts": "Lapataiga Tausitusi",
+        "compliance-alerts": "Lapataiga Tausi",
+        "cash-risk-alerts": "Tinoitupe & Lapataiga Tulaga lamatia",
+        "ca-access": "CA Avanoa Le tumau"
+      },
+      "migration": {
+        "import": "Auina mai Faamatalaga",
+        "export": "Fa'amatalaga auina atu i fafo",
+        "history": "Tala'aga Fa'aulufale mai",
+        "tally-import": "Fa'aulufale mai Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Fa'atauga & Totogi",
+      "accountingSetup": "Seti Tausitusi",
+      "dataDocuments": "Fa'amatalaga & Fa'amaumauga"
+    }
+  },
+  "common": {
+    "save": "Faasaoina Suiga",
+    "cancel": "Fa'aleaogaina",
+    "create": "Fausia",
+    "edit": "Fa'atonu",
+    "delete": "Aveese",
+    "search": "Saili",
+    "connect": "Feso'ota'i",
+    "configure": "Fa'atonu",
+    "disconnect": "motusia",
+    "sync": "Sync Nei",
+    "close": "Tapuni",
+    "reset": "Toe setiina i tulaga e le masani ai",
+    "back": "Tua",
+    "continue": "Fa'aauau",
+    "all": "O mea uma",
+    "retry": "Toe taumafai",
+    "loading": "utaina...",
+    "resetDemo": "Toe setiina faʻamatalaga faʻataʻitaʻiga"
+  },
+  "shell": {
+    "searchPlaceholder": "Su'e so'o se mea...",
+    "settings": "Fa'atonu",
+    "language": "Gagana",
+    "role": "Matafaioi",
+    "greeting": {
+      "morning": "Manuia le taeao",
+      "afternoon": "Manuia le aoauli",
+      "evening": "Manuia le afiafi"
+    },
+    "settingsItems": {
+      "company-profile": "Fa'amatalaga a le Kamupani",
+      "configuration": "Fa'atonuga",
+      "fiscal-periods": "Vaitaimi o Tupe",
+      "roles": "Matafaioi & Tagata fa'aoga",
+      "integrations": "Tuufaatasiga",
+      "notifications": "Fa'asilasilaga",
+      "audit-logs": "Su'etusi & Fa'amaumauga",
+      "audit-trail": "Auala o Su'etusi Fa'aletonu",
+      "developer": "Atina'e & API"
+    },
+    "translatedLanguages": "Fa'aliliu",
+    "untranslatedLanguages": "Igilisi seia faaliliuina"
+  },
+  "status": {
+    "filed": "Fa'aulu",
+    "ready": "Sauni e faila",
+    "open": "Vaitaimi tatala",
+    "paid": "Totogi",
+    "pending": "Faatalitali",
+    "accepted": "Taliaina",
+    "delivered": "Tuuina atu",
+    "rejected": "Teena",
+    "pdf-sent": "PDF lafo",
+    "not-sent": "E le'i auina atu",
+    "matched": "Faafetaui",
+    "mismatch": "Le fetaui",
+    "missing-supplier": "E le'i lipotia mai e le kamupani",
+    "missing-books": "Misi i tusi",
+    "deferred": "Fa'atuai",
+    "deducted": "Toesea",
+    "remitted": "Fa'aola",
+    "certified": "Fa'amaonia",
+    "to-report": "Ia lipoti",
+    "reported": "Lipoti",
+    "accounted": "Fa'amaumauga",
+    "overdue": "Ua tuai"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Sauni e faila",
+      "liabilityDue": "Noataga e tatau ona totogi",
+      "paidThisYear": "Totogi i lenei tausaga",
+      "nextDeadline": "Ole isi aso e gata ai",
+      "noneOverdue": "E leai se tuai",
+      "overdue": "{{count}} tuai"
+    },
+    "filter": {
+      "ready": "Sauni e faila",
+      "open": "Tatala",
+      "filed": "Fa'aulu"
+    },
+    "col": {
+      "period": "Vaitaimi",
+      "authority": "Pule",
+      "rate": "Fa'atatau",
+      "due": "E tatau ona totogi",
+      "netPayable": "Net totogi",
+      "status": "Tulaga",
+      "ack": "Fa'afetai"
+    },
+    "file": "faila",
+    "view": "Va'aiga",
+    "fileForm": "faila {{form}}",
+    "loadingJurisdiction": "Fa'atulafonoina o lo'o uta...",
+    "nothingToFile": "E leai ni fa'amatalaga o lo'o fa'atali e fa'aulu - o taimi tapuni uma e tu'uina atu.",
+    "fileNext": "Faila e sosoo ai: {{name}}",
+    "steps": {
+      "review": "Toe iloilo",
+      "validate": "Fa'amaonia",
+      "declare": "Ta'utino ma tu'u atu",
+      "ack": "Fa'afetai"
+    },
+    "runValidation": "Fa'atino le fa'amaonia",
+    "validating": "Fa'amaonia...",
+    "submit": "Tuuina atu {{form}}",
+    "submitting": "Tuuina atu…",
+    "declaration": "Ou te tautino atu e moni ma atoatoa le faamatalaga o loo i totonu o lenei faamatalaga, ma ua ou faatagaina e tuuina atu i {{authority}}.",
+    "netAmount": "Ole aofa'i",
+    "submitted": "Tuuina atu",
+    "filedOn": "Fa'aulu ile",
+    "regime": {
+      "authority": "Pule",
+      "channel": "Alaleo faila",
+      "return": "Toe fo'i",
+      "due": "E tatau ona totogi",
+      "standardRate": "Fua faatatau masani",
+      "threshold": "Fa'amaufa'ailoga"
+    },
+    "demoNote": "Fa'ata'ita'i fa'amatalaga mai le API fa'atauemu ua fausia - o faila ma totogi e fa'atusa ma e leai se mea e lafo atu i le pulega o lafoga."
+  },
+  "fx": {
+    "title": "Tupe mai fafo",
+    "subtitle": "Fa'avae tupe {{base}} · fa'ailoa tau fa'atauemu maketi",
+    "newDoc": "FX fou pili / pili",
+    "kpi": {
+      "netExposure": "Net FX fa'aalia",
+      "openDocs": "{{count}} pepa tatala",
+      "unrealized": "Tupe maua / gau e le'i fa'atinoina",
+      "postedSplit": "{{posted}} lafo · {{unposted}} e le'i iai",
+      "realized": "Na iloa i lenei tausaga",
+      "lastReval": "Toe iloiloga mulimuli",
+      "never": "E leai lava",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Tatala mea",
+      "settled": "Fa'ato'a",
+      "revaluation": "Toe iloiloga o le faaiuga o le masina",
+      "journal": "FX api talaaga"
+    },
+    "col": {
+      "document": "Pepa",
+      "type": "Ituaiga",
+      "openForeign": "Tatala (fafo)",
+      "bookedNow": "Tusia / nei",
+      "valueIn": "Taua ile {{base}}",
+      "unrealized": "Le iloa",
+      "status": "Tulaga",
+      "amount": "Aofaiga",
+      "bookedRate": "Tau tusi",
+      "realized": "Na iloa"
+    },
+    "receivable": "Mauaina",
+    "payable": "Totogi",
+    "receive": "Talia",
+    "pay": "Totogi",
+    "netIn": "Net i {{base}}",
+    "state": {
+      "settled": "Fa'ato'a",
+      "partial": "Vaega-nofoia",
+      "open": "Tatala"
+    },
+    "demoNote": "Fa'ata'ita'i fa'amatalaga mai le API fa'atauemu ua fausia - o fua fa'atatau e fa'atusa, ae le o fa'amatalaga ola maketi."
+  }
+}

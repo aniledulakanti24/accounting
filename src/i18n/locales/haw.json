@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ʻO kēlā me kēia lā",
+      "finance": "Waiwai",
+      "advanced": "Kiʻekiʻe"
+    },
+    "mainMenu": "Papa kuhikuhi nui",
+    "short": {
+      "parties": "Pāʻina"
+    },
+    "sections": {
+      "dashboard": "Papa kuhikuhi",
+      "sales": "Kūʻai",
+      "receivables": "Kālā I loko",
+      "procurement": "Nā kūʻai",
+      "payables": "Puka kālā",
+      "cashbank": "Kālā & Panakō",
+      "expenses": "Na lilo",
+      "tax": "ʻauhau",
+      "reports": "Nā hōʻike",
+      "advanced-features": "Nā hiʻohiʻona kiʻekiʻe",
+      "parties": "Nā mea kūʻai a me nā mea hoʻolako",
+      "inventory": "Nā mea",
+      "assets": "Na Waiwai Paa",
+      "masters": "Hoʻonohonoho a hoʻonohonoho",
+      "business-tools": "Hui & Mea Hana",
+      "party-tools": "Mea Paahana Pāʻina",
+      "item-tools": "Mea Paahana",
+      "storage": "Palapala",
+      "alerts": "ʻO nā makaʻala",
+      "migration": "ʻIkepili Migration"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Nānā nui",
+        "cash-flow": "Kaʻa kālā",
+        "tax-calendar": "Kalena Auhau"
+      },
+      "sales": {
+        "quotations": "Hua'ōlelo",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Hoʻouna Challan",
+        "receipts": "Loaʻa",
+        "invoice-desk": "Pahu Waiwai"
+      },
+      "receivables": {
+        "money-in-center": "Kālā Iwaena",
+        "receivables": "Loaʻa kālā",
+        "payments-received": "Uku i loaa",
+        "overdue-collections": "Nā hōʻiliʻili a me nā mea hoʻomanaʻo",
+        "credit-notes": "Nā Palapala Aʻe & Hoʻihoʻi",
+        "sales-returns": "Nā Hoʻihoʻi Kūʻai",
+        "customer-statements": "Olelo Hoolaha",
+        "payment-links": "Nā loulou uku"
+      },
+      "procurement": {
+        "purchase-center": "Keena Kūʻai",
+        "purchase-orders": "Nā Kauoha Kūʻai",
+        "goods-receipt": "Loaa Waiwai",
+        "purchase-invoices": "Kūʻai i nā Invoice",
+        "payment-out": "Uku Uku",
+        "returns-debit-notes": "Hoʻihoʻi a me nā palapala hōʻaiʻē",
+        "bill-approvals": "Bila Apono"
+      },
+      "payables": {
+        "bills": "Kikowaena Uku",
+        "payments": "Uku mea hoolako",
+        "workforce": "Paahana hana",
+        "adjustments": "Hoʻoponopono",
+        "bank-release": "Hoʻokuʻu Bank"
+      },
+      "cashbank": {
+        "bank-accounts": "ʻO kaʻu mau moʻokāki",
+        "reconciliation": "Nā Kūʻai Kūlike",
+        "cash-petty": "Ke kālā liʻiliʻi",
+        "contra": "Ma waena o nā moʻolelo",
+        "cheque-register": "Nānā",
+        "foreign-currency": "Kālā Haole",
+        "bank-feeds": "Hanai Banako",
+        "bank-rules": "Rula & Hookuikahi"
+      },
+      "expenses": {
+        "expense-center": "Na lilo a pau",
+        "categories": "Nā ʻano hoʻolimalima",
+        "automated-bills": "Na lilo mau",
+        "journal-vouchers": "Kākau lima",
+        "provisions": "Accruals",
+        "write-offs": "Hoʻopau ʻana",
+        "period-close": "Hoʻopau mahina"
+      },
+      "tax": {
+        "gst-returns": "Waihona GST",
+        "gst-filing-wizard": "⚡ Waihona GSTR-3B",
+        "gst-reconciliation": "Kūlike GST",
+        "e-invoicing": "E-invoice",
+        "e-way-bills": "Bila E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Uku Auhau",
+        "quarterly-compliance": "Kalena hoʻokō",
+        "ca-access": "CA Komo no ka manawa",
+        "gst-from-books": "GST mai nā Buke"
+      },
+      "reports": {
+        "financial-statements": "Hoike Waiwai",
+        "books": "Nā Buke Kūʻai",
+        "gst-reports": "Hōʻike GST",
+        "ar-ap": "ʻO nā mea hōʻaiʻē vs nā uku",
+        "profitability": "Loaʻa kālā",
+        "period-comparatives": "Hoʻohālikelike Makahiki",
+        "budget-vs-actuals": "Mākaʻikaʻi kālā",
+        "cashflow-projection": "Ka wānana kālā",
+        "report-builder": "Nā Hōʻike Kuʻuna",
+        "general-ledger": "Ka Waihona Puke Nui",
+        "live-financials": "Ola Waiwai",
+        "ai-analyst": "ʻIkepili AI"
+      },
+      "advanced-features": {
+        "overview": "Nānā nui"
+      },
+      "parties": {
+        "all-parties": "Na aoao a pau",
+        "customer-ledgers": "Nā mea kūʻai",
+        "supplier-ledgers": "Nā mea hoʻolako",
+        "shared-ledger": "Waihona Puke",
+        "statements": "Nā ʻōlelo",
+        "reminders": "Hoʻomanaʻo",
+        "documents": "Nā Palapala Pāʻina",
+        "portal": "Pāʻina Pāʻina",
+        "import": "Pāʻina Import",
+        "duplicate-merge": "Hoʻohui pālua",
+        "gap-analysis": "ʻIkepili ʻAha"
+      },
+      "inventory": {
+        "inventory-items": "Nā mea",
+        "godowns": "Nā hale kūʻai",
+        "stock-movement": "Neʻe Kūʻai",
+        "item-pricing": "Kumukuai",
+        "stock-valuation": "Waiwai Waiwai",
+        "reorder-alerts": "Hoʻonohonoho hou i nā mākaʻikaʻi",
+        "batch-serials": "Pūʻulu & Serial",
+        "barcode-labels": "Lepili Barcode",
+        "item-import": "Mea lawe mai",
+        "gap-analysis": "ʻIkepili ʻAha"
+      },
+      "assets": {
+        "asset-register": "Papa inoa waiwai",
+        "depreciation": "Hoʻemi kālā",
+        "disposal-revaluation": "E kūʻai aku a i ʻole ka waiwai hou"
+      },
+      "masters": {
+        "chart-of-accounts": "Papa helu mooolelo",
+        "tax-masters": "Uku Auhau",
+        "cost-centers": "Na Kumukuai",
+        "voucher-types": "Nā ʻano hana",
+        "opening-balances": "Hoʻomaka Kaulike",
+        "currencies": "Nā kālā"
+      },
+      "business-tools": {
+        "staff-payroll": "Ka uku uku",
+        "manage-users": "Loaʻa i ka mea hoʻohana",
+        "online-orders": "Kauoha Online",
+        "sms-marketing": "Kālepa SMS",
+        "accountant-hub": "Heluhelu & Kākoʻo"
+      },
+      "party-tools": {
+        "documents": "Nā Palapala Pāʻina",
+        "portal": "Pāʻina Pāʻina",
+        "import": "Pāʻina Import",
+        "duplicate-merge": "Hoʻohui pālua",
+        "gap-analysis": "ʻIkepili ʻAha"
+      },
+      "item-tools": {
+        "reorder-alerts": "Hoʻonohonoho hou i nā mākaʻikaʻi",
+        "batch-serials": "Pūʻulu & Serial",
+        "barcode-labels": "Lepili Barcode",
+        "item-import": "Mea lawe mai",
+        "gap-analysis": "ʻIkepili ʻAha"
+      },
+      "storage": {
+        "client-storage": "Nā waihona mea kūʻai aku",
+        "unifiedtree-storage": "Waihona ao"
+      },
+      "alerts": {
+        "accountant-alerts": "ʻAla Helu",
+        "compliance-alerts": "Nā ʻōlelo hoʻolaha hoʻokō",
+        "cash-risk-alerts": "Kālā Kālā a me nā makaʻala",
+        "ca-access": "CA Komo no ka manawa"
+      },
+      "migration": {
+        "import": "Hoʻokomo i ka ʻikepili",
+        "export": "Hoʻokuʻu i ka ʻikepili",
+        "history": "Moolelo lawe mai",
+        "tally-import": "Lawe mai iā Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Nā Kūʻai a me nā uku",
+      "accountingSetup": "Hoʻonohonoho Heluhelu",
+      "dataDocuments": "ʻIkepili & Palapala"
+    }
+  },
+  "common": {
+    "save": "E mālama i nā hoʻololi",
+    "cancel": "Hoʻopau",
+    "create": "Hana",
+    "edit": "Hoʻoponopono",
+    "delete": "Holoi",
+    "search": "Huli",
+    "connect": "Hoʻohui",
+    "configure": "Hoʻonohonoho",
+    "disconnect": "Hoʻokaʻawale",
+    "sync": "Hoʻopili i kēia manawa",
+    "close": "Pani",
+    "reset": "Hoʻihoʻi hou i nā Defaults",
+    "back": "Ke kua",
+    "continue": "E hoʻomau",
+    "all": "ʻO nā mea a pau",
+    "retry": "E hoao hou",
+    "loading": "Ke hoʻouka nei…",
+    "resetDemo": "Hoʻihoʻi hou i ka ʻikepili demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Huli i kekahi mea…",
+    "settings": "Nā hoʻonohonoho",
+    "language": "ʻŌlelo",
+    "role": "Ke kuleana",
+    "greeting": {
+      "morning": "Aloha kakahiaka",
+      "afternoon": "Aloha awakea, Aloha Auinalā",
+      "evening": "Aloha ahiahi"
+    },
+    "settingsItems": {
+      "company-profile": "ʻIkepili Hui",
+      "configuration": "Hoʻonohonoho",
+      "fiscal-periods": "Nā wā kālā",
+      "roles": "Nā Hana a me nā mea hoʻohana",
+      "integrations": "Hoʻohui",
+      "notifications": "Hoolaha",
+      "audit-logs": "Hooia & Loko",
+      "audit-trail": "Alanui Hooia-Hooia",
+      "developer": "Mea hoʻomohala & API"
+    },
+    "translatedLanguages": "Unuhiia",
+    "untranslatedLanguages": "English a unuhiia"
+  },
+  "status": {
+    "filed": "Waihoia",
+    "ready": "Mākaukau e waiho",
+    "open": "Wehe ka manawa",
+    "paid": "Ukuia",
+    "pending": "Ke kali nei",
+    "accepted": "Ua ʻae ʻia",
+    "delivered": "Hāʻawi ʻia",
+    "rejected": "Hōʻole ʻia",
+    "pdf-sent": "Hoʻouna ʻia ka PDF",
+    "not-sent": "ʻAʻole i hoʻouna ʻia",
+    "matched": "Kaulike",
+    "mismatch": "Kūlike ʻole",
+    "missing-supplier": "ʻAʻole i hōʻike ʻia e ka mea hoʻolako",
+    "missing-books": "Nalo i nā puke",
+    "deferred": "Hoʻopaneʻe ʻia",
+    "deducted": "Wehe ʻia",
+    "remitted": "Waihoia",
+    "certified": "Hoʻopaʻa ʻia",
+    "to-report": "E hoike",
+    "reported": "Hōʻike ʻia",
+    "accounted": "Heluhelu",
+    "overdue": "Ua hala"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Mākaukau e waiho",
+      "liabilityDue": "ʻAiʻa ʻia",
+      "paidThisYear": "Uku i keia makahiki",
+      "nextDeadline": "lā palena pau",
+      "noneOverdue": "ʻAʻohe mea i hala",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Mākaukau e waiho",
+      "open": "Wehe",
+      "filed": "Waihoia"
+    },
+    "col": {
+      "period": "Kau",
+      "authority": "mana",
+      "rate": "Laki",
+      "due": "Pono",
+      "netPayable": "Uuna uku",
+      "status": "Kūlana",
+      "ack": "Hoʻomaikaʻi"
+    },
+    "file": "waihona",
+    "view": "Nānā",
+    "fileForm": "Waihona {{form}}",
+    "loadingJurisdiction": "Ke hoʻouka nei i ka mana…",
+    "nothingToFile": "ʻAʻohe hoʻihoʻi e kali nei e waiho ʻia - waiho ʻia nā manawa pani a pau.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Nānā",
+      "validate": "Hōʻoia",
+      "declare": "E haʻi a waiho",
+      "ack": "Hoʻomaikaʻi"
+    },
+    "runValidation": "Holo i ka hōʻoia",
+    "validating": "Ke hōʻoia nei…",
+    "submit": "Waiho {{form}}",
+    "submitting": "Ke waiho nei…",
+    "declaration": "Ke haʻi aku nei au he ʻoiaʻiʻo a piha ka ʻike ma kēia hoʻihoʻi ʻana, a ua ʻae ʻia iaʻu e hoʻouna iā {{authority}}.",
+    "netAmount": "Uuna nui",
+    "submitted": "Waihoia",
+    "filedOn": "Waiho ʻia ma",
+    "regime": {
+      "authority": "mana",
+      "channel": "Kaila waihona",
+      "return": "Hoʻi",
+      "due": "Pono",
+      "standardRate": "Laki maʻamau",
+      "threshold": "paepae kakau"
+    },
+    "demoNote": "Hōʻike i ka ʻikepili mai ka API ʻauhau hoʻohenehene i kūkulu ʻia - hoʻohālikelike ʻia nā faila a me nā uku a ʻaʻohe mea i hoʻouna ʻia i kahi mana ʻauhau."
+  },
+  "fx": {
+    "title": "Kālā Haole",
+    "subtitle": "Kālā kumu {{base}} · hōʻike i nā kumukūʻai makeke hoʻohenehene",
+    "newDoc": "Palapala FX hou / bila",
+    "kpi": {
+      "netExposure": "Hōʻike FX Net",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Loaʻa / poho ʻole",
+      "postedSplit": "{{posted}} posted · {{unposted}} ʻaʻole i kēia manawa",
+      "realized": "ʻIke ʻia i kēia makahiki",
+      "lastReval": "Ka loiloi hou ʻana",
+      "never": "ʻAʻole loa",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Wehe mea",
+      "settled": "Hoʻoholo ʻia",
+      "revaluation": "ʻO ka loiloi hope o ka mahina",
+      "journal": "FX puke pai"
+    },
+    "col": {
+      "document": "Palapala",
+      "type": "ʻAno",
+      "openForeign": "Wehe (haole)",
+      "bookedNow": "Hoʻopaʻa ʻia / i kēia manawa",
+      "valueIn": "Waiwai ma {{base}}",
+      "unrealized": "Hoʻomaopopo ʻole ʻia",
+      "status": "Kūlana",
+      "amount": "Ka nui",
+      "bookedRate": "Ka helu helu",
+      "realized": "Hoʻomaopopo ʻia"
+    },
+    "receivable": "Hiki ke loaa",
+    "payable": "Uku",
+    "receive": "Loaʻa",
+    "pay": "Uku",
+    "netIn": "Uena ma {{base}}",
+    "state": {
+      "settled": "Hoʻoholo ʻia",
+      "partial": "Māhele ʻāpana",
+      "open": "Wehe"
+    },
+    "demoNote": "Hōʻike i ka ʻikepili mai ka API hoʻohenehene i kūkulu ʻia - ua hoʻohālikelike ʻia nā kumukūʻai, ʻaʻole i ka ʻikepili mākeke ola."
+  }
+}

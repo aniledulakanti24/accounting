@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Jum għal Jum",
+      "finance": "Finanzi",
+      "advanced": "Avvanzat"
+    },
+    "mainMenu": "Menu Prinċipali",
+    "short": {
+      "parties": "Partijiet"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Bejgħ",
+      "receivables": "Flus Ġewwa",
+      "procurement": "Xiri",
+      "payables": "Flus Out",
+      "cashbank": "Flus u Bank",
+      "expenses": "Spejjeż",
+      "tax": "Taxxa",
+      "reports": "Rapporti",
+      "advanced-features": "Karatteristiċi Avvanzati",
+      "parties": "Klijenti u Fornituri",
+      "inventory": "Oġġetti",
+      "assets": "Assi Fissi",
+      "masters": "Setup & Konfigurazzjoni",
+      "business-tools": "Tim u Għodda",
+      "party-tools": "Għodod tal-Partit",
+      "item-tools": "Oġġett Għodod",
+      "storage": "Dokumenti",
+      "alerts": "Twissijiet",
+      "migration": "Migrazzjoni tad-Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ħarsa ġenerali",
+        "cash-flow": "Fluss tal-Flus",
+        "tax-calendar": "Kalendarju tat-Taxxa"
+      },
+      "sales": {
+        "quotations": "Kwotazzjonijiet",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fattura",
+        "delivery-challans": "Kunsinna Challan",
+        "receipts": "Irċevuta",
+        "invoice-desk": "Fattura Desk"
+      },
+      "receivables": {
+        "money-in-center": "Flus Fiċ-Ċentru",
+        "receivables": "Riċevibbli",
+        "payments-received": "Ħlasijiet Riċevuti",
+        "overdue-collections": "Kollezzjonijiet u Tfakkiriet",
+        "credit-notes": "Noti ta' Kreditu u Rifużjonijiet",
+        "sales-returns": "Prospetti tal-Bejgħ",
+        "customer-statements": "Dikjarazzjonijiet tal-Klijent",
+        "payment-links": "Links tal-Ħlas"
+      },
+      "procurement": {
+        "purchase-center": "Ċentru tax-Xiri",
+        "purchase-orders": "Ordnijiet ta' Xiri",
+        "goods-receipt": "Irċevuta ta' Merkanzija",
+        "purchase-invoices": "Fatturi tax-Xiri",
+        "payment-out": "Ħlasijiet Magħmula",
+        "returns-debit-notes": "Ritorni u Noti ta' Debitu",
+        "bill-approvals": "Approvazzjonijiet ta' Abbozz"
+      },
+      "payables": {
+        "bills": "Ċentru tal-Paga",
+        "payments": "Ħlasijiet tal-Fornitur",
+        "workforce": "Forza tax-xogħol",
+        "adjustments": "Aġġustamenti",
+        "bank-release": "Rilaxx tal-Bank"
+      },
+      "cashbank": {
+        "bank-accounts": "Il-Kontijiet Tiegħi",
+        "reconciliation": "Tqabbil Transazzjonijiet",
+        "cash-petty": "Petty Cash",
+        "contra": "Bejn il-Kontijiet",
+        "cheque-register": "Kontrolli",
+        "foreign-currency": "Munita Barranija",
+        "bank-feeds": "Feeds tal-Bank",
+        "bank-rules": "Regoli u Rikonċiljazzjoni"
+      },
+      "expenses": {
+        "expense-center": "L-Ispejjeż kollha",
+        "categories": "Tipi ta' Spejjeż",
+        "automated-bills": "Spejjeż Rikorrenti",
+        "journal-vouchers": "Entrati manwali",
+        "provisions": "Dovuti",
+        "write-offs": "Tħassir",
+        "period-close": "Tmiem ix-Xahar"
+      },
+      "tax": {
+        "gst-returns": "Filing GST",
+        "gst-filing-wizard": "⚡ Fajl GSTR-3B",
+        "gst-reconciliation": "Tqabbil tal-GST",
+        "e-invoicing": "E-Fatturi",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Ħlas it-Taxxa",
+        "quarterly-compliance": "Kalendarju ta' Konformità",
+        "ca-access": "CA Aċċess Temporanju",
+        "gst-from-books": "GST mill-Kotba"
+      },
+      "reports": {
+        "financial-statements": "Rapporti Finanzjarji",
+        "books": "Kotba tat-Tranżazzjonijiet",
+        "gst-reports": "Rapporti GST",
+        "ar-ap": "Riċevibbli vs Pagabbli",
+        "profitability": "Profittabilità",
+        "period-comparatives": "Tqabbil tas-Sena",
+        "budget-vs-actuals": "Baġit Tracker",
+        "cashflow-projection": "Tbassir ta' Flus",
+        "report-builder": "Rapporti tad-dwana",
+        "general-ledger": "Reġistru Ġenerali",
+        "live-financials": "Live Financials",
+        "ai-analyst": "Analista AI"
+      },
+      "advanced-features": {
+        "overview": "Ħarsa ġenerali"
+      },
+      "parties": {
+        "all-parties": "Il-Partijiet kollha",
+        "customer-ledgers": "Klijenti",
+        "supplier-ledgers": "Fornituri",
+        "shared-ledger": "Ledger maqsum",
+        "statements": "Dikjarazzjonijiet",
+        "reminders": "Tfakkiriet",
+        "documents": "Dokumenti tal-Partit",
+        "portal": "Portal tal-Partit",
+        "import": "Importazzjoni tal-Partit",
+        "duplicate-merge": "Duplikat Merge",
+        "gap-analysis": "Gap Analiżi"
+      },
+      "inventory": {
+        "inventory-items": "Oġġetti",
+        "godowns": "Imħażen",
+        "stock-movement": "Moviment ta' Stock",
+        "item-pricing": "Ipprezzar",
+        "stock-valuation": "Valutazzjoni tal-istokk",
+        "reorder-alerts": "Ordna mill-ġdid Twissijiet",
+        "batch-serials": "Lott & Serjali",
+        "barcode-labels": "Tikketti tal-barcode",
+        "item-import": "Importazzjoni tal-oġġett",
+        "gap-analysis": "Gap Analiżi"
+      },
+      "assets": {
+        "asset-register": "Lista tal-Assi",
+        "depreciation": "Deprezzament",
+        "disposal-revaluation": "Biegħ jew Valu mill-ġdid"
+      },
+      "masters": {
+        "chart-of-accounts": "Lista tal-Kontijiet",
+        "tax-masters": "Rati ta' Taxxa",
+        "cost-centers": "Ċentri tal-Ispejjeż",
+        "voucher-types": "Tipi ta' Transazzjoni",
+        "opening-balances": "Bilanċi tal-Bidu",
+        "currencies": "Muniti"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll",
+        "manage-users": "Aċċess għall-Utent",
+        "online-orders": "Ordnijiet Online",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Accountants & Appoġġ"
+      },
+      "party-tools": {
+        "documents": "Dokumenti tal-Partit",
+        "portal": "Portal tal-Partit",
+        "import": "Importazzjoni tal-Partit",
+        "duplicate-merge": "Duplikat Merge",
+        "gap-analysis": "Gap Analiżi"
+      },
+      "item-tools": {
+        "reorder-alerts": "Ordna mill-ġdid Twissijiet",
+        "batch-serials": "Lott & Serjali",
+        "barcode-labels": "Tikketti tal-barcode",
+        "item-import": "Importazzjoni tal-oġġett",
+        "gap-analysis": "Gap Analiżi"
+      },
+      "storage": {
+        "client-storage": "Fajls tal-Klijent",
+        "unifiedtree-storage": "Ħażna Cloud"
+      },
+      "alerts": {
+        "accountant-alerts": "Twissijiet ta' Accountant",
+        "compliance-alerts": "Twissijiet ta' Konformità",
+        "cash-risk-alerts": "Twissijiet ta' Flus u Riskju",
+        "ca-access": "CA Aċċess Temporanju"
+      },
+      "migration": {
+        "import": "Importazzjoni tad-Dejta",
+        "export": "Data ta' Esportazzjoni",
+        "history": "Importazzjoni Storja",
+        "tally-import": "Importazzjoni minn Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Xiri u Ħlasijiet",
+      "accountingSetup": "Setup tal-Kontabilità",
+      "dataDocuments": "Data u Dokumenti"
+    }
+  },
+  "common": {
+    "save": "Ħlief Bidliet",
+    "cancel": "Ikkanċella",
+    "create": "Oħloq",
+    "edit": "Editja",
+    "delete": "Ħassar",
+    "search": "Fittex",
+    "connect": "Qabbad",
+    "configure": "Ikkonfigura",
+    "disconnect": "Skonnettja",
+    "sync": "Sinkronizza Issa",
+    "close": "Agħlaq",
+    "reset": "Irrisettja għal Defaults",
+    "back": "Lura",
+    "continue": "Kompli",
+    "all": "Kollha",
+    "retry": "Erġa' pprova",
+    "loading": "Tagħbija...",
+    "resetDemo": "Irrisettja d-data demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Fittex xi ħaġa...",
+    "settings": "Settings",
+    "language": "Lingwa",
+    "role": "Rwol",
+    "greeting": {
+      "morning": "L-għodwa t-tajba",
+      "afternoon": "Wara nofsinhar it-tajjeb",
+      "evening": "Il-lejla t-tajba"
+    },
+    "settingsItems": {
+      "company-profile": "Profil tal-Kumpanija",
+      "configuration": "Konfigurazzjoni",
+      "fiscal-periods": "Perjodi Fiskali",
+      "roles": "Rwoli u Utenti",
+      "integrations": "Integrazzjonijiet",
+      "notifications": "Notifiki",
+      "audit-logs": "Verifika u Zkuk",
+      "audit-trail": "Traċċa tal-Verifika li ma tbagħbx",
+      "developer": "Żviluppatur u API"
+    },
+    "translatedLanguages": "Tradott",
+    "untranslatedLanguages": "Ingliż sakemm jiġi tradott"
+  },
+  "status": {
+    "filed": "Iffajljati",
+    "ready": "Lest għall-fajl",
+    "open": "Perjodu miftuħ",
+    "paid": "Imħallas",
+    "pending": "Pendenti",
+    "accepted": "Aċċettati",
+    "delivered": "Mogħtija",
+    "rejected": "Miċħuda",
+    "pdf-sent": "PDF mibgħut",
+    "not-sent": "Mhux mibgħuta",
+    "matched": "Imqabbla",
+    "mismatch": "Ma jaqblux",
+    "missing-supplier": "Mhux irrappurtat mill-fornitur",
+    "missing-books": "Nieqes fil-kotba",
+    "deferred": "Differita",
+    "deducted": "Imnaqqas",
+    "remitted": "Rimessa",
+    "certified": "Ċċertifikati",
+    "to-report": "Biex tirrapporta",
+    "reported": "Irrapportat",
+    "accounted": "Kontabilizzat",
+    "overdue": "Skeda"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Lest għall-fajl",
+      "liabilityDue": "Responsabbiltà dovuta",
+      "paidThisYear": "Imħallas din is-sena",
+      "nextDeadline": "L-iskadenza li jmiss",
+      "noneOverdue": "Xejn misshom",
+      "overdue": "{{count}} misshom"
+    },
+    "filter": {
+      "ready": "Lest għall-fajl",
+      "open": "Miftuħa",
+      "filed": "Iffajljati"
+    },
+    "col": {
+      "period": "Perjodu",
+      "authority": "Awtorità",
+      "rate": "Rata",
+      "due": "Dovu",
+      "netPayable": "Nett pagabbli",
+      "status": "Status",
+      "ack": "Rikonoxximent"
+    },
+    "file": "Fajl",
+    "view": "Ara",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Tagħbija ġurisdizzjoni...",
+    "nothingToFile": "L-ebda prospetti m'huma qed jistennew li jiġu ppreżentati - il-perjodi magħluqa kollha huma sottomessi.",
+    "fileNext": "Fajl li jmiss: {{name}}",
+    "steps": {
+      "review": "Reviżjoni",
+      "validate": "Ivvalida",
+      "declare": "Iddikjara u tissottometti",
+      "ack": "Rikonoxximent"
+    },
+    "runValidation": "Mexxi validazzjoni",
+    "validating": "Validazzjoni...",
+    "submit": "Ibgħat {{form}}",
+    "submitting": "Tissottometti...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Ammont nett",
+    "submitted": "Sottomessi",
+    "filedOn": "Iffajljat fuq",
+    "regime": {
+      "authority": "Awtorità",
+      "channel": "Kanal tal-preżentata",
+      "return": "Ritorn",
+      "due": "Dovu",
+      "standardRate": "Rata standard",
+      "threshold": "Limitu ta' reġistrazzjoni"
+    },
+    "demoNote": "Dejta demo mill-API tat-taxxa finta integrata — il-fajls u l-ħlasijiet huma simulati u xejn ma jintbagħat lil awtorità tat-taxxa."
+  },
+  "fx": {
+    "title": "Munita Barranija",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Fattura FX ġdida / kont",
+    "kpi": {
+      "netExposure": "Espożizzjoni netta tal-FX",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Qligħ / telf mhux realizzat",
+      "postedSplit": "{{posted}} ippublikat · {{unposted}} għadu mhux",
+      "realized": "Realizzat din is-sena",
+      "lastReval": "L-aħħar rivalutazzjoni",
+      "never": "Qatt",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Oġġetti miftuħa",
+      "settled": "Issettjat",
+      "revaluation": "Rivalutazzjoni ta' tmiem ix-xahar",
+      "journal": "Ġurnal FX"
+    },
+    "col": {
+      "document": "Dokument",
+      "type": "Tip",
+      "openForeign": "Miftuħ (barrani)",
+      "bookedNow": "Ibbukkjat / issa",
+      "valueIn": "Valur fi {{base}}",
+      "unrealized": "Mhux realizzati",
+      "status": "Status",
+      "amount": "Ammont",
+      "bookedRate": "Rata bbukkjata",
+      "realized": "Realizzat"
+    },
+    "receivable": "Riċevibbli",
+    "payable": "Pagabbli",
+    "receive": "Irċievi",
+    "pay": "Ħlas",
+    "netIn": "Net fi {{base}}",
+    "state": {
+      "settled": "Issettjat",
+      "partial": "Issettjat parzjalment",
+      "open": "Miftuħa"
+    },
+    "demoNote": "Dejta demo mill-API mock integrata — ir-rati huma simulati, mhux data tas-suq ħajjin."
+  }
+}

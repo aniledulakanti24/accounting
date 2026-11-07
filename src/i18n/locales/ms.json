@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Hari ke Hari",
+      "finance": "Kewangan",
+      "advanced": "Maju"
+    },
+    "mainMenu": "Menu Utama",
+    "short": {
+      "parties": "parti"
+    },
+    "sections": {
+      "dashboard": "Papan pemuka",
+      "sales": "Jualan",
+      "receivables": "Wang Masuk",
+      "procurement": "Pembelian",
+      "payables": "Wang Habis",
+      "cashbank": "Tunai & Bank",
+      "expenses": "Perbelanjaan",
+      "tax": "Cukai",
+      "reports": "Laporan",
+      "advanced-features": "Ciri Lanjutan",
+      "parties": "Pelanggan & Pembekal",
+      "inventory": "barang",
+      "assets": "Aset Tetap",
+      "masters": "Persediaan & Konfigurasi",
+      "business-tools": "Pasukan & Alatan",
+      "party-tools": "Alatan Parti",
+      "item-tools": "Alatan Item",
+      "storage": "Dokumen",
+      "alerts": "Makluman",
+      "migration": "Migrasi Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Gambaran keseluruhan",
+        "cash-flow": "Aliran Tunai",
+        "tax-calendar": "Kalendar Cukai"
+      },
+      "sales": {
+        "quotations": "Sebutharga",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invois",
+        "delivery-challans": "Penghantaran Challan",
+        "receipts": "resit",
+        "invoice-desk": "Meja Invois"
+      },
+      "receivables": {
+        "money-in-center": "Wang Di Tengah",
+        "receivables": "Penghutang",
+        "payments-received": "Bayaran Diterima",
+        "overdue-collections": "Koleksi & Peringatan",
+        "credit-notes": "Nota Kredit & Bayaran Balik",
+        "sales-returns": "Pulangan Jualan",
+        "customer-statements": "Penyata Pelanggan",
+        "payment-links": "Pautan Pembayaran"
+      },
+      "procurement": {
+        "purchase-center": "Pusat Pembelian",
+        "purchase-orders": "Pesanan Belian",
+        "goods-receipt": "Resit Barang",
+        "purchase-invoices": "Invois Belian",
+        "payment-out": "Pembayaran Dibuat",
+        "returns-debit-notes": "Pemulangan & Nota Debit",
+        "bill-approvals": "Kelulusan Bil"
+      },
+      "payables": {
+        "bills": "Pusat Gaji",
+        "payments": "Bayaran Pembekal",
+        "workforce": "Tenaga kerja",
+        "adjustments": "Pelarasan",
+        "bank-release": "Keluaran Bank"
+      },
+      "cashbank": {
+        "bank-accounts": "Akaun Saya",
+        "reconciliation": "Transaksi Padanan",
+        "cash-petty": "Wang tunai kecil",
+        "contra": "Antara Akaun",
+        "cheque-register": "Cek",
+        "foreign-currency": "Mata Wang Asing",
+        "bank-feeds": "Suapan Bank",
+        "bank-rules": "Peraturan & Penyesuaian"
+      },
+      "expenses": {
+        "expense-center": "Semua Perbelanjaan",
+        "categories": "Jenis Perbelanjaan",
+        "automated-bills": "Perbelanjaan Berulang",
+        "journal-vouchers": "Entri Manual",
+        "provisions": "Akruan",
+        "write-offs": "Hapus kira",
+        "period-close": "Akhir Bulan"
+      },
+      "tax": {
+        "gst-returns": "Pemfailan GST",
+        "gst-filing-wizard": "⚡ Failkan GSTR-3B",
+        "gst-reconciliation": "Padanan GST",
+        "e-invoicing": "E-Invois",
+        "e-way-bills": "Bil E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bayar Cukai",
+        "quarterly-compliance": "Kalendar Pematuhan",
+        "ca-access": "Akses Sementara CA",
+        "gst-from-books": "GST daripada Buku"
+      },
+      "reports": {
+        "financial-statements": "Laporan Kewangan",
+        "books": "Buku Transaksi",
+        "gst-reports": "Laporan GST",
+        "ar-ap": "Penghutang vs Pemiutang",
+        "profitability": "Keberuntungan",
+        "period-comparatives": "Perbandingan Tahun",
+        "budget-vs-actuals": "Penjejak Belanjawan",
+        "cashflow-projection": "Ramalan Tunai",
+        "report-builder": "Laporan Tersuai",
+        "general-ledger": "Lejar Am",
+        "live-financials": "Kewangan Langsung",
+        "ai-analyst": "Penganalisis AI"
+      },
+      "advanced-features": {
+        "overview": "Gambaran keseluruhan"
+      },
+      "parties": {
+        "all-parties": "Semua Pihak",
+        "customer-ledgers": "Pelanggan",
+        "supplier-ledgers": "Pembekal",
+        "shared-ledger": "Lejar Dikongsi",
+        "statements": "Kenyataan",
+        "reminders": "Peringatan",
+        "documents": "Dokumen Parti",
+        "portal": "Portal Parti",
+        "import": "Import Parti",
+        "duplicate-merge": "Gabungan Pendua",
+        "gap-analysis": "Analisis Jurang"
+      },
+      "inventory": {
+        "inventory-items": "barang",
+        "godowns": "Gudang",
+        "stock-movement": "Pergerakan Saham",
+        "item-pricing": "penetapan harga",
+        "stock-valuation": "Penilaian Saham",
+        "reorder-alerts": "Susun Semula Makluman",
+        "batch-serials": "Kelompok & Bersiri",
+        "barcode-labels": "Label Kod Bar",
+        "item-import": "Import Item",
+        "gap-analysis": "Analisis Jurang"
+      },
+      "assets": {
+        "asset-register": "Senarai Aset",
+        "depreciation": "Susut nilai",
+        "disposal-revaluation": "Jual atau Nilai Semula"
+      },
+      "masters": {
+        "chart-of-accounts": "Senarai Akaun",
+        "tax-masters": "Kadar Cukai",
+        "cost-centers": "Pusat Kos",
+        "voucher-types": "Jenis Transaksi",
+        "opening-balances": "Baki Permulaan",
+        "currencies": "Mata wang"
+      },
+      "business-tools": {
+        "staff-payroll": "Gaji",
+        "manage-users": "Akses Pengguna",
+        "online-orders": "Pesanan Dalam Talian",
+        "sms-marketing": "Pemasaran SMS",
+        "accountant-hub": "Akauntan & Sokongan"
+      },
+      "party-tools": {
+        "documents": "Dokumen Parti",
+        "portal": "Portal Parti",
+        "import": "Import Parti",
+        "duplicate-merge": "Gabungan Pendua",
+        "gap-analysis": "Analisis Jurang"
+      },
+      "item-tools": {
+        "reorder-alerts": "Susun Semula Makluman",
+        "batch-serials": "Kelompok & Bersiri",
+        "barcode-labels": "Label Kod Bar",
+        "item-import": "Import Item",
+        "gap-analysis": "Analisis Jurang"
+      },
+      "storage": {
+        "client-storage": "Fail Pelanggan",
+        "unifiedtree-storage": "Storan Awan"
+      },
+      "alerts": {
+        "accountant-alerts": "Makluman Akauntan",
+        "compliance-alerts": "Makluman Pematuhan",
+        "cash-risk-alerts": "Makluman Tunai & Risiko",
+        "ca-access": "Akses Sementara CA"
+      },
+      "migration": {
+        "import": "Import Data",
+        "export": "Eksport Data",
+        "history": "Sejarah Import",
+        "tally-import": "Import dari Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Pembelian & Pembayaran",
+      "accountingSetup": "Persediaan Perakaunan",
+      "dataDocuments": "Data & Dokumen"
+    }
+  },
+  "common": {
+    "save": "Simpan Perubahan",
+    "cancel": "Batal",
+    "create": "Buat",
+    "edit": "Sunting",
+    "delete": "Padam",
+    "search": "Cari",
+    "connect": "Sambung",
+    "configure": "Konfigurasikan",
+    "disconnect": "Putuskan sambungan",
+    "sync": "Segerakkan Sekarang",
+    "close": "tutup",
+    "reset": "Tetapkan semula kepada Lalai",
+    "back": "belakang",
+    "continue": "Teruskan",
+    "all": "Semua",
+    "retry": "Cuba semula",
+    "loading": "Memuatkan…",
+    "resetDemo": "Tetapkan semula data demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Cari apa sahaja…",
+    "settings": "tetapan",
+    "language": "Bahasa",
+    "role": "Peranan",
+    "greeting": {
+      "morning": "selamat pagi",
+      "afternoon": "selamat petang",
+      "evening": "selamat petang"
+    },
+    "settingsItems": {
+      "company-profile": "Profil Syarikat",
+      "configuration": "Konfigurasi",
+      "fiscal-periods": "Tempoh Fiskal",
+      "roles": "Peranan & Pengguna",
+      "integrations": "Integrasi",
+      "notifications": "Pemberitahuan",
+      "audit-logs": "Audit & Log",
+      "audit-trail": "Jejak Audit kalis gangguan",
+      "developer": "Pembangun & API"
+    },
+    "translatedLanguages": "Diterjemah",
+    "untranslatedLanguages": "Inggeris sehingga diterjemahkan"
+  },
+  "status": {
+    "filed": "Difailkan",
+    "ready": "Sedia untuk fail",
+    "open": "Tempoh dibuka",
+    "paid": "Dibayar",
+    "pending": "Belum selesai",
+    "accepted": "Diterima",
+    "delivered": "Dihantar",
+    "rejected": "ditolak",
+    "pdf-sent": "PDF dihantar",
+    "not-sent": "Tidak dihantar",
+    "matched": "dipadankan",
+    "mismatch": "Tidak padan",
+    "missing-supplier": "Tidak dilaporkan oleh pembekal",
+    "missing-books": "Hilang dalam buku",
+    "deferred": "Ditangguh",
+    "deducted": "Dipotong",
+    "remitted": "Dihantar",
+    "certified": "Diperakui",
+    "to-report": "Untuk melaporkan",
+    "reported": "Dilaporkan",
+    "accounted": "Dikira",
+    "overdue": "Tertunggak"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Sedia untuk fail",
+      "liabilityDue": "Liabiliti kena dibayar",
+      "paidThisYear": "Dibayar tahun ini",
+      "nextDeadline": "Tarikh akhir seterusnya",
+      "noneOverdue": "Tiada yang tertunggak",
+      "overdue": "{{count}} tertunggak"
+    },
+    "filter": {
+      "ready": "Sedia untuk fail",
+      "open": "Buka",
+      "filed": "Difailkan"
+    },
+    "col": {
+      "period": "Tempoh",
+      "authority": "Kuasa",
+      "rate": "Kadar",
+      "due": "kena bayar",
+      "netPayable": "Berbayar bersih",
+      "status": "Status",
+      "ack": "Pengakuan"
+    },
+    "file": "Fail",
+    "view": "Lihat",
+    "fileForm": "Fail {{form}}",
+    "loadingJurisdiction": "Memuatkan bidang kuasa…",
+    "nothingToFile": "Tiada penyata menunggu untuk difailkan — semua tempoh tertutup diserahkan.",
+    "fileNext": "Fail seterusnya: {{name}}",
+    "steps": {
+      "review": "Semakan",
+      "validate": "Sahkan",
+      "declare": "Istihar & serahkan",
+      "ack": "Pengakuan"
+    },
+    "runValidation": "Jalankan pengesahan",
+    "validating": "Mengesahkan…",
+    "submit": "Submit {{form}}",
+    "submitting": "Menyerahkan…",
+    "declaration": "Saya mengisytiharkan bahawa maklumat dalam penyata ini adalah benar dan lengkap, dan saya diberi kuasa untuk menyerahkannya kepada {{authority}}.",
+    "netAmount": "Jumlah bersih",
+    "submitted": "diserahkan",
+    "filedOn": "Difailkan pada",
+    "regime": {
+      "authority": "Kuasa",
+      "channel": "Saluran pemfailan",
+      "return": "Kembali",
+      "due": "kena bayar",
+      "standardRate": "Kadar standard",
+      "threshold": "Ambang pendaftaran"
+    },
+    "demoNote": "Data demo daripada API cukai olok-olok terbina dalam — pemfailan dan pembayaran disimulasikan dan tiada apa-apa dihantar kepada pihak berkuasa cukai."
+  },
+  "fx": {
+    "title": "Mata Wang Asing",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Invois / bil FX baharu",
+    "kpi": {
+      "netExposure": "Pendedahan FX bersih",
+      "openDocs": "{{count}} membuka dokumen",
+      "unrealized": "Keuntungan/kerugian yang tidak direalisasikan",
+      "postedSplit": "{{posted}} posted · {{unposted}} belum lagi",
+      "realized": "Disedari tahun ini",
+      "lastReval": "Penilaian semula terakhir",
+      "never": "tidak pernah",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Buka item",
+      "settled": "Selesai",
+      "revaluation": "Penilaian semula akhir bulan",
+      "journal": "Jurnal FX"
+    },
+    "col": {
+      "document": "Dokumen",
+      "type": "taip",
+      "openForeign": "Terbuka (asing)",
+      "bookedNow": "Tempah / sekarang",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Tidak disedari",
+      "status": "Status",
+      "amount": "Jumlah",
+      "bookedRate": "Kadar yang ditempah",
+      "realized": "Tersedar"
+    },
+    "receivable": "Boleh diterima",
+    "payable": "Boleh dibayar",
+    "receive": "terima",
+    "pay": "bayar",
+    "netIn": "Bersih dalam {{base}}",
+    "state": {
+      "settled": "Selesai",
+      "partial": "Separa diselesaikan",
+      "open": "Buka"
+    },
+    "demoNote": "Data demo daripada API olok-olok terbina dalam — kadar disimulasikan, bukan data pasaran langsung."
+  }
+}

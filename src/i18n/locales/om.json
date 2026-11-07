@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Guyyaa Guyyaa",
+      "finance": "Maallaqa",
+      "advanced": "Hammayyaa'aa"
+    },
+    "mainMenu": "Menuu Guddaa",
+    "short": {
+      "parties": "Dhaabbilee"
+    },
+    "sections": {
+      "dashboard": "Daashboordii",
+      "sales": "Gurgurtaa",
+      "receivables": "Maallaqa Keessatti",
+      "procurement": "Bittaa",
+      "payables": "Maallaqa Ba'e",
+      "cashbank": "Maallaqa fi Baankii",
+      "expenses": "Baasiiwwan",
+      "tax": "Gibira",
+      "reports": "Gabaasa",
+      "advanced-features": "Amaloota Sadarkaa Ol'aanaa",
+      "parties": "Maamiltoota & Dhiyeessitoota",
+      "inventory": "Wantoota",
+      "assets": "Qabeenya Dhaabbataa",
+      "masters": "Saagi fi Qindeessituu",
+      "business-tools": "Garee fi Meeshaalee",
+      "party-tools": "Meeshaalee Dhaabaa",
+      "item-tools": "Meeshaalee Meeshaa",
+      "storage": "Sanadoota",
+      "alerts": "Akeekkachiisa",
+      "migration": "Godaansa Deetaa"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Haala Waliigalaa",
+        "cash-flow": "Dhangala’aa Maallaqaa",
+        "tax-calendar": "Kaalaandarii Gibiraa"
+      },
+      "sales": {
+        "quotations": "Caqasoota",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Gaaffii kaffaltii",
+        "delivery-challans": "Challan Geejjibaa",
+        "receipts": "Nagahee",
+        "invoice-desk": "Deeskii Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Maallaqa Giddugala Keessatti",
+        "receivables": "Fudhatama",
+        "payments-received": "Kaffaltii Argame",
+        "overdue-collections": "Kuusaa fi Yaadachiisa",
+        "credit-notes": "Yaadannoo Liqii fi Deebi'uu",
+        "sales-returns": "Bu'aa Gurgurtaa",
+        "customer-statements": "Ibsa Maamiltootaa",
+        "payment-links": "Hidhamtoota Kaffaltii"
+      },
+      "procurement": {
+        "purchase-center": "Giddugala Bittaa",
+        "purchase-orders": "Ajaja Bittaa",
+        "goods-receipt": "Nagahee Meeshaalee",
+        "purchase-invoices": "Invoice Bittaa",
+        "payment-out": "Kaffaltii Raawwatame",
+        "returns-debit-notes": "Deebi'uu fi Yaadannoo Deebitii",
+        "bill-approvals": "Raggaasifamuu Labsii"
+      },
+      "payables": {
+        "bills": "Giddugala Kaffaltii",
+        "payments": "Kaffaltii Dhiyeessitootaa",
+        "workforce": "Humna hojjetaa",
+        "adjustments": "Sirreeffama",
+        "bank-release": "Baankii Hiikuu"
+      },
+      "cashbank": {
+        "bank-accounts": "Akkaawuntii Koo",
+        "reconciliation": "Daldala Walsimsiisaa",
+        "cash-petty": "Maallaqa Xiqqaa",
+        "contra": "Herrega Gidduutti",
+        "cheque-register": "Cheekiiwwan",
+        "foreign-currency": "Maallaqa Biyya Alaa",
+        "bank-feeds": "Nyaata Baankii",
+        "bank-rules": "Seera fi Araara"
+      },
+      "expenses": {
+        "expense-center": "Baasii Hundaa",
+        "categories": "Gosa Baasii",
+        "automated-bills": "Baasii Irra Deddeebiin Bahu",
+        "journal-vouchers": "Galmeewwan Harkaan",
+        "provisions": "Kuusaa (Accurals) jedhamuun beekama",
+        "write-offs": "Barreeffama-haqamuu",
+        "period-close": "Ji'a-Dhuma"
+      },
+      "tax": {
+        "gst-returns": "Galmee GST",
+        "gst-filing-wizard": "⚡ Faayilii GSTR-3B",
+        "gst-reconciliation": "GST Walsimsiisuun",
+        "e-invoicing": "Invooyisii Elektirooniksii",
+        "e-way-bills": "Labsii E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Gibira Kaffala",
+        "quarterly-compliance": "Kaalaandarii Ulaagaa",
+        "ca-access": "CA Yeroodhaaf Argachuu",
+        "gst-from-books": "GST Kitaabota irraa"
+      },
+      "reports": {
+        "financial-statements": "Gabaasa Finfinnee",
+        "books": "Kitaabota Daldalaa",
+        "gst-reports": "Gabaasa GST",
+        "ar-ap": "Fudhatama vs Kaffaltii",
+        "profitability": "Bu’aa argachuu",
+        "period-comparatives": "Walbira Qabsiisuu Waggaa",
+        "budget-vs-actuals": "Hordoffii Baajata",
+        "cashflow-projection": "Raaga Maallaqa",
+        "report-builder": "Gabaasa Aadaa",
+        "general-ledger": "Ledger Waliigalaa",
+        "live-financials": "Kallattiin Finfinnee",
+        "ai-analyst": "Xiinxalaa AI"
+      },
+      "advanced-features": {
+        "overview": "Haala Waliigalaa"
+      },
+      "parties": {
+        "all-parties": "Qaamolee Hunda",
+        "customer-ledgers": "Maamiltoota",
+        "supplier-ledgers": "Dhiyeessitoota",
+        "shared-ledger": "Ledger Qoodame",
+        "statements": "Ibsa",
+        "reminders": "Yaadachiisa",
+        "documents": "Sanadoota Dhaabaa",
+        "portal": "Poortaala Dhaabaa",
+        "import": "Paartii Galchuu",
+        "duplicate-merge": "Walitti Makamuu Dachaa",
+        "gap-analysis": "Xiinxala Qaawwaa"
+      },
+      "inventory": {
+        "inventory-items": "Wantoota",
+        "godowns": "Manneen kuusaa",
+        "stock-movement": "Sochii Istookii",
+        "item-pricing": "Gatii baasuu",
+        "stock-valuation": "Gatii Istookii",
+        "reorder-alerts": "Akeekkachiisa Irra Deebiin Tartiiba",
+        "batch-serials": "Batch & Serial jedhamuun beekama",
+        "barcode-labels": "Asxaalee Barkoodii",
+        "item-import": "Meeshaa Galchuu",
+        "gap-analysis": "Xiinxala Qaawwaa"
+      },
+      "assets": {
+        "asset-register": "Tarree Qabeenyaa",
+        "depreciation": "Gatii hir’isuu",
+        "disposal-revaluation": "Gurguraa ykn Gamaaggamaa"
+      },
+      "masters": {
+        "chart-of-accounts": "Tarree Herregaa",
+        "tax-masters": "Sadarkaa Gibiraa",
+        "cost-centers": "Giddugala Baasii",
+        "voucher-types": "Gosa Daldalaa",
+        "opening-balances": "Madaallii Jalqabaa",
+        "currencies": "Maallaqa"
+      },
+      "business-tools": {
+        "staff-payroll": "Mindaa mindaa",
+        "manage-users": "Fayyadamaa Argachuu",
+        "online-orders": "Ajaja Toora Interneetii",
+        "sms-marketing": "Gabaa Ergaa gabaabaa",
+        "accountant-hub": "Herregaa fi Deeggarsa"
+      },
+      "party-tools": {
+        "documents": "Sanadoota Dhaabaa",
+        "portal": "Poortaala Dhaabaa",
+        "import": "Paartii Galchuu",
+        "duplicate-merge": "Walitti Makamuu Dachaa",
+        "gap-analysis": "Xiinxala Qaawwaa"
+      },
+      "item-tools": {
+        "reorder-alerts": "Akeekkachiisa Irra Deebiin Tartiiba",
+        "batch-serials": "Batch & Serial jedhamuun beekama",
+        "barcode-labels": "Asxaalee Barkoodii",
+        "item-import": "Meeshaa Galchuu",
+        "gap-analysis": "Xiinxala Qaawwaa"
+      },
+      "storage": {
+        "client-storage": "Faayilota Maamilaa",
+        "unifiedtree-storage": "Kuusaa Duumeessaa"
+      },
+      "alerts": {
+        "accountant-alerts": "Akeekkachiisa Herregaa",
+        "compliance-alerts": "Akeekkachiisa Ulaagaa",
+        "cash-risk-alerts": "Akeekkachiisa Maallaqaa fi Balaa",
+        "ca-access": "CA Yeroodhaaf Argachuu"
+      },
+      "migration": {
+        "import": "Daataa Galchuu",
+        "export": "Daataa Al-ergii",
+        "history": "Seenaa Galchuu",
+        "tally-import": "Tally & Zoho irraa galchuu"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Bittaa fi Kaffaltii",
+      "accountingSetup": "Saagi Herregaa",
+      "dataDocuments": "Daataa fi Sanadoota"
+    }
+  },
+  "common": {
+    "save": "Jijjiirama Qusadhu",
+    "cancel": "Haquu",
+    "create": "Uumuu",
+    "edit": "Gulaaluu",
+    "delete": "Haquu",
+    "search": "Barbaaduu",
+    "connect": "Wal qabsiisuu",
+    "configure": "Qindeessi",
+    "disconnect": "Walitti hidhamiinsa addaan kutuu",
+    "sync": "Amma Walsimsiisi",
+    "close": "Cufuu",
+    "reset": "Gara Durtiitti deebisi",
+    "back": "Dugda",
+    "continue": "Itti fufuu",
+    "all": "Hunda",
+    "retry": "Irra deebi'ii yaali",
+    "loading": "Fe'amaa jira...",
+    "resetDemo": "Deetaa demoo irra deebi'ii saagi"
+  },
+  "shell": {
+    "searchPlaceholder": "Waan fedhe barbaadi...",
+    "settings": "Sajoo",
+    "language": "Afaan",
+    "role": "Ga'ee",
+    "greeting": {
+      "morning": "Akkam bulte",
+      "afternoon": "Akkam ooltan",
+      "evening": "Akkam ooltan"
+    },
+    "settingsItems": {
+      "company-profile": "Profaayilii Dhaabbataa",
+      "configuration": "Qindeessituu",
+      "fiscal-periods": "Yeroo Faayinaansii",
+      "roles": "Gahee Hojii fi Fayyadamtoota",
+      "integrations": "Ida’amuu",
+      "notifications": "Beeksisa",
+      "audit-logs": "Odiitii fi Galmee",
+      "audit-trail": "Daandii Odiitii kan hin jijjiiramne",
+      "developer": "Qopheessaa & API"
+    },
+    "translatedLanguages": "Hiikame",
+    "untranslatedLanguages": "Afaan Oromoo hanga hiikamutti"
+  },
+  "status": {
+    "filed": "Galmee",
+    "ready": "Faayiliidhaaf qophaa'aa",
+    "open": "Yeroon banaa",
+    "paid": "Kaffalame",
+    "pending": "Eeggataa kan jiru",
+    "accepted": "Fudhatama qaba",
+    "delivered": "Qaqqabsiise",
+    "rejected": "Dide",
+    "pdf-sent": "PDF ergame",
+    "not-sent": "Hin ergamne",
+    "matched": "Walsimsiise",
+    "mismatch": "Wal hin simne",
+    "missing-supplier": "Dhiyeessaan hin gabaafamne",
+    "missing-books": "Kitaaba keessatti dhabame",
+    "deferred": "Yeroo biraatti darbe",
+    "deducted": "Hir'ifame",
+    "remitted": "Dhiifama",
+    "certified": "Mirkanaa'e",
+    "to-report": "Gabaasa gochuuf",
+    "reported": "Gabaasameera",
+    "accounted": "Herrega kan qabu",
+    "overdue": "Yeroon isaa darbe"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Faayiliidhaaf qophaa'aa",
+      "liabilityDue": "Itti gaafatamummaa kan qabu",
+      "paidThisYear": "Bara kana kaffalame",
+      "nextDeadline": "Yeroo xumuraa itti aanu",
+      "noneOverdue": "Tokkollee yeroon isaa darbe hin jiru",
+      "overdue": "{{count}} yeroon isaa darbe"
+    },
+    "filter": {
+      "ready": "Faayiliidhaaf qophaa'aa",
+      "open": "Banaa",
+      "filed": "Galmee"
+    },
+    "col": {
+      "period": "Turtii",
+      "authority": "Taayitaa",
+      "rate": "Gatii",
+      "due": "Ga'e",
+      "netPayable": "Net kaffaltii kan qabu",
+      "status": "Sadarkaa",
+      "ack": "Galata kennuu"
+    },
+    "file": "Dosee",
+    "view": "Ilaaluu",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Aangoo murtii fe'aa jira...",
+    "nothingToFile": "Deebiin tokkollee galmaa’uuf hin eegu — yeroon cufame hundi ni dhiyaata.",
+    "fileNext": "Faayilii itti aanu: {{name}}",
+    "steps": {
+      "review": "Keessa deebi'uu",
+      "validate": "Mirkaneessaa",
+      "declare": "Labsii & dhiyeessu",
+      "ack": "Galata kennuu"
+    },
+    "runValidation": "Mirkaneessuu fiigi",
+    "validating": "Mirkaneessuun...",
+    "submit": "Submit {{form}}",
+    "submitting": "Dhiyeessuun...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Maallaqa qulqulluu",
+    "submitted": "Kan dhiyaate",
+    "filedOn": "Filed on irratti",
+    "regime": {
+      "authority": "Taayitaa",
+      "channel": "Chaanaalii galmee",
+      "return": "Deebisuu",
+      "due": "Ga'e",
+      "standardRate": "Sadarkaa istaandaardii",
+      "threshold": "Ulaagaa galmee"
+    },
+    "demoNote": "Daataan agarsiisaa API gibira fakkeessaa ijaarame irraa — galmee fi kaffaltiin fakkeessaa fi wanti abbaa taayitaa gibiraa hin ergamu."
+  },
+  "fx": {
+    "title": "Maallaqa Biyya Alaa",
+    "subtitle": "Maallaqa bu'uuraa {{base}} · agarsiisa reetii gabaa fakkeessaa",
+    "newDoc": "Invoice / bill FX haaraa",
+    "kpi": {
+      "netExposure": "Saaxila FX qulqulluu",
+      "openDocs": "{{count}} galmeewwan banaa",
+      "unrealized": "Bu’aa / kasaaraa hin dhugoomne",
+      "postedSplit": "{{posted}} maxxanfame · {{unposted}} ammatti hin maxxanfamne",
+      "realized": "Bara kana dhugoome",
+      "lastReval": "Irra deebiin madaaluu isa dhumaa",
+      "never": "Gonkumaa",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Wantoota banaa",
+      "settled": "Qubate",
+      "revaluation": "Irra deebiin gatii dhuma ji’aa",
+      "journal": "Joornaalii FX"
+    },
+    "col": {
+      "document": "Sanada",
+      "type": "Akaakuu",
+      "openForeign": "Banaa (kan biyya alaa) .",
+      "bookedNow": "Booked / amma",
+      "valueIn": "Gatii {{base}} keessatti.",
+      "unrealized": "Hin dhugoomne",
+      "status": "Sadarkaa",
+      "amount": "Hamma",
+      "bookedRate": "Sadarkaa buufame",
+      "realized": "Hubate"
+    },
+    "receivable": "Fudhatama kan qabu",
+    "payable": "Kaffaltii kan qabu",
+    "receive": "Fudhachuu",
+    "pay": "Kaffaluu",
+    "netIn": "{{base}} keessatti net.",
+    "state": {
+      "settled": "Qubate",
+      "partial": "Gara tokkoon kan qubate",
+      "open": "Banaa"
+    },
+    "demoNote": "Daataan agarsiisaa API fakkeessaa ijaarame irraa — safartuuwwan fakkeessaman malee deetaa gabaa kallattiin miti."
+  }
+}

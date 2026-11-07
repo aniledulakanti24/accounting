@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Rana-zuwa-rana",
+      "finance": "Kudi",
+      "advanced": "Na ci gaba"
+    },
+    "mainMenu": "Babban Menu",
+    "short": {
+      "parties": "Jam'iyyu"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Tallace-tallace",
+      "receivables": "Kudi A",
+      "procurement": "Sayayya",
+      "payables": "Fitar Kuɗi",
+      "cashbank": "Cash & Bank",
+      "expenses": "Abubuwan kashewa",
+      "tax": "Haraji",
+      "reports": "Rahotanni",
+      "advanced-features": "Abubuwan Ci gaba",
+      "parties": "Abokan ciniki & Masu kaya",
+      "inventory": "Abubuwa",
+      "assets": "Kafaffen Kadari",
+      "masters": "Saita & Kanfigareshan",
+      "business-tools": "Ƙungiya & Kayan aiki",
+      "party-tools": "Kayan Aikin Biki",
+      "item-tools": "Kayan Aikin Kaya",
+      "storage": "Takardu",
+      "alerts": "Fadakarwa",
+      "migration": "Hijira Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Dubawa",
+        "cash-flow": "Gudun Kuɗi",
+        "tax-calendar": "Kalanda Haraji"
+      },
+      "sales": {
+        "quotations": "Magana",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Daftari",
+        "delivery-challans": "Bayarwa Challan",
+        "receipts": "Rasit",
+        "invoice-desk": "Desk ɗin daftari"
+      },
+      "receivables": {
+        "money-in-center": "Kudi A Cibiyar",
+        "receivables": "Abubuwan karɓa",
+        "payments-received": "An Karɓi Biyan Kuɗi",
+        "overdue-collections": "Tari & Tunatarwa",
+        "credit-notes": "Bayanan kula da Kuɗi",
+        "sales-returns": "Komawar Talla",
+        "customer-statements": "Bayanan Abokin ciniki",
+        "payment-links": "Hanyoyin Biyan Kuɗi"
+      },
+      "procurement": {
+        "purchase-center": "Cibiyar Siyarwa",
+        "purchase-orders": "Umarnin Sayi",
+        "goods-receipt": "Rasidin kaya",
+        "purchase-invoices": "Siyan Rasitan",
+        "payment-out": "Biya da Aka Yi",
+        "returns-debit-notes": "Komawa & Bayanan Kuɗi",
+        "bill-approvals": "Amincewa da Bill"
+      },
+      "payables": {
+        "bills": "Cibiyar Biya",
+        "payments": "Biyan Kayan Kayayyaki",
+        "workforce": "Ƙarfin aiki",
+        "adjustments": "gyare-gyare",
+        "bank-release": "Sakin Banki"
+      },
+      "cashbank": {
+        "bank-accounts": "Asusun na",
+        "reconciliation": "Daidaita Ma'amaloli",
+        "cash-petty": "Karamin Cash",
+        "contra": "Tsakanin Accounts",
+        "cheque-register": "Dubawa",
+        "foreign-currency": "Kudin waje",
+        "bank-feeds": "Ciyarwar Banki",
+        "bank-rules": "Dokoki & Sulhu"
+      },
+      "expenses": {
+        "expense-center": "Duk Kudade",
+        "categories": "Nau'in Kuɗi",
+        "automated-bills": "Kudaden Kuɗi",
+        "journal-vouchers": "Shigar da hannu",
+        "provisions": "Ƙarfafawa",
+        "write-offs": "Rubuce-rubucen",
+        "period-close": "Wata- Ƙarshen"
+      },
+      "tax": {
+        "gst-returns": "Farashin GST",
+        "gst-filing-wizard": "⚡ Fayil na GSTR-3B",
+        "gst-reconciliation": "GST Daidaitawa",
+        "e-invoicing": "E-Lasitan kuɗi",
+        "e-way-bills": "Kuɗin E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Biyan Haraji",
+        "quarterly-compliance": "Kalandar Biyayya",
+        "ca-access": "CA Samun shiga na wucin gadi",
+        "gst-from-books": "GST daga Littattafai"
+      },
+      "reports": {
+        "financial-statements": "Rahoton Kudi",
+        "books": "Littattafan ciniki",
+        "gst-reports": "Rahoton GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Riba",
+        "period-comparatives": "Kwatanta Shekara",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Hasashen Kuɗi",
+        "report-builder": "Rahotanni na al'ada",
+        "general-ledger": "Janar Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Dubawa"
+      },
+      "parties": {
+        "all-parties": "Duk Jam'iyyun",
+        "customer-ledgers": "Abokan ciniki",
+        "supplier-ledgers": "Masu kaya",
+        "shared-ledger": "Raba Ledger",
+        "statements": "Kalamai",
+        "reminders": "Tunatarwa",
+        "documents": "Takardun Jam'iyya",
+        "portal": "Portal Party",
+        "import": "Shigowar Jam'iyya",
+        "duplicate-merge": "Kwafi Haɗe",
+        "gap-analysis": "Binciken Gap"
+      },
+      "inventory": {
+        "inventory-items": "Abubuwa",
+        "godowns": "Warehouses",
+        "stock-movement": "Motsin Hannu",
+        "item-pricing": "Farashi",
+        "stock-valuation": "Darajar Hannun jari",
+        "reorder-alerts": "Sake oda Faɗakarwa",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Lambobin Barcode",
+        "item-import": "Shigo da Abu",
+        "gap-analysis": "Binciken Gap"
+      },
+      "assets": {
+        "asset-register": "Jerin Kadara",
+        "depreciation": "Rage daraja",
+        "disposal-revaluation": "Siyar ko Rage ƙima"
+      },
+      "masters": {
+        "chart-of-accounts": "Jerin Lissafi",
+        "tax-masters": "Yawan Haraji",
+        "cost-centers": "Cibiyoyin Kuɗi",
+        "voucher-types": "Nau'in Kasuwanci",
+        "opening-balances": "Fara Ma'auni",
+        "currencies": "Kuɗi"
+      },
+      "business-tools": {
+        "staff-payroll": "Biyan kuɗi",
+        "manage-users": "Shigar mai amfani",
+        "online-orders": "Umurni na kan layi",
+        "sms-marketing": "Tallan SMS",
+        "accountant-hub": "Akawu & Tallafi"
+      },
+      "party-tools": {
+        "documents": "Takardun Jam'iyya",
+        "portal": "Portal Party",
+        "import": "Shigowar Jam'iyya",
+        "duplicate-merge": "Kwafi Haɗe",
+        "gap-analysis": "Binciken Gap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Sake oda Faɗakarwa",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Lambobin Barcode",
+        "item-import": "Shigo da Abu",
+        "gap-analysis": "Binciken Gap"
+      },
+      "storage": {
+        "client-storage": "Fayilolin abokin ciniki",
+        "unifiedtree-storage": "Ma'ajiyar gajimare"
+      },
+      "alerts": {
+        "accountant-alerts": "Faɗakarwar Akanta",
+        "compliance-alerts": "Faɗakarwar Biyayya",
+        "cash-risk-alerts": "Kuɗi & Faɗakarwar Hadarin",
+        "ca-access": "CA Samun shiga na wucin gadi"
+      },
+      "migration": {
+        "import": "Shigo da Bayanai",
+        "export": "Export Data",
+        "history": "Shigo da Tarihi",
+        "tally-import": "Shigo daga Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Sayayya & Biyan Kuɗi",
+      "accountingSetup": "Saitin Accounting",
+      "dataDocuments": "Bayanai & Takardu"
+    }
+  },
+  "common": {
+    "save": "Ajiye Canje-canje",
+    "cancel": "Soke",
+    "create": "Ƙirƙiri",
+    "edit": "Gyara",
+    "delete": "Share",
+    "search": "Bincika",
+    "connect": "Haɗa",
+    "configure": "Sanya",
+    "disconnect": "Cire haɗin",
+    "sync": "Daidaita Yanzu",
+    "close": "Kusa",
+    "reset": "Sake saitin zuwa Defaults",
+    "back": "Baya",
+    "continue": "Ci gaba",
+    "all": "Duka",
+    "retry": "Sake gwadawa",
+    "loading": "Ana lodawa…",
+    "resetDemo": "Sake saita bayanan demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Bincika wani abu…",
+    "settings": "Saituna",
+    "language": "Harshe",
+    "role": "Matsayi",
+    "greeting": {
+      "morning": "Barka da safiya",
+      "afternoon": "Barka da rana",
+      "evening": "Barka da yamma"
+    },
+    "settingsItems": {
+      "company-profile": "Bayanin Kamfanin",
+      "configuration": "Kanfigareshan",
+      "fiscal-periods": "Zaman Kudi",
+      "roles": "Matsayi & Masu amfani",
+      "integrations": "Haɗin kai",
+      "notifications": "Sanarwa",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Trail-proof Audit Trail",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "Fassara",
+    "untranslatedLanguages": "Turanci har zuwa fassara"
+  },
+  "status": {
+    "filed": "An shigar da shi",
+    "ready": "A shirye don yin fayil",
+    "open": "Lokaci bude",
+    "paid": "An biya",
+    "pending": "Ana jiran",
+    "accepted": "Karba",
+    "delivered": "Isar da",
+    "rejected": "An ƙi",
+    "pdf-sent": "An aika PDF",
+    "not-sent": "Ba a aika ba",
+    "matched": "Daidaita",
+    "mismatch": "Rashin daidaituwa",
+    "missing-supplier": "Mai kaya bai ruwaito ba",
+    "missing-books": "Bace a cikin littattafai",
+    "deferred": "An jinkirta",
+    "deducted": "Cire",
+    "remitted": "An sallama",
+    "certified": "Shaida",
+    "to-report": "Don bayar da rahoto",
+    "reported": "An ruwaito",
+    "accounted": "Aka lissafa",
+    "overdue": "Wanda ya wuce"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "A shirye don yin fayil",
+      "liabilityDue": "Abin alhaki saboda",
+      "paidThisYear": "An biya wannan shekara",
+      "nextDeadline": "Ranar ƙarshe na gaba",
+      "noneOverdue": "Babu wanda ya wuce",
+      "overdue": "{{count}} ya wuce"
+    },
+    "filter": {
+      "ready": "A shirye don yin fayil",
+      "open": "Bude",
+      "filed": "An shigar da shi"
+    },
+    "col": {
+      "period": "Lokaci",
+      "authority": "Hukuma",
+      "rate": "Rate",
+      "due": "Sakamakon",
+      "netPayable": "Ana iya biyan kuɗi",
+      "status": "Matsayi",
+      "ack": "Yabo"
+    },
+    "file": "Fayil",
+    "view": "Duba",
+    "fileForm": "Fayil {{form}}",
+    "loadingJurisdiction": "Ana loda ikon…",
+    "nothingToFile": "Babu dawowar da ake jira a gabatar da shi - duk lokacin rufewa an ƙaddamar da shi.",
+    "fileNext": "Fayil na gaba: {{name}}",
+    "steps": {
+      "review": "Bita",
+      "validate": "Tabbatar da",
+      "declare": "Bayyana & sallama",
+      "ack": "Yabo"
+    },
+    "runValidation": "Gudanar tabbatarwa",
+    "validating": "Yana tabbatarwa…",
+    "submit": "Aika {{form}}",
+    "submitting": "Ana ƙaddamarwa…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Adadin yanar gizo",
+    "submitted": "An ƙaddamar",
+    "filedOn": "An shigar da shi",
+    "regime": {
+      "authority": "Hukuma",
+      "channel": "Shiga tashar",
+      "return": "Komawa",
+      "due": "Sakamakon",
+      "standardRate": "Daidaitaccen ƙimar",
+      "threshold": "Ƙofar yin rajista"
+    },
+    "demoNote": "Bayanan demo daga ginannen harajin izgili na API - an kwaikwayi filaye da biyan kuɗi kuma ba a aika komai zuwa hukumar haraji."
+  },
+  "fx": {
+    "title": "Kudin waje",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Sabon lissafin FX / lissafin",
+    "kpi": {
+      "netExposure": "Bayanin FX Net",
+      "openDocs": "{{count}} buɗaɗɗen takardu",
+      "unrealized": "Riba/asara mara ganewa",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Gane wannan shekara",
+      "lastReval": "Ƙimar ƙarshe",
+      "never": "Taba",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Buɗe abubuwa",
+      "settled": "Zaure",
+      "revaluation": "Ƙimar ƙarshen wata",
+      "journal": "Jaridar FX"
+    },
+    "col": {
+      "document": "Takardu",
+      "type": "Nau'in",
+      "openForeign": "Bude (baje)",
+      "bookedNow": "An yi rajista / yanzu",
+      "valueIn": "Daraja a {{base}}",
+      "unrealized": "Ba a gane ba",
+      "status": "Matsayi",
+      "amount": "Adadin",
+      "bookedRate": "Adadin da aka yi rajista",
+      "realized": "Gane"
+    },
+    "receivable": "Mai karɓa",
+    "payable": "Mai biya",
+    "receive": "Karba",
+    "pay": "Biya",
+    "netIn": "Net a {{base}}",
+    "state": {
+      "settled": "Zaure",
+      "partial": "An zaunar da bangare",
+      "open": "Bude"
+    },
+    "demoNote": "Bayanan demo daga ginannen izgili na API - ana ƙididdige ƙimar ƙima, ba bayanan kasuwa kai tsaye ba."
+  }
+}

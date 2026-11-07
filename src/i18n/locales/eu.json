@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Egunez Egun",
+      "finance": "Finantza",
+      "advanced": "Aurreratua"
+    },
+    "mainMenu": "Menu nagusia",
+    "short": {
+      "parties": "Alderdiak"
+    },
+    "sections": {
+      "dashboard": "Aginte-panela",
+      "sales": "Salmentak",
+      "receivables": "Dirua sartu",
+      "procurement": "Erosketak",
+      "payables": "Dirua Atera",
+      "cashbank": "Kutxa eta Bankua",
+      "expenses": "Gastuak",
+      "tax": "Zerga",
+      "reports": "Txostenak",
+      "advanced-features": "Ezaugarri aurreratuak",
+      "parties": "Bezeroak eta hornitzaileak",
+      "inventory": "Elementuak",
+      "assets": "Aktibo finkoa",
+      "masters": "Konfigurazioa eta konfigurazioa",
+      "business-tools": "Taldea eta tresnak",
+      "party-tools": "Festa tresnak",
+      "item-tools": "Elementu-tresnak",
+      "storage": "Dokumentuak",
+      "alerts": "Alertak",
+      "migration": "Datuen Migrazioa"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ikuspegi orokorra",
+        "cash-flow": "Diru-fluxua",
+        "tax-calendar": "Zerga Egutegia"
+      },
+      "sales": {
+        "quotations": "Aipamenak",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Faktura",
+        "delivery-challans": "Bidalketa Challan",
+        "receipts": "Ordainagiria",
+        "invoice-desk": "Fakturaren Mahaia"
+      },
+      "receivables": {
+        "money-in-center": "Dirua Zentroan",
+        "receivables": "Hartzekoak",
+        "payments-received": "Jasotako ordainketak",
+        "overdue-collections": "Bildumak eta abisuak",
+        "credit-notes": "Kreditu oharrak eta itzulketak",
+        "sales-returns": "Salmenten Itzulketak",
+        "customer-statements": "Bezeroen adierazpenak",
+        "payment-links": "Ordainketa Estekak"
+      },
+      "procurement": {
+        "purchase-center": "Erosketa Zentroa",
+        "purchase-orders": "Erosketa Aginduak",
+        "goods-receipt": "Salgaien Sarrera",
+        "purchase-invoices": "Erosketa-fakturak",
+        "payment-out": "Egindako ordainketak",
+        "returns-debit-notes": "Itzulketak eta zordunketa oharrak",
+        "bill-approvals": "Fakturaren Onarpenak"
+      },
+      "payables": {
+        "bills": "Ordainketa Zentroa",
+        "payments": "Hornitzaileen Ordainketak",
+        "workforce": "Langileria",
+        "adjustments": "Egokitzapenak",
+        "bank-release": "Banku-oharra"
+      },
+      "cashbank": {
+        "bank-accounts": "Nire kontuak",
+        "reconciliation": "Lotu transakzioak",
+        "cash-petty": "Kutxa Txikia",
+        "contra": "Kontuen artean",
+        "cheque-register": "Txekeak",
+        "foreign-currency": "Atzerriko Moneta",
+        "bank-feeds": "Banku jarioak",
+        "bank-rules": "Arauak eta adiskidetzea"
+      },
+      "expenses": {
+        "expense-center": "Gastu guztiak",
+        "categories": "Gastu motak",
+        "automated-bills": "Aldizkako gastuak",
+        "journal-vouchers": "Eskuzko Sarrerak",
+        "provisions": "Sortzapenak",
+        "write-offs": "Bajatzeak",
+        "period-close": "Hilabete-Amaiera"
+      },
+      "tax": {
+        "gst-returns": "GST fitxategia",
+        "gst-filing-wizard": "⚡ GSTR-3B fitxategia",
+        "gst-reconciliation": "GST parekatzea",
+        "e-invoicing": "Faktura Elektronikoak",
+        "e-way-bills": "E-Way fakturak",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Ordaindu Zerga",
+        "quarterly-compliance": "Betetze Egutegia",
+        "ca-access": "CA Aldi baterako Sarbidea",
+        "gst-from-books": "Liburuen GST"
+      },
+      "reports": {
+        "financial-statements": "Finantza Txostenak",
+        "books": "Transakzio Liburuak",
+        "gst-reports": "GST txostenak",
+        "ar-ap": "Hartzekoak vs Ordainketak",
+        "profitability": "Errentagarritasuna",
+        "period-comparatives": "Urteen Konparaketa",
+        "budget-vs-actuals": "Aurrekontuen jarraipena",
+        "cashflow-projection": "Diru-iragarpena",
+        "report-builder": "Txosten pertsonalizatuak",
+        "general-ledger": "Liburu Nagusia",
+        "live-financials": "Zuzeneko Finantza",
+        "ai-analyst": "AI analista"
+      },
+      "advanced-features": {
+        "overview": "Ikuspegi orokorra"
+      },
+      "parties": {
+        "all-parties": "Alderdi guztiak",
+        "customer-ledgers": "Bezeroak",
+        "supplier-ledgers": "Hornitzaileak",
+        "shared-ledger": "Liburuxka partekatua",
+        "statements": "Adierazpenak",
+        "reminders": "Oroigarriak",
+        "documents": "Alderdi Agiriak",
+        "portal": "Alderdien Ataria",
+        "import": "Alderdien inportazioa",
+        "duplicate-merge": "Bikoiztu bateratzea",
+        "gap-analysis": "Hutsuneen Analisia"
+      },
+      "inventory": {
+        "inventory-items": "Elementuak",
+        "godowns": "Biltegiak",
+        "stock-movement": "Stock Mugimendua",
+        "item-pricing": "Prezioak",
+        "stock-valuation": "Stocken Balorazioa",
+        "reorder-alerts": "Berrantolatu alertak",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barra-kodeen etiketak",
+        "item-import": "Elementuen inportazioa",
+        "gap-analysis": "Hutsuneen Analisia"
+      },
+      "assets": {
+        "asset-register": "Aktiboen Zerrenda",
+        "depreciation": "Amortizazioa",
+        "disposal-revaluation": "Saldu edo birbaloratu"
+      },
+      "masters": {
+        "chart-of-accounts": "Kontuen zerrenda",
+        "tax-masters": "Zerga-tasak",
+        "cost-centers": "Kostu Zentroak",
+        "voucher-types": "Transakzio motak",
+        "opening-balances": "Hasierako balantzeak",
+        "currencies": "Monetak"
+      },
+      "business-tools": {
+        "staff-payroll": "Nomina",
+        "manage-users": "Erabiltzaileen sarbidea",
+        "online-orders": "Online Eskaerak",
+        "sms-marketing": "SMS Marketina",
+        "accountant-hub": "Kontu-hartzaileak eta laguntza"
+      },
+      "party-tools": {
+        "documents": "Alderdi Agiriak",
+        "portal": "Alderdien Ataria",
+        "import": "Alderdien inportazioa",
+        "duplicate-merge": "Bikoiztu bateratzea",
+        "gap-analysis": "Hutsuneen Analisia"
+      },
+      "item-tools": {
+        "reorder-alerts": "Berrantolatu alertak",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barra-kodeen etiketak",
+        "item-import": "Elementuen inportazioa",
+        "gap-analysis": "Hutsuneen Analisia"
+      },
+      "storage": {
+        "client-storage": "Bezeroaren fitxategiak",
+        "unifiedtree-storage": "Hodeiko biltegiratzea"
+      },
+      "alerts": {
+        "accountant-alerts": "Kontu kontularien alertak",
+        "compliance-alerts": "Betetze alertak",
+        "cash-risk-alerts": "Dirua eta Arriskuaren Alertak",
+        "ca-access": "CA Aldi baterako Sarbidea"
+      },
+      "migration": {
+        "import": "Inportatu datuak",
+        "export": "Esportatu datuak",
+        "history": "Inportatu historia",
+        "tally-import": "Inportatu Tally & Zoho-tik"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Erosketak eta Ordainketak",
+      "accountingSetup": "Kontabilitatearen konfigurazioa",
+      "dataDocuments": "Datuak eta dokumentuak"
+    }
+  },
+  "common": {
+    "save": "Gorde aldaketak",
+    "cancel": "Utzi",
+    "create": "Sortu",
+    "edit": "Editatu",
+    "delete": "Ezabatu",
+    "search": "Bilatu",
+    "connect": "Konektatu",
+    "configure": "Konfiguratu",
+    "disconnect": "Deskonektatu",
+    "sync": "Sinkronizatu orain",
+    "close": "Itxi",
+    "reset": "Berrezarri lehenespenetara",
+    "back": "Itzuli",
+    "continue": "Jarraitu",
+    "all": "Denak",
+    "retry": "Saiatu berriro",
+    "loading": "Kargatzen…",
+    "resetDemo": "Berrezarri demo-datuak"
+  },
+  "shell": {
+    "searchPlaceholder": "Bilatu ezer...",
+    "settings": "Ezarpenak",
+    "language": "Hizkuntza",
+    "role": "Rola",
+    "greeting": {
+      "morning": "Egun on",
+      "afternoon": "Arratsalde on",
+      "evening": "Arratsalde on"
+    },
+    "settingsItems": {
+      "company-profile": "Enpresaren profila",
+      "configuration": "Konfigurazioa",
+      "fiscal-periods": "Epe Fiskalak",
+      "roles": "Rolak eta erabiltzaileak",
+      "integrations": "Integrazioak",
+      "notifications": "Jakinarazpenak",
+      "audit-logs": "Ikuskaritza eta erregistroak",
+      "audit-trail": "Tamper-froga Ikuskaritza Trail",
+      "developer": "Garatzailea eta APIa"
+    },
+    "translatedLanguages": "Itzuliak",
+    "untranslatedLanguages": "Ingelesa itzuli arte"
+  },
+  "status": {
+    "filed": "Artxibatua",
+    "ready": "Fitxatzeko prest",
+    "open": "Epea zabalik",
+    "paid": "Ordaindua",
+    "pending": "Zain",
+    "accepted": "Onartua",
+    "delivered": "Entregatua",
+    "rejected": "Baztertua",
+    "pdf-sent": "PDF bidali da",
+    "not-sent": "Ez da bidali",
+    "matched": "Parekatua",
+    "mismatch": "Bat ez datoz",
+    "missing-supplier": "Hornitzaileak ez du jakinarazi",
+    "missing-books": "Liburuetan falta da",
+    "deferred": "Atzeratua",
+    "deducted": "Kenduta",
+    "remitted": "Igorria",
+    "certified": "Ziurtagiria",
+    "to-report": "Salatzeko",
+    "reported": "Salatua",
+    "accounted": "Kontatua",
+    "overdue": "Atzeratuta"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Fitxatzeko prest",
+      "liabilityDue": "Erantzukizuna",
+      "paidThisYear": "Aurten ordainduta",
+      "nextDeadline": "Hurrengo epea",
+      "noneOverdue": "Bat ere ez dago atzeratuta",
+      "overdue": "{{count}} atzeratuta"
+    },
+    "filter": {
+      "ready": "Fitxatzeko prest",
+      "open": "Ireki",
+      "filed": "Artxibatua"
+    },
+    "col": {
+      "period": "Aldia",
+      "authority": "Agintea",
+      "rate": "Tarifa",
+      "due": "Ondorioz",
+      "netPayable": "Ordaingarri garbia",
+      "status": "Egoera",
+      "ack": "Aitorpena"
+    },
+    "file": "Fitxategia",
+    "view": "Ikusi",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Eskumena kargatzen…",
+    "nothingToFile": "Ez dago itzulketarik aurkezteko zain; itxitako epe guztiak bidaltzen dira.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Berrikuspena",
+      "validate": "Baliozkotu",
+      "declare": "Deklaratu eta bidali",
+      "ack": "Aitorpena"
+    },
+    "runValidation": "Exekutatu baliozkotzea",
+    "validating": "Balioztatzen…",
+    "submit": "Submit {{form}}",
+    "submitting": "Bidaltzen…",
+    "declaration": "Aitortzen dut aitorpen honetako informazioa egiazkoa eta osoa dela, eta {{authority}}-ri bidaltzeko baimena dudala.",
+    "netAmount": "Zenbateko garbia",
+    "submitted": "Aurkeztua",
+    "filedOn": "On artxibatua",
+    "regime": {
+      "authority": "Agintea",
+      "channel": "Artxibatzeko kanala",
+      "return": "Itzuli",
+      "due": "Ondorioz",
+      "standardRate": "Tarifa estandarra",
+      "threshold": "Erregistratzeko atalasea"
+    },
+    "demoNote": "Zerga API integratuaren demo-datuak - fitxategiak eta ordainketak simulatzen dira eta ez zaio ezer bidaltzen zerga-agintaritzari."
+  },
+  "fx": {
+    "title": "Atzerriko Moneta",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "FX faktura / faktura berria",
+    "kpi": {
+      "netExposure": "FX esposizio garbia",
+      "openDocs": "{{count}} dokumentu irekita",
+      "unrealized": "Errealizatu gabeko irabazi/galera",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Aurten konturatu da",
+      "lastReval": "Azken errebalorazioa",
+      "never": "Inoiz ez",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Ireki elementuak",
+      "settled": "Finkatuta",
+      "revaluation": "Hilabete amaierako errebalorazioa",
+      "journal": "FX aldizkaria"
+    },
+    "col": {
+      "document": "Dokumentua",
+      "type": "Mota",
+      "openForeign": "Irekia (atzerrikoa)",
+      "bookedNow": "Erreserbatua / orain",
+      "valueIn": "Balioa {{base}}-n",
+      "unrealized": "Gauzatu gabe",
+      "status": "Egoera",
+      "amount": "Zenbatekoa",
+      "bookedRate": "Erreserbatutako tarifa",
+      "realized": "Konturatu"
+    },
+    "receivable": "Hartzekoa",
+    "payable": "Ordaindu beharrekoa",
+    "receive": "Jaso",
+    "pay": "Ordaindu",
+    "netIn": "Sarea {{base}}n",
+    "state": {
+      "settled": "Finkatuta",
+      "partial": "Partez finkatuta",
+      "open": "Ireki"
+    },
+    "demoNote": "Eraikitako API simulatuaren demo-datuak — tasak simulatzen dira, ez merkatuko datuak."
+  }
+}

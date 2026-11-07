@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Da biara da",
+      "finance": "Sikasɛm",
+      "advanced": "Kɔ anim"
+    },
+    "mainMenu": "Menu Titiriw",
+    "short": {
+      "parties": "Apontow ahorow"
+    },
+    "sections": {
+      "dashboard": "Dashboard a wɔde kyerɛw nsɛm",
+      "sales": "Adetɔn",
+      "receivables": "Sika Wɔ",
+      "procurement": "Nneɛma a Wɔtɔ",
+      "payables": "Sika a Wɔde Fi Afiri Mu",
+      "cashbank": "Sika & Sikakorabea",
+      "expenses": "Ɛka",
+      "tax": "Towtua ho ka",
+      "reports": "Amanneɛbɔ ahorow",
+      "advanced-features": "Nneɛma a Ɛkɔ Anim",
+      "parties": "Adetɔfo & Wɔn a Wɔde Nneɛma Ma",
+      "inventory": "Nneɛma",
+      "assets": "Agyapade a Ɛnyɛ Den",
+      "masters": "Nsiesiei & Nsiesiei",
+      "business-tools": "Team & Nnwinnade a Wɔde Yɛ Adwuma",
+      "party-tools": "Party Nnwinnade",
+      "item-tools": "Nneɛma a Wɔde Yɛ Nnwinnade",
+      "storage": "Nwoma a wɔde kyerɛw",
+      "alerts": "Kɔkɔbɔ ahorow",
+      "migration": "Data a Wɔde Tu Kɔ baabi foforo"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Nsɛm a wɔaka abom",
+        "cash-flow": "Sika a Wɔde Di Dwuma",
+        "tax-calendar": "Towtua Kalenda"
+      },
+      "sales": {
+        "quotations": "Nsɛm a wɔafa aka",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Kadan krataa",
+        "delivery-challans": "Nneɛma a Wɔde Kɔma Challan",
+        "receipts": "Adansekrataa",
+        "invoice-desk": "Invoice Desk a Wɔde Yɛ Adwuma"
+      },
+      "receivables": {
+        "money-in-center": "Sika Wɔ Center",
+        "receivables": "Nneɛma a ɛsɛ sɛ wogye",
+        "payments-received": "Katua a Wogye",
+        "overdue-collections": "Nneɛma a Wɔaboaboa Ano & Nkaebɔ",
+        "credit-notes": "Credit Notes & Sika a Wɔsan De Ma",
+        "sales-returns": "Adetɔn ho Nsɛm a Wɔsan de Ba",
+        "customer-statements": "Adetɔfo Nsɛm a Wɔka",
+        "payment-links": "Nkitahodi a Wɔde Tua Ka"
+      },
+      "procurement": {
+        "purchase-center": "Adetɔbea Beae",
+        "purchase-orders": "Nneɛma a Wɔkra",
+        "goods-receipt": "Nneɛma a Wɔgye",
+        "purchase-invoices": "Nneɛma a Wɔde Totɔ Nneɛma",
+        "payment-out": "Katua a Wɔatua",
+        "returns-debit-notes": "Sankɔhwɛ & Debit Nsɛm a Wɔakyerɛw",
+        "bill-approvals": "Bill a Wɔpene So"
+      },
+      "payables": {
+        "bills": "Akatua Dwumadibea",
+        "payments": "Nneɛma a Wɔde Ma no Katua",
+        "workforce": "Adwumayɛfo a wɔyɛ adwumaden",
+        "adjustments": "Nsakrae a wɔyɛ",
+        "bank-release": "Sikakorabea a Wɔde Gyae"
+      },
+      "cashbank": {
+        "bank-accounts": "Me Akontaabu",
+        "reconciliation": "Match Nkitahodi",
+        "cash-petty": "Sika nketenkete",
+        "contra": "Akontaabu Ntam",
+        "cheque-register": "Nhwehwɛmu ahorow",
+        "foreign-currency": "Amannɔne Sika a Wɔde Di Dwuma",
+        "bank-feeds": "Sikakorabea Nneɛma a Wɔde Ma",
+        "bank-rules": "Mmara & Mpata"
+      },
+      "expenses": {
+        "expense-center": "Ka a Wɔbɔ Nyinaa",
+        "categories": "Ɛka Ahorow a Wɔbɔ",
+        "automated-bills": "Ka a Wɔbɔ no Mpɛn pii",
+        "journal-vouchers": "Nsaano Nkyerɛwee",
+        "provisions": "Nneɛma a wɔaboaboa ano",
+        "write-offs": "Nsɛm a wɔkyerɛw gu krataa so",
+        "period-close": "Ɔsram-Awiei"
+      },
+      "tax": {
+        "gst-returns": "GST Filing a Wɔde To gua",
+        "gst-filing-wizard": "⚡ Fael GSTR-3B",
+        "gst-reconciliation": "GST a ɛne ne ho hyia",
+        "e-invoicing": "E-Invoices a wɔde tua ho ka",
+        "e-way-bills": "E-Way Mmara a Wɔde To gua",
+        "tds": "TDS na ɛwɔ hɔ",
+        "tcs": "TCS na ɛwɔ hɔ",
+        "tax-payments": "Tua Towtua",
+        "quarterly-compliance": "Kalenda a Wɔde Di Dwuma So",
+        "ca-access": "CA Bere Tiaa mu Nkɔso",
+        "gst-from-books": "GST a efi Nhoma ahorow mu"
+      },
+      "reports": {
+        "financial-statements": "Sikasɛm ho Amanneɛbɔ",
+        "books": "Nkitahodi Nhoma ahorow",
+        "gst-reports": "GST Amanneɛbɔ ahorow",
+        "ar-ap": "Nneɛma a Wogye vs Nea ɛsɛ sɛ wotua",
+        "profitability": "Mfaso a wonya fi mu",
+        "period-comparatives": "Afe Ntotoho",
+        "budget-vs-actuals": "Budget Tracker a Wɔde Di Dwuma",
+        "cashflow-projection": "Sika Ho Nkɔmhyɛ",
+        "report-builder": "Amanneɛbɔ a Wɔayɛ no Amanneɛbɔ",
+        "general-ledger": "Ɔmanpanyin Nhomakorabea",
+        "live-financials": "Live Sikasɛm ho nsɛm",
+        "ai-analyst": "AI Nhwehwɛmufo"
+      },
+      "advanced-features": {
+        "overview": "Nsɛm a wɔaka abom"
+      },
+      "parties": {
+        "all-parties": "Afã horow no nyinaa",
+        "customer-ledgers": "Adetɔfo",
+        "supplier-ledgers": "Wɔn a wɔde nneɛma ma",
+        "shared-ledger": "Nhomakorabea a Wɔkyɛ",
+        "statements": "Nsɛm a wɔka",
+        "reminders": "Nkaebɔ ahorow",
+        "documents": "Party Nwoma a Wɔde Yɛ Adwuma",
+        "portal": "Party Portal a Wɔde Di Dwuma",
+        "import": "Party Import a Wɔde Ba amannɔne",
+        "duplicate-merge": "Duplicate Merge a Ɛyɛ Duplicate",
+        "gap-analysis": "Gap Nhwehwɛmu"
+      },
+      "inventory": {
+        "inventory-items": "Nneɛma",
+        "godowns": "Adekoradan ahorow",
+        "stock-movement": "Stock Kuw a Wɔde Di Dwuma",
+        "item-pricing": "Nneɛma bo a wɔbɔ",
+        "stock-valuation": "Stock Bo a Wɔkyerɛ",
+        "reorder-alerts": "San hyehyɛ kɔkɔbɔ ahorow",
+        "batch-serials": "Batch & Nsɛm a Wɔahyehyɛ",
+        "barcode-labels": "Barcode Nkyerɛwde a Wɔde Di Dwuma",
+        "item-import": "Nneɛma a Wɔde Ba amannɔne",
+        "gap-analysis": "Gap Nhwehwɛmu"
+      },
+      "assets": {
+        "asset-register": "Agyapadeɛ a Wɔahyehyɛ",
+        "depreciation": "Nneɛma bo a ɛkɔ fam",
+        "disposal-revaluation": "Tɔn anaa Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Akontaabu a Wɔahyehyɛ",
+        "tax-masters": "Towtua a Wɔbɔ",
+        "cost-centers": "Mmeae a Wɔbɔ Ka",
+        "voucher-types": "Nkitahodi Ahorow",
+        "opening-balances": "Nneɛma a Ɛkari pɛ a Wofi Ase",
+        "currencies": "Sika a wɔde di dwuma"
+      },
+      "business-tools": {
+        "staff-payroll": "Akatua ho nhyehyɛe",
+        "manage-users": "Ɔdefoɔ a Wɔde Di Dwuma",
+        "online-orders": "Intanɛt so Nneɛma a Wɔkra",
+        "sms-marketing": "SMS Marketing a Wɔde Di Dwuma",
+        "accountant-hub": "Akontaabufo & Mmoa"
+      },
+      "party-tools": {
+        "documents": "Party Nwoma a Wɔde Yɛ Adwuma",
+        "portal": "Party Portal a Wɔde Di Dwuma",
+        "import": "Party Import a Wɔde Ba amannɔne",
+        "duplicate-merge": "Duplicate Merge a Ɛyɛ Duplicate",
+        "gap-analysis": "Gap Nhwehwɛmu"
+      },
+      "item-tools": {
+        "reorder-alerts": "San hyehyɛ kɔkɔbɔ ahorow",
+        "batch-serials": "Batch & Nsɛm a Wɔahyehyɛ",
+        "barcode-labels": "Barcode Nkyerɛwde a Wɔde Di Dwuma",
+        "item-import": "Nneɛma a Wɔde Ba amannɔne",
+        "gap-analysis": "Gap Nhwehwɛmu"
+      },
+      "storage": {
+        "client-storage": "Client Fael ahorow",
+        "unifiedtree-storage": "Mununkum mu Nneɛma a Wɔkora So"
+      },
+      "alerts": {
+        "accountant-alerts": "Akontaabufo Kɔkɔbɔ",
+        "compliance-alerts": "Kɔkɔbɔ a Ɛma Wodi Mmara So",
+        "cash-risk-alerts": "Sika & Asiane Ho Kɔkɔbɔ",
+        "ca-access": "CA Bere Tiaa mu Nkɔso"
+      },
+      "migration": {
+        "import": "Fa Data a Wɔde Ba amannɔne",
+        "export": "Fa Data Kɔ Amannɔne",
+        "history": "Import Abakɔsɛm",
+        "tally-import": "Fa fi Tally & Zoho ba"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Adetɔ & Nneɛma a Wɔtua",
+      "accountingSetup": "Akontaabu Nhyehyɛe",
+      "dataDocuments": "Data & Nwoma a Wɔde Yɛ Adwuma"
+    }
+  },
+  "common": {
+    "save": "Fa Nsakrae Sie",
+    "cancel": "Twam",
+    "create": "Yɛ",
+    "edit": "Sa mu",
+    "delete": "Pepa",
+    "search": "Hwehwɛ",
+    "connect": "Fa ka ho",
+    "configure": "Hyehyɛ",
+    "disconnect": "Twa nkitahodi no mu",
+    "sync": "Sync Mprempren",
+    "close": "To mu",
+    "reset": "San fa kɔ Defaults so",
+    "back": "Akyire",
+    "continue": "Toa so",
+    "all": "Nyinaa",
+    "retry": "San bɔ mmɔden bio",
+    "loading": "Loading...",
+    "resetDemo": "Reset demo data no bio"
+  },
+  "shell": {
+    "searchPlaceholder": "Hwehwɛ biribiara...",
+    "settings": "Nsiesiei a Wɔde Yɛ Adwuma",
+    "language": "Kasa",
+    "role": "Asodie",
+    "greeting": {
+      "morning": "Mema wo akye",
+      "afternoon": "Mema wo aha",
+      "evening": "Mema wo adwo"
+    },
+    "settingsItems": {
+      "company-profile": "Adwumakuw no Ho Nsɛm",
+      "configuration": "Nsiesiei a Wɔde Yɛ Adwuma",
+      "fiscal-periods": "Sikasɛm Mmere",
+      "roles": "Dwumadie & Wɔn a Wɔde Di Dwuma",
+      "integrations": "Nneɛma a wɔde ka bom",
+      "notifications": "Amanneɛbɔ ahorow",
+      "audit-logs": "Audit & Nsɛm a Wɔakyerɛw",
+      "audit-trail": "Audit Trail a wontumi nsɛe no",
+      "developer": "Ɔdebɔneyɛfo & API"
+    },
+    "translatedLanguages": "Wɔakyerɛ ase",
+    "untranslatedLanguages": "Twi kosi sɛ wɔbɛkyerɛ ase"
+  },
+  "status": {
+    "filed": "Wɔde too gua",
+    "ready": "Wɔasiesie ne ho sɛ wɔde bɛfa fael",
+    "open": "Bere a wɔabue",
+    "paid": "Atua",
+    "pending": "Retwɛn",
+    "accepted": "Wogye tom",
+    "delivered": "De kɔeɛ",
+    "rejected": "Wɔapow no",
+    "pdf-sent": "PDF a wɔde menae",
+    "not-sent": "Wɔnsomaa no",
+    "matched": "Nea ɛne no hyia",
+    "mismatch": "Nsɛm a ɛnhyia",
+    "missing-supplier": "Ɛnyɛ nea ɔde nneɛma ma no na ɔbɔɔ amanneɛ",
+    "missing-books": "Ɛyera wɔ nhoma ahorow mu",
+    "deferred": "Wɔatwe akɔ akyiri",
+    "deducted": "Wɔatwa mu",
+    "remitted": "Wɔde akɔma",
+    "certified": "Wɔagye atom",
+    "to-report": "Sɛ yɛbɛbɔ amanneɛ",
+    "reported": "Wɔbɔɔ amanneɛ",
+    "accounted": "Wɔabu akontaa",
+    "overdue": "Bere a atwam"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Wɔasiesie ne ho sɛ wɔde bɛfa fael",
+      "liabilityDue": "Asɛyɛde a ɛsɛ sɛ wotua",
+      "paidThisYear": "Wɔatua ho ka afe yi",
+      "nextDeadline": "Da a edi hɔ a wɔde bɛma",
+      "noneOverdue": "Biara nni hɔ a ɛboro so",
+      "overdue": "{{count}} a atwam"
+    },
+    "filter": {
+      "ready": "Wɔasiesie ne ho sɛ wɔde bɛfa fael",
+      "open": "Bue",
+      "filed": "Wɔde too gua"
+    },
+    "col": {
+      "period": "Berɛ",
+      "authority": "Tumi",
+      "rate": "Hyehyɛ",
+      "due": "Aso",
+      "netPayable": "Net a ɛsɛ sɛ wotua",
+      "status": "Gyinabea",
+      "ack": "Gye a wogye tom"
+    },
+    "file": "Faale",
+    "view": "Hwɛ",
+    "fileForm": "Fael {{form}} .",
+    "loadingJurisdiction": "Loading tumidi...",
+    "nothingToFile": "No returns no ntwɛn sɛ wɔde bɛkɔ — wɔde bere a wɔato mu nyinaa akɔ.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Hwɛ mu",
+      "validate": "Gye sɛ ɛyɛ nokware",
+      "declare": "Pae mu ka & fa kɔma",
+      "ack": "Gye a wogye tom"
+    },
+    "runValidation": "Tu mmirika validation no",
+    "validating": "Validating...",
+    "submit": "Fa {{form}} mena.",
+    "submitting": "Wɔde rekɔma...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Net sika a wɔde asie",
+    "submitted": "Wɔde akɔma",
+    "filedOn": "Wɔde too gua wɔ",
+    "regime": {
+      "authority": "Tumi",
+      "channel": "Filing kwan a wɔfa so yɛ adwuma",
+      "return": "San",
+      "due": "Aso",
+      "standardRate": "Standard rate a wɔde di dwuma",
+      "threshold": "Ahyɛnsode a wɔde kyerɛw wɔn din"
+    },
+    "demoNote": "Demo data a efi mock tax API a wɔasisi mu — filings ne payments yɛ simulated na wɔmfa biribiara nkɔma towtua mpanyimfo."
+  },
+  "fx": {
+    "title": "Amannɔne Sika a Wɔde Di Dwuma",
+    "subtitle": "Base sika {{base}} · kyerɛ mock gua so boɔ",
+    "newDoc": "FX invoice / sika foforo",
+    "kpi": {
+      "netExposure": "Net FX a wɔda no adi",
+      "openDocs": "{{count}} bue nkrataa",
+      "unrealized": "Mfaso / adehwere a wontumi nhu",
+      "postedSplit": "{{posted}} posted · {{unposted}} nnya nyɛɛ saa",
+      "realized": "Wɔahu afe yi",
+      "lastReval": "Nea etwa to a wɔsan de boa bo",
+      "never": "Da",
+      "suggested": "Wɔahyɛ nyansa sɛ: {{date}}"
+    },
+    "view": {
+      "open": "Bue nneɛma",
+      "settled": "Wɔasiesie wɔn ho",
+      "revaluation": "Ɔsram awiei bo a wɔsan de boa",
+      "journal": "FX nsɛmma nhoma"
+    },
+    "col": {
+      "document": "Nwoma",
+      "type": "Korɔ",
+      "openForeign": "Bue (ahɔho) .",
+      "bookedNow": "Wɔakyerɛw / mprempren",
+      "valueIn": "Botae a ɛwɔ {{base}} mu.",
+      "unrealized": "Nea wontumi nhu",
+      "status": "Gyinabea",
+      "amount": "Sika",
+      "bookedRate": "Booked rate a wɔakyerɛw",
+      "realized": "Ahunu"
+    },
+    "receivable": "Nea ɛsɛ sɛ wogye",
+    "payable": "Nea ɛsɛ sɛ wotua",
+    "receive": "Gye",
+    "pay": "Tua",
+    "netIn": "Net wɔ {{base}} mu.",
+    "state": {
+      "settled": "Wɔasiesie wɔn ho",
+      "partial": "Wɔasiesie no fã bi",
+      "open": "Bue"
+    },
+    "demoNote": "Demo data a efi mock API a wɔasisi mu — rates yɛ simulated, ɛnyɛ live market data."
+  }
+}

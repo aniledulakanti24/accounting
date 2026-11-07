@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Jou-a-Jou",
+      "finance": "Finans",
+      "advanced": "Avanse"
+    },
+    "mainMenu": "Meni prensipal la",
+    "short": {
+      "parties": "Pati yo"
+    },
+    "sections": {
+      "dashboard": "Dachboard",
+      "sales": "Komèsyal",
+      "receivables": "Lajan Nan",
+      "procurement": "Acha",
+      "payables": "Lajan soti",
+      "cashbank": "Lajan Kach ak Bank",
+      "expenses": "Depans",
+      "tax": "Taks",
+      "reports": "Rapò",
+      "advanced-features": "Karakteristik avanse",
+      "parties": "Kliyan & Founisè",
+      "inventory": "Atik",
+      "assets": "Byen Fiks",
+      "masters": "Enstalasyon & Konfigirasyon",
+      "business-tools": "Ekip & Zouti",
+      "party-tools": "Zouti Pati",
+      "item-tools": "Atik Zouti",
+      "storage": "Dokiman",
+      "alerts": "Alèt",
+      "migration": "Done Migrasyon"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Apèsi sou lekòl la",
+        "cash-flow": "Flux Lajan Kach",
+        "tax-calendar": "Kalandriye taks"
+      },
+      "sales": {
+        "quotations": "Sityasyon yo",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fakti",
+        "delivery-challans": "Livrezon Challan",
+        "receipts": "resi",
+        "invoice-desk": "Biwo fakti"
+      },
+      "receivables": {
+        "money-in-center": "Lajan nan Sant",
+        "receivables": "Resevwa",
+        "payments-received": "Peman Resevwa",
+        "overdue-collections": "Koleksyon ak rapèl",
+        "credit-notes": "Nòt kredi ak ranbousman",
+        "sales-returns": "Komèsyal retounen",
+        "customer-statements": "Deklarasyon Kliyan yo",
+        "payment-links": "Lyen Peman"
+      },
+      "procurement": {
+        "purchase-center": "Sant Achte",
+        "purchase-orders": "Lòd Acha",
+        "goods-receipt": "Resi machandiz",
+        "purchase-invoices": "Achte fakti",
+        "payment-out": "Peman yo fèt",
+        "returns-debit-notes": "Retounen ak Nòt Debi",
+        "bill-approvals": "Apwobasyon Bill"
+      },
+      "payables": {
+        "bills": "Sant Peman",
+        "payments": "Peman Founisè yo",
+        "workforce": "Mendèv",
+        "adjustments": "Ajisteman",
+        "bank-release": "Bank Liberasyon"
+      },
+      "cashbank": {
+        "bank-accounts": "Kont mwen yo",
+        "reconciliation": "Koresponn ak Tranzaksyon yo",
+        "cash-petty": "Ti Lajan Kach",
+        "contra": "Ant Kont",
+        "cheque-register": "Chèk",
+        "foreign-currency": "Lajan Etranje",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Règ ak rekonsilyasyon"
+      },
+      "expenses": {
+        "expense-center": "Tout Depans",
+        "categories": "Kalite depans",
+        "automated-bills": "Depans renouvlab",
+        "journal-vouchers": "Antre manyèl yo",
+        "provisions": "Akizisyon",
+        "write-offs": "Ekri-off",
+        "period-close": "Mwa-Fen"
+      },
+      "tax": {
+        "gst-returns": "Depoze GST",
+        "gst-filing-wizard": "⚡ Fichye GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-Bakti",
+        "e-way-bills": "Bòdwo E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Peye Taks",
+        "quarterly-compliance": "Kalandriye Konfòmite",
+        "ca-access": "CA Aksè Tanporè",
+        "gst-from-books": "GST soti nan Liv"
+      },
+      "reports": {
+        "financial-statements": "Rapò Finansye",
+        "books": "Liv Tranzaksyon",
+        "gst-reports": "Rapò GST",
+        "ar-ap": "Resevwa vs Peyab",
+        "profitability": "Rentabilite",
+        "period-comparatives": "Ane Konparezon",
+        "budget-vs-actuals": "Bidjè Tracker",
+        "cashflow-projection": "Pwevwa Lajan Kach",
+        "report-builder": "Rapò koutim",
+        "general-ledger": "Jeneral Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI analis"
+      },
+      "advanced-features": {
+        "overview": "Apèsi sou lekòl la"
+      },
+      "parties": {
+        "all-parties": "Tout Pati yo",
+        "customer-ledgers": "Kliyan yo",
+        "supplier-ledgers": "Founisè yo",
+        "shared-ledger": "Ledger pataje",
+        "statements": "Deklarasyon",
+        "reminders": "Rapèl",
+        "documents": "Dokiman Pati yo",
+        "portal": "Portal Pati",
+        "import": "Pati Import",
+        "duplicate-merge": "Duplike Merge",
+        "gap-analysis": "Analiz Gap"
+      },
+      "inventory": {
+        "inventory-items": "Atik",
+        "godowns": "Depo",
+        "stock-movement": "Mouvman Stock",
+        "item-pricing": "Pricing",
+        "stock-valuation": "Valyasyon Stock",
+        "reorder-alerts": "Rekòmande Alèt yo",
+        "batch-serials": "Pakèt & Serial",
+        "barcode-labels": "Etikèt Barcode",
+        "item-import": "Enpòte atik",
+        "gap-analysis": "Analiz Gap"
+      },
+      "assets": {
+        "asset-register": "Lis Byen",
+        "depreciation": "Depresyasyon",
+        "disposal-revaluation": "Vann oswa Revalorize"
+      },
+      "masters": {
+        "chart-of-accounts": "Lis kont yo",
+        "tax-masters": "Pousantaj taks",
+        "cost-centers": "Sant Pri",
+        "voucher-types": "Kalite tranzaksyon yo",
+        "opening-balances": "Kòmanse Balans",
+        "currencies": "Lajan"
+      },
+      "business-tools": {
+        "staff-payroll": "Pewòl",
+        "manage-users": "Aksè itilizatè",
+        "online-orders": "Lòd sou entènèt",
+        "sms-marketing": "SMS Maketing",
+        "accountant-hub": "Kontab ak sipò"
+      },
+      "party-tools": {
+        "documents": "Dokiman Pati yo",
+        "portal": "Portal Pati",
+        "import": "Pati Import",
+        "duplicate-merge": "Duplike Merge",
+        "gap-analysis": "Analiz Gap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Rekòmande Alèt yo",
+        "batch-serials": "Pakèt & Serial",
+        "barcode-labels": "Etikèt Barcode",
+        "item-import": "Enpòte atik",
+        "gap-analysis": "Analiz Gap"
+      },
+      "storage": {
+        "client-storage": "Dosye Kliyan",
+        "unifiedtree-storage": "Depo nwaj"
+      },
+      "alerts": {
+        "accountant-alerts": "Alèt Kontab",
+        "compliance-alerts": "Avètisman Konfòmite",
+        "cash-risk-alerts": "Alèt Lajan Kach ak Risk",
+        "ca-access": "CA Aksè Tanporè"
+      },
+      "migration": {
+        "import": "Enpòte Done",
+        "export": "Ekspòtasyon Done",
+        "history": "Enpòte istwa",
+        "tally-import": "Enpòte soti nan Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Acha & Peman",
+      "accountingSetup": "Enstalasyon Kontablite",
+      "dataDocuments": "Done ak Dokiman"
+    }
+  },
+  "common": {
+    "save": "Sove Chanjman yo",
+    "cancel": "Anile",
+    "create": "Kreye",
+    "edit": "Edit",
+    "delete": "Efase",
+    "search": "Rechèch",
+    "connect": "Konekte",
+    "configure": "Konfigirasyon",
+    "disconnect": "Dekonekte",
+    "sync": "Senkronize kounye a",
+    "close": "Fèmen",
+    "reset": "Reyajiste nan Defo",
+    "back": "Retounen",
+    "continue": "Kontinye",
+    "all": "Tout",
+    "retry": "Eseye ankò",
+    "loading": "Chaje…",
+    "resetDemo": "Reyajiste done Demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Chèche anyen...",
+    "settings": "Anviwònman",
+    "language": "Lang",
+    "role": "Wòl",
+    "greeting": {
+      "morning": "Bon maten",
+      "afternoon": "Bon apremidi",
+      "evening": "Bonswa"
+    },
+    "settingsItems": {
+      "company-profile": "Konpayi Profile",
+      "configuration": "Konfigirasyon",
+      "fiscal-periods": "Peryòd Fiskal yo",
+      "roles": "Wòl & Itilizatè yo",
+      "integrations": "Entegrasyon",
+      "notifications": "Notifikasyon",
+      "audit-logs": "Odit ak mòso bwa",
+      "audit-trail": "Trail odit ki pa gen okenn falsifikasyon",
+      "developer": "Devlopè ak API"
+    },
+    "translatedLanguages": "Tradui",
+    "untranslatedLanguages": "Angle jiskaske yo tradui"
+  },
+  "status": {
+    "filed": "Depoze",
+    "ready": "Pare pou ranpli",
+    "open": "Peryòd louvri",
+    "paid": "Peye",
+    "pending": "annatant",
+    "accepted": "Aksepte",
+    "delivered": "Livre",
+    "rejected": "Rejte",
+    "pdf-sent": "PDF voye",
+    "not-sent": "Pa voye",
+    "matched": "Matche",
+    "mismatch": "Dezakò",
+    "missing-supplier": "Pa rapòte pa founisè",
+    "missing-books": "Manke nan liv",
+    "deferred": "Difere",
+    "deducted": "Dedwi",
+    "remitted": "Remèt",
+    "certified": "Sètifye",
+    "to-report": "Pou rapòte",
+    "reported": "Rapòte",
+    "accounted": "Kontab",
+    "overdue": "Anreta"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Pare pou ranpli",
+      "liabilityDue": "Responsablite akòz",
+      "paidThisYear": "Peye ane sa a",
+      "nextDeadline": "Pwochen dat limit",
+      "noneOverdue": "Okenn anreta",
+      "overdue": "{{count}} anreta"
+    },
+    "filter": {
+      "ready": "Pare pou ranpli",
+      "open": "Louvri",
+      "filed": "Depoze"
+    },
+    "col": {
+      "period": "Peryòd",
+      "authority": "Otorite",
+      "rate": "Pousantaj",
+      "due": "Akoz",
+      "netPayable": "Net peyab",
+      "status": "Estati",
+      "ack": "Rekonesans"
+    },
+    "file": "File",
+    "view": "View",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Chaje jiridiksyon...",
+    "nothingToFile": "Pa gen okenn deklarasyon k ap tann pou yo ranpli - tout peryòd fèmen yo soumèt.",
+    "fileNext": "Fichye pwochen: {{name}}",
+    "steps": {
+      "review": "Revizyon",
+      "validate": "Valide",
+      "declare": "Deklare & soumèt",
+      "ack": "Rekonesans"
+    },
+    "runValidation": "Kouri validation",
+    "validating": "Validasyon...",
+    "submit": "Submit {{form}}",
+    "submitting": "Soumèt…",
+    "declaration": "Mwen deklare enfòmasyon ki nan deklarasyon sa a se vre e konplè, epi mwen gen otorizasyon pou m soumèt yo bay {{authority}}.",
+    "netAmount": "Montan nèt",
+    "submitted": "Soumèt",
+    "filedOn": "Depoze sou",
+    "regime": {
+      "authority": "Otorite",
+      "channel": "Chanèl depoze",
+      "return": "Retounen",
+      "due": "Akoz",
+      "standardRate": "To estanda",
+      "threshold": "Papòt enskripsyon an"
+    },
+    "demoNote": "Done demonstrasyon ki soti nan API mock taks ki entegre yo — depoze ak peman yo similye epi pa gen anyen yo voye bay yon otorite taks."
+  },
+  "fx": {
+    "title": "Lajan Etranje",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Nouvo fakti / bòdwo FX",
+    "kpi": {
+      "netExposure": "Net FX ekspoze",
+      "openDocs": "{{count}} dokiman louvri",
+      "unrealized": "Pwofi / pèt ki pa reyalize",
+      "postedSplit": "{{posted}} poste · {{unposted}} poko",
+      "realized": "Reyalize ane sa a",
+      "lastReval": "Dènye revalorizasyon",
+      "never": "Pa janm",
+      "suggested": "Sigjere: {{date}}"
+    },
+    "view": {
+      "open": "Louvri atik yo",
+      "settled": "Rete",
+      "revaluation": "Revalorizasyon nan fen mwa",
+      "journal": "FX jounal"
+    },
+    "col": {
+      "document": "Dokiman",
+      "type": "Kalite",
+      "openForeign": "Louvri (etranje)",
+      "bookedNow": "Rezève / kounye a",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Pa reyalize",
+      "status": "Estati",
+      "amount": "Kantite lajan",
+      "bookedRate": "Pousantaj rezève",
+      "realized": "Reyalize"
+    },
+    "receivable": "Resevwa",
+    "payable": "Peyab",
+    "receive": "Resevwa",
+    "pay": "Peye",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Rete",
+      "partial": "Pati-regle",
+      "open": "Louvri"
+    },
+    "demoNote": "Done Demo ki soti nan API mok entegre - pousantaj yo similye, pa done mache ap viv la."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Дзень у дзень",
+      "finance": "Фінансы",
+      "advanced": "Пашыраны"
+    },
+    "mainMenu": "Галоўнае меню",
+    "short": {
+      "parties": "Вячоркі"
+    },
+    "sections": {
+      "dashboard": "Прыборная панэль",
+      "sales": "Продажы",
+      "receivables": "Грошы ў",
+      "procurement": "Пакупкі",
+      "payables": "Money Out",
+      "cashbank": "Наяўныя грошы і банк",
+      "expenses": "Выдаткі",
+      "tax": "падатак",
+      "reports": "Даклады",
+      "advanced-features": "Пашыраныя магчымасці",
+      "parties": "Кліенты і пастаўшчыкі",
+      "inventory": "Прадметы",
+      "assets": "Асноўныя сродкі",
+      "masters": "Настройка і канфігурацыя",
+      "business-tools": "Каманда і інструменты",
+      "party-tools": "Партыя інструменты",
+      "item-tools": "Пункт Інструменты",
+      "storage": "Дакументы",
+      "alerts": "Абвесткі",
+      "migration": "Перанос дадзеных"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Агляд",
+        "cash-flow": "Грашовы паток",
+        "tax-calendar": "Падатковы каляндар"
+      },
+      "sales": {
+        "quotations": "Цытаты",
+        "proforma-invoices": "ПІ",
+        "sales-invoices": "Рахунак-фактура",
+        "delivery-challans": "Дастаўка Шалан",
+        "receipts": "Квітанцыя",
+        "invoice-desk": "Стол для рахункаў"
+      },
+      "receivables": {
+        "money-in-center": "Грошы ў цэнтры",
+        "receivables": "Дэбіторская запазычанасць",
+        "payments-received": "Плацяжы атрыманы",
+        "overdue-collections": "Калекцыі і напаміны",
+        "credit-notes": "Крэдытныя нататкі і кампенсацыі",
+        "sales-returns": "Вяртанне продажаў",
+        "customer-statements": "Заявы кліентаў",
+        "payment-links": "Спасылкі для аплаты"
+      },
+      "procurement": {
+        "purchase-center": "Цэнтр закупак",
+        "purchase-orders": "Заказы на закупку",
+        "goods-receipt": "Таварны чэк",
+        "purchase-invoices": "Рахункі-фактуры на куплю",
+        "payment-out": "Плацяжы зроблены",
+        "returns-debit-notes": "Вяртанне і дэбетавыя навіны",
+        "bill-approvals": "Адабрэнне законапраектаў"
+      },
+      "payables": {
+        "bills": "Аплатны цэнтр",
+        "payments": "Плацяжы пастаўшчыкоў",
+        "workforce": "Рабочая сіла",
+        "adjustments": "Карэкціроўкі",
+        "bank-release": "Рэліз банка"
+      },
+      "cashbank": {
+        "bank-accounts": "Мае рахункі",
+        "reconciliation": "Супадзенне транзакцый",
+        "cash-petty": "Дробныя грошы",
+        "contra": "Паміж рахункамі",
+        "cheque-register": "Праверкі",
+        "foreign-currency": "Замежная валюта",
+        "bank-feeds": "Банкаўскія каналы",
+        "bank-rules": "Правілы і ўзгадненне"
+      },
+      "expenses": {
+        "expense-center": "Усе выдаткі",
+        "categories": "Віды выдаткаў",
+        "automated-bills": "Перыядычныя выдаткі",
+        "journal-vouchers": "Ручныя запісы",
+        "provisions": "Налічэнні",
+        "write-offs": "Спісанні",
+        "period-close": "Канец месяца"
+      },
+      "tax": {
+        "gst-returns": "Падача GST",
+        "gst-filing-wizard": "⚡ Файл GSTR-3B",
+        "gst-reconciliation": "Супастаўленне GST",
+        "e-invoicing": "Электронныя рахункі-фактуры",
+        "e-way-bills": "Электронныя накладныя",
+        "tds": "TDS",
+        "tcs": "ТКС",
+        "tax-payments": "Плаціць падатак",
+        "quarterly-compliance": "Каляндар адпаведнасці",
+        "ca-access": "Часовы доступ CA",
+        "gst-from-books": "GST з кніг"
+      },
+      "reports": {
+        "financial-statements": "Фінансавыя справаздачы",
+        "books": "Кнігі транзакцый",
+        "gst-reports": "GST Справаздачы",
+        "ar-ap": "Дэбіторская запазычанасць супраць крэдыторскай",
+        "profitability": "Рэнтабельнасць",
+        "period-comparatives": "Параўнанне года",
+        "budget-vs-actuals": "Бюджэтны трэкер",
+        "cashflow-projection": "Касавы прагноз",
+        "report-builder": "Карыстальніцкія справаздачы",
+        "general-ledger": "Галоўная кніга",
+        "live-financials": "Жывыя фінансы",
+        "ai-analyst": "Аналітык штучнага інтэлекту"
+      },
+      "advanced-features": {
+        "overview": "Агляд"
+      },
+      "parties": {
+        "all-parties": "Усе бакі",
+        "customer-ledgers": "Кліенты",
+        "supplier-ledgers": "Пастаўшчыкі",
+        "shared-ledger": "Агульная кніга",
+        "statements": "Заявы",
+        "reminders": "Напаміны",
+        "documents": "Партыйныя дакументы",
+        "portal": "Партыйны партал",
+        "import": "Партыйны імпарт",
+        "duplicate-merge": "Аб'яднанне дублікатаў",
+        "gap-analysis": "Аналіз прабелаў"
+      },
+      "inventory": {
+        "inventory-items": "Прадметы",
+        "godowns": "Склады",
+        "stock-movement": "Фондавы рух",
+        "item-pricing": "Цэнаўтварэнне",
+        "stock-valuation": "Ацэнка акцый",
+        "reorder-alerts": "Змяніць парадак абвестак",
+        "batch-serials": "Пакетная і серыйная",
+        "barcode-labels": "Этыкеткі са штрых-кодам",
+        "item-import": "Імпарт прадметаў",
+        "gap-analysis": "Аналіз прабелаў"
+      },
+      "assets": {
+        "asset-register": "Спіс актываў",
+        "depreciation": "Амартызацыя",
+        "disposal-revaluation": "Прадаць або пераацаніць"
+      },
+      "masters": {
+        "chart-of-accounts": "Спіс рахункаў",
+        "tax-masters": "Падатковыя стаўкі",
+        "cost-centers": "Цэнтры выдаткаў",
+        "voucher-types": "Тыпы транзакцый",
+        "opening-balances": "Пачатковы баланс",
+        "currencies": "Валюты"
+      },
+      "business-tools": {
+        "staff-payroll": "Разлік заработнай платы",
+        "manage-users": "Доступ карыстальнікаў",
+        "online-orders": "Інтэрнэт-заказы",
+        "sms-marketing": "SMS маркетынг",
+        "accountant-hub": "Бухгалтары і падтрымка"
+      },
+      "party-tools": {
+        "documents": "Партыйныя дакументы",
+        "portal": "Партыйны партал",
+        "import": "Партыйны імпарт",
+        "duplicate-merge": "Аб'яднанне дублікатаў",
+        "gap-analysis": "Аналіз прабелаў"
+      },
+      "item-tools": {
+        "reorder-alerts": "Змяніць парадак абвестак",
+        "batch-serials": "Пакетная і серыйная",
+        "barcode-labels": "Этыкеткі са штрых-кодам",
+        "item-import": "Імпарт прадметаў",
+        "gap-analysis": "Аналіз прабелаў"
+      },
+      "storage": {
+        "client-storage": "Кліенцкія файлы",
+        "unifiedtree-storage": "Воблачнае сховішча"
+      },
+      "alerts": {
+        "accountant-alerts": "Абвесткі бухгалтара",
+        "compliance-alerts": "Абвесткі адпаведнасці",
+        "cash-risk-alerts": "Абвесткі аб наяўнасці і рызыцы",
+        "ca-access": "Часовы доступ CA"
+      },
+      "migration": {
+        "import": "Імпарт дадзеных",
+        "export": "Экспарт дадзеных",
+        "history": "Гісторыя імпарту",
+        "tally-import": "Імпарт з Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Пакупкі і плацяжы",
+      "accountingSetup": "Налада ўліку",
+      "dataDocuments": "Дадзеныя і дакументы"
+    }
+  },
+  "common": {
+    "save": "Захаваць змены",
+    "cancel": "Адмяніць",
+    "create": "Ствараць",
+    "edit": "Рэдагаваць",
+    "delete": "Выдаліць",
+    "search": "Пошук",
+    "connect": "Злучыцца",
+    "configure": "Наладзіць",
+    "disconnect": "Адключыцца",
+    "sync": "Сінхранізаваць зараз",
+    "close": "Блізка",
+    "reset": "Скінуць да налад па змаўчанні",
+    "back": "Назад",
+    "continue": "Працягнуць",
+    "all": "Усе",
+    "retry": "Паўтарыць",
+    "loading": "Загрузка...",
+    "resetDemo": "Скінуць дэма-дадзеныя"
+  },
+  "shell": {
+    "searchPlaceholder": "Шукайце што заўгодна…",
+    "settings": "Налады",
+    "language": "мова",
+    "role": "Роля",
+    "greeting": {
+      "morning": "Добрай раніцы",
+      "afternoon": "Добры дзень",
+      "evening": "Добры вечар"
+    },
+    "settingsItems": {
+      "company-profile": "Профіль кампаніі",
+      "configuration": "Канфігурацыя",
+      "fiscal-periods": "Фінансавыя перыяды",
+      "roles": "Ролі і карыстальнікі",
+      "integrations": "Інтэграцыі",
+      "notifications": "Апавяшчэнні",
+      "audit-logs": "Аўдыт і часопісы",
+      "audit-trail": "Аўдытны след, абаронены ад падробак",
+      "developer": "Распрацоўшчык і API"
+    },
+    "translatedLanguages": "Пераклаў",
+    "untranslatedLanguages": "Англійская да перакладу"
+  },
+  "status": {
+    "filed": "Пададзены",
+    "ready": "Гатовы да падачы",
+    "open": "Перыяд адкрыты",
+    "paid": "Платна",
+    "pending": "У чаканні",
+    "accepted": "Прынята",
+    "delivered": "Дастаўлены",
+    "rejected": "Адхілена",
+    "pdf-sent": "PDF адпраўлены",
+    "not-sent": "Не адпраўлена",
+    "matched": "Супала",
+    "mismatch": "Неадпаведнасць",
+    "missing-supplier": "Пастаўшчык не паведамляе",
+    "missing-books": "Адсутнічае ў кнігах",
+    "deferred": "Адкладзена",
+    "deducted": "Адлічваецца",
+    "remitted": "Пералічана",
+    "certified": "Сертыфікаваны",
+    "to-report": "Дакладваць",
+    "reported": "Паведамлена",
+    "accounted": "Accounted",
+    "overdue": "Пратэрмінаваны"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Гатовы да падачы",
+      "liabilityDue": "Liability due",
+      "paidThisYear": "Paid this year",
+      "nextDeadline": "Next deadline",
+      "noneOverdue": "None overdue",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Гатовы да падачы",
+      "open": "Адкрыты",
+      "filed": "Пададзены"
+    },
+    "col": {
+      "period": "Кропка",
+      "authority": "Authority",
+      "rate": "Стаўка",
+      "due": "Due",
+      "netPayable": "Чыстая запазычанасць",
+      "status": "Статус",
+      "ack": "Acknowledgement"
+    },
+    "file": "File",
+    "view": "Выгляд",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Loading jurisdiction…",
+    "nothingToFile": "Ніякія дэкларацыі не чакаюць падачы — прадстаўлены ўсе закрытыя перыяды.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Агляд",
+      "validate": "Validate",
+      "declare": "Declare & submit",
+      "ack": "Acknowledgement"
+    },
+    "runValidation": "Run validation",
+    "validating": "Validating…",
+    "submit": "Submit {{form}}",
+    "submitting": "Submitting…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Сума чыстая",
+    "submitted": "Адпраўлена",
+    "filedOn": "Filed on",
+    "regime": {
+      "authority": "Authority",
+      "channel": "Filing channel",
+      "return": "Вярнуцца",
+      "due": "Due",
+      "standardRate": "Standard rate",
+      "threshold": "Registration threshold"
+    },
+    "demoNote": "Дэманстрацыйныя даныя з убудаванага імітаванага падатковага API — дэкларацыі і плацяжы мадэлююцца, і нічога не адпраўляецца ў падатковы орган."
+  },
+  "fx": {
+    "title": "Замежная валюта",
+    "subtitle": "Базавая валюта {{base}} · арыентыровачныя рыначныя курсы",
+    "newDoc": "New FX invoice / bill",
+    "kpi": {
+      "netExposure": "Net FX exposure",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Unrealized gain / loss",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Realized this year",
+      "lastReval": "Last revaluation",
+      "never": "ніколі",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Open items",
+      "settled": "Settled",
+      "revaluation": "Month-end revaluation",
+      "journal": "FX journal"
+    },
+    "col": {
+      "document": "Дакумент",
+      "type": "Тып",
+      "openForeign": "Адкрыты (замежны)",
+      "bookedNow": "Забраніравана / цяпер",
+      "valueIn": "Значэнне ў {{base}}",
+      "unrealized": "Нерэалізаваны",
+      "status": "Статус",
+      "amount": "Сума",
+      "bookedRate": "Забраніраваны тарыф",
+      "realized": "Усвядоміў"
+    },
+    "receivable": "Дэбіторская запазычанасць",
+    "payable": "Выплачваецца",
+    "receive": "Атрымлівайце",
+    "pay": "Плаціць",
+    "netIn": "Сетка ў {{base}}",
+    "state": {
+      "settled": "Разлічаны",
+      "partial": "Часткова асел",
+      "open": "Адкрыты"
+    },
+    "demoNote": "Дэманстрацыйныя дадзеныя з убудаванага макетнага API - стаўкі змадэляваны, а не рэальныя рынкавыя дадзеныя."
+  }
+}

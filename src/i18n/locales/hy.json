@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ամեն օր",
+      "finance": "Ֆինանսներ",
+      "advanced": "Ընդլայնված"
+    },
+    "mainMenu": "Հիմնական մենյու",
+    "short": {
+      "parties": "Կուսակցություններ"
+    },
+    "sections": {
+      "dashboard": "Վահանակ",
+      "sales": "Վաճառք",
+      "receivables": "Փող Մուտք",
+      "procurement": "Գնումներ",
+      "payables": "Փող դուրս",
+      "cashbank": "Կանխիկ և բանկ",
+      "expenses": "Ծախսեր",
+      "tax": "Հարկային",
+      "reports": "Հաշվետվություններ",
+      "advanced-features": "Ընդլայնված հատկություններ",
+      "parties": "Հաճախորդներ և Մատակարարներ",
+      "inventory": "Նյութեր",
+      "assets": "Հիմնական միջոցներ",
+      "masters": "Կարգավորում և կազմաձևում",
+      "business-tools": "Թիմ և գործիքներ",
+      "party-tools": "Կուսակցության գործիքներ",
+      "item-tools": "Նյութի Գործիքներ",
+      "storage": "Փաստաթղթեր",
+      "alerts": "Ահազանգեր",
+      "migration": "Տվյալների միգրացիա"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ընդհանուր ակնարկ",
+        "cash-flow": "Դրամական հոսքեր",
+        "tax-calendar": "Հարկային օրացույց"
+      },
+      "sales": {
+        "quotations": "Մեջբերումներ",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Հաշիվ-ապրանքագիր",
+        "delivery-challans": "Առաքում Challan",
+        "receipts": "Անդորրագիր",
+        "invoice-desk": "Հաշիվների գրասեղան"
+      },
+      "receivables": {
+        "money-in-center": "Փող Կենտրոնում",
+        "receivables": "Դեբիտորական պարտքեր",
+        "payments-received": "Ստացված վճարումներ",
+        "overdue-collections": "Հավաքածուներ և հիշեցումներ",
+        "credit-notes": "Վարկային նշումներ և վերադարձումներ",
+        "sales-returns": "Վաճառքի եկամուտներ",
+        "customer-statements": "Հաճախորդների հայտարարություններ",
+        "payment-links": "Վճարման հղումներ"
+      },
+      "procurement": {
+        "purchase-center": "Գնումների կենտրոն",
+        "purchase-orders": "Գնման պատվերներ",
+        "goods-receipt": "Ապրանքների անդորրագիր",
+        "purchase-invoices": "Գնումների հաշիվ-ապրանքագրեր",
+        "payment-out": "Կատարված վճարումներ",
+        "returns-debit-notes": "Վերադարձի և դեբետային նշումներ",
+        "bill-approvals": "Օրինագծի հաստատումներ"
+      },
+      "payables": {
+        "bills": "Վճարային կենտրոն",
+        "payments": "Մատակարարների վճարումներ",
+        "workforce": "Աշխատուժ",
+        "adjustments": "Կարգավորումներ",
+        "bank-release": "Բանկի թողարկում"
+      },
+      "cashbank": {
+        "bank-accounts": "Իմ հաշիվները",
+        "reconciliation": "Համապատասխան գործարքներ",
+        "cash-petty": "Մանր կանխիկ",
+        "contra": "Հաշիվների միջև",
+        "cheque-register": "Չեկեր",
+        "foreign-currency": "Արտարժույթ",
+        "bank-feeds": "Բանկային հոսքեր",
+        "bank-rules": "Կանոններ և հաշտեցում"
+      },
+      "expenses": {
+        "expense-center": "Բոլոր ծախսերը",
+        "categories": "Ծախսերի տեսակները",
+        "automated-bills": "Կրկնվող ծախսեր",
+        "journal-vouchers": "Ձեռնարկի գրառումներ",
+        "provisions": "Հաշվարկներ",
+        "write-offs": "Դուրսգրումներ",
+        "period-close": "Ամսվա վերջ"
+      },
+      "tax": {
+        "gst-returns": "GST ներկայացում",
+        "gst-filing-wizard": "⚡ Ֆայլ GSTR-3B",
+        "gst-reconciliation": "GST համընկնում",
+        "e-invoicing": "Էլեկտրոնային հաշիվ-ապրանքագրեր",
+        "e-way-bills": "E-Way հաշիվներ",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Վճարեք հարկ",
+        "quarterly-compliance": "Համապատասխանության օրացույց",
+        "ca-access": "CA ժամանակավոր մուտք",
+        "gst-from-books": "GST գրքերից"
+      },
+      "reports": {
+        "financial-statements": "Ֆինանսական հաշվետվություններ",
+        "books": "Գործարքների գրքեր",
+        "gst-reports": "GST հաշվետվություններ",
+        "ar-ap": "Դեբիտորական պարտքեր ընդդեմ կրեդիտորական պարտքերի",
+        "profitability": "Շահութաբերություն",
+        "period-comparatives": "Տարվա համեմատություն",
+        "budget-vs-actuals": "Բյուջեի հետքեր",
+        "cashflow-projection": "Կանխիկի կանխատեսում",
+        "report-builder": "Պատվերով հաշվետվություններ",
+        "general-ledger": "Գլխավոր Լեջեր",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI վերլուծաբան"
+      },
+      "advanced-features": {
+        "overview": "Ընդհանուր ակնարկ"
+      },
+      "parties": {
+        "all-parties": "Բոլոր Կողմերը",
+        "customer-ledgers": "Հաճախորդներ",
+        "supplier-ledgers": "Մատակարարներ",
+        "shared-ledger": "Համօգտագործվող մատյան",
+        "statements": "Հայտարարություններ",
+        "reminders": "Հիշեցումներ",
+        "documents": "Կուսակցության փաստաթղթեր",
+        "portal": "Կուսակցության պորտալ",
+        "import": "Կուսակցության ներմուծում",
+        "duplicate-merge": "Կրկնօրինակ միաձուլում",
+        "gap-analysis": "Բացերի վերլուծություն"
+      },
+      "inventory": {
+        "inventory-items": "Նյութեր",
+        "godowns": "Պահեստներ",
+        "stock-movement": "Ֆոնդային շարժում",
+        "item-pricing": "Գնագոյացում",
+        "stock-valuation": "Բաժնետոմսերի գնահատում",
+        "reorder-alerts": "Վերադասավորեք զգուշացումները",
+        "batch-serials": "Խմբաքանակ և սերիական",
+        "barcode-labels": "Շտրիխ կոդերի պիտակներ",
+        "item-import": "Նյութի ներմուծում",
+        "gap-analysis": "Բացերի վերլուծություն"
+      },
+      "assets": {
+        "asset-register": "Ակտիվների ցուցակ",
+        "depreciation": "Արժեզրկում",
+        "disposal-revaluation": "Վաճառել կամ վերագնահատել"
+      },
+      "masters": {
+        "chart-of-accounts": "Հաշիվների ցանկ",
+        "tax-masters": "Հարկային դրույքաչափեր",
+        "cost-centers": "Ծախսերի կենտրոններ",
+        "voucher-types": "Գործարքների տեսակները",
+        "opening-balances": "Մեկնարկային մնացորդներ",
+        "currencies": "Արժույթներ"
+      },
+      "business-tools": {
+        "staff-payroll": "Աշխատավարձ",
+        "manage-users": "Օգտագործողի մուտք",
+        "online-orders": "Առցանց պատվերներ",
+        "sms-marketing": "SMS մարքեթինգ",
+        "accountant-hub": "Հաշվապահներ և աջակցություն"
+      },
+      "party-tools": {
+        "documents": "Կուսակցության փաստաթղթեր",
+        "portal": "Կուսակցության պորտալ",
+        "import": "Կուսակցության ներմուծում",
+        "duplicate-merge": "Կրկնօրինակ միաձուլում",
+        "gap-analysis": "Բացերի վերլուծություն"
+      },
+      "item-tools": {
+        "reorder-alerts": "Վերադասավորեք զգուշացումները",
+        "batch-serials": "Խմբաքանակ և սերիական",
+        "barcode-labels": "Շտրիխ կոդերի պիտակներ",
+        "item-import": "Նյութի ներմուծում",
+        "gap-analysis": "Բացերի վերլուծություն"
+      },
+      "storage": {
+        "client-storage": "Հաճախորդի Ֆայլեր",
+        "unifiedtree-storage": "Ամպային պահեստավորում"
+      },
+      "alerts": {
+        "accountant-alerts": "Հաշվապահի ահազանգեր",
+        "compliance-alerts": "Համապատասխանության ազդանշաններ",
+        "cash-risk-alerts": "Կանխիկի և ռիսկի մասին ահազանգեր",
+        "ca-access": "CA ժամանակավոր մուտք"
+      },
+      "migration": {
+        "import": "Ներմուծման տվյալները",
+        "export": "Արտահանման տվյալները",
+        "history": "Ներմուծման պատմություն",
+        "tally-import": "Ներմուծում Tally & Zoho-ից"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Գնումներ և վճարումներ",
+      "accountingSetup": "Հաշվապահական հաշվառման կարգավորում",
+      "dataDocuments": "Տվյալներ և փաստաթղթեր"
+    }
+  },
+  "common": {
+    "save": "Պահպանել փոփոխությունները",
+    "cancel": "Չեղարկել",
+    "create": "Ստեղծել",
+    "edit": "Խմբագրել",
+    "delete": "Ջնջել",
+    "search": "Որոնում",
+    "connect": "Միացնել",
+    "configure": "Կարգավորել",
+    "disconnect": "Անջատել",
+    "sync": "Համաժամացնել հիմա",
+    "close": "Փակել",
+    "reset": "Վերականգնել լռելյայն",
+    "back": "Ետ",
+    "continue": "Շարունակեք",
+    "all": "Բոլորը",
+    "retry": "Կրկին փորձեք",
+    "loading": "Բեռնվում է…",
+    "resetDemo": "Վերականգնել ցուցադրական տվյալները"
+  },
+  "shell": {
+    "searchPlaceholder": "Որոնել որևէ բան…",
+    "settings": "Կարգավորումներ",
+    "language": "Լեզու",
+    "role": "Դեր",
+    "greeting": {
+      "morning": "Բարի լույս",
+      "afternoon": "Բարի կեսօր",
+      "evening": "Բարի երեկո"
+    },
+    "settingsItems": {
+      "company-profile": "Ընկերության պրոֆիլը",
+      "configuration": "Կոնֆիգուրացիա",
+      "fiscal-periods": "Ֆինանսական ժամանակաշրջաններ",
+      "roles": "Դերեր և օգտվողներ",
+      "integrations": "Ինտեգրումներ",
+      "notifications": "Ծանուցումներ",
+      "audit-logs": "Աուդիտ և գրանցամատյաններ",
+      "audit-trail": "Կեղծիքից պաշտպանված աուդիտի արահետ",
+      "developer": "Մշակող և API"
+    },
+    "translatedLanguages": "Թարգմանված",
+    "untranslatedLanguages": "Անգլերեն մինչև թարգմանվելը"
+  },
+  "status": {
+    "filed": "Ներկայացված",
+    "ready": "Պատրաստ է ֆայլի",
+    "open": "Բաց ժամանակաշրջան",
+    "paid": "Վճարված",
+    "pending": "Սպասվում է",
+    "accepted": "Ընդունված է",
+    "delivered": "Հանձնվել է",
+    "rejected": "Մերժված է",
+    "pdf-sent": "PDF ուղարկվել է",
+    "not-sent": "Չի ուղարկվել",
+    "matched": "Համապատասխանեցված",
+    "mismatch": "Անհամապատասխանություն",
+    "missing-supplier": "Չի հաղորդվում մատակարարի կողմից",
+    "missing-books": "Գրքերում բացակայում է",
+    "deferred": "Հետաձգված",
+    "deducted": "Նվազեցված",
+    "remitted": "Փոխանցված",
+    "certified": "Հավաստագրված",
+    "to-report": "Զեկուցել",
+    "reported": "Հաղորդվել է",
+    "accounted": "Հաշվառված",
+    "overdue": "Ժամկետանց"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Պատրաստ է ֆայլի",
+      "liabilityDue": "Պարտավորություն",
+      "paidThisYear": "Վճարվել է այս տարի",
+      "nextDeadline": "Հաջորդ ժամկետը",
+      "noneOverdue": "Ոչ մի ժամկետանց",
+      "overdue": "{{count}} ժամկետանց"
+    },
+    "filter": {
+      "ready": "Պատրաստ է ֆայլի",
+      "open": "Բաց",
+      "filed": "Ներկայացված"
+    },
+    "col": {
+      "period": "Ժամանակաշրջան",
+      "authority": "Իշխանություն",
+      "rate": "Գնահատել",
+      "due": "Պայմանավորված",
+      "netPayable": "Զուտ վճարման ենթակա",
+      "status": "Կարգավիճակ",
+      "ack": "Ճանաչում"
+    },
+    "file": "Ֆայլ",
+    "view": "Դիտել",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Բեռնվում է իրավասությունը…",
+    "nothingToFile": "Ոչ մի վերադարձ չի սպասում ներկայացնելու. բոլոր փակ ժամկետները ներկայացվում են:",
+    "fileNext": "Հաջորդ ֆայլը՝ {{name}}",
+    "steps": {
+      "review": "Վերանայում",
+      "validate": "Վավերացնել",
+      "declare": "Հայտարարել և ներկայացնել",
+      "ack": "Ճանաչում"
+    },
+    "runValidation": "Գործարկել վավերացումը",
+    "validating": "Վավերացում…",
+    "submit": "Submit {{form}}",
+    "submitting": "Ներկայացվում է…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Զուտ գումար",
+    "submitted": "Ներկայացված է",
+    "filedOn": "Ներկայացված է",
+    "regime": {
+      "authority": "Իշխանություն",
+      "channel": "Ֆայլի ալիք",
+      "return": "Վերադարձ",
+      "due": "Պայմանավորված",
+      "standardRate": "Ստանդարտ դրույքաչափ",
+      "threshold": "Գրանցման շեմը"
+    },
+    "demoNote": "Դեմո տվյալները ներկառուցված կեղծ հարկային API-ից. փաստաթղթերը և վճարումները մոդելավորվում են, և ոչինչ չի ուղարկվում հարկային մարմնին:"
+  },
+  "fx": {
+    "title": "Արտարժույթ",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Նոր արտարժույթի հաշիվ-ապրանքագիր / հաշիվ",
+    "kpi": {
+      "netExposure": "Զուտ արտարժույթի ազդեցություն",
+      "openDocs": "{{count}} բաց փաստաթղթեր",
+      "unrealized": "Չիրականացված շահույթ / կորուստ",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Իրականացվել է ս.թ",
+      "lastReval": "Վերջին վերագնահատում",
+      "never": "Երբեք",
+      "suggested": "Առաջարկվում է՝ {{date}}"
+    },
+    "view": {
+      "open": "Բացեք իրերը",
+      "settled": "Տեղավորվել է",
+      "revaluation": "Ամսվա վերջի վերագնահատում",
+      "journal": "FX ամսագիր"
+    },
+    "col": {
+      "document": "Փաստաթուղթ",
+      "type": "Տեսակ",
+      "openForeign": "Բաց (օտարերկրյա)",
+      "bookedNow": "Ամրագրված / հիմա",
+      "valueIn": "Արժեքը {{base}}-ում",
+      "unrealized": "Չիրականացված",
+      "status": "Կարգավիճակ",
+      "amount": "Գումարը",
+      "bookedRate": "Ամրագրված տոկոսադրույքը",
+      "realized": "Իրականացվեց"
+    },
+    "receivable": "Ստանալի",
+    "payable": "Վճարվող",
+    "receive": "Ստանալ",
+    "pay": "Վճարել",
+    "netIn": "Զուտ {{base}}-ում",
+    "state": {
+      "settled": "Տեղավորվել է",
+      "partial": "Մասնաբնակեցված",
+      "open": "Բաց"
+    },
+    "demoNote": "Դեմո տվյալներ ներկառուցված կեղծ API-ից. դրույքաչափերը մոդելավորված են, այլ ոչ թե շուկայական տվյալներ:"
+  }
+}

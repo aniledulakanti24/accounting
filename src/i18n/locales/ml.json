@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ദൈനംദിന",
+      "finance": "ധനകാര്യം",
+      "advanced": "വിപുലമായ"
+    },
+    "mainMenu": "പ്രധാന മെനു",
+    "short": {
+      "parties": "പാർട്ടികൾ"
+    },
+    "sections": {
+      "dashboard": "ഡാഷ്ബോർഡ്",
+      "sales": "വിൽപ്പന",
+      "receivables": "പണം ഇൻ",
+      "procurement": "വാങ്ങലുകൾ",
+      "payables": "പണം ഔട്ട്",
+      "cashbank": "പണവും ബാങ്കും",
+      "expenses": "ചെലവുകൾ",
+      "tax": "നികുതി",
+      "reports": "റിപ്പോർട്ടുകൾ",
+      "advanced-features": "വിപുലമായ സവിശേഷതകൾ",
+      "parties": "ഉപഭോക്താക്കളും വിതരണക്കാരും",
+      "inventory": "ഇനങ്ങൾ",
+      "assets": "സ്ഥിര ആസ്തികൾ",
+      "masters": "സജ്ജീകരണവും കോൺഫിഗറേഷനും",
+      "business-tools": "ടീമും ഉപകരണങ്ങളും",
+      "party-tools": "പാർട്ടി ടൂളുകൾ",
+      "item-tools": "ഇനം ഉപകരണങ്ങൾ",
+      "storage": "പ്രമാണങ്ങൾ",
+      "alerts": "അലേർട്ടുകൾ",
+      "migration": "ഡാറ്റ മൈഗ്രേഷൻ"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "അവലോകനം",
+        "cash-flow": "പണമൊഴുക്ക്",
+        "tax-calendar": "നികുതി കലണ്ടർ"
+      },
+      "sales": {
+        "quotations": "ഉദ്ധരണികൾ",
+        "proforma-invoices": "പി.ഐ",
+        "sales-invoices": "ഇൻവോയ്സ്",
+        "delivery-challans": "ഡെലിവറി ചലാൻ",
+        "receipts": "രസീത്",
+        "invoice-desk": "ഇൻവോയ്സ് ഡെസ്ക്"
+      },
+      "receivables": {
+        "money-in-center": "കേന്ദ്രത്തിൽ പണം",
+        "receivables": "ലഭിക്കേണ്ടവ",
+        "payments-received": "പേയ്മെൻ്റുകൾ ലഭിച്ചു",
+        "overdue-collections": "ശേഖരങ്ങളും ഓർമ്മപ്പെടുത്തലുകളും",
+        "credit-notes": "ക്രെഡിറ്റ് നോട്ടുകളും റീഫണ്ടുകളും",
+        "sales-returns": "വിൽപ്പന റിട്ടേണുകൾ",
+        "customer-statements": "ഉപഭോക്തൃ പ്രസ്താവനകൾ",
+        "payment-links": "പേയ്മെൻ്റ് ലിങ്കുകൾ"
+      },
+      "procurement": {
+        "purchase-center": "പർച്ചേസ് സെൻ്റർ",
+        "purchase-orders": "പർച്ചേസ് ഓർഡറുകൾ",
+        "goods-receipt": "സാധനങ്ങളുടെ രസീത്",
+        "purchase-invoices": "ഇൻവോയ്‌സുകൾ വാങ്ങുക",
+        "payment-out": "പേയ്മെൻ്റുകൾ നടത്തി",
+        "returns-debit-notes": "റിട്ടേണുകളും ഡെബിറ്റ് നോട്ടുകളും",
+        "bill-approvals": "ബിൽ അംഗീകാരങ്ങൾ"
+      },
+      "payables": {
+        "bills": "പേയ്മെൻ്റ് സെൻ്റർ",
+        "payments": "വിതരണക്കാരൻ്റെ പേയ്‌മെൻ്റുകൾ",
+        "workforce": "തൊഴിൽ ശക്തി",
+        "adjustments": "ക്രമീകരണങ്ങൾ",
+        "bank-release": "ബാങ്ക് റിലീസ്"
+      },
+      "cashbank": {
+        "bank-accounts": "എൻ്റെ അക്കൗണ്ടുകൾ",
+        "reconciliation": "ഇടപാടുകൾ പൊരുത്തപ്പെടുത്തുക",
+        "cash-petty": "പെറ്റി ക്യാഷ്",
+        "contra": "അക്കൗണ്ടുകൾക്കിടയിൽ",
+        "cheque-register": "പരിശോധനകൾ",
+        "foreign-currency": "വിദേശ കറൻസി",
+        "bank-feeds": "ബാങ്ക് ഫീഡുകൾ",
+        "bank-rules": "നിയമങ്ങളും അനുരഞ്ജനവും"
+      },
+      "expenses": {
+        "expense-center": "എല്ലാ ചെലവുകളും",
+        "categories": "ചെലവ് തരങ്ങൾ",
+        "automated-bills": "ആവർത്തന ചെലവുകൾ",
+        "journal-vouchers": "മാനുവൽ എൻട്രികൾ",
+        "provisions": "സമാഹരണങ്ങൾ",
+        "write-offs": "എഴുതിത്തള്ളലുകൾ",
+        "period-close": "മാസാവസാനം"
+      },
+      "tax": {
+        "gst-returns": "ജിഎസ്ടി ഫയലിംഗ്",
+        "gst-filing-wizard": "⚡ GSTR-3B ഫയൽ ചെയ്യുക",
+        "gst-reconciliation": "ജിഎസ്ടി പൊരുത്തം",
+        "e-invoicing": "ഇ-ഇൻവോയ്‌സുകൾ",
+        "e-way-bills": "ഇ-വേ ബില്ലുകൾ",
+        "tds": "ടി.ഡി.എസ്",
+        "tcs": "ടിസിഎസ്",
+        "tax-payments": "നികുതി അടയ്ക്കുക",
+        "quarterly-compliance": "പാലിക്കൽ കലണ്ടർ",
+        "ca-access": "CA താൽക്കാലിക പ്രവേശനം",
+        "gst-from-books": "പുസ്തകങ്ങളിൽ നിന്നുള്ള ജി.എസ്.ടി"
+      },
+      "reports": {
+        "financial-statements": "സാമ്പത്തിക റിപ്പോർട്ടുകൾ",
+        "books": "ഇടപാട് പുസ്തകങ്ങൾ",
+        "gst-reports": "ജിഎസ്ടി റിപ്പോർട്ടുകൾ",
+        "ar-ap": "സ്വീകാര്യതകൾ vs പേയബിളുകൾ",
+        "profitability": "ലാഭക്ഷമത",
+        "period-comparatives": "വർഷം താരതമ്യം",
+        "budget-vs-actuals": "ബജറ്റ് ട്രാക്കർ",
+        "cashflow-projection": "പണ പ്രവചനം",
+        "report-builder": "കസ്റ്റം റിപ്പോർട്ടുകൾ",
+        "general-ledger": "ജനറൽ ലെഡ്ജർ",
+        "live-financials": "ലൈവ് ഫിനാൻഷ്യൽസ്",
+        "ai-analyst": "AI അനലിസ്റ്റ്"
+      },
+      "advanced-features": {
+        "overview": "അവലോകനം"
+      },
+      "parties": {
+        "all-parties": "എല്ലാ പാർട്ടികളും",
+        "customer-ledgers": "ഉപഭോക്താക്കൾ",
+        "supplier-ledgers": "വിതരണക്കാർ",
+        "shared-ledger": "പങ്കിട്ട ലെഡ്ജർ",
+        "statements": "പ്രസ്താവനകൾ",
+        "reminders": "ഓർമ്മപ്പെടുത്തലുകൾ",
+        "documents": "പാർട്ടി രേഖകൾ",
+        "portal": "പാർട്ടി പോർട്ടൽ",
+        "import": "പാർട്ടി ഇറക്കുമതി",
+        "duplicate-merge": "ഡ്യൂപ്ലിക്കേറ്റ് ലയനം",
+        "gap-analysis": "വിടവ് വിശകലനം"
+      },
+      "inventory": {
+        "inventory-items": "ഇനങ്ങൾ",
+        "godowns": "വെയർഹൗസുകൾ",
+        "stock-movement": "സ്റ്റോക്ക് പ്രസ്ഥാനം",
+        "item-pricing": "വിലനിർണ്ണയം",
+        "stock-valuation": "സ്റ്റോക്ക് മൂല്യനിർണ്ണയം",
+        "reorder-alerts": "അലേർട്ടുകൾ പുനഃക്രമീകരിക്കുക",
+        "batch-serials": "ബാച്ച് & സീരിയൽ",
+        "barcode-labels": "ബാർകോഡ് ലേബലുകൾ",
+        "item-import": "ഇനം ഇറക്കുമതി",
+        "gap-analysis": "വിടവ് വിശകലനം"
+      },
+      "assets": {
+        "asset-register": "അസറ്റ് ലിസ്റ്റ്",
+        "depreciation": "മൂല്യത്തകർച്ച",
+        "disposal-revaluation": "വിൽക്കുക അല്ലെങ്കിൽ പുനർമൂല്യനിർണയം നടത്തുക"
+      },
+      "masters": {
+        "chart-of-accounts": "അക്കൗണ്ട് ലിസ്റ്റ്",
+        "tax-masters": "നികുതി നിരക്കുകൾ",
+        "cost-centers": "ചെലവ് കേന്ദ്രങ്ങൾ",
+        "voucher-types": "ഇടപാട് തരങ്ങൾ",
+        "opening-balances": "ബാലൻസുകൾ ആരംഭിക്കുന്നു",
+        "currencies": "കറൻസികൾ"
+      },
+      "business-tools": {
+        "staff-payroll": "ശമ്പളപ്പട്ടിക",
+        "manage-users": "ഉപയോക്തൃ ആക്സസ്",
+        "online-orders": "ഓൺലൈൻ ഓർഡറുകൾ",
+        "sms-marketing": "എസ്എംഎസ് മാർക്കറ്റിംഗ്",
+        "accountant-hub": "അക്കൗണ്ടൻ്റുമാരും പിന്തുണയും"
+      },
+      "party-tools": {
+        "documents": "പാർട്ടി രേഖകൾ",
+        "portal": "പാർട്ടി പോർട്ടൽ",
+        "import": "പാർട്ടി ഇറക്കുമതി",
+        "duplicate-merge": "ഡ്യൂപ്ലിക്കേറ്റ് ലയനം",
+        "gap-analysis": "വിടവ് വിശകലനം"
+      },
+      "item-tools": {
+        "reorder-alerts": "അലേർട്ടുകൾ പുനഃക്രമീകരിക്കുക",
+        "batch-serials": "ബാച്ച് & സീരിയൽ",
+        "barcode-labels": "ബാർകോഡ് ലേബലുകൾ",
+        "item-import": "ഇനം ഇറക്കുമതി",
+        "gap-analysis": "വിടവ് വിശകലനം"
+      },
+      "storage": {
+        "client-storage": "ക്ലയൻ്റ് ഫയലുകൾ",
+        "unifiedtree-storage": "ക്ലൗഡ് സംഭരണം"
+      },
+      "alerts": {
+        "accountant-alerts": "അക്കൗണ്ടൻ്റ് അലേർട്ടുകൾ",
+        "compliance-alerts": "പാലിക്കൽ അലേർട്ടുകൾ",
+        "cash-risk-alerts": "ക്യാഷ് & റിസ്ക് അലേർട്ടുകൾ",
+        "ca-access": "CA താൽക്കാലിക പ്രവേശനം"
+      },
+      "migration": {
+        "import": "ഡാറ്റ ഇറക്കുമതി ചെയ്യുക",
+        "export": "ഡാറ്റ കയറ്റുമതി ചെയ്യുക",
+        "history": "ഇറക്കുമതി ചരിത്രം",
+        "tally-import": "ടാലി & സോഹോയിൽ നിന്ന് ഇറക്കുമതി ചെയ്യുക"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "വാങ്ങലുകളും പേയ്‌മെൻ്റുകളും",
+      "accountingSetup": "അക്കൗണ്ടിംഗ് സജ്ജീകരണം",
+      "dataDocuments": "ഡാറ്റയും പ്രമാണങ്ങളും"
+    }
+  },
+  "common": {
+    "save": "മാറ്റങ്ങൾ സംരക്ഷിക്കുക",
+    "cancel": "റദ്ദാക്കുക",
+    "create": "സൃഷ്ടിക്കുക",
+    "edit": "എഡിറ്റ് ചെയ്യുക",
+    "delete": "ഇല്ലാതാക്കുക",
+    "search": "തിരയുക",
+    "connect": "ബന്ധിപ്പിക്കുക",
+    "configure": "കോൺഫിഗർ ചെയ്യുക",
+    "disconnect": "വിച്ഛേദിക്കുക",
+    "sync": "ഇപ്പോൾ സമന്വയിപ്പിക്കുക",
+    "close": "അടയ്ക്കുക",
+    "reset": "സ്ഥിരസ്ഥിതിയിലേക്ക് പുനഃസജ്ജമാക്കുക",
+    "back": "തിരികെ",
+    "continue": "തുടരുക",
+    "all": "എല്ലാം",
+    "retry": "വീണ്ടും ശ്രമിക്കുക",
+    "loading": "ലോഡ് ചെയ്യുന്നു...",
+    "resetDemo": "ഡെമോ ഡാറ്റ പുനഃസജ്ജമാക്കുക"
+  },
+  "shell": {
+    "searchPlaceholder": "എന്തും തിരയുക...",
+    "settings": "ക്രമീകരണങ്ങൾ",
+    "language": "ഭാഷ",
+    "role": "പങ്ക്",
+    "greeting": {
+      "morning": "സുപ്രഭാതം",
+      "afternoon": "ഗുഡ് ആഫ്റ്റർനൂൺ",
+      "evening": "ഗുഡ് ഈവനിംഗ്"
+    },
+    "settingsItems": {
+      "company-profile": "കമ്പനി പ്രൊഫൈൽ",
+      "configuration": "കോൺഫിഗറേഷൻ",
+      "fiscal-periods": "സാമ്പത്തിക കാലയളവുകൾ",
+      "roles": "റോളുകളും ഉപയോക്താക്കളും",
+      "integrations": "സംയോജനങ്ങൾ",
+      "notifications": "അറിയിപ്പുകൾ",
+      "audit-logs": "ഓഡിറ്റും ലോഗുകളും",
+      "audit-trail": "ടാംപർ പ്രൂഫ് ഓഡിറ്റ് ട്രയൽ",
+      "developer": "ഡെവലപ്പർ & API"
+    },
+    "translatedLanguages": "വിവർത്തനം ചെയ്തു",
+    "untranslatedLanguages": "വിവർത്തനം ചെയ്യുന്നതുവരെ ഇംഗ്ലീഷ്"
+  },
+  "status": {
+    "filed": "ഫയൽ ചെയ്തു",
+    "ready": "ഫയൽ ചെയ്യാൻ തയ്യാറാണ്",
+    "open": "കാലയളവ് തുറന്നിരിക്കുന്നു",
+    "paid": "പണം നൽകി",
+    "pending": "തീർപ്പാക്കാത്തത്",
+    "accepted": "സ്വീകരിച്ചു",
+    "delivered": "എത്തിച്ചു",
+    "rejected": "നിരസിച്ചു",
+    "pdf-sent": "PDF അയച്ചു",
+    "not-sent": "അയച്ചില്ല",
+    "matched": "പൊരുത്തപ്പെട്ടു",
+    "mismatch": "പൊരുത്തക്കേട്",
+    "missing-supplier": "വിതരണക്കാരൻ റിപ്പോർട്ട് ചെയ്തിട്ടില്ല",
+    "missing-books": "പുസ്തകങ്ങളിൽ കാണുന്നില്ല",
+    "deferred": "മാറ്റിവച്ചു",
+    "deducted": "വെട്ടിക്കുറച്ചു",
+    "remitted": "അയച്ചു",
+    "certified": "സാക്ഷ്യപ്പെടുത്തിയത്",
+    "to-report": "റിപ്പോർട്ട് ചെയ്യാൻ",
+    "reported": "റിപ്പോർട്ട് ചെയ്തു",
+    "accounted": "കണക്കു കൂട്ടി",
+    "overdue": "കാലഹരണപ്പെട്ടു"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ഫയൽ ചെയ്യാൻ തയ്യാറാണ്",
+      "liabilityDue": "ബാധ്യത",
+      "paidThisYear": "ഈ വർഷം പണം നൽകി",
+      "nextDeadline": "അടുത്ത സമയപരിധി",
+      "noneOverdue": "ഒന്നും കാലഹരണപ്പെട്ടില്ല",
+      "overdue": "{{count}} കാലഹരണപ്പെട്ടു"
+    },
+    "filter": {
+      "ready": "ഫയൽ ചെയ്യാൻ തയ്യാറാണ്",
+      "open": "തുറക്കുക",
+      "filed": "ഫയൽ ചെയ്തു"
+    },
+    "col": {
+      "period": "കാലഘട്ടം",
+      "authority": "അധികാരം",
+      "rate": "നിരക്ക്",
+      "due": "കാരണം",
+      "netPayable": "അടയ്‌ക്കേണ്ട തുക",
+      "status": "നില",
+      "ack": "അംഗീകാരം"
+    },
+    "file": "ഫയൽ",
+    "view": "കാണുക",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "അധികാരപരിധി ലോഡുചെയ്യുന്നു...",
+    "nothingToFile": "റിട്ടേണുകളൊന്നും ഫയൽ ചെയ്യാൻ കാത്തിരിക്കുന്നില്ല - എല്ലാ അടച്ച കാലയളവുകളും സമർപ്പിച്ചു.",
+    "fileNext": "അടുത്ത ഫയൽ: {{name}}",
+    "steps": {
+      "review": "അവലോകനം",
+      "validate": "സാധൂകരിക്കുക",
+      "declare": "പ്രഖ്യാപിക്കുക & സമർപ്പിക്കുക",
+      "ack": "അംഗീകാരം"
+    },
+    "runValidation": "മൂല്യനിർണ്ണയം പ്രവർത്തിപ്പിക്കുക",
+    "validating": "സാധൂകരിക്കുന്നു...",
+    "submit": "Submit {{form}}",
+    "submitting": "സമർപ്പിക്കുന്നു...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "മൊത്തം തുക",
+    "submitted": "സമർപ്പിച്ചു",
+    "filedOn": "ഫയൽ ചെയ്തു",
+    "regime": {
+      "authority": "അധികാരം",
+      "channel": "ഫയൽ ചെയ്യൽ ചാനൽ",
+      "return": "മടങ്ങുക",
+      "due": "കാരണം",
+      "standardRate": "സ്റ്റാൻഡേർഡ് നിരക്ക്",
+      "threshold": "രജിസ്ട്രേഷൻ പരിധി"
+    },
+    "demoNote": "ബിൽറ്റ്-ഇൻ മോക്ക് ടാക്സ് API-യിൽ നിന്നുള്ള ഡെമോ ഡാറ്റ - ഫയലിംഗുകളും പേയ്‌മെൻ്റുകളും സിമുലേറ്റ് ചെയ്‌തിരിക്കുന്നു, നികുതി അതോറിറ്റിക്ക് ഒന്നും അയയ്‌ക്കില്ല."
+  },
+  "fx": {
+    "title": "വിദേശ കറൻസി",
+    "subtitle": "അടിസ്ഥാന കറൻസി {{base}} · സൂചകമായ മോക്ക് മാർക്കറ്റ് നിരക്കുകൾ",
+    "newDoc": "പുതിയ FX ഇൻവോയ്സ് / ബിൽ",
+    "kpi": {
+      "netExposure": "നെറ്റ് എഫ്എക്സ് എക്സ്പോഷർ",
+      "openDocs": "{{count}} തുറന്ന പ്രമാണങ്ങൾ",
+      "unrealized": "യാഥാർത്ഥ്യമാകാത്ത നേട്ടം / നഷ്ടം",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "ഈ വർഷം തിരിച്ചറിഞ്ഞു",
+      "lastReval": "അവസാന പുനർമൂല്യനിർണയം",
+      "never": "ഒരിക്കലും",
+      "suggested": "നിർദ്ദേശിച്ചത്: {{date}}"
+    },
+    "view": {
+      "open": "ഇനങ്ങൾ തുറക്കുക",
+      "settled": "സ്ഥിരതാമസമാക്കി",
+      "revaluation": "മാസാവസാനം പുനർമൂല്യനിർണയം",
+      "journal": "FX ജേണൽ"
+    },
+    "col": {
+      "document": "പ്രമാണം",
+      "type": "ടൈപ്പ് ചെയ്യുക",
+      "openForeign": "തുറന്ന (വിദേശ)",
+      "bookedNow": "ബുക്ക് ചെയ്തു / ഇപ്പോൾ",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "യാഥാർത്ഥ്യമാകാത്തത്",
+      "status": "നില",
+      "amount": "തുക",
+      "bookedRate": "ബുക്ക് ചെയ്ത നിരക്ക്",
+      "realized": "തിരിച്ചറിഞ്ഞു"
+    },
+    "receivable": "സ്വീകരിക്കാവുന്നത്",
+    "payable": "അടയ്‌ക്കേണ്ടതാണ്",
+    "receive": "സ്വീകരിക്കുക",
+    "pay": "പണം നൽകുക",
+    "netIn": "നെറ്റ് {{base}} ൽ",
+    "state": {
+      "settled": "സ്ഥിരതാമസമാക്കി",
+      "partial": "ഭാഗം സെറ്റിൽഡ്",
+      "open": "തുറക്കുക"
+    },
+    "demoNote": "ബിൽറ്റ്-ഇൻ മോക്ക് API-യിൽ നിന്നുള്ള ഡെമോ ഡാറ്റ - നിരക്കുകൾ അനുകരിക്കുന്നു, തത്സമയ മാർക്കറ്റ് ഡാറ്റയല്ല."
+  }
+}

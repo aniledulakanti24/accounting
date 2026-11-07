@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Dzień po dniu",
+      "finance": "Finanse",
+      "advanced": "Zaawansowany"
+    },
+    "mainMenu": "Menu główne",
+    "short": {
+      "parties": "Strony"
+    },
+    "sections": {
+      "dashboard": "Panel",
+      "sales": "Obroty",
+      "receivables": "Pieniądze w",
+      "procurement": "Zakupy",
+      "payables": "Wydanie pieniędzy",
+      "cashbank": "Gotówka i bank",
+      "expenses": "Wydatki",
+      "tax": "Podatek",
+      "reports": "Raporty",
+      "advanced-features": "Zaawansowane funkcje",
+      "parties": "Klienci i dostawcy",
+      "inventory": "Rzeczy",
+      "assets": "Środki trwałe",
+      "masters": "Konfiguracja i konfiguracja",
+      "business-tools": "Zespół i narzędzia",
+      "party-tools": "Narzędzia imprezowe",
+      "item-tools": "Narzędzia przedmiotów",
+      "storage": "Dokumenty",
+      "alerts": "Alerty",
+      "migration": "Migracja danych"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Przegląd",
+        "cash-flow": "Przepływ środków pieniężnych",
+        "tax-calendar": "Kalendarz podatkowy"
+      },
+      "sales": {
+        "quotations": "Cytaty",
+        "proforma-invoices": "LICZBA PI",
+        "sales-invoices": "Faktura",
+        "delivery-challans": "Dostawa Chalan",
+        "receipts": "Paragon",
+        "invoice-desk": "Biuro faktur"
+      },
+      "receivables": {
+        "money-in-center": "Pieniądze W Centrum",
+        "receivables": "Należności",
+        "payments-received": "Otrzymane płatności",
+        "overdue-collections": "Kolekcje i przypomnienia",
+        "credit-notes": "Noty kredytowe i zwroty pieniędzy",
+        "sales-returns": "Zwroty sprzedaży",
+        "customer-statements": "Oświadczenia klientów",
+        "payment-links": "Linki do płatności"
+      },
+      "procurement": {
+        "purchase-center": "Centrum zakupów",
+        "purchase-orders": "Zamówienia zakupu",
+        "goods-receipt": "Odbiór towaru",
+        "purchase-invoices": "Faktury zakupu",
+        "payment-out": "Płatności dokonane",
+        "returns-debit-notes": "Zwroty i noty debetowe",
+        "bill-approvals": "Zatwierdzenia rachunków"
+      },
+      "payables": {
+        "bills": "Centrum płatnicze",
+        "payments": "Płatności Dostawców",
+        "workforce": "Siła robocza",
+        "adjustments": "Korekty",
+        "bank-release": "Wydanie banku"
+      },
+      "cashbank": {
+        "bank-accounts": "Moje konta",
+        "reconciliation": "Dopasuj transakcje",
+        "cash-petty": "Podręczna gotówka",
+        "contra": "Między kontami",
+        "cheque-register": "Kontrole",
+        "foreign-currency": "Waluta obca",
+        "bank-feeds": "Kanały bankowe",
+        "bank-rules": "Zasady i pojednanie"
+      },
+      "expenses": {
+        "expense-center": "Wszystkie wydatki",
+        "categories": "Rodzaje wydatków",
+        "automated-bills": "Powtarzające się wydatki",
+        "journal-vouchers": "Wpisy ręczne",
+        "provisions": "Rozliczenia międzyokresowe",
+        "write-offs": "Odpisy",
+        "period-close": "Koniec miesiąca"
+      },
+      "tax": {
+        "gst-returns": "Złożenie GST",
+        "gst-filing-wizard": "⚡ Plik GSTR-3B",
+        "gst-reconciliation": "Dopasowanie GST",
+        "e-invoicing": "E-faktury",
+        "e-way-bills": "Rachunki za drogę elektroniczną",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Zapłać podatek",
+        "quarterly-compliance": "Kalendarz zgodności",
+        "ca-access": "CA Dostęp tymczasowy",
+        "gst-from-books": "GST z książek"
+      },
+      "reports": {
+        "financial-statements": "Raporty finansowe",
+        "books": "Księgi Transakcyjne",
+        "gst-reports": "Raporty GST",
+        "ar-ap": "Należności kontra zobowiązania",
+        "profitability": "Rentowność",
+        "period-comparatives": "Porównanie lat",
+        "budget-vs-actuals": "Śledzenie budżetu",
+        "cashflow-projection": "Prognoza gotówkowa",
+        "report-builder": "Raporty niestandardowe",
+        "general-ledger": "Księga Główna",
+        "live-financials": "Finanse na żywo",
+        "ai-analyst": "Analityk AI"
+      },
+      "advanced-features": {
+        "overview": "Przegląd"
+      },
+      "parties": {
+        "all-parties": "Wszystkie Strony",
+        "customer-ledgers": "Klienci",
+        "supplier-ledgers": "Dostawcy",
+        "shared-ledger": "Wspólna księga",
+        "statements": "Oświadczenia",
+        "reminders": "Przypomnienia",
+        "documents": "Dokumenty Partii",
+        "portal": "Portal Partii",
+        "import": "Import partii",
+        "duplicate-merge": "Duplikat scalania",
+        "gap-analysis": "Analiza luk"
+      },
+      "inventory": {
+        "inventory-items": "Rzeczy",
+        "godowns": "Magazyny",
+        "stock-movement": "Ruch zapasów",
+        "item-pricing": "Wycena",
+        "stock-valuation": "Wycena akcji",
+        "reorder-alerts": "Zmień kolejność alertów",
+        "batch-serials": "Partyjne i seryjne",
+        "barcode-labels": "Etykiety z kodami kreskowymi",
+        "item-import": "Import przedmiotu",
+        "gap-analysis": "Analiza luk"
+      },
+      "assets": {
+        "asset-register": "Lista aktywów",
+        "depreciation": "Amortyzacja",
+        "disposal-revaluation": "Sprzedaj lub przewartościuj"
+      },
+      "masters": {
+        "chart-of-accounts": "Lista kont",
+        "tax-masters": "Stawki podatkowe",
+        "cost-centers": "Centra kosztów",
+        "voucher-types": "Typy transakcji",
+        "opening-balances": "Salda początkowe",
+        "currencies": "Waluty"
+      },
+      "business-tools": {
+        "staff-payroll": "Lista płac",
+        "manage-users": "Dostęp użytkownika",
+        "online-orders": "Zamówienia internetowe",
+        "sms-marketing": "Marketing SMS-owy",
+        "accountant-hub": "Księgowi i wsparcie"
+      },
+      "party-tools": {
+        "documents": "Dokumenty Partii",
+        "portal": "Portal Partii",
+        "import": "Import partii",
+        "duplicate-merge": "Duplikat scalania",
+        "gap-analysis": "Analiza luk"
+      },
+      "item-tools": {
+        "reorder-alerts": "Zmień kolejność alertów",
+        "batch-serials": "Partyjne i seryjne",
+        "barcode-labels": "Etykiety z kodami kreskowymi",
+        "item-import": "Import przedmiotu",
+        "gap-analysis": "Analiza luk"
+      },
+      "storage": {
+        "client-storage": "Pliki klienta",
+        "unifiedtree-storage": "Przechowywanie w chmurze"
+      },
+      "alerts": {
+        "accountant-alerts": "Alerty księgowego",
+        "compliance-alerts": "Alerty dotyczące zgodności",
+        "cash-risk-alerts": "Alerty dotyczące gotówki i ryzyka",
+        "ca-access": "CA Dostęp tymczasowy"
+      },
+      "migration": {
+        "import": "Importuj dane",
+        "export": "Eksportuj dane",
+        "history": "Importuj historię",
+        "tally-import": "Import z Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Zakupy i płatności",
+      "accountingSetup": "Konfiguracja księgowości",
+      "dataDocuments": "Dane i dokumenty"
+    }
+  },
+  "common": {
+    "save": "Zapisz zmiany",
+    "cancel": "Anulować",
+    "create": "Tworzyć",
+    "edit": "Redagować",
+    "delete": "Usuwać",
+    "search": "Szukaj",
+    "connect": "Łączyć",
+    "configure": "Skonfiguruj",
+    "disconnect": "Odłączyć",
+    "sync": "Synchronizuj teraz",
+    "close": "Zamknąć",
+    "reset": "Przywróć ustawienia domyślne",
+    "back": "Z powrotem",
+    "continue": "Kontynuować",
+    "all": "Wszystko",
+    "retry": "Spróbować ponownie",
+    "loading": "Załadunek…",
+    "resetDemo": "Zresetuj dane demonstracyjne"
+  },
+  "shell": {
+    "searchPlaceholder": "Szukaj czegokolwiek…",
+    "settings": "Ustawienia",
+    "language": "Język",
+    "role": "Rola",
+    "greeting": {
+      "morning": "Dzień dobry",
+      "afternoon": "Dzień dobry",
+      "evening": "Dobry wieczór"
+    },
+    "settingsItems": {
+      "company-profile": "Profil firmy",
+      "configuration": "Konfiguracja",
+      "fiscal-periods": "Okresy obrachunkowe",
+      "roles": "Role i użytkownicy",
+      "integrations": "Integracje",
+      "notifications": "Powiadomienia",
+      "audit-logs": "Audyt i dzienniki",
+      "audit-trail": "Ścieżka audytu odporna na manipulacje",
+      "developer": "Programista i API"
+    },
+    "translatedLanguages": "Przetłumaczony",
+    "untranslatedLanguages": "Angielski do czasu przetłumaczenia"
+  },
+  "status": {
+    "filed": "Wniesiony",
+    "ready": "Gotowe do złożenia",
+    "open": "Okres otwarty",
+    "paid": "Płatny",
+    "pending": "Aż do",
+    "accepted": "Przyjęty",
+    "delivered": "Dostarczony",
+    "rejected": "Odrzucony",
+    "pdf-sent": "Wysłano PDF",
+    "not-sent": "Nie wysłano",
+    "matched": "Dopasowane",
+    "mismatch": "Niedopasowanie",
+    "missing-supplier": "Nie zgłoszone przez dostawcę",
+    "missing-books": "Brakuje w książkach",
+    "deferred": "Odroczone",
+    "deducted": "Odliczony",
+    "remitted": "Przekazano",
+    "certified": "Atestowany",
+    "to-report": "Aby zgłosić",
+    "reported": "Zgłoszono",
+    "accounted": "Rozliczone",
+    "overdue": "Zaległy"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Gotowe do złożenia",
+      "liabilityDue": "Obowiązek należny",
+      "paidThisYear": "Zapłacone w tym roku",
+      "nextDeadline": "Następny termin",
+      "noneOverdue": "Żadne nie jest przeterminowane",
+      "overdue": "{{count}} zaległe"
+    },
+    "filter": {
+      "ready": "Gotowe do złożenia",
+      "open": "Otwarte",
+      "filed": "Wniesiony"
+    },
+    "col": {
+      "period": "Okres",
+      "authority": "Władza",
+      "rate": "Wskaźnik",
+      "due": "Należny",
+      "netPayable": "Netto płatne",
+      "status": "Status",
+      "ack": "Potwierdzenie"
+    },
+    "file": "Plik",
+    "view": "Pogląd",
+    "fileForm": "Plik {{form}}",
+    "loadingJurisdiction": "Ładowanie jurysdykcji…",
+    "nothingToFile": "Żadne zwroty nie oczekują na złożenie – wszystkie zamknięte okresy są zgłaszane.",
+    "fileNext": "Plik następny: {{name}}",
+    "steps": {
+      "review": "Recenzja",
+      "validate": "Uprawomocnić",
+      "declare": "Zadeklaruj i prześlij",
+      "ack": "Potwierdzenie"
+    },
+    "runValidation": "Uruchom weryfikację",
+    "validating": "Sprawdzam…",
+    "submit": "Submit {{form}}",
+    "submitting": "Przedkładający…",
+    "declaration": "Oświadczam, że informacje zawarte w niniejszym zeznaniu są prawdziwe i kompletne oraz że jestem upoważniony do ich przekazania do {{authority}}.",
+    "netAmount": "Kwota netto",
+    "submitted": "Złożony",
+    "filedOn": "Złożono",
+    "regime": {
+      "authority": "Władza",
+      "channel": "Kanał zgłoszenia",
+      "return": "Powrót",
+      "due": "Należny",
+      "standardRate": "Stawka standardowa",
+      "threshold": "Próg rejestracji"
+    },
+    "demoNote": "Dane demonstracyjne z wbudowanego interfejsu API próbnego podatku — symulowane są zgłoszenia i płatności, ale nic nie jest wysyłane do organu podatkowego."
+  },
+  "fx": {
+    "title": "Waluta obca",
+    "subtitle": "Waluta bazowa {{base}} · orientacyjne próbne kursy rynkowe",
+    "newDoc": "Nowa faktura/rachunek walutowy",
+    "kpi": {
+      "netExposure": "Ekspozycja walutowa netto",
+      "openDocs": "Otwarte dokumenty: {{count}}",
+      "unrealized": "Niezrealizowany zysk/strata",
+      "postedSplit": "{{posted}} wysłane · {{unposted}} jeszcze nie",
+      "realized": "Zrealizowane w tym roku",
+      "lastReval": "Ostatnia przecena",
+      "never": "Nigdy",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Otwórz elementy",
+      "settled": "Zadomowiony",
+      "revaluation": "Przeszacowanie na koniec miesiąca",
+      "journal": "Dziennik FX"
+    },
+    "col": {
+      "document": "Dokument",
+      "type": "Typ",
+      "openForeign": "Otwarte (zagraniczne)",
+      "bookedNow": "Zarezerwowałem / teraz",
+      "valueIn": "Wartość w {{base}}",
+      "unrealized": "Niedoszły",
+      "status": "Status",
+      "amount": "Kwota",
+      "bookedRate": "Zarezerwowana stawka",
+      "realized": "Realizowany"
+    },
+    "receivable": "Do otrzymania",
+    "payable": "Płatny",
+    "receive": "Odbierać",
+    "pay": "Płacić",
+    "netIn": "Netto w {{base}}",
+    "state": {
+      "settled": "Zadomowiony",
+      "partial": "Częściowo osiadły",
+      "open": "Otwarte"
+    },
+    "demoNote": "Dane demonstracyjne z wbudowanego próbnego API — stawki są symulowane, a nie aktualne dane rynkowe."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Usuku nosuku",
+      "finance": "Ezemali",
+      "advanced": "Ikwinqanaba eliphezulu"
+    },
+    "mainMenu": "Eyona menyu",
+    "short": {
+      "parties": "Amaqela"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Iintengiso",
+      "receivables": "Imali kwi",
+      "procurement": "Ukuthenga",
+      "payables": "Imali ngaphandle",
+      "cashbank": "Imali kunye neBhanki",
+      "expenses": "Iindleko",
+      "tax": "Irhafu",
+      "reports": "Iingxelo",
+      "advanced-features": "Iimpawu eziphambili",
+      "parties": "Abathengi & nababoneleli",
+      "inventory": "Izinto",
+      "assets": "Izinto ezimile",
+      "masters": "Cwangcisa kunye noqwalaselo",
+      "business-tools": "Iqela & neZixhobo",
+      "party-tools": "Iqela izixhobo",
+      "item-tools": "Izixhobo zento",
+      "storage": "Amaxwebhu",
+      "alerts": "Izilumkiso",
+      "migration": "Ukufuduka kweDatha"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Isishwankathelo",
+        "cash-flow": "Ukuhamba KWEMALI",
+        "tax-calendar": "IKhalenda yeRhafu"
+      },
+      "sales": {
+        "quotations": "Ucaphulo",
+        "proforma-invoices": "PI",
+        "sales-invoices": "I-invoyisi",
+        "delivery-challans": "Ukuhanjiswa Challan",
+        "receipts": "Irisithi",
+        "invoice-desk": "Idesika yee-invoyisi"
+      },
+      "receivables": {
+        "money-in-center": "Imali Ephakathi",
+        "receivables": "Ezifunyenweyo",
+        "payments-received": "Iintlawulo ezifunyenweyo",
+        "overdue-collections": "Iingqokelela & Izikhumbuzi",
+        "credit-notes": "Amanqaku ekhredithi kunye neeMbuyiselo",
+        "sales-returns": "Iimbuyekezo zentengiso",
+        "customer-statements": "Iingxelo zabaThengi",
+        "payment-links": "Intlawulo Links"
+      },
+      "procurement": {
+        "purchase-center": "Iziko lokuThenga",
+        "purchase-orders": "Iiodolo zokuthenga",
+        "goods-receipt": "Irisithi yeMpahla",
+        "purchase-invoices": "Ii-invoyisi zokuthenga",
+        "payment-out": "Iintlawulo ezenziweyo",
+        "returns-debit-notes": "UBuyiselo & Amanqaku eDebit",
+        "bill-approvals": "Ukuvunywa kweBhili"
+      },
+      "payables": {
+        "bills": "Iziko lokuHlawula",
+        "payments": "Iintlawulo zababoneleli",
+        "workforce": "Abasebenzi",
+        "adjustments": "Uhlengahlengiso",
+        "bank-release": "Ukukhutshwa kweBhanki"
+      },
+      "cashbank": {
+        "bank-accounts": "Iiakhawunti zam",
+        "reconciliation": "IiNtengiselwano zomdlalo",
+        "cash-petty": "Imali esecaleni",
+        "contra": "Phakathi kweeAkhawunti",
+        "cheque-register": "Iitshekhi",
+        "foreign-currency": "Imali yelinye ilizwe",
+        "bank-feeds": "Ukutya kweBhanki",
+        "bank-rules": "Imigaqo noXolelwaniso"
+      },
+      "expenses": {
+        "expense-center": "Zonke Iindleko",
+        "categories": "Iintlobo zeendleko",
+        "automated-bills": "Iindleko eziphinda-phindayo",
+        "journal-vouchers": "Ungeniso lweManuwali",
+        "provisions": "Ii-accruals",
+        "write-offs": "Ukucima",
+        "period-close": "Inyanga-Ukuphela"
+      },
+      "tax": {
+        "gst-returns": "UkuFayila kweGST",
+        "gst-filing-wizard": "⚡ Ifayile ye-GSTR-3B",
+        "gst-reconciliation": "GST Ukuthelekisa",
+        "e-invoicing": "Ii-invoyisi ze-E",
+        "e-way-bills": "Iibhili ze-E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Hlawula iRhafu",
+        "quarterly-compliance": "IKhalenda yokuThobela",
+        "ca-access": "CA Ukufikelela okwethutyana",
+        "gst-from-books": "GST evela kwiiNcwadi"
+      },
+      "reports": {
+        "financial-statements": "Iingxelo zemali",
+        "books": "Iincwadi zentengiselwano",
+        "gst-reports": "Iingxelo ze-GST",
+        "ar-ap": "Ezifunyenweyo vs Ezihlawulwayo",
+        "profitability": "Inzuzo",
+        "period-comparatives": "Ukuthelekisa unyaka",
+        "budget-vs-actuals": "Umlandeli webhajethi",
+        "cashflow-projection": "Uqikelelo lwemali",
+        "report-builder": "Iingxelo zesiko",
+        "general-ledger": "Ileja yajikelele",
+        "live-financials": "Live Financials",
+        "ai-analyst": "Umhlalutyi we-AI"
+      },
+      "advanced-features": {
+        "overview": "Isishwankathelo"
+      },
+      "parties": {
+        "all-parties": "Onke Amaqela",
+        "customer-ledgers": "Abathengi",
+        "supplier-ledgers": "Ababoneleli",
+        "shared-ledger": "ILedger ekwabelwana ngayo",
+        "statements": "Iingxelo",
+        "reminders": "Izikhumbuzo",
+        "documents": "Amaxwebhu eqela",
+        "portal": "Party Portal",
+        "import": "Ukungeniswa kweqela",
+        "duplicate-merge": "Ukuphinda-phinda ukudibanisa",
+        "gap-analysis": "Uhlalutyo lweGap"
+      },
+      "inventory": {
+        "inventory-items": "Izinto",
+        "godowns": "Iindawo zokugcina iimpahla",
+        "stock-movement": "Intshukumo yeStokhwe",
+        "item-pricing": "Amaxabiso",
+        "stock-valuation": "UVavanyo lweMpahla",
+        "reorder-alerts": "Hlela kwakhona izilumkiso",
+        "batch-serials": "Ibhetshi & Uthotho",
+        "barcode-labels": "Iileyibhile zeBhakhowudi",
+        "item-import": "Ukuthathwa ngaphandle kwezinto",
+        "gap-analysis": "Uhlalutyo lweGap"
+      },
+      "assets": {
+        "asset-register": "Uludwe Lwempahla",
+        "depreciation": "Ukuhla kwexabiso",
+        "disposal-revaluation": "Thengisa okanye Phinda uxabise"
+      },
+      "masters": {
+        "chart-of-accounts": "Uluhlu lweeakhawunti",
+        "tax-masters": "Amaxabiso erhafu",
+        "cost-centers": "Amaziko eendleko",
+        "voucher-types": "Iintlobo zentengiselwano",
+        "opening-balances": "Ukuqala Ibhalansi",
+        "currencies": "Iimali"
+      },
+      "business-tools": {
+        "staff-payroll": "Umvuzo",
+        "manage-users": "Ukufikelela komsebenzisi",
+        "online-orders": "Iiodolo ezikwi-Intanethi",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Abacwangcisi-mali kunye neNkxaso"
+      },
+      "party-tools": {
+        "documents": "Amaxwebhu eqela",
+        "portal": "Party Portal",
+        "import": "Ukungeniswa kweqela",
+        "duplicate-merge": "Ukuphinda-phinda ukudibanisa",
+        "gap-analysis": "Uhlalutyo lweGap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Hlela kwakhona izilumkiso",
+        "batch-serials": "Ibhetshi & Uthotho",
+        "barcode-labels": "Iileyibhile zeBhakhowudi",
+        "item-import": "Ukuthathwa ngaphandle kwezinto",
+        "gap-analysis": "Uhlalutyo lweGap"
+      },
+      "storage": {
+        "client-storage": "Iifayile zomthengi",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Izaziso zoMcwangcisi mali",
+        "compliance-alerts": "Izilumkiso zokuThobela",
+        "cash-risk-alerts": "Imali kunye nezilumkiso zoMngcipheko",
+        "ca-access": "CA Ukufikelela okwethutyana"
+      },
+      "migration": {
+        "import": "Ngenisa idatha",
+        "export": "Thumela iData",
+        "history": "Imbali yoNgaphandle",
+        "tally-import": "Thatha ngaphandle kwi-Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ukuthenga kunye neeNtlawulo",
+      "accountingSetup": "Ukuseta i-Akhawuntingi",
+      "dataDocuments": "Idatha & Amaxwebhu"
+    }
+  },
+  "common": {
+    "save": "Gcina Utshintsho",
+    "cancel": "Rhoxisa",
+    "create": "Yenza",
+    "edit": "Hlela",
+    "delete": "Cima",
+    "search": "Khangela",
+    "connect": "Qhagamshela",
+    "configure": "Qwalasela",
+    "disconnect": "Susa uqhagamshelwano",
+    "sync": "Ngqamanisa Ngoku",
+    "close": "Vala",
+    "reset": "Phinda umisele uMiselweyo",
+    "back": "Emva",
+    "continue": "Qhubeka",
+    "all": "Konke",
+    "retry": "Zama kwakhona",
+    "loading": "Iyalayisha...",
+    "resetDemo": "Seta kwakhona idatha yedemo"
+  },
+  "shell": {
+    "searchPlaceholder": "Phendla nantoni na...",
+    "settings": "Iisetingi",
+    "language": "Ulwimi",
+    "role": "Indima",
+    "greeting": {
+      "morning": "Mholo",
+      "afternoon": "Mholo",
+      "evening": "Mholo"
+    },
+    "settingsItems": {
+      "company-profile": "Iprofayile yekhampani",
+      "configuration": "Uqwalaselo",
+      "fiscal-periods": "Amaxesha eMali",
+      "roles": "Iindima & Abasebenzisi",
+      "integrations": "Ukudityaniswa",
+      "notifications": "Izaziso",
+      "audit-logs": "Uphicotho kunye neeLogi",
+      "audit-trail": "Umkhondo woPhicotho-zingqinisiso",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "Iguqulelwe",
+    "untranslatedLanguages": "IsiNgesi de siguqulelwe"
+  },
+  "status": {
+    "filed": "Ifayilishwe",
+    "ready": "Ukulungele ukufaka ifayile",
+    "open": "Ixesha livuliwe",
+    "paid": "Ihlawulwe",
+    "pending": "Ilindile",
+    "accepted": "Yamkelwe",
+    "delivered": "Inikezelwe",
+    "rejected": "Yaliwe",
+    "pdf-sent": "I-PDF ithunyelwe",
+    "not-sent": "Ayithunyelwanga",
+    "matched": "Ifaniswe",
+    "mismatch": "Ukungafani",
+    "missing-supplier": "Ayixelwanga ngumthengisi",
+    "missing-books": "Akukho ezincwadini",
+    "deferred": "Irhoxisiwe",
+    "deducted": "Itsaliwe",
+    "remitted": "Ithunyelwe",
+    "certified": "Iqinisekisiwe",
+    "to-report": "Ukunika ingxelo",
+    "reported": "Ingxelo",
+    "accounted": "Ibaliwe",
+    "overdue": "Lidlulelwe lixesha"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Ukulungele ukufaka ifayile",
+      "liabilityDue": "Kufuneka uxanduva",
+      "paidThisYear": "Ihlawulwe kulo nyaka",
+      "nextDeadline": "Umhla wokugqibela olandelayo",
+      "noneOverdue": "Akukho xesha lide",
+      "overdue": "{{count}} lidlulelwe lixesha"
+    },
+    "filter": {
+      "ready": "Ukulungele ukufaka ifayile",
+      "open": "Vula",
+      "filed": "Ifayilishwe"
+    },
+    "col": {
+      "period": "Ixesha",
+      "authority": "Igunya",
+      "rate": "Ixabiso",
+      "due": "Kufuneka",
+      "netPayable": "Intsalela ehlawulwayo",
+      "status": "Ubume",
+      "ack": "Ukuvuma"
+    },
+    "file": "Ifayile",
+    "view": "Jonga",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ilayisha indawo yolawulo...",
+    "nothingToFile": "Akukho zimbuyekezo zilindele ukufakwa - onke amaxesha avaliweyo angenisiwe.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Uphononongo",
+      "validate": "Qinisekisa",
+      "declare": "Xela kwaye ungenise",
+      "ack": "Ukuvuma"
+    },
+    "runValidation": "Qhuba uqinisekiso",
+    "validating": "Iyaqinisekisa...",
+    "submit": "Submit {{form}}",
+    "submitting": "Iyathumela...",
+    "declaration": "Ndiyabhengeza ukuba ulwazi olukule ngxelo luyinyani kwaye luphelele, kwaye ndigunyazisiwe ukuba ndilungenise ku-{{authority}}.",
+    "netAmount": "Imali eseleyo",
+    "submitted": "Ithunyelwe",
+    "filedOn": "Ifakwe kwifayile",
+    "regime": {
+      "authority": "Igunya",
+      "channel": "Isitishi sokufayilisha",
+      "return": "Buyela",
+      "due": "Kufuneka",
+      "standardRate": "Izinga eliqhelekileyo",
+      "threshold": "Umda wokubhalisa"
+    },
+    "demoNote": "Idatha yedemo evela kwi-API yerhafu ehlekisayo eyakhelwe-ngaphakathi - iifayile kunye neentlawulo zenziwe kwaye akukho nto ithunyelwa kugunyaziwe werhafu."
+  },
+  "fx": {
+    "title": "Imali yelinye ilizwe",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "I-invoyisi entsha yeFX / ibhili",
+    "kpi": {
+      "netExposure": "I-Net FX exposure",
+      "openDocs": "{{count}} vula amaxwebhu",
+      "unrealized": "Inzuzo / ilahleko engalindelekanga",
+      "postedSplit": "{{posted}} iposwe · {{unposted}} ayikabikho",
+      "realized": "Iphunyeziwe kulo nyaka",
+      "lastReval": "Uvandlakanyo lokugqibela",
+      "never": "Ungaze",
+      "suggested": "Cebisa: {{date}}"
+    },
+    "view": {
+      "open": "Vula izinto",
+      "settled": "Ndizinzile",
+      "revaluation": "Uvavanyo lokuphela kwenyanga",
+      "journal": "Ijenali yeFX"
+    },
+    "col": {
+      "document": "Uxwebhu",
+      "type": "Uhlobo",
+      "openForeign": "Vula (yangaphandle)",
+      "bookedNow": "Ibhukishiwe / ngoku",
+      "valueIn": "Ixabiso kwi {{base}}",
+      "unrealized": "Ayinakwenzeka",
+      "status": "Ubume",
+      "amount": "Isixa",
+      "bookedRate": "Ireyithi ebhalisiweyo",
+      "realized": "Iqondwa"
+    },
+    "receivable": "Iyafunyanwa",
+    "payable": "Kuyahlawulwa",
+    "receive": "Yamkela",
+    "pay": "Hlawula",
+    "netIn": "Umnatha kwi {{base}}",
+    "state": {
+      "settled": "Ndizinzile",
+      "partial": "Inxalenye-zinzile",
+      "open": "Vula"
+    },
+    "demoNote": "Idatha yedemo evela kwi-API ehlekisayo eyakhelwe-ngaphakathi - iireyithi zilinganisiwe, kungekhona idatha yemarike ephilayo."
+  }
+}

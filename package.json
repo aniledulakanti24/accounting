@@ -1,0 +1,43 @@
+{
+  "name": "unifiedtree-accounting",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "translate": "node scripts/translate-locales.mjs",
+    "test": "node --test src/lib/*.test.js src/i18n/*.test.js src/data/api/*.test.js",
+    "translate:missing": "node scripts/translate-locales.mjs --missing"
+  },
+  "dependencies": {
+    "date-fns": "^4.3.0",
+    "i18next": "^26.3.0",
+    "lucide-react": "^1.16.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-i18next": "^17.0.8",
+    "react-router-dom": "^7.15.1",
+    "recharts": "^3.8.1",
+    "zustand": "^5.0.13"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@tailwindcss/vite": "^4.3.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "autoprefixer": "^10.5.0",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.6.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.0",
+    "vite": "^8.0.12"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Adlaw-adlaw",
+      "finance": "Panalapi",
+      "advanced": "Abante"
+    },
+    "mainMenu": "Panguna nga Menu",
+    "short": {
+      "parties": "Mga parti"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Pagbaligya",
+      "receivables": "Salapi Sa",
+      "procurement": "Mga pagpalit",
+      "payables": "Kuwarta Out",
+      "cashbank": "Cash & Bangko",
+      "expenses": "Mga gasto",
+      "tax": "Buhis",
+      "reports": "Mga report",
+      "advanced-features": "Advanced nga mga Feature",
+      "parties": "Mga Kustomer ug Supplier",
+      "inventory": "Mga butang",
+      "assets": "Fixed Assets",
+      "masters": "Setup ug Configuration",
+      "business-tools": "Team & Mga Himan",
+      "party-tools": "Mga Gamit sa Partido",
+      "item-tools": "Mga gamit sa butang",
+      "storage": "Mga dokumento",
+      "alerts": "Mga alerto",
+      "migration": "Paglalin sa Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Overview",
+        "cash-flow": "Daloy sa Salapi",
+        "tax-calendar": "Kalendaryo sa Buhis"
+      },
+      "sales": {
+        "quotations": "Mga kinutlo",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Paghatud Challan",
+        "receipts": "Resibo",
+        "invoice-desk": "Talaan sa Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Salapi sa Sentro",
+        "receivables": "Mga madawat",
+        "payments-received": "Mga Bayad nga Nadawat",
+        "overdue-collections": "Mga Koleksyon ug Mga Pahinumdom",
+        "credit-notes": "Mga Nota sa Kredito ug Pagbayad",
+        "sales-returns": "Mga Pagbalik sa Pagbaligya",
+        "customer-statements": "Mga Pahayag sa Kustomer",
+        "payment-links": "Mga Link sa Pagbayad"
+      },
+      "procurement": {
+        "purchase-center": "Sentro sa Pagpamalit",
+        "purchase-orders": "Mga Order sa Pagpalit",
+        "goods-receipt": "Resibo sa mga butang",
+        "purchase-invoices": "Pagpalit og mga Invoice",
+        "payment-out": "Gibuhat ang mga Pagbayad",
+        "returns-debit-notes": "Mga Return & Debit Notes",
+        "bill-approvals": "Mga Pag-apruba sa Bill"
+      },
+      "payables": {
+        "bills": "Pay Center",
+        "payments": "Mga Bayad sa Supplier",
+        "workforce": "Kusog sa trabaho",
+        "adjustments": "Mga kausaban",
+        "bank-release": "Pagpagawas sa Bangko"
+      },
+      "cashbank": {
+        "bank-accounts": "Akong mga Account",
+        "reconciliation": "Mga Transaksyon sa Pagpares",
+        "cash-petty": "Petty Cash",
+        "contra": "Taliwala sa mga Account",
+        "cheque-register": "Mga tseke",
+        "foreign-currency": "Langyaw nga Salapi",
+        "bank-feeds": "Mga Feed sa Bangko",
+        "bank-rules": "Mga Lagda ug Pakig-uli"
+      },
+      "expenses": {
+        "expense-center": "Tanang Gasto",
+        "categories": "Mga Uri sa Gasto",
+        "automated-bills": "Nagbalikbalik nga mga Gasto",
+        "journal-vouchers": "Manwal nga mga Entri",
+        "provisions": "Mga akrual",
+        "write-offs": "Pagtangtang",
+        "period-close": "Katapusan sa Bulan"
+      },
+      "tax": {
+        "gst-returns": "Pag-file sa GST",
+        "gst-filing-wizard": "⚡ I-file ang GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "Mga E-Invoice",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bayad og Buhis",
+        "quarterly-compliance": "Kalendaryo sa Pagsunod",
+        "ca-access": "Temporaryong Pag-access sa CA",
+        "gst-from-books": "GST gikan sa Libro"
+      },
+      "reports": {
+        "financial-statements": "Mga Report sa Pinansyal",
+        "books": "Mga Libro sa Transaksyon",
+        "gst-reports": "Mga Ulat sa GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Pagkaginansya",
+        "period-comparatives": "Tuig Pagtandi",
+        "budget-vs-actuals": "Pagsubay sa Badyet",
+        "cashflow-projection": "Pagtagna sa Salapi",
+        "report-builder": "Custom nga mga Report",
+        "general-ledger": "Kinatibuk-ang Ledger",
+        "live-financials": "Live nga Pinansyal",
+        "ai-analyst": "Analista sa AI"
+      },
+      "advanced-features": {
+        "overview": "Overview"
+      },
+      "parties": {
+        "all-parties": "Tanang Partido",
+        "customer-ledgers": "Mga kustomer",
+        "supplier-ledgers": "Mga supplier",
+        "shared-ledger": "Gipaambit nga Ledger",
+        "statements": "Mga pahayag",
+        "reminders": "Mga pahinumdom",
+        "documents": "Mga Dokumento sa Partido",
+        "portal": "Portal sa Partido",
+        "import": "Import nga Partido",
+        "duplicate-merge": "Duplicate nga Paghiusa",
+        "gap-analysis": "Pagtuki sa Gap"
+      },
+      "inventory": {
+        "inventory-items": "Mga butang",
+        "godowns": "Mga bodega",
+        "stock-movement": "Paglihok sa Stock",
+        "item-pricing": "Pagpresyo",
+        "stock-valuation": "Pagtimbang-timbang sa Stock",
+        "reorder-alerts": "Usba ang mga Alerto",
+        "batch-serials": "Batch ug Serial",
+        "barcode-labels": "Mga Label sa Barcode",
+        "item-import": "Import nga butang",
+        "gap-analysis": "Pagtuki sa Gap"
+      },
+      "assets": {
+        "asset-register": "Lista sa Asset",
+        "depreciation": "Depreciation",
+        "disposal-revaluation": "Ibaligya o Revaluate"
+      },
+      "masters": {
+        "chart-of-accounts": "Listahan sa mga Account",
+        "tax-masters": "Bili sa Buhis",
+        "cost-centers": "Mga Sentro sa Gasto",
+        "voucher-types": "Mga Matang sa Transaksyon",
+        "opening-balances": "Mga Balanse sa Pagsugod",
+        "currencies": "Mga kuwarta"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll",
+        "manage-users": "Access sa Gumagamit",
+        "online-orders": "Mga Order sa Online",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Mga Accountant ug Suporta"
+      },
+      "party-tools": {
+        "documents": "Mga Dokumento sa Partido",
+        "portal": "Portal sa Partido",
+        "import": "Import nga Partido",
+        "duplicate-merge": "Duplicate nga Paghiusa",
+        "gap-analysis": "Pagtuki sa Gap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Usba ang mga Alerto",
+        "batch-serials": "Batch ug Serial",
+        "barcode-labels": "Mga Label sa Barcode",
+        "item-import": "Import nga butang",
+        "gap-analysis": "Pagtuki sa Gap"
+      },
+      "storage": {
+        "client-storage": "Mga File sa Kliyente",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Mga Alerto sa Accountant",
+        "compliance-alerts": "Mga Alerto sa Pagsunod",
+        "cash-risk-alerts": "Mga Alerto sa Cash & Risk",
+        "ca-access": "Temporaryong Pag-access sa CA"
+      },
+      "migration": {
+        "import": "Import nga Data",
+        "export": "Export Data",
+        "history": "Import nga Kasaysayan",
+        "tally-import": "Import gikan sa Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Mga Pagpamalit ug Pagbayad",
+      "accountingSetup": "Pag-setup sa Accounting",
+      "dataDocuments": "Data ug mga Dokumento"
+    }
+  },
+  "common": {
+    "save": "I-save ang mga Kausaban",
+    "cancel": "Pagkanselar",
+    "create": "Paghimo",
+    "edit": "Edit",
+    "delete": "Pagtangtang",
+    "search": "Pangitaa",
+    "connect": "Sumpaysumpaya",
+    "configure": "I-configure",
+    "disconnect": "Pagdiskonekta",
+    "sync": "I-sync Karon",
+    "close": "Duol",
+    "reset": "I-reset sa mga Default",
+    "back": "Balik",
+    "continue": "Padayon",
+    "all": "Tanan",
+    "retry": "Sulayi pag-usab",
+    "loading": "Nagkarga…",
+    "resetDemo": "I-reset ang datos sa demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Pangita bisan unsa…",
+    "settings": "Mga setting",
+    "language": "Pinulongan",
+    "role": "Papel",
+    "greeting": {
+      "morning": "Maayong buntag",
+      "afternoon": "Maayong hapon",
+      "evening": "Maayong gabii"
+    },
+    "settingsItems": {
+      "company-profile": "Profile sa Kompanya",
+      "configuration": "Pag-configure",
+      "fiscal-periods": "Mga Panahon sa Panalapi",
+      "roles": "Mga Papel ug Gumagamit",
+      "integrations": "Mga panagsama",
+      "notifications": "Mga pahibalo",
+      "audit-logs": "Audit ug Log",
+      "audit-trail": "Tamper-proof nga Audit Trail",
+      "developer": "Developer ug API"
+    },
+    "translatedLanguages": "Gihubad",
+    "untranslatedLanguages": "English hangtod gihubad"
+  },
+  "status": {
+    "filed": "Gipasaka",
+    "ready": "Andam sa pag-file",
+    "open": "Bukas ang panahon",
+    "paid": "Gibayran",
+    "pending": "Naghulat",
+    "accepted": "Gidawat",
+    "delivered": "Gihatud",
+    "rejected": "Gisalikway",
+    "pdf-sent": "Gipadala ang PDF",
+    "not-sent": "Wala gipadala",
+    "matched": "Gipares",
+    "mismatch": "Dili tugma",
+    "missing-supplier": "Wala gitaho sa supplier",
+    "missing-books": "Nawala sa mga libro",
+    "deferred": "Gi-defer",
+    "deducted": "Gikuhaan",
+    "remitted": "Gi-remit",
+    "certified": "Sertipikado",
+    "to-report": "Sa pagtaho",
+    "reported": "Gi-report",
+    "accounted": "Gi-account",
+    "overdue": "Overdue na"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Andam sa pag-file",
+      "liabilityDue": "Tulubagon tungod",
+      "paidThisYear": "Gibayran karong tuiga",
+      "nextDeadline": "Sunod nga deadline",
+      "noneOverdue": "Walay overdue",
+      "overdue": "{{count}} nalapas na"
+    },
+    "filter": {
+      "ready": "Andam sa pag-file",
+      "open": "Bukas",
+      "filed": "Gipasaka"
+    },
+    "col": {
+      "period": "Panahon",
+      "authority": "Awtoridad",
+      "rate": "Rate",
+      "due": "Tungod",
+      "netPayable": "Net nga bayranan",
+      "status": "Status",
+      "ack": "Pag-ila"
+    },
+    "file": "file",
+    "view": "Panglantaw",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Nagkarga sa hurisdiksyon…",
+    "nothingToFile": "Wala’y mga pagbalik nga naghulat nga isumite - ang tanan nga mga sirado nga panahon gisumite.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Pagrepaso",
+      "validate": "I-validate",
+      "declare": "Ipahayag ug isumite",
+      "ack": "Pag-ila"
+    },
+    "runValidation": "Pagdagan validation",
+    "validating": "Nagpamatuod…",
+    "submit": "Submit {{form}}",
+    "submitting": "Nagsumite…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Net nga kantidad",
+    "submitted": "Gisumite",
+    "filedOn": "Gi-file sa",
+    "regime": {
+      "authority": "Awtoridad",
+      "channel": "Channel sa pag-file",
+      "return": "Pagbalik",
+      "due": "Tungod",
+      "standardRate": "Standard nga rate",
+      "threshold": "Ang sukaranan sa pagparehistro"
+    },
+    "demoNote": "Ang datos sa demo gikan sa built-in nga mock tax API - ang mga pag-file ug pagbayad gi-simulate ug walay gipadala sa awtoridad sa buhis."
+  },
+  "fx": {
+    "title": "Langyaw nga Salapi",
+    "subtitle": "Base nga currency {{base}} · nagpaila nga mock market rates",
+    "newDoc": "Bag-ong FX invoice / bill",
+    "kpi": {
+      "netExposure": "Pagkaladlad sa Net FX",
+      "openDocs": "{{count}} bukas nga mga dokumento",
+      "unrealized": "Wala matuman nga ganansya / pagkawala",
+      "postedSplit": "{{posted}} posted · {{unposted}} wala pa",
+      "realized": "Nakaamgo karong tuiga",
+      "lastReval": "Katapusan nga revaluation",
+      "never": "Dili gayud",
+      "suggested": "Gisugyot: {{date}}"
+    },
+    "view": {
+      "open": "Bukas nga mga butang",
+      "settled": "Nahusay",
+      "revaluation": "Rebalwasyon sa katapusan sa bulan",
+      "journal": "FX journal"
+    },
+    "col": {
+      "document": "Dokumento",
+      "type": "Type",
+      "openForeign": "Bukas (langyaw)",
+      "bookedNow": "Gi-book / karon",
+      "valueIn": "Bili sa {{base}}",
+      "unrealized": "Wala matuman",
+      "status": "Status",
+      "amount": "kantidad",
+      "bookedRate": "Gi-book nga rate",
+      "realized": "Nakaamgo"
+    },
+    "receivable": "Madawat",
+    "payable": "Bayad",
+    "receive": "Dawata",
+    "pay": "Bayad",
+    "netIn": "Pukot sa {{base}}",
+    "state": {
+      "settled": "Nahusay",
+      "partial": "Part-settled",
+      "open": "Bukas"
+    },
+    "demoNote": "Demo data gikan sa built-in mock API — rates kay simulate, dili live market data."
+  }
+}

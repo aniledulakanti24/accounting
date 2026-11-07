@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Siku na Siku",
+      "finance": "Timali",
+      "advanced": "Humelela"
+    },
+    "mainMenu": "Menyu Leyikulu",
+    "short": {
+      "parties": "Minkhuvo"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Ku xavisiwa",
+      "receivables": "Mali Eka",
+      "procurement": "Ku xava",
+      "payables": "Mali Yi Huma",
+      "cashbank": "Mali & Bangi",
+      "expenses": "Madurhelo",
+      "tax": "Xibalo",
+      "reports": "Swiviko",
+      "advanced-features": "Swihlawulekisi swa le Henhla",
+      "parties": "Vaxavi & Vaphakeri",
+      "inventory": "Swilo",
+      "assets": "Nhundzu leyi nga cinciki",
+      "masters": "Ku Hlela & Ku Hlela",
+      "business-tools": "Xipano & Switirhisiwa",
+      "party-tools": "Switirhisiwa swa Nkhuvo",
+      "item-tools": "Switirhisiwa swa Nchumu",
+      "storage": "Matsalwa",
+      "alerts": "Switsundzuxo",
+      "migration": "Ku Rhurhela ka Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Nkatsakanyo",
+        "cash-flow": "Ku Famba ka Mali",
+        "tax-calendar": "Khalendara ya Xibalo"
+      },
+      "sales": {
+        "quotations": "Switlhokovetselo",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Rhasiti ra nxavo",
+        "delivery-challans": "Challan yo rhumela swilo",
+        "receipts": "Rhasiti",
+        "invoice-desk": "Desika ra Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Mali Eka Xikarhi",
+        "receivables": "Swikweleti leswi amukeriwaka",
+        "payments-received": "Tihakelo Leti Amukeriweke",
+        "overdue-collections": "Nhlengeleto & Switsundzuxo",
+        "credit-notes": "Tinhlamuselo ta Swikweleti & Ku Vuyiseriwa ka Mali",
+        "sales-returns": "Vuyelo bya ku Xavisiwa",
+        "customer-statements": "Switatimende swa Vaxavi",
+        "payment-links": "Swihlanganisi swa Nhlawulo"
+      },
+      "procurement": {
+        "purchase-center": "Senthara yo Xava",
+        "purchase-orders": "Tioda to Xava",
+        "goods-receipt": "Risiti ya Nhundzu",
+        "purchase-invoices": "Ti-Invoice to Xava",
+        "payment-out": "Tihakelo Ti Endliwile",
+        "returns-debit-notes": "Swibumabumelo & Tinhlamuselo ta Debit",
+        "bill-approvals": "Swibumabumelo swa Nawumbisi"
+      },
+      "payables": {
+        "bills": "Senthara ya ku Hakela",
+        "payments": "Tihakelo ta Vaphakeri",
+        "workforce": "Vatirhi va vatirhi",
+        "adjustments": "Mindzulamiso",
+        "bank-release": "Ku Ntshunxiwa ka Bangi"
+      },
+      "cashbank": {
+        "bank-accounts": "Tiakhawunti ta Mina",
+        "reconciliation": "Ku Fanisa Mintirhisano",
+        "cash-petty": "Mali leyitsongo",
+        "contra": "Exikarhi ka Tiakhawunti",
+        "cheque-register": "Ticheke ta kona",
+        "foreign-currency": "Mali ya Matiko ya le Handle",
+        "bank-feeds": "Swiphakeri swa le Bangi",
+        "bank-rules": "Milawu & Ku Vuyelelana"
+      },
+      "expenses": {
+        "expense-center": "Tihakelo Hinkwato",
+        "categories": "Tinxaka ta Tihakelo",
+        "automated-bills": "Tihakelo leti Vuyeleriwaka",
+        "journal-vouchers": "Swingheniso swa Manual",
+        "provisions": "Swilo leswi hlengeletiweke",
+        "write-offs": "Ku tsariwa ka swilo",
+        "period-close": "N’hweti-Makumu"
+      },
+      "tax": {
+        "gst-returns": "Ku Fayila ka GST",
+        "gst-filing-wizard": "⚡ Fayili ya GSTR-3B",
+        "gst-reconciliation": "Ku Fanisa ka GST",
+        "e-invoicing": "Ti-Invoice ta E-I",
+        "e-way-bills": "Swibalo swa E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Hakela Xibalo",
+        "quarterly-compliance": "Khalendara ya ku Landzelela",
+        "ca-access": "CA Mfikelelo wa Nkarhinyana",
+        "gst-from-books": "GST ku suka eka Tibuku"
+      },
+      "reports": {
+        "financial-statements": "Swiviko swa Timali",
+        "books": "Tibuku ta Nxaviselano",
+        "gst-reports": "Swiviko swa GST",
+        "ar-ap": "Swikweleti vs Swilo leswi hakeriwaka",
+        "profitability": "Ku vuyeriwa",
+        "period-comparatives": "Ku Fanisa Lembe",
+        "budget-vs-actuals": "Mulandzeri wa Mpimanyeto",
+        "cashflow-projection": "Vuprofeta bya Mali",
+        "report-builder": "Swiviko swa Xihlawuhlawu",
+        "general-ledger": "Buku ya Xifundzankulu",
+        "live-financials": "Swilo swa Timali leswi hanyaka",
+        "ai-analyst": "Muhlahluvi wa AI"
+      },
+      "advanced-features": {
+        "overview": "Nkatsakanyo"
+      },
+      "parties": {
+        "all-parties": "Mavandla Hinkwawo",
+        "customer-ledgers": "Vaxavi",
+        "supplier-ledgers": "Vaphakeri va swilo",
+        "shared-ledger": "Ledger leyi avelaniwa",
+        "statements": "Switatimende",
+        "reminders": "Switsundzuxo",
+        "documents": "Matsalwa ya Vandla",
+        "portal": "Portal ya Vandla",
+        "import": "Ku Nghenisiwa ka Vandla eMatikweni mambe",
+        "duplicate-merge": "Ku Hlanganisa ka Swiphemuphemu",
+        "gap-analysis": "Nxopaxopo wa Swivandla"
+      },
+      "inventory": {
+        "inventory-items": "Swilo",
+        "godowns": "Tindlu to hlayisela swilo",
+        "stock-movement": "Ku Famba-famba ka Switoko",
+        "item-pricing": "Ku vekiwa ka nxavo",
+        "stock-valuation": "Ku pima Nhlayo ya Switoko",
+        "reorder-alerts": "Switsundzuxo swa ku Hlela Hi vuntshwa",
+        "batch-serials": "Batch & Serial ya Xirhendzevutani",
+        "barcode-labels": "Tilebhele ta Tibarkhodi",
+        "item-import": "Ku Nghenisiwa ka Nchumu",
+        "gap-analysis": "Nxopaxopo wa Swivandla"
+      },
+      "assets": {
+        "asset-register": "Nxaxamelo wa Nhundzu",
+        "depreciation": "Ku hunguteka ka nxavo",
+        "disposal-revaluation": "Xavisa kumbe Ku Hlawula"
+      },
+      "masters": {
+        "chart-of-accounts": "Nxaxamelo wa Tiakhawunti",
+        "tax-masters": "Mimpimo ya Xibalo",
+        "cost-centers": "Tisenthara ta Ntsengo",
+        "voucher-types": "Tinxaka ta Ntirhisano",
+        "opening-balances": "Ku Sungula Ku Balances",
+        "currencies": "Timali ta timali"
+      },
+      "business-tools": {
+        "staff-payroll": "Nxaxamelo wa miholo",
+        "manage-users": "Mfikelelo wa Vatirhisi",
+        "online-orders": "Tioda ta le ka Inthanete",
+        "sms-marketing": "Ku Xavisiwa ka SMS",
+        "accountant-hub": "Vahlayisi va Tiakhawunti & Nseketelo"
+      },
+      "party-tools": {
+        "documents": "Matsalwa ya Vandla",
+        "portal": "Portal ya Vandla",
+        "import": "Ku Nghenisiwa ka Vandla eMatikweni mambe",
+        "duplicate-merge": "Ku Hlanganisa ka Swiphemuphemu",
+        "gap-analysis": "Nxopaxopo wa Swivandla"
+      },
+      "item-tools": {
+        "reorder-alerts": "Switsundzuxo swa ku Hlela Hi vuntshwa",
+        "batch-serials": "Batch & Serial ya Xirhendzevutani",
+        "barcode-labels": "Tilebhele ta Tibarkhodi",
+        "item-import": "Ku Nghenisiwa ka Nchumu",
+        "gap-analysis": "Nxopaxopo wa Swivandla"
+      },
+      "storage": {
+        "client-storage": "Tifayili ta Tikhasimende",
+        "unifiedtree-storage": "Vuhlayiselo bya le Mapapa"
+      },
+      "alerts": {
+        "accountant-alerts": "Switsundzuxo swa Muhlayisi wa Xibalo",
+        "compliance-alerts": "Switsundzuxo swa ku Landzelela",
+        "cash-risk-alerts": "Switsundzuxo swa Mali & Khombo",
+        "ca-access": "CA Mfikelelo wa Nkarhinyana"
+      },
+      "migration": {
+        "import": "Nghenisa Data",
+        "export": "Rhumela eMatikweni mambe Data",
+        "history": "Matimu ya ku Rhumela eMatikweni mambe",
+        "tally-import": "Ku nghenisa ku suka eka Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ku Xava & Ku Hakela",
+      "accountingSetup": "Ku Hlela ka Xibalo",
+      "dataDocuments": "Data & Matsalwa"
+    }
+  },
+  "common": {
+    "save": "Hlayisa Ku Cinca",
+    "cancel": "Khansela",
+    "create": "Vumba",
+    "edit": "Hlela",
+    "delete": "Sula",
+    "search": "Secha",
+    "connect": "Hlanganisa",
+    "configure": "Hlela",
+    "disconnect": "Ku tsema vuhlanganisi",
+    "sync": "Sync Sweswi",
+    "close": "Pfala",
+    "reset": "Seta nakambe eka Swihlawulekisi",
+    "back": "Tlhelela",
+    "continue": "Yisa emahlweni",
+    "all": "Hinkwaswo",
+    "retry": "Ringeta nakambe",
+    "loading": "Ku layicha...",
+    "resetDemo": "Seta data ya demo nakambe"
+  },
+  "shell": {
+    "searchPlaceholder": "Secha xin'wana na xin'wana...",
+    "settings": "Switirhisiwa",
+    "language": "Ririmi",
+    "role": "Ntirho",
+    "greeting": {
+      "morning": "Mixo lowunene",
+      "afternoon": "Nhlikanhi lowunene",
+      "evening": "Riperile"
+    },
+    "settingsItems": {
+      "company-profile": "Xivumbeko xa Khamphani",
+      "configuration": "Ku lulamisiwa ka swilo",
+      "fiscal-periods": "Minkarhi ya swa Timali",
+      "roles": "Mintirho & Vatirhisi",
+      "integrations": "Ku hlanganisiwa ka swilo",
+      "notifications": "Switiviso",
+      "audit-logs": "Oditi & Tilog",
+      "audit-trail": "Trail ya Vuhlahluvi leyi nga onhiwiki",
+      "developer": "Mutumbuluxi & API"
+    },
+    "translatedLanguages": "Ku hundzuluxeriwa",
+    "untranslatedLanguages": "Xitsonga ku kondza xi hundzuluxeriwa"
+  },
+  "status": {
+    "filed": "Ku fayiliwile",
+    "ready": "Swi lunghekele ku fayila",
+    "open": "Nkarhi wu pfulekile",
+    "paid": "Hakerile",
+    "pending": "Rindzerile",
+    "accepted": "Ku amukeriwile",
+    "delivered": "Yisiwile",
+    "rejected": "Ku ariwile",
+    "pdf-sent": "PDF yi rhumeriwile",
+    "not-sent": "A swi rhumeriwi",
+    "matched": "Ku fambelanisiwa",
+    "mismatch": "Ku nga fambisani",
+    "missing-supplier": "A swi vikiwanga hi muphakeri",
+    "missing-books": "Ku kayivela eka tibuku",
+    "deferred": "Ku tlheriseriwa endzhaku",
+    "deducted": "Ku hungutiwile",
+    "remitted": "Ku rhumeriwile",
+    "certified": "Ku tiyisisiwa",
+    "to-report": "Ku vika",
+    "reported": "Ku vikiwile",
+    "accounted": "Ku hlayiwa ka xibalo",
+    "overdue": "Ku hundze nkarhi"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Swi lunghekele ku fayila",
+      "liabilityDue": "Vutihlamuleri lebyi faneleke",
+      "paidThisYear": "Ku hakeriwa lembe leri",
+      "nextDeadline": "Siku ro hetelela leri landzelaka",
+      "noneOverdue": "Ku hava leyi hundzeriweke hi nkarhi",
+      "overdue": "{{count}} yi hundzile nkarhi"
+    },
+    "filter": {
+      "ready": "Swi lunghekele ku fayila",
+      "open": "Pfuleka",
+      "filed": "Ku fayiliwile"
+    },
+    "col": {
+      "period": "Nkarhi",
+      "authority": "Vulawuri",
+      "rate": "Mpimo",
+      "due": "Hikwalaho",
+      "netPayable": "Net leyi hakeriwaka",
+      "status": "Xiyimo",
+      "ack": "Ku khensa"
+    },
+    "file": "Fayili",
+    "view": "Vona",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ku layicha vulawuri...",
+    "nothingToFile": "Ku hava swiviko leswi yimeleke ku fayeriwa — minkarhi hinkwayo leyi pfariweke ya rhumeriwa.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Hlela hi vuntshwa",
+      "validate": "Tiyisisa",
+      "declare": "Tivisa & rhumela",
+      "ack": "Ku khensa"
+    },
+    "runValidation": "Tsutsuma ku tiyisisiwa",
+    "validating": "Ku tiyisisa...",
+    "submit": "Submit {{form}}",
+    "submitting": "Ku rhumela...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Nhlayo ya ntsengo wa ntsengo",
+    "submitted": "Ku rhumeriwile",
+    "filedOn": "Ku fayiliwile eka",
+    "regime": {
+      "authority": "Vulawuri",
+      "channel": "Xitichi xo fayila",
+      "return": "Tlhelela",
+      "due": "Hikwalaho",
+      "standardRate": "Nhlayo ya ntolovelo",
+      "threshold": "Nhlayo ya ku tsarisa"
+    },
+    "demoNote": "Data ya demo ku suka eka API ya xibalo xa mock leyi akiweke endzeni — ku fayila na ku hakela swi tekeleriwa naswona a ku na nchumu lowu rhumeriwaka eka vulawuri bya xibalo."
+  },
+  "fx": {
+    "title": "Mali ya Matiko ya le Handle",
+    "subtitle": "Mali ya xisekelo {{base}} · mimpimo ya makete ya mock leyi kombisaka",
+    "newDoc": "Invoyisi leyintshwa ya FX / xibalo",
+    "kpi": {
+      "netExposure": "Ku paluxiwa ka net FX",
+      "openDocs": "{{count}} pfula matsalwa",
+      "unrealized": "Ku vuyeriwa / ku lahlekeriwa loku nga vonakiki",
+      "postedSplit": "{{posted}} yi rhumeriwile · {{unposted}} a yi si rhumeriwa",
+      "realized": "Swi xiyiwile lembe leri",
+      "lastReval": "Ku ringanisiwa nakambe ko hetelela",
+      "never": "Endleki",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Pfula swilo",
+      "settled": "Ku tshamisekile",
+      "revaluation": "Ku ringanisiwa nakambe ka makumu ya n’hweti",
+      "journal": "Nyuziphepha ya FX"
+    },
+    "col": {
+      "document": "Tsalwa",
+      "type": "Muxaka",
+      "openForeign": "Vula (wa matiko mambe) .",
+      "bookedNow": "Booked / sweswi",
+      "valueIn": "Nkoka eka {{base}}",
+      "unrealized": "Swi nga xiyiwi",
+      "status": "Xiyimo",
+      "amount": "Ntsengo",
+      "bookedRate": "Ntsengo lowu bukuteriweke",
+      "realized": "Lemuka"
+    },
+    "receivable": "Ku amukeriwa",
+    "payable": "Ku hakeriwa",
+    "receive": "Amukela",
+    "pay": "Hakela",
+    "netIn": "Neti eka {{base}}",
+    "state": {
+      "settled": "Ku tshamisekile",
+      "partial": "Xiphemu xa ku tshamiseka",
+      "open": "Pfuleka"
+    },
+    "demoNote": "Data ya demo ku suka eka mock API leyi akiweke endzeni — mimpimo yi tekeleriwa, ku nga ri datha ya makete leyi hanyaka."
+  }
+}

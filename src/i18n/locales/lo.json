@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ມື້ຕໍ່ວັນ",
+      "finance": "ການເງິນ",
+      "advanced": "ຂັ້ນສູງ"
+    },
+    "mainMenu": "ເມນູຫຼັກ",
+    "short": {
+      "parties": "ພັກ"
+    },
+    "sections": {
+      "dashboard": "ແຜງໜ້າປັດ",
+      "sales": "ການຂາຍ",
+      "receivables": "ເງິນເຂົ້າ",
+      "procurement": "ການຊື້",
+      "payables": "ເງິນອອກ",
+      "cashbank": "ເງິນສົດ & ທະນາຄານ",
+      "expenses": "ຄ່າໃຊ້ຈ່າຍ",
+      "tax": "ພາສີ",
+      "reports": "ບົດລາຍງານ",
+      "advanced-features": "ຄຸນສົມບັດຂັ້ນສູງ",
+      "parties": "ລູກຄ້າ ແລະຜູ້ສະໜອງ",
+      "inventory": "ລາຍການ",
+      "assets": "ຊັບສິນຄົງທີ່",
+      "masters": "ການ​ຕັ້ງ​ຄ່າ​ແລະ​ການ​ຕັ້ງ​ຄ່າ​",
+      "business-tools": "ທີມງານ & ເຄື່ອງມື",
+      "party-tools": "ເຄື່ອງມືຂອງພັກ",
+      "item-tools": "ເຄື່ອງມືລາຍການ",
+      "storage": "ເອກະສານ",
+      "alerts": "ແຈ້ງເຕືອນ",
+      "migration": "ການເຄື່ອນຍ້າຍຂໍ້ມູນ"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ພາບລວມ",
+        "cash-flow": "ກະແສເງິນສົດ",
+        "tax-calendar": "ປະຕິທິນພາສີ"
+      },
+      "sales": {
+        "quotations": "ວົງຢືມ",
+        "proforma-invoices": "PI",
+        "sales-invoices": "ໃບເກັບເງິນ",
+        "delivery-challans": "ການຈັດສົ່ງ Challan",
+        "receipts": "ໃບຮັບເງິນ",
+        "invoice-desk": "ໂຕະໃບເກັບເງິນ"
+      },
+      "receivables": {
+        "money-in-center": "ເງິນຢູ່ໃນສູນ",
+        "receivables": "ໜີ້ສິນ",
+        "payments-received": "ໄດ້ຮັບການຈ່າຍເງິນ",
+        "overdue-collections": "ຄໍເລັກຊັນ & ການແຈ້ງເຕືອນ",
+        "credit-notes": "ບັນທຶກສິນເຊື່ອ & ການຄືນເງິນ",
+        "sales-returns": "ການຂາຍຄືນ",
+        "customer-statements": "ຖະແຫຼງການຂອງລູກຄ້າ",
+        "payment-links": "ການເຊື່ອມຕໍ່ການຈ່າຍເງິນ"
+      },
+      "procurement": {
+        "purchase-center": "ສູນ​ການ​ຊື້",
+        "purchase-orders": "ຄໍາສັ່ງສັ່ງຊື້",
+        "goods-receipt": "ໃບຮັບເງິນ",
+        "purchase-invoices": "ໃບເກັບເງິນຊື້",
+        "payment-out": "ຊໍາລະແລ້ວ",
+        "returns-debit-notes": "ບັນທຶກການສົ່ງຄືນ & ເດບິດ",
+        "bill-approvals": "ການອະນຸມັດໃບບິນ"
+      },
+      "payables": {
+        "bills": "ສູນຈ່າຍ",
+        "payments": "ການຈ່າຍເງິນຂອງຜູ້ສະຫນອງ",
+        "workforce": "ກໍາລັງແຮງງານ",
+        "adjustments": "ການປັບຕົວ",
+        "bank-release": "ການປ່ອຍທະນາຄານ"
+      },
+      "cashbank": {
+        "bank-accounts": "ບັນຊີຂອງຂ້ອຍ",
+        "reconciliation": "ຈັບຄູ່ທຸລະກໍາ",
+        "cash-petty": "ເງິນສົດນ້ອຍ",
+        "contra": "ລະຫວ່າງບັນຊີ",
+        "cheque-register": "ກວດກາ",
+        "foreign-currency": "ເງິນຕາຕ່າງປະເທດ",
+        "bank-feeds": "ທະນາຄານອາຫານ",
+        "bank-rules": "ກົດ​ລະ​ບຽບ & Reconciliation"
+      },
+      "expenses": {
+        "expense-center": "ຄ່າໃຊ້ຈ່າຍທັງຫມົດ",
+        "categories": "ປະເພດຄ່າໃຊ້ຈ່າຍ",
+        "automated-bills": "ຄ່າໃຊ້ຈ່າຍທີ່ເກີດຂຶ້ນຊ້ຳ",
+        "journal-vouchers": "ປື້ມຄູ່ມື",
+        "provisions": "ຄ້າງຈ່າຍ",
+        "write-offs": "ການຕັດອອກ",
+        "period-close": "ທ້າຍເດືອນ"
+      },
+      "tax": {
+        "gst-returns": "ການຍື່ນ GST",
+        "gst-filing-wizard": "⚡ ໄຟລ໌ GSTR-3B",
+        "gst-reconciliation": "ການຈັບຄູ່ GST",
+        "e-invoicing": "E-ໃບເກັບເງິນ",
+        "e-way-bills": "ໃບບິນທາງອີເລັກໂທຣນິກ",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "ຈ່າຍພາສີ",
+        "quarterly-compliance": "ປະຕິທິນການປະຕິບັດຕາມ",
+        "ca-access": "CA ການເຂົ້າເຖິງຊົ່ວຄາວ",
+        "gst-from-books": "GST ຈາກປຶ້ມ"
+      },
+      "reports": {
+        "financial-statements": "ບົດລາຍງານທາງດ້ານການເງິນ",
+        "books": "ປຶ້ມທຸລະກໍາ",
+        "gst-reports": "ບົດລາຍງານ GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "ກໍາໄລ",
+        "period-comparatives": "ການປຽບທຽບປີ",
+        "budget-vs-actuals": "ບົບຕິດຕາມລຸດງົບປະມານ",
+        "cashflow-projection": "ການ​ຄາດ​ຄະ​ເນ​ເງິນ​ສົດ​",
+        "report-builder": "ບົດລາຍງານແບບກຳນົດເອງ",
+        "general-ledger": "ບັນຊີລາຍການທົ່ວໄປ",
+        "live-financials": "ການເງິນສົດ",
+        "ai-analyst": "ນັກວິເຄາະ AI"
+      },
+      "advanced-features": {
+        "overview": "ພາບລວມ"
+      },
+      "parties": {
+        "all-parties": "ທຸກຝ່າຍ",
+        "customer-ledgers": "ລູກຄ້າ",
+        "supplier-ledgers": "ຜູ້ສະຫນອງ",
+        "shared-ledger": "ບັນຊີລາຍການທີ່ແບ່ງປັນ",
+        "statements": "ຖະແຫຼງການ",
+        "reminders": "ການແຈ້ງເຕືອນ",
+        "documents": "ເອກະສານພັກ",
+        "portal": "ປະຕູພັກ",
+        "import": "ການນໍາເຂົ້າພັກ",
+        "duplicate-merge": "ຊ້ໍາກັນ Merge",
+        "gap-analysis": "ການວິເຄາະຊ່ອງຫວ່າງ"
+      },
+      "inventory": {
+        "inventory-items": "ລາຍການ",
+        "godowns": "ສາງ",
+        "stock-movement": "ການເຄື່ອນໄຫວຫຼັກຊັບ",
+        "item-pricing": "ລາຄາ",
+        "stock-valuation": "ການປະເມີນມູນຄ່າຫຼັກຊັບ",
+        "reorder-alerts": "ຈັດຮຽງການແຈ້ງເຕືອນຄືນໃໝ່",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "ປ້າຍບາໂຄດ",
+        "item-import": "ນໍາເຂົ້າລາຍການ",
+        "gap-analysis": "ການວິເຄາະຊ່ອງຫວ່າງ"
+      },
+      "assets": {
+        "asset-register": "ລາຍການຊັບສິນ",
+        "depreciation": "ຄ່າເສື່ອມລາຄາ",
+        "disposal-revaluation": "ຂາຍຫຼືເພີ່ມມູນຄ່າ"
+      },
+      "masters": {
+        "chart-of-accounts": "ບັນຊີລາຍການ",
+        "tax-masters": "ອັດຕາພາສີ",
+        "cost-centers": "ສູນຄ່າໃຊ້ຈ່າຍ",
+        "voucher-types": "ປະເພດທຸລະກໍາ",
+        "opening-balances": "ຍອດເງິນເລີ່ມຕົ້ນ",
+        "currencies": "ສະກຸນເງິນ"
+      },
+      "business-tools": {
+        "staff-payroll": "ເງິນເດືອນ",
+        "manage-users": "ການເຂົ້າເຖິງຜູ້ໃຊ້",
+        "online-orders": "ຄໍາສັ່ງອອນໄລນ໌",
+        "sms-marketing": "ການຕະຫຼາດ SMS",
+        "accountant-hub": "ບັນຊີ & ສະຫນັບສະຫນູນ"
+      },
+      "party-tools": {
+        "documents": "ເອກະສານພັກ",
+        "portal": "ປະຕູພັກ",
+        "import": "ການນໍາເຂົ້າພັກ",
+        "duplicate-merge": "ຊ້ໍາກັນ Merge",
+        "gap-analysis": "ການວິເຄາະຊ່ອງຫວ່າງ"
+      },
+      "item-tools": {
+        "reorder-alerts": "ຈັດຮຽງການແຈ້ງເຕືອນຄືນໃໝ່",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "ປ້າຍບາໂຄດ",
+        "item-import": "ນໍາເຂົ້າລາຍການ",
+        "gap-analysis": "ການວິເຄາະຊ່ອງຫວ່າງ"
+      },
+      "storage": {
+        "client-storage": "ໄຟລ໌ລູກຄ້າ",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "ແຈ້ງເຕືອນນັກບັນຊີ",
+        "compliance-alerts": "ການແຈ້ງເຕືອນການປະຕິບັດຕາມ",
+        "cash-risk-alerts": "ເງິນສົດ & ແຈ້ງເຕືອນຄວາມສ່ຽງ",
+        "ca-access": "CA ການເຂົ້າເຖິງຊົ່ວຄາວ"
+      },
+      "migration": {
+        "import": "ຂໍ້ມູນນໍາເຂົ້າ",
+        "export": "ສົ່ງອອກຂໍ້ມູນ",
+        "history": "ປະຫວັດການນໍາເຂົ້າ",
+        "tally-import": "ນໍາເຂົ້າຈາກ Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ການຊື້ ແລະການຈ່າຍເງິນ",
+      "accountingSetup": "ການຕັ້ງຄ່າບັນຊີ",
+      "dataDocuments": "ຂໍ້ມູນ & ເອກະສານ"
+    }
+  },
+  "common": {
+    "save": "ບັນທຶກການປ່ຽນແປງ",
+    "cancel": "ຍົກເລີກ",
+    "create": "ສ້າງ",
+    "edit": "ແກ້ໄຂ",
+    "delete": "ລຶບ",
+    "search": "ຊອກຫາ",
+    "connect": "ເຊື່ອມຕໍ່",
+    "configure": "ຕັ້ງຄ່າ",
+    "disconnect": "ຕັດການເຊື່ອມຕໍ່",
+    "sync": "ຊິ້ງຂໍ້ມູນດຽວນີ້",
+    "close": "ປິດ",
+    "reset": "ຣີເຊັດເປັນຄ່າເລີ່ມຕົ້ນ",
+    "back": "ກັບຄືນໄປບ່ອນ",
+    "continue": "ສືບຕໍ່",
+    "all": "ທັງໝົດ",
+    "retry": "ລອງໃໝ່",
+    "loading": "ກຳລັງໂຫລດ...",
+    "resetDemo": "ຣີເຊັດຂໍ້ມູນຕົວຢ່າງ"
+  },
+  "shell": {
+    "searchPlaceholder": "ຊອກຫາອັນໃດກໍໄດ້...",
+    "settings": "ການຕັ້ງຄ່າ",
+    "language": "ພາສາ",
+    "role": "ບົດບາດ",
+    "greeting": {
+      "morning": "ສະບາຍດີຕອນເຊົ້າ",
+      "afternoon": "ສະບາຍດີຕອນບ່າຍ",
+      "evening": "ສະບາຍດີຕອນແລງ"
+    },
+    "settingsItems": {
+      "company-profile": "ຂໍ້ມູນບໍລິສັດ",
+      "configuration": "ການຕັ້ງຄ່າ",
+      "fiscal-periods": "ໄລຍະເວລາງົບປະມານ",
+      "roles": "ບົດບາດ ແລະຜູ້ໃຊ້",
+      "integrations": "ການປະສົມປະສານ",
+      "notifications": "ການແຈ້ງເຕືອນ",
+      "audit-logs": "ການກວດສອບ & ບັນທຶກ",
+      "audit-trail": "ເສັ້ນທາງການກວດສອບ ຫຼັກຖານສະແດງ",
+      "developer": "ນັກພັດທະນາ & API"
+    },
+    "translatedLanguages": "ແປ",
+    "untranslatedLanguages": "ພາສາອັງກິດຈົນແປ"
+  },
+  "status": {
+    "filed": "ຍື່ນ",
+    "ready": "ພ້ອມທີ່ຈະຍື່ນ",
+    "open": "ໄລຍະເວລາເປີດ",
+    "paid": "ຈ່າຍແລ້ວ",
+    "pending": "ລໍຖ້າຢູ່",
+    "accepted": "ຍອມຮັບ",
+    "delivered": "ຈັດສົ່ງແລ້ວ",
+    "rejected": "ປະຕິເສດ",
+    "pdf-sent": "ສົ່ງ PDF ແລ້ວ",
+    "not-sent": "ບໍ່ໄດ້ສົ່ງ",
+    "matched": "ກົງກັນ",
+    "mismatch": "ບໍ່ກົງກັນ",
+    "missing-supplier": "ບໍ່ໄດ້ລາຍງານໂດຍຜູ້ສະຫນອງ",
+    "missing-books": "ຂາດຢູ່ໃນປຶ້ມ",
+    "deferred": "ເລື່ອນເວລາ",
+    "deducted": "ຫັກ",
+    "remitted": "ສົ່ງຄືນ",
+    "certified": "ຮັບຮອງ",
+    "to-report": "ລາຍງານ",
+    "reported": "ລາຍງານ",
+    "accounted": "ບັນຊີ",
+    "overdue": "ເກີນກຳນົດ"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ພ້ອມທີ່ຈະຍື່ນ",
+      "liabilityDue": "ໜີ້ຕ້ອງຮັບ",
+      "paidThisYear": "ຈ່າຍໃນປີນີ້",
+      "nextDeadline": "ເສັ້ນຕາຍຄັ້ງຕໍ່ໄປ",
+      "noneOverdue": "ບໍ່ມີກຳນົດເວລາ",
+      "overdue": "ເກີນກຳນົດ {{count}}"
+    },
+    "filter": {
+      "ready": "ພ້ອມທີ່ຈະຍື່ນ",
+      "open": "ເປີດ",
+      "filed": "ຍື່ນ"
+    },
+    "col": {
+      "period": "ໄລຍະເວລາ",
+      "authority": "ອຳນາດ",
+      "rate": "ອັດຕາ",
+      "due": "ຮອດກຳນົດ",
+      "netPayable": "ຈ່າຍສຸດທິ",
+      "status": "ສະຖານະ",
+      "ack": "ການຮັບຮູ້"
+    },
+    "file": "ໄຟລ໌",
+    "view": "ເບິ່ງ",
+    "fileForm": "ໄຟລ໌ {{form}}",
+    "loadingJurisdiction": "ກຳລັງໂຫຼດສິດອຳນາດ...",
+    "nothingToFile": "ບໍ່ມີຜົນຕອບແທນທີ່ລໍຖ້າການຍື່ນ - ໄລຍະເວລາປິດທັງຫມົດຖືກສົ່ງ.",
+    "fileNext": "ໄຟລ໌ຕໍ່ໄປ: {{name}}",
+    "steps": {
+      "review": "ທົບທວນຄືນ",
+      "validate": "ຢືນຢັນ",
+      "declare": "ປະກາດ ແລະສົ່ງ",
+      "ack": "ການຮັບຮູ້"
+    },
+    "runValidation": "ດໍາເນີນການກວດສອບ",
+    "validating": "ກຳລັງກວດສອບ...",
+    "submit": "ສົ່ງ {{form}}",
+    "submitting": "ກຳລັງສົ່ງ...",
+    "declaration": "ຂ້າພະເຈົ້າປະກາດວ່າຂໍ້ມູນໃນການສົ່ງຄືນນີ້ແມ່ນເປັນຄວາມຈິງ ແລະຄົບຖ້ວນ, ແລະຂ້າພະເຈົ້າໄດ້ຮັບອະນຸຍາດໃຫ້ສົ່ງກັບ {{authority}}.",
+    "netAmount": "ຈໍານວນສຸດທິ",
+    "submitted": "ສົ່ງແລ້ວ",
+    "filedOn": "ຍື່ນແລ້ວ",
+    "regime": {
+      "authority": "ອຳນາດ",
+      "channel": "ຊ່ອງທາງການຍື່ນ",
+      "return": "ກັບຄືນ",
+      "due": "ຮອດກຳນົດ",
+      "standardRate": "ອັດຕາມາດຕະຖານ",
+      "threshold": "ເກນການລົງທະບຽນ"
+    },
+    "demoNote": "ຂໍ້ມູນການສາທິດຈາກ API ການເກັບພາສີແບບຈໍາລອງໃນຕົວ — ການຍື່ນ ແລະການຈ່າຍເງິນແມ່ນຖືກຈໍາລອງ ແລະບໍ່ມີອັນໃດຖືກສົ່ງໄປໃຫ້ເຈົ້າໜ້າທີ່ພາສີ."
+  },
+  "fx": {
+    "title": "ເງິນຕາຕ່າງປະເທດ",
+    "subtitle": "ສະກຸນເງິນຖານ {{base}} · ອັດຕາຕະຫຼາດຈໍາລອງ",
+    "newDoc": "ໃບເກັບເງິນ FX ໃຫມ່ / ໃບບິນ",
+    "kpi": {
+      "netExposure": "Net FX exposure",
+      "openDocs": "{{count}} ເອກະສານເປີດ",
+      "unrealized": "ການໄດ້ຮັບ / ການສູນເສຍທີ່ບໍ່ໄດ້ຮັບຮູ້",
+      "postedSplit": "{{posted}} ປະກາດ · {{unposted}} ຍັງບໍ່ທັນໄດ້",
+      "realized": "ຮັບຮູ້ໃນປີນີ້",
+      "lastReval": "ການປະເມີນຄືນຫຼ້າສຸດ",
+      "never": "ບໍ່ເຄີຍ",
+      "suggested": "ແນະນຳ: {{date}}"
+    },
+    "view": {
+      "open": "ເປີດລາຍການ",
+      "settled": "ຕົກລົງ",
+      "revaluation": "ການປະເມີນຄືນທ້າຍເດືອນ",
+      "journal": "ວາລະສານ FX"
+    },
+    "col": {
+      "document": "ເອກະສານ",
+      "type": "ປະເພດ",
+      "openForeign": "ເປີດ (ຕ່າງປະເທດ)",
+      "bookedNow": "ຈອງແລ້ວ / ດຽວນີ້",
+      "valueIn": "ຄ່າໃນ {{base}}",
+      "unrealized": "ບໍ່ເປັນຈິງ",
+      "status": "ສະຖານະ",
+      "amount": "ຈໍານວນ",
+      "bookedRate": "ອັດຕາການຈອງ",
+      "realized": "ຮັບຮູ້"
+    },
+    "receivable": "ຮັບ",
+    "payable": "ຈ່າຍໄດ້",
+    "receive": "ຮັບ",
+    "pay": "ຈ່າຍ",
+    "netIn": "ສຸດທິໃນ {{base}}",
+    "state": {
+      "settled": "ຕົກລົງ",
+      "partial": "ຕົກລົງເປັນສ່ວນໜຶ່ງ",
+      "open": "ເປີດ"
+    },
+    "demoNote": "ຂໍ້ມູນການສາທິດຈາກ API mock ໃນຕົວ — ອັດຕາແມ່ນຈໍາລອງ, ບໍ່ແມ່ນຂໍ້ມູນຕະຫຼາດສົດ."
+  }
+}

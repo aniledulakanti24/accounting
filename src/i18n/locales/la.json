@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Dies-ad-diei",
+      "finance": "Finance",
+      "advanced": "Provecta"
+    },
+    "mainMenu": "Main Menu",
+    "short": {
+      "parties": "Partes"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Sales",
+      "receivables": "Pecunia in",
+      "procurement": "emptionibus",
+      "payables": "Pecunia E",
+      "cashbank": "Cash & Bank",
+      "expenses": "Expensa",
+      "tax": "Tributum",
+      "reports": "Renuntiationes",
+      "advanced-features": "Provectus Features",
+      "parties": "Customers & Suppliers",
+      "inventory": "Items",
+      "assets": "certa bona",
+      "masters": "Setup & configurationis",
+      "business-tools": "Team & Tools",
+      "party-tools": "Factio Tools",
+      "item-tools": "Item Tools",
+      "storage": "Documenta",
+      "alerts": "Alerts",
+      "migration": "Data Donec adipiscing"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Overview",
+        "cash-flow": "Cash flow",
+        "tax-calendar": "Tributum Calendarium"
+      },
+      "sales": {
+        "quotations": "Quotations",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Cautionem",
+        "delivery-challans": "Delivery Challan",
+        "receipts": "Receptio",
+        "invoice-desk": "Cautionem Desk"
+      },
+      "receivables": {
+        "money-in-center": "Pecunia in Centre",
+        "receivables": "Receptionables",
+        "payments-received": "Liberate accepistis",
+        "overdue-collections": "Collectiones & Recordationes",
+        "credit-notes": "Credit Praecipua & Refunds",
+        "sales-returns": "Sales Returns",
+        "customer-statements": "Customer Statement!",
+        "payment-links": "Payment Links"
+      },
+      "procurement": {
+        "purchase-center": "Purchase Center",
+        "purchase-orders": "Purchase Orders",
+        "goods-receipt": "bona Receptio",
+        "purchase-invoices": "Purchase Invoices",
+        "payment-out": "liberate facta",
+        "returns-debit-notes": "Redit & DATUM Praecipua",
+        "bill-approvals": "Bill Approvals"
+      },
+      "payables": {
+        "bills": "Stipendium Center",
+        "payments": "Supplementum liberate",
+        "workforce": "Workforce",
+        "adjustments": "Adjustments",
+        "bank-release": "Bank Release"
+      },
+      "cashbank": {
+        "bank-accounts": "Rationes meae",
+        "reconciliation": "Acta par",
+        "cash-petty": "Nummorum pusillum",
+        "contra": "inter Rationes",
+        "cheque-register": "SCUTULATUM",
+        "foreign-currency": "Aliena Currency",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Regulae & Reconciliationis"
+      },
+      "expenses": {
+        "expense-center": "Expensae omnes",
+        "categories": "Impense Genera",
+        "automated-bills": "Redit expensis",
+        "journal-vouchers": "Manual Entries",
+        "provisions": "Accruals",
+        "write-offs": "Write-offs",
+        "period-close": "Mensis Finis"
+      },
+      "tax": {
+        "gst-returns": "GST Filing",
+        "gst-filing-wizard": "Tabellae GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-Invoices",
+        "e-way-bills": "E-modo rogationes",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Stipendium tributum",
+        "quarterly-compliance": "Obsequium Calendarium",
+        "ca-access": "CA temporaria Access",
+        "gst-from-books": "GST ex Libris"
+      },
+      "reports": {
+        "financial-statements": "Renuntiationes Financial",
+        "books": "Transaction Books",
+        "gst-reports": "GST Renuntiationes",
+        "ar-ap": "Payables nobis receptibiles",
+        "profitability": "Profitability",
+        "period-comparatives": "Annus Comparationis",
+        "budget-vs-actuals": "Donec Tracker",
+        "cashflow-projection": "Cash Praedictio",
+        "report-builder": "More Renuntiationes",
+        "general-ledger": "Generalis Leodegarius",
+        "live-financials": "Vivamus Financial",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Overview"
+      },
+      "parties": {
+        "all-parties": "Omnes partes",
+        "customer-ledgers": "Customers",
+        "supplier-ledgers": "Suppliers",
+        "shared-ledger": "Shared Ledger",
+        "statements": "Dictiones",
+        "reminders": "Recordationes",
+        "documents": "Pars Documenta",
+        "portal": "Factio Portal",
+        "import": "Pars Import",
+        "duplicate-merge": "Duplicare Merge",
+        "gap-analysis": "Hiatus Analysis"
+      },
+      "inventory": {
+        "inventory-items": "Items",
+        "godowns": "Apothecae",
+        "stock-movement": "Stock Motus",
+        "item-pricing": "Pricing",
+        "stock-valuation": "Stock AESTIMATIO",
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Hiatus Analysis"
+      },
+      "assets": {
+        "asset-register": "Asset List",
+        "depreciation": "Imminutiones",
+        "disposal-revaluation": "Vendere vel Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Rationes List",
+        "tax-masters": "Tributum Rates",
+        "cost-centers": "Sumptus Centra",
+        "voucher-types": "Transaction Genera",
+        "opening-balances": "incipiens Balances",
+        "currencies": "Currencies"
+      },
+      "business-tools": {
+        "staff-payroll": "Stipendium",
+        "manage-users": "User Access",
+        "online-orders": "Online Orders",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Tabularii & Support"
+      },
+      "party-tools": {
+        "documents": "Pars Documenta",
+        "portal": "Factio Portal",
+        "import": "Pars Import",
+        "duplicate-merge": "Duplicare Merge",
+        "gap-analysis": "Hiatus Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Hiatus Analysis"
+      },
+      "storage": {
+        "client-storage": "Lima clientis",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Computantis Alerts",
+        "compliance-alerts": "Obsequium Alerts",
+        "cash-risk-alerts": "Cash & Risk Alerts",
+        "ca-access": "CA temporaria Access"
+      },
+      "migration": {
+        "import": "Inferre Data",
+        "export": "Data exportare",
+        "history": "Historiae Import",
+        "tally-import": "Import from Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Emit & liberate",
+      "accountingSetup": "Account Setup",
+      "dataDocuments": "Data & Documenta"
+    }
+  },
+  "common": {
+    "save": "Servare Mutationes",
+    "cancel": "Cancel",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delere",
+    "search": "Investigatio",
+    "connect": "Connect",
+    "configure": "Configurare",
+    "disconnect": "Disconnect",
+    "sync": "Sync Nunc",
+    "close": "Close",
+    "reset": "Reset ad Defalte",
+    "back": "Retro",
+    "continue": "continue",
+    "all": "All",
+    "retry": "Retry",
+    "loading": "Loading…",
+    "resetDemo": "Reset demo data"
+  },
+  "shell": {
+    "searchPlaceholder": "Quaere quid…",
+    "settings": "Occasus",
+    "language": "Linguae",
+    "role": "Munus",
+    "greeting": {
+      "morning": "Salve",
+      "afternoon": "Salve",
+      "evening": "Bonum vesperum"
+    },
+    "settingsItems": {
+      "company-profile": "Turba Profile",
+      "configuration": "Configurationis",
+      "fiscal-periods": "Tempora fiscalia",
+      "roles": "Munera & Users",
+      "integrations": "Integrations",
+      "notifications": "Acta Vicimediorum",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Tamper-probationem Audit Trail",
+      "developer": "Elit & API"
+    },
+    "translatedLanguages": "Translated",
+    "untranslatedLanguages": "Anglicus usque ad translatum"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Promptus ad lima",
+    "open": "Tempus apertum",
+    "paid": "Paid",
+    "pending": "Eviewray",
+    "accepted": "Accepit",
+    "delivered": "delivered",
+    "rejected": "reprobum",
+    "pdf-sent": "PDF missi",
+    "not-sent": "Non misit",
+    "matched": "matched",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Non relatum a elit",
+    "missing-books": "Absentis in libris",
+    "deferred": "Dilata",
+    "deducted": "Deductus",
+    "remitted": "remissa",
+    "certified": "Certified",
+    "to-report": "nuntiare",
+    "reported": "Nuntiata",
+    "accounted": "reputatus",
+    "overdue": "Available"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Promptus ad lima",
+      "liabilityDue": "Rusticis debitum",
+      "paidThisYear": "Hoc anno solvit",
+      "nextDeadline": "Next deadline",
+      "noneOverdue": "nemo decuit",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Promptus ad lima",
+      "open": "Open",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "Tempus",
+      "authority": "auctoritas",
+      "rate": "Rate",
+      "due": "Debitum",
+      "netPayable": "Net reddendas",
+      "status": "Status",
+      "ack": "agnitio"
+    },
+    "file": "File",
+    "view": "Visum",
+    "fileForm": "Tabularii {{form}}",
+    "loadingJurisdiction": "Iurisdictio Loading…",
+    "nothingToFile": "Nullae reditus interponi exspectant — omnia tempora clausa submittuntur.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Recognoscere",
+      "validate": "Validate",
+      "declare": "Annuntiate & submit",
+      "ack": "agnitio"
+    },
+    "runValidation": "Curre sanatio",
+    "validating": "Validating…",
+    "submit": "Submit {{form}}",
+    "submitting": "Submittendo…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Net moles",
+    "submitted": "summitto",
+    "filedOn": "Filed on",
+    "regime": {
+      "authority": "auctoritas",
+      "channel": "Interponere channel",
+      "return": "Redi",
+      "due": "Debitum",
+      "standardRate": "Vexillum rate",
+      "threshold": "Registration limina"
+    },
+    "demoNote": "Demo data a aedificato in ludibrium tributo API - limatura et praestationes simulantur et nihil ad auctoritatem tributo mittitur."
+  },
+  "fx": {
+    "title": "Aliena Currency",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Novae BCI cautionem / rogationis",
+    "kpi": {
+      "netExposure": "Net FX detectio",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Lucrum inanes / damnum",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Intellexi hoc anno",
+      "lastReval": "Novissime revaluation",
+      "never": "numquam",
+      "suggested": "Suggessit: {{date}}"
+    },
+    "view": {
+      "open": "Open items",
+      "settled": "Habitavit",
+      "revaluation": "Mense-finem revaluation",
+      "journal": "FX ephemeride"
+    },
+    "col": {
+      "document": "Documentum",
+      "type": "Type",
+      "openForeign": "Apertum (alienum)",
+      "bookedNow": "Corruptela / nunc",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "inanes",
+      "status": "Status",
+      "amount": "Moles",
+      "bookedRate": "Corruptela rate",
+      "realized": "Intellexi"
+    },
+    "receivable": "receptibilis",
+    "payable": "Reddendas",
+    "receive": "Accipite",
+    "pay": "Stipendium",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Habitavit",
+      "partial": "Pars habita",
+      "open": "Open"
+    },
+    "demoNote": "Demo notitia ex API aedificato subsannantibus - rates simulatae sunt, data mercatu non vivunt."
+  }
+}

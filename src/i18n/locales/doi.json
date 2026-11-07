@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "दिन-प्रतिदिन",
+      "finance": "पैहा",
+      "advanced": "उन्नत"
+    },
+    "mainMenu": "मुख्य मेनू",
+    "short": {
+      "parties": "पार्टियां"
+    },
+    "sections": {
+      "dashboard": "डैशबोर्ड दा",
+      "sales": "बिक्री",
+      "receivables": "पैसे में",
+      "procurement": "खरीददारी करदा ऐ",
+      "payables": "मनी आउट",
+      "cashbank": "कैश एंड बैंक",
+      "expenses": "खर्चे",
+      "tax": "टैक्स",
+      "reports": "रिपोर्टां दी",
+      "advanced-features": "उन्नत सुविधाएं",
+      "parties": "ग्राहक ते आपूर्तिकर्ता",
+      "inventory": "चीजां",
+      "assets": "स्थिर संपत्तियां",
+      "masters": "सेटअप ते कॉन्फ़िगरेशन",
+      "business-tools": "टीम ते औजार",
+      "party-tools": "पार्टी दे औजार",
+      "item-tools": "आइटम टूल्स",
+      "storage": "दस्तावेज़",
+      "alerts": "अलर्ट दे",
+      "migration": "डेटा माइग्रेशन करना"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "अवलोकन",
+        "cash-flow": "नकदी प्रवाह",
+        "tax-calendar": "कर कैलेंडर"
+      },
+      "sales": {
+        "quotations": "उद्धरण दे",
+        "proforma-invoices": "पी आई",
+        "sales-invoices": "चलान",
+        "delivery-challans": "डिलीवरी चल्लन",
+        "receipts": "रसीद",
+        "invoice-desk": "चालान डेस्क"
+      },
+      "receivables": {
+        "money-in-center": "मनी इन सेंटर",
+        "receivables": "प्राप्यताएं",
+        "payments-received": "भुगतान प्राप्त हुआ",
+        "overdue-collections": "संग्रह ते याद दिलांदे न",
+        "credit-notes": "क्रेडिट नोट्स ते रिफंड",
+        "sales-returns": "बिक्री रिटर्न",
+        "customer-statements": "ग्राहक बयान",
+        "payment-links": "भुगतान लिंक"
+      },
+      "procurement": {
+        "purchase-center": "खरीद केंद्र",
+        "purchase-orders": "खरीद आर्डर दे",
+        "goods-receipt": "माल दी रसीद",
+        "purchase-invoices": "चालान खरीदें",
+        "payment-out": "भुगतान किये गये",
+        "returns-debit-notes": "रिटर्न ते डेबिट नोट",
+        "bill-approvals": "बिल दी मंजूरी"
+      },
+      "payables": {
+        "bills": "पे सेंटर",
+        "payments": "आपूर्तिकर्ता दे भुगतान",
+        "workforce": "कार्यबल",
+        "adjustments": "समायोजन करदे",
+        "bank-release": "बैंक रिलीज"
+      },
+      "cashbank": {
+        "bank-accounts": "मेरे खाते",
+        "reconciliation": "लेनदेन मिलान करो",
+        "cash-petty": "क्षुद्र नकदी",
+        "contra": "खातें दे बीच",
+        "cheque-register": "चेक करदा ऐ",
+        "foreign-currency": "विदेशी मुद्रा",
+        "bank-feeds": "बैंक फीड्स दा",
+        "bank-rules": "नियम ते सुलह"
+      },
+      "expenses": {
+        "expense-center": "सारे खर्चे",
+        "categories": "खर्चे दे प्रकार",
+        "automated-bills": "आवर्ती खर्चे",
+        "journal-vouchers": "मैनुअल प्रविष्टियां",
+        "provisions": "एक्रूल करदे न",
+        "write-offs": "लिखित-बंद कर दे",
+        "period-close": "महीना-अंत"
+      },
+      "tax": {
+        "gst-returns": "जीएसटी दायर करना",
+        "gst-filing-wizard": "⚡ फाइल जीएसटीआर-3 बी",
+        "gst-reconciliation": "जीएसटी मिलान",
+        "e-invoicing": "ई-चालान",
+        "e-way-bills": "ई-वे बिल",
+        "tds": "टीडीएस ने दी",
+        "tcs": "टीसीएस ने दी",
+        "tax-payments": "टैक्स देना",
+        "quarterly-compliance": "अनुपालन कैलेंडर",
+        "ca-access": "सीए अस्थायी पहुंच",
+        "gst-from-books": "बुक्स से जीएसटी"
+      },
+      "reports": {
+        "financial-statements": "वित्तीय रिपोर्टां",
+        "books": "लेनदेन किताबें",
+        "gst-reports": "जीएसटी रिपोर्टें दी",
+        "ar-ap": "प्राप्य बनाम देय",
+        "profitability": "मुनाफाखोरी",
+        "period-comparatives": "साल दी तुलना",
+        "budget-vs-actuals": "बजट ट्रैकर",
+        "cashflow-projection": "नकद पूर्वानुमान",
+        "report-builder": "कस्टम रिपोर्टें",
+        "general-ledger": "जनरल लेजर",
+        "live-financials": "लाइव फाइनेंशियल",
+        "ai-analyst": "ऐ विश्लेषक"
+      },
+      "advanced-features": {
+        "overview": "अवलोकन"
+      },
+      "parties": {
+        "all-parties": "सारे पार्टियां",
+        "customer-ledgers": "ग्राहकों ने दी",
+        "supplier-ledgers": "आपूर्तिकर्ताओं ने दी",
+        "shared-ledger": "साझा लेजर",
+        "statements": "बयान दे",
+        "reminders": "याद दिला दे",
+        "documents": "पार्टी दे दस्तावेज",
+        "portal": "पार्टी पोर्टल",
+        "import": "पार्टी आयात करना",
+        "duplicate-merge": "डुप्लिकेट मर्ज करना",
+        "gap-analysis": "गैप एनालिसिस"
+      },
+      "inventory": {
+        "inventory-items": "चीजां",
+        "godowns": "गोदाम",
+        "stock-movement": "स्टॉक आंदोलन",
+        "item-pricing": "कीमतें दा निर्धारण",
+        "stock-valuation": "स्टॉक मूल्यांकन करना",
+        "reorder-alerts": "अलर्टें गी दुबारा क्रमबद्ध करो",
+        "batch-serials": "बैच एंड सीरियल",
+        "barcode-labels": "बारकोड लेबल",
+        "item-import": "आइटम आयात करना",
+        "gap-analysis": "गैप एनालिसिस"
+      },
+      "assets": {
+        "asset-register": "संपत्ति दी सूची",
+        "depreciation": "मूल्यह्रास होना",
+        "disposal-revaluation": "बेचना या पुनर्मूल्यांकन करना"
+      },
+      "masters": {
+        "chart-of-accounts": "खातें दी सूची",
+        "tax-masters": "कर दरें",
+        "cost-centers": "लागत केंद्र",
+        "voucher-types": "लेनदेन दे प्रकार",
+        "opening-balances": "बैलेंस शुरू करना",
+        "currencies": "मुद्राएं"
+      },
+      "business-tools": {
+        "staff-payroll": "पेरोल",
+        "manage-users": "यूजर एक्सेस",
+        "online-orders": "ऑनलाइन आर्डर दे",
+        "sms-marketing": "एसएमएस मार्केटिंग",
+        "accountant-hub": "लेखाकार ते समर्थन"
+      },
+      "party-tools": {
+        "documents": "पार्टी दे दस्तावेज",
+        "portal": "पार्टी पोर्टल",
+        "import": "पार्टी आयात करना",
+        "duplicate-merge": "डुप्लिकेट मर्ज करना",
+        "gap-analysis": "गैप एनालिसिस"
+      },
+      "item-tools": {
+        "reorder-alerts": "अलर्टें गी दुबारा क्रमबद्ध करो",
+        "batch-serials": "बैच एंड सीरियल",
+        "barcode-labels": "बारकोड लेबल",
+        "item-import": "आइटम आयात करना",
+        "gap-analysis": "गैप एनालिसिस"
+      },
+      "storage": {
+        "client-storage": "क्लाइंट फाइलें",
+        "unifiedtree-storage": "क्लाउड स्टोरेज दा"
+      },
+      "alerts": {
+        "accountant-alerts": "लेखाकार अलर्ट करदा ऐ",
+        "compliance-alerts": "अनुपालन अलर्ट",
+        "cash-risk-alerts": "नकद ते जोखिम अलर्ट",
+        "ca-access": "सीए अस्थायी पहुंच"
+      },
+      "migration": {
+        "import": "डेटा आयात करो",
+        "export": "डेटा निर्यात करो",
+        "history": "आयात इतिहास",
+        "tally-import": "टैली एंड ज़ोहो से आयात करें"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "खरीददारी ते भुगतान",
+      "accountingSetup": "लेखा सेटअप करना",
+      "dataDocuments": "डेटा ते दस्तावेज"
+    }
+  },
+  "common": {
+    "save": "बदलाव बचाओ",
+    "cancel": "रद्द",
+    "create": "बनाना",
+    "edit": "तरमीम करना",
+    "delete": "म्हेसना",
+    "search": "तपाश",
+    "connect": "जोड़ना",
+    "configure": "कॉन्फ़िगर करो",
+    "disconnect": "डिस्कनेक्ट करना",
+    "sync": "अब सिंक करो",
+    "close": "बंद",
+    "reset": "डिफ़ॉल्ट पर रीसेट करो",
+    "back": "पिच्छै",
+    "continue": "जारी रक्खना",
+    "all": "सब्भै",
+    "retry": "दोबारा कोशिश करो",
+    "loading": "लोड हो रहा है...",
+    "resetDemo": "डेमो डेटा रीसेट करो"
+  },
+  "shell": {
+    "searchPlaceholder": "कुसै बी चीज़ दी खोज करो...",
+    "settings": "सेटिंग्स",
+    "language": "भाशा",
+    "role": "रोल",
+    "greeting": {
+      "morning": "शुभ सवेर",
+      "afternoon": "शुभ दपैहर",
+      "evening": "शुभ सं'ञ"
+    },
+    "settingsItems": {
+      "company-profile": "कम्पनी प्रोफाइल",
+      "configuration": "विन्यास करना",
+      "fiscal-periods": "राजकोषीय अवधियां",
+      "roles": "भूमिकाएं ते उपयोगकर्ताएं",
+      "integrations": "एकीकरण करना",
+      "notifications": "सूचनाएं दी",
+      "audit-logs": "ऑडिट ते लॉग",
+      "audit-trail": "छेड़छाड़-प्रूफ ऑडिट ट्रेल",
+      "developer": "डेवलपर एंड एपीआई"
+    },
+    "translatedLanguages": "अनुवाद किया गया",
+    "untranslatedLanguages": "अनुवाद होने तक अंग्रेजी"
+  },
+  "status": {
+    "filed": "दायर कीता",
+    "ready": "फाइल करने लेई तैयार ऐ",
+    "open": "अवधि खुला",
+    "paid": "भुगतान कीते दा",
+    "pending": "बकाया",
+    "accepted": "स्वीकार कर दित्ता",
+    "delivered": "सपुर्द कीता गेआ",
+    "rejected": "खारिज कर दित्ता",
+    "pdf-sent": "पीडीएफ भेजा गया",
+    "not-sent": "ना भेजा",
+    "matched": "मिलान कर दिया",
+    "mismatch": "बेमेल",
+    "missing-supplier": "सप्लायर आसेआ रिपोर्ट नेईं कीती गेई",
+    "missing-books": "किताबें च गायब",
+    "deferred": "स्थगित कर दित्ता",
+    "deducted": "कटौती कीती गेई",
+    "remitted": "माफी दे दी",
+    "certified": "प्रमाणित कीता गेआ",
+    "to-report": "रिपोर्ट करने के लिये",
+    "reported": "रिपोर्ट कीती गेई",
+    "accounted": "लेखा-जोखा",
+    "overdue": "ओवरड्यू"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "फाइल करने लेई तैयार ऐ",
+      "liabilityDue": "देयता देना",
+      "paidThisYear": "इस साल भुगतान कीता",
+      "nextDeadline": "अगली डेडलाइन",
+      "noneOverdue": "कोई ओवरड्यू नहीं",
+      "overdue": "{{count}} ओवरड्यू"
+    },
+    "filter": {
+      "ready": "फाइल करने लेई तैयार ऐ",
+      "open": "खु'ल्ला",
+      "filed": "दायर कीता"
+    },
+    "col": {
+      "period": "म्याद",
+      "authority": "अथार्टी",
+      "rate": "रेट",
+      "due": "देने जोग",
+      "netPayable": "शुद्ध देय",
+      "status": "रुतबा",
+      "ack": "आभार"
+    },
+    "file": "फाइल",
+    "view": "दिक्खना",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "अधिकार क्षेत्र लोड होआ करदा ऐ...",
+    "nothingToFile": "कोई रिटर्न दायर करने दा इंतजार नेईं ऐ — सारे बंद अवधि जमा कीते जंदे न।",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "समीक्षा",
+      "validate": "मान्य करो",
+      "declare": "घोषणा & जमा करना",
+      "ack": "आभार"
+    },
+    "runValidation": "सत्यापन चलाओ",
+    "validating": "मान्य करदे होई...",
+    "submit": "Submit {{form}}",
+    "submitting": "जमा करदे होई...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "शुद्ध रकम",
+    "submitted": "जमा कर दिया",
+    "filedOn": "पर दायर कीता गेआ",
+    "regime": {
+      "authority": "अथार्टी",
+      "channel": "फाइलिंग चैनल",
+      "return": "बापस",
+      "due": "देने जोग",
+      "standardRate": "मानक दर",
+      "threshold": "पंजीकरण दी दहलीज"
+    },
+    "demoNote": "बिल्ट-इन मॉक टैक्स एपीआई थमां डेमो डेटा — फाइलिंग ते भुगतान गी सिमुलेट कीता जंदा ऐ ते कुसै बी चीज़ गी टैक्स प्राधिकरण गी नेईं भेजेआ जंदा ऐ।"
+  },
+  "fx": {
+    "title": "विदेशी मुद्रा",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "नई एफएक्स चालान / बिल",
+    "kpi": {
+      "netExposure": "नेट एफएक्स एक्सपोजर",
+      "openDocs": "{{count}} दस्तावेज खोलो",
+      "unrealized": "अवास्तविक लाभ / हानि",
+      "postedSplit": "{{posted}} पोस्ट कीती गेई · {{unposted}} अजें तगर नेईं",
+      "realized": "इस साल एहसास होया",
+      "lastReval": "पिछले पुनर्मूल्यांकन",
+      "never": "कदें नेईं",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "ओपन आइटम",
+      "settled": "बसा गया",
+      "revaluation": "महीने दे अंत च पुनर्मूल्यांकन",
+      "journal": "एफएक्स जर्नल"
+    },
+    "col": {
+      "document": "दस्तावेज",
+      "type": "किसम",
+      "openForeign": "खुला (विदेशी)",
+      "bookedNow": "बुक हो गया / अब",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "अवास्तविक",
+      "status": "रुतबा",
+      "amount": "पैहा",
+      "bookedRate": "बुक कीती रेट",
+      "realized": "अहसास होआ"
+    },
+    "receivable": "प्राप्य",
+    "payable": "देय देय",
+    "receive": "हासल करो",
+    "pay": "तनखाह्",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "बसा गया",
+      "partial": "अंशतः बसा",
+      "open": "खु'ल्ला"
+    },
+    "demoNote": "बिल्ट-इन मॉक एपीआई थमां डेमो डेटा — दरें गी अनुकरण कीता जंदा ऐ, लाइव बाजार डेटा नेईं।"
+  }
+}

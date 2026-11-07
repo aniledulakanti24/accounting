@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Don o don",
+      "finance": "Finansi",
+      "advanced": "Min bɛ ɲɛfɛ"
+    },
+    "mainMenu": "Menu principal (Menu) yɔrɔba",
+    "short": {
+      "parties": "Fɛti minnu bɛ kɛ"
+    },
+    "sections": {
+      "dashboard": "Dashboard (Dashboard) ye",
+      "sales": "Feereli",
+      "receivables": "Wari In",
+      "procurement": "Sannifeerew",
+      "payables": "Wari Bɔra",
+      "cashbank": "Wari & Banki",
+      "expenses": "Musakaw",
+      "tax": "Takisi min bɛ kɛ",
+      "reports": "Rapportw",
+      "advanced-features": "Fɛn minnu bɛ kɛ ka ɲɛ",
+      "parties": "Kunnafonidila & Furakɛlaw",
+      "inventory": "Minɛns",
+      "assets": "Nafolo sabatilenw",
+      "masters": "Setup & Configuration (Labɛnni & Labɛnni).",
+      "business-tools": "Ekipu & Baarakɛminɛnw",
+      "party-tools": "Parti Baarakɛminɛnw",
+      "item-tools": "Item Baarakɛminɛnw",
+      "storage": "Sɛbɛnw",
+      "alerts": "Kɔlɔsiliw",
+      "migration": "Donanw ka jiginni"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Kuma bɛɛ lajɛlen",
+        "cash-flow": "Wari taabolo",
+        "tax-calendar": "Takisi kalandriya"
+      },
+      "sales": {
+        "quotations": "Quotation (kumasenw) minnu bɛ fɔ",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fakitiri",
+        "delivery-challans": "Livraison Challan ye",
+        "receipts": "Seereya sɛbɛn",
+        "invoice-desk": "Faturaw ka baarakɛyɔrɔ"
+      },
+      "receivables": {
+        "money-in-center": "Wari Ka Santiri",
+        "receivables": "Jateminɛ minnu bɛ kɛ",
+        "payments-received": "Sarali minnu bɛ sɔrɔ",
+        "overdue-collections": "Collections & Hakilijiginw",
+        "credit-notes": "Kredi Notes & Seginw",
+        "sales-returns": "Feerekɛlaw ka Seginkanni",
+        "customer-statements": "Kunnafoni minnu bɛ sɔrɔ kiliyanw fɛ",
+        "payment-links": "Sarali Ladɛrɛsiw"
+      },
+      "procurement": {
+        "purchase-center": "Sannifeere yɔrɔ",
+        "purchase-orders": "Sannifeere yamaruyaw",
+        "goods-receipt": "Fɛnw sɔrɔcogo",
+        "purchase-invoices": "Sanni Faturaw",
+        "payment-out": "Sarali minnu Kɛra",
+        "returns-debit-notes": "Segin-ka-bɔnyew & Debiti sɛbɛnw",
+        "bill-approvals": "Bill Approvals (Sɔrɔdasisɛbɛnw ka sɔnni)."
+      },
+      "payables": {
+        "bills": "Sarako Santiri",
+        "payments": "Fournisseur ka Saraw",
+        "workforce": "Baarakɛlaw ka fanga",
+        "adjustments": "Yɛlɛma donna",
+        "bank-release": "Banki ka Laseli"
+      },
+      "cashbank": {
+        "bank-accounts": "N ka Jateblaw",
+        "reconciliation": "Match (Jɛɲɔgɔnya) Jagokɛlaw",
+        "cash-petty": "Petty Cash (wari fitininw).",
+        "contra": "Jateblaw ni ɲɔgɔn cɛ",
+        "cheque-register": "Sɛgɛsɛgɛliw",
+        "foreign-currency": "Dunanw ka Wari",
+        "bank-feeds": "Banki ka Feeds",
+        "bank-rules": "Sariyaw & Bɛnkansɛbɛn"
+      },
+      "expenses": {
+        "expense-center": "Musakaw bɛɛ",
+        "categories": "Musaka suguyaw",
+        "automated-bills": "Musaka minnu bɛ kɛ ka segin-ka-bɔ",
+        "journal-vouchers": "Bololabaarakɛlaw ka sɛbɛnniw",
+        "provisions": "Accruals (Jɛkulu minnu bɛ sɔrɔ).",
+        "write-offs": "Sɛbɛnni-sɛbɛnw",
+        "period-close": "Kalo-Dan"
+      },
+      "tax": {
+        "gst-returns": "GST Filɛli",
+        "gst-filing-wizard": "⚡ Dosiyɛri GSTR-3B",
+        "gst-reconciliation": "GST ka ɲɔgɔndan",
+        "e-invoicing": "E-Faturaw (E-Factures) (E-Factures).",
+        "e-way-bills": "E-Way ka sariyasunw",
+        "tds": "TDS ye",
+        "tcs": "TCS ye",
+        "tax-payments": "Tax sara",
+        "quarterly-compliance": "Kalandriya min bɛ kɛ ka sariya labatoli kɛ",
+        "ca-access": "CA Waati dɔɔnin sɔrɔli",
+        "gst-from-books": "GST ka bɔ Gafew la"
+      },
+      "reports": {
+        "financial-statements": "Nafolo Ladilikanw",
+        "books": "Jagokɛlaw ka gafew",
+        "gst-reports": "GST ka kunnafoniw",
+        "ar-ap": "Jateminɛw vs Saralenw",
+        "profitability": "Nafa sɔrɔli",
+        "period-comparatives": "Sanw sangali",
+        "budget-vs-actuals": "Budget Tracker (Budget Tracker) ye",
+        "cashflow-projection": "Wari kofɔlen",
+        "report-builder": "Laadalata Rapportw",
+        "general-ledger": "Ledger (Jɛkuluba) min bɛ wele ko Ledger",
+        "live-financials": "Nafolo ɲɛnamaw",
+        "ai-analyst": "AI Analyst (Sɛgɛsɛgɛlikɛla)."
+      },
+      "advanced-features": {
+        "overview": "Kuma bɛɛ lajɛlen"
+      },
+      "parties": {
+        "all-parties": "Partiw bɛɛ",
+        "customer-ledgers": "Kunnafonidila minnu bɛ yen",
+        "supplier-ledgers": "Fɛn dilanbagaw",
+        "shared-ledger": "Ledger min bɛ tila ɲɔgɔn na",
+        "statements": "Kuma fɔlenw",
+        "reminders": "Hakilijiginw",
+        "documents": "Partiw ka sɛbɛnw",
+        "portal": "Parti Portal (Patiw ka Portal).",
+        "import": "Parti Import (Jɛkulu ka Import).",
+        "duplicate-merge": "Duplicate Merge (Jɛɲɔgɔnya Duplicate).",
+        "gap-analysis": "Gap Sɛgɛsɛgɛli"
+      },
+      "inventory": {
+        "inventory-items": "Minɛns",
+        "godowns": "Depow (marayɔrɔw).",
+        "stock-movement": "Stock Mouvement (Sɔrɔdasi Mouvement).",
+        "item-pricing": "Sɔngɔko",
+        "stock-valuation": "Stock Nafabɔ",
+        "reorder-alerts": "Alertes (Lasɔminiw) labɛn kokura",
+        "batch-serials": "Batch & Seriyali ye",
+        "barcode-labels": "Barcode Labels (Barkode Labels) ye",
+        "item-import": "Fɛn minnu bɛ don jamana kɔnɔ",
+        "gap-analysis": "Gap Sɛgɛsɛgɛli"
+      },
+      "assets": {
+        "asset-register": "Nafolomafɛnw Lisiti",
+        "depreciation": "Nafolo dɔgɔyali",
+        "disposal-revaluation": "Feere walima Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Jatebɔsɛbɛnw Lisiti",
+        "tax-masters": "Takisi hakɛw",
+        "cost-centers": "Musow ka musakaw",
+        "voucher-types": "Jagokɛcogo suguyaw",
+        "opening-balances": "Balances (Balansenw) daminɛ",
+        "currencies": "Wari minnu bɛ kɛ"
+      },
+      "business-tools": {
+        "staff-payroll": "Sarako jatebɔsɛbɛn",
+        "manage-users": "Baarakɛlaw ka Se sɔrɔli",
+        "online-orders": "Commandes Intɛrinɛti kan",
+        "sms-marketing": "SMS Markatɛriw",
+        "accountant-hub": "Jateblaw & Dɛmɛ"
+      },
+      "party-tools": {
+        "documents": "Partiw ka sɛbɛnw",
+        "portal": "Parti Portal (Patiw ka Portal).",
+        "import": "Parti Import (Jɛkulu ka Import).",
+        "duplicate-merge": "Duplicate Merge (Jɛɲɔgɔnya Duplicate).",
+        "gap-analysis": "Gap Sɛgɛsɛgɛli"
+      },
+      "item-tools": {
+        "reorder-alerts": "Alertes (Lasɔminiw) labɛn kokura",
+        "batch-serials": "Batch & Seriyali ye",
+        "barcode-labels": "Barcode Labels (Barkode Labels) ye",
+        "item-import": "Fɛn minnu bɛ don jamana kɔnɔ",
+        "gap-analysis": "Gap Sɛgɛsɛgɛli"
+      },
+      "storage": {
+        "client-storage": "Client Files (Kiliyanw ka Filenw).",
+        "unifiedtree-storage": "Sankaba marali"
+      },
+      "alerts": {
+        "accountant-alerts": "Jateblaw ka lasɔminiw",
+        "compliance-alerts": "Laseli minnu bɛ kɛ ka ɲɛsin sariya labatoli ma",
+        "cash-risk-alerts": "Wari ni faratiw lasɔminiw",
+        "ca-access": "CA Waati dɔɔnin sɔrɔli"
+      },
+      "migration": {
+        "import": "Donanw ladonni",
+        "export": "Donanw bɔli jamana wɛrɛw la",
+        "history": "Import Tariku",
+        "tally-import": "Import ka bɔ Tally & Zoho fɛ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Sanni & Sarali",
+      "accountingSetup": "Jateblaw sigicogo",
+      "dataDocuments": "Donanw & Sɛbɛnw"
+    }
+  },
+  "common": {
+    "save": "Yɛlɛmaniw mara",
+    "cancel": "ka dankari",
+    "create": "Ka dilan",
+    "edit": "Ka korize",
+    "delete": "Ka jɔsi",
+    "search": "Ɲini",
+    "connect": "Ka kɔnɛkite",
+    "configure": "Labɛnni kɛ",
+    "disconnect": "Aw bɛ jɛɲɔgɔnya tigɛ",
+    "sync": "Sinsin kɛ Sisan",
+    "close": "Ka datugu",
+    "reset": "Segin ka kɛ Defaults ye",
+    "back": "Kɔ",
+    "continue": "Ka taa fɛ",
+    "all": "Bɛɛ",
+    "retry": "Aw ye a lajɛ kokura",
+    "loading": "Loading...",
+    "resetDemo": "Reset demo data (daɲɛ demo) la"
+  },
+  "shell": {
+    "searchPlaceholder": "Fɛn o fɛn ɲini...",
+    "settings": "Segin-ka-bɔnyew",
+    "language": "Kan",
+    "role": "Jɔyɔrɔ",
+    "greeting": {
+      "morning": "A' ni sɔgɔma",
+      "afternoon": "I ni wula",
+      "evening": "I ni su"
+    },
+    "settingsItems": {
+      "company-profile": "Sosiyete ka Profil",
+      "configuration": "Labɛnni (Configuration) (Labɛnni).",
+      "fiscal-periods": "Nafolosɔrɔ waatiw",
+      "roles": "Jɔrɔw & Baarakɛlaw",
+      "integrations": "Integrations (Intégrations) minnu bɛ kɛ",
+      "notifications": "Ladɔnniyaliw",
+      "audit-logs": "Audit & Logs (Jateminɛ & Jatebɔsɛbɛnw).",
+      "audit-trail": "Audit Trail min tɛ fɛn tiɲɛ",
+      "developer": "Developpeur & API ye"
+    },
+    "translatedLanguages": "A bamanankanna",
+    "untranslatedLanguages": "Angilɛkan fo ka se bamanankan baara ma"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Labɛn ka filen",
+    "open": "Waati da wulilen",
+    "paid": "Sara",
+    "pending": "Makɔnɔlila",
+    "accepted": "Sɔnna a ma",
+    "delivered": "Jiginni",
+    "rejected": "A banna",
+    "pdf-sent": "PDF cilen don",
+    "not-sent": "A ma ci",
+    "matched": "A bɛ bɛn ɲɔgɔn ma",
+    "mismatch": "Bɛnbaliya",
+    "missing-supplier": "A ma fɔ feerekɛla fɛ",
+    "missing-books": "A tununna gafew kɔnɔ",
+    "deferred": "A bɛ bila kɔfɛ",
+    "deducted": "A bɛ bɔ a la",
+    "remitted": "A ye yafa bila",
+    "certified": "Seereyaw sɔrɔlen don",
+    "to-report": "Ka kunnafoni di",
+    "reported": "Laseli kɛra",
+    "accounted": "Jateblaw kɛra",
+    "overdue": "A tɛmɛna waati kan"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Labɛn ka filen",
+      "liabilityDue": "Jalaki min ka kan ka kɛ",
+      "paidThisYear": "Saralen don ɲinan",
+      "nextDeadline": "Waati dantigɛli nata",
+      "noneOverdue": "U si ma tɛmɛn waati kan",
+      "overdue": "{{count}} tɛmɛna"
+    },
+    "filter": {
+      "ready": "Labɛn ka filen",
+      "open": "Ka dayɛlɛ",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "Kuntaala",
+      "authority": "Fanga",
+      "rate": "Hakɛ",
+      "due": "Sarata",
+      "netPayable": "Net sarali",
+      "status": "Sigisariyaw",
+      "ack": "Barika dali"
+    },
+    "file": "Papiye",
+    "view": "Yeli",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Loading jurisdiction ka...",
+    "nothingToFile": "Deklarasiyɔn si tɛ makɔnɔni na ka bila — waati dafalenw bɛɛ bɛ ci.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Ka sɛgɛsɛgɛ",
+      "validate": "A’ ye tiɲɛni kɛ",
+      "declare": "Deklara & ka ci",
+      "ack": "Barika dali"
+    },
+    "runValidation": "Boli validation (dafalen) kan",
+    "validating": "Validating...",
+    "submit": "Submit {{form}}",
+    "submitting": "Submitting...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Hakɛ jɛlen",
+    "submitted": "A bilala sen kan",
+    "filedOn": "Filed on",
+    "regime": {
+      "authority": "Fanga",
+      "channel": "Filing kanal",
+      "return": "Segin",
+      "due": "Sarata",
+      "standardRate": "Taux standard (taux standard) ye",
+      "threshold": "I tɔgɔ sɛbɛnni dakun"
+    },
+    "demoNote": "Demo data ka bɔ mock tax API jɔlen kɔnɔ — filenw ni wari sarali bɛ simulate ani foyi tɛ ci impositi ɲɛmɔgɔ dɔ ma."
+  },
+  "fx": {
+    "title": "Dunanw ka Wari",
+    "subtitle": "Basi wari {{base}} · taamasiyɛn mock suguya hakɛw",
+    "newDoc": "FX fatura / fatura kura",
+    "kpi": {
+      "netExposure": "Net FX ka jirali",
+      "openDocs": "{{count}} sɛbɛnw da wuli",
+      "unrealized": "Tɔnɔ / bɔnɛ min ma sɔrɔ",
+      "postedSplit": "{{posted}} bilala · {{unposted}} ma bila fɔlɔ",
+      "realized": "A kɛra tiɲɛ ye ɲinan",
+      "lastReval": "Nafabɔ kura laban",
+      "never": "Abada",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Fɛnw da wuli",
+      "settled": "A sigilen don",
+      "revaluation": "Kalo laban jatebɔ seginni",
+      "journal": "FX gafe kɔnɔ"
+    },
+    "col": {
+      "document": "Sɛbɛn",
+      "type": "Ka sɛbɛen masin na",
+      "openForeign": "Da wuli (dunan) .",
+      "bookedNow": "Booked / sisan",
+      "valueIn": "Nafa min bɛ {{base}} kɔnɔ.",
+      "unrealized": "A ma kɛ tiɲɛ ye",
+      "status": "Sigisariyaw",
+      "amount": "Da",
+      "bookedRate": "Booked tarifu",
+      "realized": "Kɛlen"
+    },
+    "receivable": "Ka sɔrɔ ka sɔrɔ",
+    "payable": "Sara bɛ kɛ",
+    "receive": "Ka sɔrɔ",
+    "pay": "Sara",
+    "netIn": "Net in {{base}} kɔnɔ.",
+    "state": {
+      "settled": "A sigilen don",
+      "partial": "Yɔrɔ dɔw sigilen don",
+      "open": "Ka dayɛlɛ"
+    },
+    "demoNote": "Demo data ka bɔ mock API jɔlen kɔnɔ — rates bɛ simulated, a tɛ sugu data ɲɛnamaw ye."
+  }
+}

@@ -1,0 +1,363 @@
+@import "tailwindcss";
+
+/* Design tokens copied from the UnifiedTree CRM so both products look and feel the same */
+@theme {
+  --font-sans: 'Inter Variable', 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Mono', Consolas, monospace;
+
+  --color-bg:        #f5f7f6;
+  --color-surface:   #ffffff;
+  --color-surface-2: #f1f4f3;
+  --color-border:    #e1e6e4;
+
+  --color-nav:       #0f2925;
+  --color-nav-2:     #183a34;
+  --color-nav-text:  #c5d6d1;
+  --color-nav-active:#ffffff;
+
+  --color-primary:      #0e7c66;
+  --color-primary-600:  #0b6754;
+  --color-primary-tint: #e2f3ef;
+
+  --color-pos:      #137a4b;
+  --color-pos-tint: #e3f5ec;
+  --color-neg:      #b8322f;
+  --color-neg-tint: #fce9e8;
+  --color-warn:     #99600a;
+  --color-warn-tint:#fdf1dc;
+
+  --color-text:  #15211e;
+  --color-muted: #4c5a56;
+  --color-faint: #66736f;
+}
+
+/* ── Light theme (CRM values) ── */
+:root {
+  --font-sans: 'Inter Variable', 'Inter', 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Mono', Consolas, monospace;
+
+  --bg:          #f5f7f6;
+  --surface:     #ffffff;
+  --surface-2:   #f1f4f3;
+  --surface-3:   #e7ecea;
+  --border:      #e1e6e4;
+  --border-strong: #cdd5d2;
+
+  --nav:         #0f2925;
+  --nav-2:       #183a34;
+  --nav-text:    #c5d6d1;
+  --nav-text-2:  #8aa39c;
+  --nav-active:  #ffffff;
+  --nav-active-bg: #16a085;
+
+  --primary:     #0e7c66;
+  --primary-600: #0b6754;
+  --primary-tint:#e2f3ef;
+  --primary-ink: #0a5f4e;
+  --on-primary:  #ffffff;
+
+  --pos:         #137a4b;
+  --pos-tint:    #e3f5ec;
+  --neg:         #b8322f;
+  --neg-tint:    #fce9e8;
+  --warn:        #99600a;
+  --warn-tint:   #fdf1dc;
+  --info:        #1d62b5;
+  --info-tint:   #e6f0fb;
+  --violet:      #5a48c7;
+  --violet-tint: #eeecfb;
+  --muted-bg:    #eef1f0;
+
+  --text:        #15211e;
+  --muted:       #4c5a56;
+  --faint:       #66736f;
+
+  --radius:    10px;
+  --radius-sm: 8px;
+
+  --shadow:   0 1px 2px rgba(16, 32, 28, .05);
+  --shadow-2: 0 12px 32px rgba(16, 32, 28, .16);
+}
+
+/* ── Accent themes (light) ── */
+:root[data-accent="cobalt"] {
+  --primary:     #2563eb;
+  --primary-600: #1d4ed8;
+  --primary-tint:#eff6ff;
+  --primary-ink: #1e40af;
+  --nav-active-bg: #2563eb;
+}
+
+:root[data-accent="onyx"] {
+  --primary:     #15211e;
+  --primary-600: #0b1110;
+  --primary-tint:#eef1f0;
+  --primary-ink: #15211e;
+  --nav-active-bg: #2a3230;
+}
+
+/* ── Dark theme (CRM values) ── */
+[data-theme="dark"] {
+  --bg:          #101413;
+  --surface:     #181d1c;
+  --surface-2:   #202625;
+  --surface-3:   #2a3230;
+  --border:      #2a3230;
+  --border-strong: #3a4441;
+
+  --nav:         #0b1110;
+  --nav-2:       #182220;
+  --nav-text:    #c5d6d1;
+  --nav-text-2:  #8aa39c;
+  --nav-active:  #ffffff;
+  --nav-active-bg: #1aa589;
+
+  --primary:     #1aa589;
+  --primary-600: #22b899;
+  --primary-tint:#143a32;
+  --primary-ink: #6fdcc4;
+  --on-primary:  #04201a;
+
+  --pos:         #5bd39b;
+  --pos-tint:    #123226;
+  --neg:         #f28a87;
+  --neg-tint:    #3b1c1b;
+  --warn:        #efbb62;
+  --warn-tint:   #362a12;
+  --info:        #7fb6f5;
+  --info-tint:   #152b45;
+  --violet:      #aea3f3;
+  --violet-tint: #262149;
+  --muted-bg:    #262d2b;
+
+  --text:        #edf2f0;
+  --muted:       #b3bfbb;
+  --faint:       #93a09c;
+
+  --shadow:   none;
+  --shadow-2: 0 14px 36px rgba(0, 0, 0, .5);
+}
+
+/* ── Accent themes (dark) ── */
+[data-theme="dark"][data-accent="cobalt"] {
+  --primary:     #3b82f6;
+  --primary-600: #2563eb;
+  --primary-tint:#172554;
+  --primary-ink: #93c5fd;
+  --nav-active-bg: #3b82f6;
+}
+
+[data-theme="dark"][data-accent="onyx"] {
+  --primary:     #e2e8e6;
+  --primary-600: #c5d6d1;
+  --primary-tint:#202625;
+  --primary-ink: #edf2f0;
+  --on-primary:  #101413;
+  --nav-active-bg: #2a3230;
+}
+
+/* ── Base reset ── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* prevent body scroll — inner panels scroll */
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.45;
+  letter-spacing: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.015em;
+  font-weight: 680;
+}
+
+/* ── Tabular numbers for financial balance alignment ── */
+/* Numbers stay in Inter (as in the CRM) with fixed-width digits so columns line up */
+.tabular {
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-sans);
+  letter-spacing: normal;
+}
+
+/* ── Refined Financial Scrollbar ── */
+::-webkit-scrollbar        { width: 6px; height: 6px; }
+::-webkit-scrollbar-track  { background: transparent; }
+::-webkit-scrollbar-thumb  { background: var(--border); border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: var(--faint); }
+
+/* Dark scrollbar inside sidebar */
+aside ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); }
+aside ::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.22); }
+
+/* ── Focus ring ── */
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* ────────────────────────────────────────────────
+   PAGE TRANSITION — fires on every route change
+──────────────────────────────────────────────── */
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.page-enter {
+  animation: page-in 240ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* ── Staggered card entrance ── */
+@keyframes item-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.stagger > * {
+  animation: item-in 220ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.stagger > *:nth-child(1) { animation-delay:   0ms; }
+.stagger > *:nth-child(2) { animation-delay:  40ms; }
+.stagger > *:nth-child(3) { animation-delay:  80ms; }
+.stagger > *:nth-child(4) { animation-delay: 120ms; }
+.stagger > *:nth-child(5) { animation-delay: 160ms; }
+.stagger > *:nth-child(6) { animation-delay: 200ms; }
+.stagger > *:nth-child(7) { animation-delay: 240ms; }
+.stagger > *:nth-child(8) { animation-delay: 280ms; }
+
+/* ────────────────────────────────────────────────
+   SIDEBAR ACCORDION — smooth expand / collapse
+──────────────────────────────────────────────── */
+.nav-accordion {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.nav-accordion.open {
+  grid-template-rows: 1fr;
+}
+.nav-accordion > div {
+  overflow: hidden;
+}
+
+.nav-accordion.open > div > * {
+  animation: item-in 160ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* ── Table base ── */
+table { border-collapse: collapse; width: 100%; }
+
+/* ── Hide scrollbar (used in TabPanel) ── */
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* ── Screen-Reader only ── */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ── Right-to-left (Arabic) ───────────────────────────────────────────────
+   The browser mirrors flex/grid layouts from <html dir="rtl">. These rules
+   fix what does not mirror on its own. */
+
+/* Amounts, rates and codes are left-to-right runs: keep "+₹1,200" and
+   "-$50.00" in reading order instead of letting bidi move the sign. */
+[dir="rtl"] .tabular,
+[dir="rtl"] .font-mono {
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+[dir="rtl"] p.tabular,
+[dir="rtl"] div.tabular {
+  text-align: right;
+}
+
+/* Physical alignment utilities follow the reading direction */
+[dir="rtl"] .text-left { text-align: right; }
+[dir="rtl"] th.text-right,
+[dir="rtl"] td.text-right { text-align: left; }
+[dir="rtl"] .ml-auto { margin-left: 0; margin-right: auto; }
+[dir="rtl"] .mr-auto { margin-right: 0; margin-left: auto; }
+
+/* Directional icons (arrows, chevrons) point the other way */
+[dir="rtl"] .rtl-flip { transform: scaleX(-1); }
+
+/* Number inputs stay left-to-right while editing */
+[dir="rtl"] input[type="number"],
+[dir="rtl"] input[type="date"] {
+  direction: ltr;
+}
+
+/* ── Google Website Translator ────────────────────────────────────────────
+   Our LanguageSwitcher drives Google's widget, so hide all of Google's own UI
+   (top banner, hover tooltips, highlight) and keep the page from shifting. */
+.ut-gt-host,
+.skiptranslate iframe,
+iframe.goog-te-banner-frame,
+.goog-te-banner-frame,
+#goog-gt-tt,
+.goog-te-balloon-frame,
+.VIpgJd-ZVi9od-ORHb-OEVmcd,
+.VIpgJd-ZVi9od-aZ2wEe-wOHMyf {
+  display: none !important;
+}
+body { top: 0 !important; position: static !important; }
+.goog-text-highlight {
+  background: none !important;
+  box-shadow: none !important;
+}
+font[style*="vertical-align: inherit"] { background: transparent !important; }
+
+/* ── CRM look for every page's content (tables, inputs, selects) ─────────────
+   Applied under .ut-main so the many existing pages match without rewrites. */
+.ut-main table thead th {
+  background: var(--surface-2);
+  color: var(--muted) !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.ut-main table tbody td {
+  font-size: 13.5px;
+  border-bottom: 1px solid var(--border);
+}
+.ut-main table tbody tr:last-child td { border-bottom: 0; }
+.ut-main input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="file"]),
+.ut-main select {
+  border-color: var(--border-strong);
+  border-radius: 8px;
+  font-size: 13.5px;
+}
+.ut-main input:focus, .ut-main select:focus, .ut-main textarea:focus {
+  border-color: var(--primary);
+  outline: none;
+  box-shadow: 0 0 0 3px var(--primary-tint);
+}

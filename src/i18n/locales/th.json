@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "วันต่อวัน",
+      "finance": "การเงิน",
+      "advanced": "ขั้นสูง"
+    },
+    "mainMenu": "เมนูหลัก",
+    "short": {
+      "parties": "ภาคี"
+    },
+    "sections": {
+      "dashboard": "แดชบอร์ด",
+      "sales": "ฝ่ายขาย",
+      "receivables": "เงินเข้า",
+      "procurement": "การซื้อ",
+      "payables": "เงินออก",
+      "cashbank": "เงินสดและธนาคาร",
+      "expenses": "ค่าใช้จ่าย",
+      "tax": "ภาษี",
+      "reports": "รายงาน",
+      "advanced-features": "คุณสมบัติขั้นสูง",
+      "parties": "ลูกค้าและซัพพลายเออร์",
+      "inventory": "รายการ",
+      "assets": "สินทรัพย์ถาวร",
+      "masters": "การตั้งค่าและการกำหนดค่า",
+      "business-tools": "ทีมงานและเครื่องมือ",
+      "party-tools": "เครื่องมือปาร์ตี้",
+      "item-tools": "รายการเครื่องมือ",
+      "storage": "เอกสาร",
+      "alerts": "การแจ้งเตือน",
+      "migration": "การย้ายข้อมูล"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ภาพรวม",
+        "cash-flow": "กระแสเงินสด",
+        "tax-calendar": "ปฏิทินภาษี"
+      },
+      "sales": {
+        "quotations": "ใบเสนอราคา",
+        "proforma-invoices": "พี",
+        "sales-invoices": "ใบแจ้งหนี้",
+        "delivery-challans": "จัดส่งชาเลน",
+        "receipts": "ใบเสร็จ",
+        "invoice-desk": "โต๊ะใบแจ้งหนี้"
+      },
+      "receivables": {
+        "money-in-center": "เงินในศูนย์",
+        "receivables": "ลูกหนี้",
+        "payments-received": "การชำระเงินที่ได้รับ",
+        "overdue-collections": "คอลเลกชันและการเตือนความจำ",
+        "credit-notes": "หมายเหตุเครดิตและการคืนเงิน",
+        "sales-returns": "การขายคืน",
+        "customer-statements": "คำชี้แจงของลูกค้า",
+        "payment-links": "ลิงค์ชำระเงิน"
+      },
+      "procurement": {
+        "purchase-center": "ศูนย์จัดซื้อ",
+        "purchase-orders": "ใบสั่งซื้อ",
+        "goods-receipt": "ใบรับสินค้า",
+        "purchase-invoices": "ซื้อใบแจ้งหนี้",
+        "payment-out": "ชำระเงินแล้ว",
+        "returns-debit-notes": "การส่งคืนและบันทึกเดบิต",
+        "bill-approvals": "การอนุมัติบิล"
+      },
+      "payables": {
+        "bills": "ศูนย์ชำระเงิน",
+        "payments": "การชำระเงินของซัพพลายเออร์",
+        "workforce": "แรงงาน",
+        "adjustments": "การปรับเปลี่ยน",
+        "bank-release": "การเปิดตัวของธนาคาร"
+      },
+      "cashbank": {
+        "bank-accounts": "บัญชีของฉัน",
+        "reconciliation": "จับคู่ธุรกรรม",
+        "cash-petty": "เงินสดย่อย",
+        "contra": "ระหว่างบัญชี",
+        "cheque-register": "เช็ค",
+        "foreign-currency": "สกุลเงินต่างประเทศ",
+        "bank-feeds": "ฟีดธนาคาร",
+        "bank-rules": "กฎเกณฑ์และการกระทบยอด"
+      },
+      "expenses": {
+        "expense-center": "ค่าใช้จ่ายทั้งหมด",
+        "categories": "ประเภทค่าใช้จ่าย",
+        "automated-bills": "ค่าใช้จ่ายที่เกิดซ้ำ",
+        "journal-vouchers": "รายการด้วยตนเอง",
+        "provisions": "เงินคงค้าง",
+        "write-offs": "การตัดค่าใช้จ่าย",
+        "period-close": "สิ้นเดือน"
+      },
+      "tax": {
+        "gst-returns": "การยื่น GST",
+        "gst-filing-wizard": "⚡ ไฟล์ GSTR-3B",
+        "gst-reconciliation": "การจับคู่ GST",
+        "e-invoicing": "ใบแจ้งหนี้อิเล็กทรอนิกส์",
+        "e-way-bills": "บิล E-Way",
+        "tds": "ทีดีเอส",
+        "tcs": "ทีซีเอส",
+        "tax-payments": "ชำระภาษี",
+        "quarterly-compliance": "ปฏิทินการปฏิบัติตามข้อกำหนด",
+        "ca-access": "การเข้าถึงชั่วคราวของ CA",
+        "gst-from-books": "GST จากหนังสือ"
+      },
+      "reports": {
+        "financial-statements": "รายงานทางการเงิน",
+        "books": "สมุดธุรกรรม",
+        "gst-reports": "รายงาน GST",
+        "ar-ap": "ลูกหนี้และเจ้าหนี้",
+        "profitability": "การทำกำไร",
+        "period-comparatives": "เปรียบเทียบปี",
+        "budget-vs-actuals": "ตัวติดตามงบประมาณ",
+        "cashflow-projection": "พยากรณ์เงินสด",
+        "report-builder": "รายงานที่กำหนดเอง",
+        "general-ledger": "บัญชีแยกประเภททั่วไป",
+        "live-financials": "การเงินสด",
+        "ai-analyst": "นักวิเคราะห์ AI"
+      },
+      "advanced-features": {
+        "overview": "ภาพรวม"
+      },
+      "parties": {
+        "all-parties": "ทุกฝ่าย",
+        "customer-ledgers": "ลูกค้า",
+        "supplier-ledgers": "ซัพพลายเออร์",
+        "shared-ledger": "บัญชีแยกประเภทที่ใช้ร่วมกัน",
+        "statements": "งบ",
+        "reminders": "การแจ้งเตือน",
+        "documents": "เอกสารพรรค",
+        "portal": "พอร์ทัลปาร์ตี้",
+        "import": "พรรคนำเข้า",
+        "duplicate-merge": "ทำซ้ำการผสาน",
+        "gap-analysis": "การวิเคราะห์ช่องว่าง"
+      },
+      "inventory": {
+        "inventory-items": "รายการ",
+        "godowns": "โกดัง",
+        "stock-movement": "การเคลื่อนไหวของสต็อก",
+        "item-pricing": "ราคา",
+        "stock-valuation": "การประเมินมูลค่าหุ้น",
+        "reorder-alerts": "สั่งซื้อการแจ้งเตือนใหม่",
+        "batch-serials": "แบทช์และซีเรียล",
+        "barcode-labels": "ฉลากบาร์โค้ด",
+        "item-import": "รายการนำเข้า",
+        "gap-analysis": "การวิเคราะห์ช่องว่าง"
+      },
+      "assets": {
+        "asset-register": "รายการสินทรัพย์",
+        "depreciation": "ค่าเสื่อมราคา",
+        "disposal-revaluation": "ขายหรือตีราคาใหม่"
+      },
+      "masters": {
+        "chart-of-accounts": "รายการบัญชี",
+        "tax-masters": "อัตราภาษี",
+        "cost-centers": "ศูนย์ต้นทุน",
+        "voucher-types": "ประเภทธุรกรรม",
+        "opening-balances": "ยอดคงเหลือเริ่มต้น",
+        "currencies": "สกุลเงิน"
+      },
+      "business-tools": {
+        "staff-payroll": "เงินเดือน",
+        "manage-users": "การเข้าถึงของผู้ใช้",
+        "online-orders": "คำสั่งซื้อออนไลน์",
+        "sms-marketing": "การตลาดผ่าน SMS",
+        "accountant-hub": "นักบัญชีและฝ่ายสนับสนุน"
+      },
+      "party-tools": {
+        "documents": "เอกสารพรรค",
+        "portal": "พอร์ทัลปาร์ตี้",
+        "import": "พรรคนำเข้า",
+        "duplicate-merge": "ทำซ้ำการผสาน",
+        "gap-analysis": "การวิเคราะห์ช่องว่าง"
+      },
+      "item-tools": {
+        "reorder-alerts": "สั่งซื้อการแจ้งเตือนใหม่",
+        "batch-serials": "แบทช์และซีเรียล",
+        "barcode-labels": "ฉลากบาร์โค้ด",
+        "item-import": "รายการนำเข้า",
+        "gap-analysis": "การวิเคราะห์ช่องว่าง"
+      },
+      "storage": {
+        "client-storage": "ไฟล์ไคลเอนต์",
+        "unifiedtree-storage": "ที่เก็บข้อมูลบนคลาวด์"
+      },
+      "alerts": {
+        "accountant-alerts": "การแจ้งเตือนนักบัญชี",
+        "compliance-alerts": "การแจ้งเตือนการปฏิบัติตามข้อกำหนด",
+        "cash-risk-alerts": "การแจ้งเตือนเงินสดและความเสี่ยง",
+        "ca-access": "การเข้าถึงชั่วคราวของ CA"
+      },
+      "migration": {
+        "import": "นำเข้าข้อมูล",
+        "export": "ส่งออกข้อมูล",
+        "history": "ประวัติการนำเข้า",
+        "tally-import": "นำเข้าจาก Tally และ Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "การซื้อและการชำระเงิน",
+      "accountingSetup": "การตั้งค่าการบัญชี",
+      "dataDocuments": "ข้อมูลและเอกสาร"
+    }
+  },
+  "common": {
+    "save": "บันทึกการเปลี่ยนแปลง",
+    "cancel": "ยกเลิก",
+    "create": "สร้าง",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "search": "ค้นหา",
+    "connect": "เชื่อมต่อ",
+    "configure": "กำหนดค่า",
+    "disconnect": "ตัดการเชื่อมต่อ",
+    "sync": "ซิงค์ทันที",
+    "close": "ปิด",
+    "reset": "รีเซ็ตเป็นค่าเริ่มต้น",
+    "back": "กลับ",
+    "continue": "ดำเนินการต่อ",
+    "all": "ทั้งหมด",
+    "retry": "ลองอีกครั้ง",
+    "loading": "กำลังโหลด...",
+    "resetDemo": "รีเซ็ตข้อมูลสาธิต"
+  },
+  "shell": {
+    "searchPlaceholder": "ค้นหาอะไรก็ได้...",
+    "settings": "การตั้งค่า",
+    "language": "ภาษา",
+    "role": "บทบาท",
+    "greeting": {
+      "morning": "สวัสดีตอนเช้า",
+      "afternoon": "สวัสดีตอนบ่าย",
+      "evening": "สวัสดีตอนเย็น"
+    },
+    "settingsItems": {
+      "company-profile": "ประวัติบริษัท",
+      "configuration": "การกำหนดค่า",
+      "fiscal-periods": "รอบระยะเวลาบัญชี",
+      "roles": "บทบาทและผู้ใช้",
+      "integrations": "บูรณาการ",
+      "notifications": "การแจ้งเตือน",
+      "audit-logs": "การตรวจสอบและบันทึก",
+      "audit-trail": "เส้นทางการตรวจสอบป้องกันการงัดแงะ",
+      "developer": "นักพัฒนาและ API"
+    },
+    "translatedLanguages": "แปลแล้ว",
+    "untranslatedLanguages": "ภาษาอังกฤษจนกว่าจะมีการแปล"
+  },
+  "status": {
+    "filed": "ยื่น",
+    "ready": "พร้อมยื่น",
+    "open": "ช่วงเปิด",
+    "paid": "จ่าย",
+    "pending": "รอดำเนินการ",
+    "accepted": "ได้รับการยอมรับ",
+    "delivered": "จัดส่งแล้ว",
+    "rejected": "ถูกปฏิเสธ",
+    "pdf-sent": "ส่ง PDF แล้ว",
+    "not-sent": "ไม่ได้ส่ง",
+    "matched": "ตรงกัน",
+    "mismatch": "ไม่ตรงกัน",
+    "missing-supplier": "ไม่รายงานโดยซัพพลายเออร์",
+    "missing-books": "หายไปในหนังสือ",
+    "deferred": "เลื่อนออกไป",
+    "deducted": "หักแล้ว",
+    "remitted": "โอนแล้ว",
+    "certified": "ได้รับการรับรอง",
+    "to-report": "เพื่อรายงาน",
+    "reported": "รายงานแล้ว",
+    "accounted": "บัญชีแล้ว",
+    "overdue": "เกินกำหนด"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "พร้อมยื่น",
+      "liabilityDue": "ความรับผิดถึงกำหนด",
+      "paidThisYear": "ปีนี้จ่ายแล้ว",
+      "nextDeadline": "กำหนดเวลาถัดไป",
+      "noneOverdue": "ไม่มีค้างชำระ",
+      "overdue": "เกินกำหนดชำระ {{count}}"
+    },
+    "filter": {
+      "ready": "พร้อมยื่น",
+      "open": "เปิด",
+      "filed": "ยื่น"
+    },
+    "col": {
+      "period": "ระยะเวลา",
+      "authority": "อำนาจ",
+      "rate": "ประเมิน",
+      "due": "เนื่องจาก",
+      "netPayable": "เจ้าหนี้สุทธิ",
+      "status": "สถานะ",
+      "ack": "รับทราบ"
+    },
+    "file": "ไฟล์",
+    "view": "ดู",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "กำลังโหลดเขตอำนาจศาล...",
+    "nothingToFile": "ไม่มีการรอการส่งคืน - ส่งช่วงปิดทั้งหมดแล้ว",
+    "fileNext": "ไฟล์ถัดไป: {{name}}",
+    "steps": {
+      "review": "ทบทวน",
+      "validate": "ตรวจสอบความถูกต้อง",
+      "declare": "ประกาศและส่ง",
+      "ack": "รับทราบ"
+    },
+    "runValidation": "เรียกใช้การตรวจสอบ",
+    "validating": "กำลังตรวจสอบ...",
+    "submit": "Submit {{form}}",
+    "submitting": "กำลังส่ง...",
+    "declaration": "ฉันขอประกาศว่าข้อมูลในการส่งคืนนี้เป็นความจริงและครบถ้วน และฉันได้รับอนุญาตให้ส่งข้อมูลดังกล่าวไปยัง {{authority}}",
+    "netAmount": "จำนวนเงินสุทธิ",
+    "submitted": "ส่งแล้ว",
+    "filedOn": "ยื่นเมื่อ",
+    "regime": {
+      "authority": "อำนาจ",
+      "channel": "ช่องทางการยื่น",
+      "return": "กลับ",
+      "due": "เนื่องจาก",
+      "standardRate": "อัตรามาตรฐาน",
+      "threshold": "เกณฑ์การลงทะเบียน"
+    },
+    "demoNote": "ข้อมูลสาธิตจาก API ภาษีจำลองในตัว — การยื่นและการชำระเงินเป็นการจำลองและไม่มีการถูกส่งไปยังหน่วยงานด้านภาษี"
+  },
+  "fx": {
+    "title": "สกุลเงินต่างประเทศ",
+    "subtitle": "สกุลเงินฐาน {{base}} · อัตราตลาดจำลองที่บ่งชี้",
+    "newDoc": "ใบแจ้งหนี้ / บิล FX ใหม่",
+    "kpi": {
+      "netExposure": "ความเสี่ยง FX สุทธิ",
+      "openDocs": "{{count}} เอกสารที่เปิดอยู่",
+      "unrealized": "กำไร/ขาดทุนที่ยังไม่เกิดขึ้นจริง",
+      "postedSplit": "{{posted}} โพสต์ · {{unposted}} ยังไม่ได้",
+      "realized": "ตระหนักได้ในปีนี้",
+      "lastReval": "การตีราคาครั้งล่าสุด",
+      "never": "ไม่เคย",
+      "suggested": "แนะนำ: {{date}}"
+    },
+    "view": {
+      "open": "เปิดรายการ",
+      "settled": "ตัดสินแล้ว",
+      "revaluation": "การตีราคาใหม่สิ้นเดือน",
+      "journal": "วารสาร FX"
+    },
+    "col": {
+      "document": "เอกสาร",
+      "type": "พิมพ์",
+      "openForeign": "เปิด (ต่างประเทศ)",
+      "bookedNow": "จองแล้ว/ครับ",
+      "valueIn": "ค่าใน {{base}}",
+      "unrealized": "ยังไม่เกิดขึ้นจริง",
+      "status": "สถานะ",
+      "amount": "จำนวน",
+      "bookedRate": "อัตราที่จองไว้",
+      "realized": "ที่ตระหนักรู้"
+    },
+    "receivable": "ลูกหนี้ได้",
+    "payable": "จ่ายได้",
+    "receive": "รับ",
+    "pay": "จ่าย",
+    "netIn": "สุทธิใน {{base}}",
+    "state": {
+      "settled": "ตัดสินแล้ว",
+      "partial": "ชำระบางส่วนแล้ว",
+      "open": "เปิด"
+    },
+    "demoNote": "ข้อมูลสาธิตจาก mock API ในตัว — อัตราเป็นการจำลอง ไม่ใช่ข้อมูลตลาดสด"
+  }
+}

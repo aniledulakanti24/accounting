@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Päivittäin",
+      "finance": "Rahoitus",
+      "advanced": "Edistynyt"
+    },
+    "mainMenu": "Päävalikko",
+    "short": {
+      "parties": "Juhlat"
+    },
+    "sections": {
+      "dashboard": "Kojelauta",
+      "sales": "Myynti",
+      "receivables": "Rahaa sisään",
+      "procurement": "Ostokset",
+      "payables": "Rahat pois",
+      "cashbank": "Käteinen ja pankki",
+      "expenses": "Kulut",
+      "tax": "Verottaa",
+      "reports": "Raportit",
+      "advanced-features": "Lisäominaisuudet",
+      "parties": "Asiakkaat & Toimittajat",
+      "inventory": "Tuotteet",
+      "assets": "Käyttöomaisuus",
+      "masters": "Asennus ja konfigurointi",
+      "business-tools": "Tiimi ja työkalut",
+      "party-tools": "Juhlatyökalut",
+      "item-tools": "Kohde Työkalut",
+      "storage": "Asiakirjat",
+      "alerts": "Hälytykset",
+      "migration": "Tietojen siirto"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Yleiskatsaus",
+        "cash-flow": "Kassavirta",
+        "tax-calendar": "verokalenteri"
+      },
+      "sales": {
+        "quotations": "Lainaukset",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Laskuttaa",
+        "delivery-challans": "Toimitus Challan",
+        "receipts": "Kuitti",
+        "invoice-desk": "Laskutuspöytä"
+      },
+      "receivables": {
+        "money-in-center": "Raha Keskuksessa",
+        "receivables": "Saamiset",
+        "payments-received": "Maksut vastaanotettu",
+        "overdue-collections": "Kokoelmat ja muistutukset",
+        "credit-notes": "Luottotodistukset ja hyvitykset",
+        "sales-returns": "Myynnin palautukset",
+        "customer-statements": "Asiakaslausunnot",
+        "payment-links": "Maksulinkit"
+      },
+      "procurement": {
+        "purchase-center": "Ostokeskus",
+        "purchase-orders": "Ostotilaukset",
+        "goods-receipt": "Tavaran vastaanotto",
+        "purchase-invoices": "Ostolaskut",
+        "payment-out": "Maksut suoritettu",
+        "returns-debit-notes": "Palautukset ja veloituslaskut",
+        "bill-approvals": "Laskun hyväksynnät"
+      },
+      "payables": {
+        "bills": "Maksukeskus",
+        "payments": "Toimittajan maksut",
+        "workforce": "Työvoima",
+        "adjustments": "Säädöt",
+        "bank-release": "Pankin tiedote"
+      },
+      "cashbank": {
+        "bank-accounts": "Omat tilit",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Petty Cash",
+        "contra": "Tilien välillä",
+        "cheque-register": "Tarkastukset",
+        "foreign-currency": "Ulkomaan valuutta",
+        "bank-feeds": "Pankkisyötteet",
+        "bank-rules": "Säännöt ja sovinto"
+      },
+      "expenses": {
+        "expense-center": "Kaikki kulut",
+        "categories": "Kulutyypit",
+        "automated-bills": "Toistuvat kulut",
+        "journal-vouchers": "Manuaaliset merkinnät",
+        "provisions": "Kertymät",
+        "write-offs": "Poistot",
+        "period-close": "Kuukauden loppu"
+      },
+      "tax": {
+        "gst-returns": "GST-arkistointi",
+        "gst-filing-wizard": "⚡ Tiedosto GSTR-3B",
+        "gst-reconciliation": "GST-vastaavuus",
+        "e-invoicing": "E-laskut",
+        "e-way-bills": "E-way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Maksa vero",
+        "quarterly-compliance": "Vaatimustenmukaisuuskalenteri",
+        "ca-access": "CA Väliaikainen pääsy",
+        "gst-from-books": "GST Booksilta"
+      },
+      "reports": {
+        "financial-statements": "Talousraportit",
+        "books": "Tapahtumakirjat",
+        "gst-reports": "GST-raportit",
+        "ar-ap": "Saamiset vs velat",
+        "profitability": "Kannattavuus",
+        "period-comparatives": "Vuoden vertailu",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Käteisennuste",
+        "report-builder": "Mukautetut raportit",
+        "general-ledger": "Pääkirja",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI analyytikko"
+      },
+      "advanced-features": {
+        "overview": "Yleiskatsaus"
+      },
+      "parties": {
+        "all-parties": "Kaikki osapuolet",
+        "customer-ledgers": "Asiakkaat",
+        "supplier-ledgers": "Toimittajat",
+        "shared-ledger": "Jaettu pääkirja",
+        "statements": "lausunnot",
+        "reminders": "Muistutukset",
+        "documents": "Juhlaasiakirjat",
+        "portal": "Juhlaportaali",
+        "import": "Party Import",
+        "duplicate-merge": "Kopioi yhdistäminen",
+        "gap-analysis": "Aukon analyysi"
+      },
+      "inventory": {
+        "inventory-items": "Tuotteet",
+        "godowns": "Varastot",
+        "stock-movement": "Osakeliikkeet",
+        "item-pricing": "Hinnoittelu",
+        "stock-valuation": "Osakkeen arvostus",
+        "reorder-alerts": "Järjestä ilmoitukset uudelleen",
+        "batch-serials": "Erä ja sarja",
+        "barcode-labels": "Viivakooditarrat",
+        "item-import": "Tuotteen tuonti",
+        "gap-analysis": "Aukon analyysi"
+      },
+      "assets": {
+        "asset-register": "Omaisuusluettelo",
+        "depreciation": "Poistot",
+        "disposal-revaluation": "Myy tai arvosta uudelleen"
+      },
+      "masters": {
+        "chart-of-accounts": "Tililuettelo",
+        "tax-masters": "Veroprosentit",
+        "cost-centers": "Kustannuskeskukset",
+        "voucher-types": "Tapahtumatyypit",
+        "opening-balances": "Aloitussaldot",
+        "currencies": "Valuutat"
+      },
+      "business-tools": {
+        "staff-payroll": "Palkanlaskenta",
+        "manage-users": "Käyttäjän käyttöoikeudet",
+        "online-orders": "Online tilaukset",
+        "sms-marketing": "SMS-markkinointi",
+        "accountant-hub": "Kirjanpitäjät ja tuki"
+      },
+      "party-tools": {
+        "documents": "Juhlaasiakirjat",
+        "portal": "Juhlaportaali",
+        "import": "Party Import",
+        "duplicate-merge": "Kopioi yhdistäminen",
+        "gap-analysis": "Aukon analyysi"
+      },
+      "item-tools": {
+        "reorder-alerts": "Järjestä ilmoitukset uudelleen",
+        "batch-serials": "Erä ja sarja",
+        "barcode-labels": "Viivakooditarrat",
+        "item-import": "Tuotteen tuonti",
+        "gap-analysis": "Aukon analyysi"
+      },
+      "storage": {
+        "client-storage": "Asiakastiedostot",
+        "unifiedtree-storage": "Pilvitallennus"
+      },
+      "alerts": {
+        "accountant-alerts": "Kirjanpitäjän hälytykset",
+        "compliance-alerts": "Vaatimustenmukaisuusvaroitukset",
+        "cash-risk-alerts": "Käteis- ja riskivaroitukset",
+        "ca-access": "CA Väliaikainen pääsy"
+      },
+      "migration": {
+        "import": "Tuo tiedot",
+        "export": "Vie tiedot",
+        "history": "Tuo historia",
+        "tally-import": "Tuo Tally & Zohosta"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ostokset ja maksut",
+      "accountingSetup": "Kirjanpidon asetukset",
+      "dataDocuments": "Tiedot ja asiakirjat"
+    }
+  },
+  "common": {
+    "save": "Tallenna muutokset",
+    "cancel": "Peruuttaa",
+    "create": "Luoda",
+    "edit": "Muokata",
+    "delete": "Poistaa",
+    "search": "Haku",
+    "connect": "Yhdistä",
+    "configure": "Määritä",
+    "disconnect": "Katkaise yhteys",
+    "sync": "Synkronoi nyt",
+    "close": "Lähellä",
+    "reset": "Palauta oletusarvoihin",
+    "back": "Takaisin",
+    "continue": "Jatkaa",
+    "all": "Kaikki",
+    "retry": "Yritä uudelleen",
+    "loading": "Ladataan…",
+    "resetDemo": "Nollaa esittelytiedot"
+  },
+  "shell": {
+    "searchPlaceholder": "Hae mitä tahansa…",
+    "settings": "Asetukset",
+    "language": "Kieli",
+    "role": "Rooli",
+    "greeting": {
+      "morning": "Hyvää huomenta",
+      "afternoon": "Hyvää iltapäivää",
+      "evening": "Hyvää iltaa"
+    },
+    "settingsItems": {
+      "company-profile": "Yrityksen profiili",
+      "configuration": "Kokoonpano",
+      "fiscal-periods": "Tilikaudet",
+      "roles": "Roolit ja käyttäjät",
+      "integrations": "Integraatiot",
+      "notifications": "Ilmoitukset",
+      "audit-logs": "Tarkastus ja lokit",
+      "audit-trail": "Vuorosuojattu kirjausketju",
+      "developer": "Kehittäjä ja API"
+    },
+    "translatedLanguages": "Käännetty",
+    "untranslatedLanguages": "Englanti käännettyyn asti"
+  },
+  "status": {
+    "filed": "Arkistoitu",
+    "ready": "Valmiina tiedostoon",
+    "open": "Kausi auki",
+    "paid": "Maksettu",
+    "pending": "Odottaa",
+    "accepted": "Hyväksytty",
+    "delivered": "Toimitettu",
+    "rejected": "Hylätty",
+    "pdf-sent": "PDF lähetetty",
+    "not-sent": "Ei lähetetty",
+    "matched": "Sovittu",
+    "mismatch": "Epäsopivuus",
+    "missing-supplier": "Toimittaja ei ole ilmoittanut",
+    "missing-books": "Puuttuu kirjoista",
+    "deferred": "Lykätty",
+    "deducted": "Vähennetty",
+    "remitted": "Lähetetty",
+    "certified": "Sertifioitu",
+    "to-report": "Raportoimaan",
+    "reported": "Ilmoitettu",
+    "accounted": "Kirjattu",
+    "overdue": "Myöhässä"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Valmiina tiedostoon",
+      "liabilityDue": "Velvollinen",
+      "paidThisYear": "Maksettu tänä vuonna",
+      "nextDeadline": "Seuraava määräaika",
+      "noneOverdue": "Ei yhtään myöhässä",
+      "overdue": "{{count}} myöhässä"
+    },
+    "filter": {
+      "ready": "Valmiina tiedostoon",
+      "open": "Avata",
+      "filed": "Arkistoitu"
+    },
+    "col": {
+      "period": "Kausi",
+      "authority": "viranomainen",
+      "rate": "Rate",
+      "due": "Erääntynyt",
+      "netPayable": "Netto maksettava",
+      "status": "Status",
+      "ack": "Tunnustus"
+    },
+    "file": "Tiedosto",
+    "view": "Näytä",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ladataan lainkäyttöaluetta…",
+    "nothingToFile": "Mikään palautus ei odota jättämistä – kaikki suljetut jaksot lähetetään.",
+    "fileNext": "Tiedosto seuraava: {{name}}",
+    "steps": {
+      "review": "Arvostelu",
+      "validate": "Vahvista",
+      "declare": "Ilmoita & lähetä",
+      "ack": "Tunnustus"
+    },
+    "runValidation": "Suorita vahvistus",
+    "validating": "Vahvistetaan…",
+    "submit": "Submit {{form}}",
+    "submitting": "Lähetetään…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Nettomäärä",
+    "submitted": "Lähetetty",
+    "filedOn": "Arkistoitu",
+    "regime": {
+      "authority": "viranomainen",
+      "channel": "Arkistointikanava",
+      "return": "Palata",
+      "due": "Erääntynyt",
+      "standardRate": "Vakiohinta",
+      "threshold": "Rekisteröinnin kynnys"
+    },
+    "demoNote": "Demodata sisäänrakennetusta valeverosovellusliittymästä – ilmoitukset ja maksut simuloidaan eikä mitään lähetetä veroviranomaisille."
+  },
+  "fx": {
+    "title": "Ulkomaan valuutta",
+    "subtitle": "Perusvaluutta {{base}} · suuntaa-antavat valemarkkinakurssit",
+    "newDoc": "Uusi valuuttalasku/lasku",
+    "kpi": {
+      "netExposure": "Nettovaluuttariski",
+      "openDocs": "{{count}} avointa asiakirjaa",
+      "unrealized": "Realisoitumaton voitto/tappio",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Tänä vuonna toteutunut",
+      "lastReval": "Viimeinen arvostus",
+      "never": "Ei koskaan",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Avaa kohteet",
+      "settled": "Rajattu",
+      "revaluation": "Kuukauden lopun uudelleenarvostus",
+      "journal": "FX-päiväkirja"
+    },
+    "col": {
+      "document": "Asiakirja",
+      "type": "Tyyppi",
+      "openForeign": "Avoin (ulkomainen)",
+      "bookedNow": "Varattu / nyt",
+      "valueIn": "Arvo {{base}}",
+      "unrealized": "Toteamaton",
+      "status": "Status",
+      "amount": "Määrä",
+      "bookedRate": "Varattu hinta",
+      "realized": "Tajusi"
+    },
+    "receivable": "Saatava",
+    "payable": "Maksettava",
+    "receive": "Vastaanota",
+    "pay": "Maksaa",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Rajattu",
+      "partial": "Osittain ratkaistu",
+      "open": "Avata"
+    },
+    "demoNote": "Demodata sisäänrakennetusta vale-API:sta – hinnat simuloidaan, ei reaaliaikaista markkinatietoa."
+  }
+}

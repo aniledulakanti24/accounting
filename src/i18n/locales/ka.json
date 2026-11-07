@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ყოველდღიურად",
+      "finance": "ფინანსები",
+      "advanced": "გაფართოებული"
+    },
+    "mainMenu": "მთავარი მენიუ",
+    "short": {
+      "parties": "პარტიები"
+    },
+    "sections": {
+      "dashboard": "დაფა",
+      "sales": "გაყიდვები",
+      "receivables": "ფული შემოსული",
+      "procurement": "შესყიდვები",
+      "payables": "ფული გარეთ",
+      "cashbank": "ნაღდი ფული და ბანკი",
+      "expenses": "ხარჯები",
+      "tax": "გადასახადი",
+      "reports": "მოხსენებები",
+      "advanced-features": "გაფართოებული ფუნქციები",
+      "parties": "მომხმარებლები და მომწოდებლები",
+      "inventory": "ნივთები",
+      "assets": "ძირითადი საშუალებები",
+      "masters": "დაყენება და კონფიგურაცია",
+      "business-tools": "გუნდი და ხელსაწყოები",
+      "party-tools": "პარტიის ინსტრუმენტები",
+      "item-tools": "ელემენტის ინსტრუმენტები",
+      "storage": "დოკუმენტები",
+      "alerts": "გაფრთხილებები",
+      "migration": "მონაცემთა მიგრაცია"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "მიმოხილვა",
+        "cash-flow": "ფულადი ნაკადი",
+        "tax-calendar": "საგადასახადო კალენდარი"
+      },
+      "sales": {
+        "quotations": "ციტატები",
+        "proforma-invoices": "PI",
+        "sales-invoices": "ინვოისი",
+        "delivery-challans": "მიწოდება ჩალანი",
+        "receipts": "ქვითარი",
+        "invoice-desk": "ინვოისის მაგიდა"
+      },
+      "receivables": {
+        "money-in-center": "ფული ცენტრში",
+        "receivables": "მისაღები",
+        "payments-received": "მიღებული გადახდები",
+        "overdue-collections": "კოლექციები და შეხსენებები",
+        "credit-notes": "საკრედიტო შენიშვნები და თანხის დაბრუნება",
+        "sales-returns": "გაყიდვების ანაზღაურება",
+        "customer-statements": "მომხმარებელთა განცხადებები",
+        "payment-links": "გადახდის ბმულები"
+      },
+      "procurement": {
+        "purchase-center": "შესყიდვების ცენტრი",
+        "purchase-orders": "შესყიდვის შეკვეთები",
+        "goods-receipt": "საქონლის ქვითარი",
+        "purchase-invoices": "შესყიდვის ინვოისები",
+        "payment-out": "განხორციელებული გადახდები",
+        "returns-debit-notes": "დაბრუნების და სადებეტო შენიშვნები",
+        "bill-approvals": "კანონპროექტის დამტკიცებები"
+      },
+      "payables": {
+        "bills": "გადახდის ცენტრი",
+        "payments": "მიმწოდებლის გადახდები",
+        "workforce": "სამუშაო ძალა",
+        "adjustments": "კორექტირება",
+        "bank-release": "ბანკის რელიზი"
+      },
+      "cashbank": {
+        "bank-accounts": "ჩემი ანგარიშები",
+        "reconciliation": "მატჩების ტრანზაქციები",
+        "cash-petty": "წვრილმანი",
+        "contra": "ანგარიშებს შორის",
+        "cheque-register": "ჩეკები",
+        "foreign-currency": "უცხოური ვალუტა",
+        "bank-feeds": "ბანკის არხები",
+        "bank-rules": "წესები და შერიგება"
+      },
+      "expenses": {
+        "expense-center": "ყველა ხარჯი",
+        "categories": "ხარჯების ტიპები",
+        "automated-bills": "განმეორებადი ხარჯები",
+        "journal-vouchers": "სახელმძღვანელო ჩანაწერები",
+        "provisions": "დარიცხვები",
+        "write-offs": "ჩამოწერები",
+        "period-close": "თვის ბოლოს"
+      },
+      "tax": {
+        "gst-returns": "GST წარდგენა",
+        "gst-filing-wizard": "⚡ ფაილი GSTR-3B",
+        "gst-reconciliation": "GST შესატყვისი",
+        "e-invoicing": "ელექტრონული ინვოისები",
+        "e-way-bills": "E-Way გადასახადები",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "გადასახადის გადახდა",
+        "quarterly-compliance": "შესაბამისობის კალენდარი",
+        "ca-access": "CA დროებითი წვდომა",
+        "gst-from-books": "GST წიგნებიდან"
+      },
+      "reports": {
+        "financial-statements": "ფინანსური ანგარიშები",
+        "books": "გარიგების წიგნები",
+        "gst-reports": "GST ანგარიშები",
+        "ar-ap": "დებიტორული დავალიანება vs გადასახდელი",
+        "profitability": "მომგებიანობა",
+        "period-comparatives": "წლის შედარება",
+        "budget-vs-actuals": "ბიუჯეტის ტრეკერი",
+        "cashflow-projection": "ფულადი პროგნოზი",
+        "report-builder": "მორგებული ანგარიშები",
+        "general-ledger": "გენერალური ლეჯერი",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI ანალიტიკოსი"
+      },
+      "advanced-features": {
+        "overview": "მიმოხილვა"
+      },
+      "parties": {
+        "all-parties": "ყველა პარტია",
+        "customer-ledgers": "კლიენტები",
+        "supplier-ledgers": "მომწოდებლები",
+        "shared-ledger": "საზიარო ლეჯერი",
+        "statements": "განცხადებები",
+        "reminders": "შეხსენებები",
+        "documents": "პარტიის საბუთები",
+        "portal": "პარტიის პორტალი",
+        "import": "პარტიის იმპორტი",
+        "duplicate-merge": "დუბლიკატი შერწყმა",
+        "gap-analysis": "ხარვეზების ანალიზი"
+      },
+      "inventory": {
+        "inventory-items": "ნივთები",
+        "godowns": "საწყობები",
+        "stock-movement": "საფონდო მოძრაობა",
+        "item-pricing": "ფასი",
+        "stock-valuation": "აქციების შეფასება",
+        "reorder-alerts": "შეტყობინებების გადაკვეთა",
+        "batch-serials": "პარტია და სერიული",
+        "barcode-labels": "შტრიხკოდის ეტიკეტები",
+        "item-import": "საქონლის იმპორტი",
+        "gap-analysis": "ხარვეზების ანალიზი"
+      },
+      "assets": {
+        "asset-register": "აქტივების სია",
+        "depreciation": "ამორტიზაცია",
+        "disposal-revaluation": "გაყიდვა ან გადაფასება"
+      },
+      "masters": {
+        "chart-of-accounts": "ანგარიშების სია",
+        "tax-masters": "საგადასახადო განაკვეთები",
+        "cost-centers": "ხარჯების ცენტრები",
+        "voucher-types": "ტრანზაქციის ტიპები",
+        "opening-balances": "საწყისი ნაშთები",
+        "currencies": "ვალუტები"
+      },
+      "business-tools": {
+        "staff-payroll": "სახელფასო",
+        "manage-users": "მომხმარებლის წვდომა",
+        "online-orders": "ონლაინ შეკვეთები",
+        "sms-marketing": "SMS მარკეტინგი",
+        "accountant-hub": "ბუღალტერები და მხარდაჭერა"
+      },
+      "party-tools": {
+        "documents": "პარტიის საბუთები",
+        "portal": "პარტიის პორტალი",
+        "import": "პარტიის იმპორტი",
+        "duplicate-merge": "დუბლიკატი შერწყმა",
+        "gap-analysis": "ხარვეზების ანალიზი"
+      },
+      "item-tools": {
+        "reorder-alerts": "შეტყობინებების გადაკვეთა",
+        "batch-serials": "პარტია და სერიული",
+        "barcode-labels": "შტრიხკოდის ეტიკეტები",
+        "item-import": "საქონლის იმპორტი",
+        "gap-analysis": "ხარვეზების ანალიზი"
+      },
+      "storage": {
+        "client-storage": "კლიენტის ფაილები",
+        "unifiedtree-storage": "ღრუბლოვანი საცავი"
+      },
+      "alerts": {
+        "accountant-alerts": "ბუღალტერის გაფრთხილებები",
+        "compliance-alerts": "შესაბამისობის გაფრთხილებები",
+        "cash-risk-alerts": "ნაღდი ფულის და რისკის გაფრთხილებები",
+        "ca-access": "CA დროებითი წვდომა"
+      },
+      "migration": {
+        "import": "მონაცემების იმპორტი",
+        "export": "მონაცემების ექსპორტი",
+        "history": "იმპორტის ისტორია",
+        "tally-import": "იმპორტი Tally & Zoho-დან"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "შესყიდვები და გადახდები",
+      "accountingSetup": "ბუღალტრული აღრიცხვის დაყენება",
+      "dataDocuments": "მონაცემები და დოკუმენტები"
+    }
+  },
+  "common": {
+    "save": "ცვლილებების შენახვა",
+    "cancel": "გაუქმება",
+    "create": "შექმნა",
+    "edit": "რედაქტირება",
+    "delete": "წაშლა",
+    "search": "ძიება",
+    "connect": "დაკავშირება",
+    "configure": "კონფიგურაცია",
+    "disconnect": "გათიშვა",
+    "sync": "სინქრონიზაცია ახლა",
+    "close": "დახურვა",
+    "reset": "გადატვირთეთ ნაგულისხმევად",
+    "back": "უკან",
+    "continue": "განაგრძეთ",
+    "all": "ყველა",
+    "retry": "ხელახლა სცადეთ",
+    "loading": "იტვირთება…",
+    "resetDemo": "დემო მონაცემების გადატვირთვა"
+  },
+  "shell": {
+    "searchPlaceholder": "რაიმეს ძიება…",
+    "settings": "პარამეტრები",
+    "language": "ენა",
+    "role": "როლი",
+    "greeting": {
+      "morning": "დილა მშვიდობისა",
+      "afternoon": "შუადღე მშვიდობისა",
+      "evening": "საღამო მშვიდობისა"
+    },
+    "settingsItems": {
+      "company-profile": "კომპანიის პროფილი",
+      "configuration": "კონფიგურაცია",
+      "fiscal-periods": "ფისკალური პერიოდები",
+      "roles": "როლები და მომხმარებლები",
+      "integrations": "ინტეგრაციები",
+      "notifications": "შეტყობინებები",
+      "audit-logs": "აუდიტი და ჟურნალები",
+      "audit-trail": "შეფერხების საწინააღმდეგო აუდიტის ბილიკი",
+      "developer": "დეველოპერი და API"
+    },
+    "translatedLanguages": "თარგმნა",
+    "untranslatedLanguages": "ინგლისური თარგმნამდე"
+  },
+  "status": {
+    "filed": "შეტანილი",
+    "ready": "მზადაა ფაილებისთვის",
+    "open": "პერიოდი ღიაა",
+    "paid": "გადახდილი",
+    "pending": "მომლოდინე",
+    "accepted": "მიღებულია",
+    "delivered": "მიწოდებული",
+    "rejected": "უარყოფილია",
+    "pdf-sent": "PDF გაგზავნილია",
+    "not-sent": "არ არის გაგზავნილი",
+    "matched": "დაემთხვა",
+    "mismatch": "შეუსაბამობა",
+    "missing-supplier": "არ არის მოხსენებული მიმწოდებლის მიერ",
+    "missing-books": "დაკარგული წიგნებში",
+    "deferred": "გადადებული",
+    "deducted": "გამოაკლდა",
+    "remitted": "გამოტანილი",
+    "certified": "სერტიფიცირებული",
+    "to-report": "მოხსენება",
+    "reported": "მოახსენეს",
+    "accounted": "აღრიცხული",
+    "overdue": "ვადაგადაცილებული"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "მზადაა ფაილებისთვის",
+      "liabilityDue": "პასუხისმგებლობის გამო",
+      "paidThisYear": "წელს გადახდილი",
+      "nextDeadline": "შემდეგი ვადა",
+      "noneOverdue": "არცერთი ვადაგადაცილებული",
+      "overdue": "{{count}} ვადაგადაცილებული"
+    },
+    "filter": {
+      "ready": "მზადაა ფაილებისთვის",
+      "open": "გახსენით",
+      "filed": "შეტანილი"
+    },
+    "col": {
+      "period": "პერიოდი",
+      "authority": "ავტორიტეტი",
+      "rate": "შეფასება",
+      "due": "გამო",
+      "netPayable": "წმინდა გადასახდელი",
+      "status": "სტატუსი",
+      "ack": "აღიარება"
+    },
+    "file": "ფაილი",
+    "view": "ხედი",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "იტვირთება იურისდიქცია…",
+    "nothingToFile": "დეკლარაცია არ ელოდება წარდგენას - წარდგენილია ყველა დახურული პერიოდი.",
+    "fileNext": "შემდეგი ფაილი: {{name}}",
+    "steps": {
+      "review": "მიმოხილვა",
+      "validate": "გადამოწმება",
+      "declare": "განაცხადე და წარადგინე",
+      "ack": "აღიარება"
+    },
+    "runValidation": "გაუშვით ვალიდაცია",
+    "validating": "მიმდინარეობს გადამოწმება…",
+    "submit": "Submit {{form}}",
+    "submitting": "მიმდინარეობს გაგზავნა…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "წმინდა თანხა",
+    "submitted": "წარდგენილი",
+    "filedOn": "შეტანილი",
+    "regime": {
+      "authority": "ავტორიტეტი",
+      "channel": "შეტანის არხი",
+      "return": "დაბრუნება",
+      "due": "გამო",
+      "standardRate": "სტანდარტული განაკვეთი",
+      "threshold": "რეგისტრაციის ბარიერი"
+    },
+    "demoNote": "დემო მონაცემები ჩაშენებული იმიტირებული საგადასახადო API-დან — შეტანისა და გადახდების სიმულაცია ხდება და არაფერი ეგზავნება საგადასახადო ორგანოს."
+  },
+  "fx": {
+    "title": "უცხოური ვალუტა",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "ახალი FX ინვოისი / კანონპროექტი",
+    "kpi": {
+      "netExposure": "წმინდა FX ექსპოზიცია",
+      "openDocs": "{{count}} ღია დოკუმენტი",
+      "unrealized": "არარეალიზებული მოგება/ზარალი",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "წელს განხორციელდა",
+      "lastReval": "ბოლო გადაფასება",
+      "never": "არასოდეს",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "გახსენით ელემენტები",
+      "settled": "დასახლდა",
+      "revaluation": "თვის ბოლოს გადაფასება",
+      "journal": "FX ჟურნალი"
+    },
+    "col": {
+      "document": "დოკუმენტი",
+      "type": "ტიპი",
+      "openForeign": "ღია (უცხო)",
+      "bookedNow": "დაჯავშნილი / ახლა",
+      "valueIn": "მნიშვნელობა {{base}}-ში",
+      "unrealized": "არარეალიზებული",
+      "status": "სტატუსი",
+      "amount": "თანხა",
+      "bookedRate": "დაჯავშნილი ტარიფი",
+      "realized": "მიხვდა"
+    },
+    "receivable": "მისაღები",
+    "payable": "გადასახდელი",
+    "receive": "მიღება",
+    "pay": "გადაიხადე",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "დასახლდა",
+      "partial": "ნაწილობრივ დასახლებული",
+      "open": "გახსენით"
+    },
+    "demoNote": "დემო მონაცემები ჩაშენებული იმიტირებული API-დან — ტარიფები სიმულირებულია და არა პირდაპირი ბაზრის მონაცემები."
+  }
+}

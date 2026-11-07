@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Tagesgeschäft",
+      "finance": "Finanzen",
+      "advanced": "Erweitert"
+    },
+    "mainMenu": "Hauptmenü",
+    "short": {
+      "parties": "Partner"
+    },
+    "sections": {
+      "dashboard": "Übersicht",
+      "sales": "Verkauf",
+      "receivables": "Zahlungseingänge",
+      "procurement": "Einkauf",
+      "payables": "Zahlungsausgänge",
+      "cashbank": "Kasse & Bank",
+      "expenses": "Ausgaben",
+      "tax": "Steuern",
+      "reports": "Berichte",
+      "advanced-features": "Erweiterte Funktionen",
+      "parties": "Kunden & Lieferanten",
+      "inventory": "Artikel",
+      "assets": "Anlagevermögen",
+      "masters": "Einrichtung",
+      "business-tools": "Team & Tools",
+      "party-tools": "Partner-Tools",
+      "item-tools": "Artikel-Tools",
+      "storage": "Dokumente",
+      "alerts": "Hinweise",
+      "migration": "Datenmigration"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Überblick",
+        "cash-flow": "Cashflow",
+        "tax-calendar": "Steuerkalender"
+      },
+      "sales": {
+        "quotations": "Angebote",
+        "proforma-invoices": "Proforma",
+        "sales-invoices": "Rechnung",
+        "delivery-challans": "Lieferschein",
+        "receipts": "Quittung",
+        "invoice-desk": "Rechnungsschalter"
+      },
+      "receivables": {
+        "money-in-center": "Eingangszentrale",
+        "receivables": "Forderungen",
+        "payments-received": "Zahlungseingänge",
+        "overdue-collections": "Mahnwesen",
+        "credit-notes": "Gutschriften & Erstattungen",
+        "sales-returns": "Retouren",
+        "customer-statements": "Kontoauszüge Kunden",
+        "payment-links": "Zahlungslinks"
+      },
+      "procurement": {
+        "purchase-center": "Einkaufszentrale",
+        "purchase-orders": "Bestellungen",
+        "goods-receipt": "Wareneingang",
+        "purchase-invoices": "Eingangsrechnungen",
+        "payment-out": "Geleistete Zahlungen",
+        "returns-debit-notes": "Rücksendungen & Belastungen",
+        "bill-approvals": "Gesetzentwurfsgenehmigungen"
+      },
+      "payables": {
+        "bills": "Zahlungszentrale",
+        "payments": "Lieferantenzahlungen",
+        "workforce": "Personal",
+        "adjustments": "Korrekturen",
+        "bank-release": "Bankfreigabe"
+      },
+      "cashbank": {
+        "bank-accounts": "Meine Konten",
+        "reconciliation": "Kontenabgleich",
+        "cash-petty": "Handkasse",
+        "contra": "Umbuchungen",
+        "cheque-register": "Schecks",
+        "foreign-currency": "Fremdwährung",
+        "bank-feeds": "Bank-Feeds",
+        "bank-rules": "Regeln und Versöhnung"
+      },
+      "expenses": {
+        "expense-center": "Alle Ausgaben",
+        "categories": "Ausgabearten",
+        "automated-bills": "Wiederkehrende Ausgaben",
+        "journal-vouchers": "Manuelle Buchungen",
+        "provisions": "Rückstellungen",
+        "write-offs": "Abschreibungen auf Forderungen",
+        "period-close": "Monatsabschluss"
+      },
+      "tax": {
+        "gst-returns": "GST-Meldungen",
+        "gst-filing-wizard": "⚡ GSTR-3B einreichen",
+        "gst-reconciliation": "GST-Abgleich",
+        "e-invoicing": "E-Rechnungen",
+        "e-way-bills": "E-Way-Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Steuer zahlen",
+        "quarterly-compliance": "Fristenkalender",
+        "ca-access": "Temporärer Beraterzugang",
+        "gst-from-books": "GST aus Büchern"
+      },
+      "reports": {
+        "financial-statements": "Finanzberichte",
+        "books": "Journale",
+        "gst-reports": "GST-Berichte",
+        "ar-ap": "Forderungen vs. Verbindlichkeiten",
+        "profitability": "Rentabilität",
+        "period-comparatives": "Jahresvergleich",
+        "budget-vs-actuals": "Budgetkontrolle",
+        "cashflow-projection": "Liquiditätsprognose",
+        "report-builder": "Eigene Berichte",
+        "general-ledger": "Hauptbuch",
+        "live-financials": "Live-Finanzdaten",
+        "ai-analyst": "KI-Analyst"
+      },
+      "advanced-features": {
+        "overview": "Überblick"
+      },
+      "parties": {
+        "all-parties": "Alle Partner",
+        "customer-ledgers": "Kunden",
+        "supplier-ledgers": "Lieferanten",
+        "shared-ledger": "Gemeinsames Konto",
+        "statements": "Kontoauszüge",
+        "reminders": "Erinnerungen",
+        "documents": "Parteidokumente",
+        "portal": "Partyportal",
+        "import": "Party-Import",
+        "duplicate-merge": "Doppelte Zusammenführung",
+        "gap-analysis": "Lückenanalyse"
+      },
+      "inventory": {
+        "inventory-items": "Artikel",
+        "godowns": "Lager",
+        "stock-movement": "Lagerbewegungen",
+        "item-pricing": "Preise",
+        "stock-valuation": "Aktienbewertung",
+        "reorder-alerts": "Benachrichtigungen neu anordnen",
+        "batch-serials": "Chargen- und Serienfertigung",
+        "barcode-labels": "Barcode-Etiketten",
+        "item-import": "Artikelimport",
+        "gap-analysis": "Lückenanalyse"
+      },
+      "assets": {
+        "asset-register": "Anlagenverzeichnis",
+        "depreciation": "Abschreibung",
+        "disposal-revaluation": "Verkauf oder Neubewertung"
+      },
+      "masters": {
+        "chart-of-accounts": "Kontenplan",
+        "tax-masters": "Steuersätze",
+        "cost-centers": "Kostenstellen",
+        "voucher-types": "Belegarten",
+        "opening-balances": "Eröffnungssalden",
+        "currencies": "Währungen"
+      },
+      "business-tools": {
+        "staff-payroll": "Lohnabrechnung",
+        "manage-users": "Benutzerzugriff",
+        "online-orders": "Online-Bestellungen",
+        "sms-marketing": "SMS-Marketing",
+        "accountant-hub": "Buchhalter und Support"
+      },
+      "party-tools": {
+        "documents": "Partnerdokumente",
+        "portal": "Partnerportal",
+        "import": "Partnerimport",
+        "duplicate-merge": "Dubletten zusammenführen",
+        "gap-analysis": "Lückenanalyse"
+      },
+      "item-tools": {
+        "reorder-alerts": "Nachbestellhinweise",
+        "batch-serials": "Chargen & Seriennummern",
+        "barcode-labels": "Barcode-Etiketten",
+        "item-import": "Artikelimport",
+        "gap-analysis": "Lückenanalyse"
+      },
+      "storage": {
+        "client-storage": "Mandantendateien",
+        "unifiedtree-storage": "Cloud-Speicher"
+      },
+      "alerts": {
+        "accountant-alerts": "Buchhaltungshinweise",
+        "compliance-alerts": "Compliance-Hinweise",
+        "cash-risk-alerts": "Liquiditäts- & Risikohinweise",
+        "ca-access": "Temporärer Beraterzugang"
+      },
+      "migration": {
+        "import": "Daten importieren",
+        "export": "Daten exportieren",
+        "history": "Importverlauf",
+        "tally-import": "Import von Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Käufe und Zahlungen",
+      "accountingSetup": "Buchhaltungseinrichtung",
+      "dataDocuments": "Daten & Dokumente"
+    }
+  },
+  "common": {
+    "save": "Änderungen speichern",
+    "cancel": "Abbrechen",
+    "create": "Erstellen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "search": "Suchen",
+    "connect": "Verbinden",
+    "configure": "Konfigurieren",
+    "disconnect": "Trennen",
+    "sync": "Jetzt synchronisieren",
+    "close": "Schließen",
+    "reset": "Auf Standard zurücksetzen",
+    "back": "Zurück",
+    "continue": "Weiter",
+    "all": "Alle",
+    "retry": "Erneut versuchen",
+    "loading": "Wird geladen…",
+    "resetDemo": "Demodaten zurücksetzen"
+  },
+  "shell": {
+    "searchPlaceholder": "Alles durchsuchen…",
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "role": "Rolle",
+    "greeting": {
+      "morning": "Guten Morgen",
+      "afternoon": "Guten Tag",
+      "evening": "Guten Abend"
+    },
+    "settingsItems": {
+      "company-profile": "Unternehmensprofil",
+      "configuration": "Konfiguration",
+      "fiscal-periods": "Geschäftsperioden",
+      "roles": "Rollen & Benutzer",
+      "integrations": "Integrationen",
+      "notifications": "Benachrichtigungen",
+      "audit-logs": "Prüfung & Protokolle",
+      "audit-trail": "Manipulationssicherer Prüfpfad",
+      "developer": "Entwickler & API"
+    },
+    "translatedLanguages": "Übersetzt",
+    "untranslatedLanguages": "Englisch, bis übersetzt"
+  },
+  "status": {
+    "filed": "Übermittelt",
+    "ready": "Bereit zur Abgabe",
+    "open": "Zeitraum offen",
+    "paid": "Bezahlt",
+    "pending": "Ausstehend",
+    "accepted": "Angenommen",
+    "delivered": "Zugestellt",
+    "rejected": "Abgelehnt",
+    "pdf-sent": "PDF gesendet",
+    "not-sent": "Nicht gesendet",
+    "matched": "Abgeglichen",
+    "mismatch": "Abweichung",
+    "missing-supplier": "Vom Lieferanten nicht gemeldet",
+    "missing-books": "Fehlt in der Buchhaltung",
+    "deferred": "Verschoben",
+    "deducted": "Einbehalten",
+    "remitted": "Abgeführt",
+    "certified": "Bescheinigt",
+    "to-report": "Zu melden",
+    "reported": "Gemeldet",
+    "accounted": "Gebucht",
+    "overdue": "Überfällig"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Bereit zur Abgabe",
+      "liabilityDue": "Fällige Steuer",
+      "paidThisYear": "In diesem Jahr gezahlt",
+      "nextDeadline": "Nächste Frist",
+      "noneOverdue": "Nichts überfällig",
+      "overdue": "{{count}} überfällig"
+    },
+    "filter": {
+      "ready": "Bereit zur Abgabe",
+      "open": "Offen",
+      "filed": "Übermittelt"
+    },
+    "col": {
+      "period": "Zeitraum",
+      "authority": "Behörde",
+      "rate": "Satz",
+      "due": "Fällig",
+      "netPayable": "Zahllast",
+      "status": "Status",
+      "ack": "Übermittlungsnachweis"
+    },
+    "file": "Abgeben",
+    "view": "Ansehen",
+    "fileForm": "{{form}} abgeben",
+    "loadingJurisdiction": "Steuerregime wird geladen…",
+    "nothingToFile": "Keine Meldungen offen — alle abgeschlossenen Zeiträume sind übermittelt.",
+    "fileNext": "Als Nächstes abgeben: {{name}}",
+    "steps": {
+      "review": "Prüfen",
+      "validate": "Validieren",
+      "declare": "Erklären & übermitteln",
+      "ack": "Nachweis"
+    },
+    "runValidation": "Validierung starten",
+    "validating": "Wird validiert…",
+    "submit": "{{form}} übermitteln",
+    "submitting": "Wird übermittelt…",
+    "declaration": "Ich versichere, dass die Angaben in dieser Meldung richtig und vollständig sind und dass ich berechtigt bin, sie an {{authority}} zu übermitteln.",
+    "netAmount": "Nettobetrag",
+    "submitted": "Übermittelt",
+    "filedOn": "Übermittelt am",
+    "regime": {
+      "authority": "Behörde",
+      "channel": "Übermittlungsweg",
+      "return": "Meldung",
+      "due": "Fälligkeit",
+      "standardRate": "Regelsteuersatz",
+      "threshold": "Registrierungsschwelle"
+    },
+    "demoNote": "Demodaten aus der simulierten Steuer-API — Meldungen und Zahlungen sind simuliert, es wird nichts an eine Behörde gesendet."
+  },
+  "fx": {
+    "title": "Fremdwährung",
+    "subtitle": "Basiswährung {{base}} · indikative simulierte Kurse",
+    "newDoc": "Neue Fremdwährungsrechnung",
+    "kpi": {
+      "netExposure": "Netto-Währungsrisiko",
+      "openDocs": "{{count}} offene Belege",
+      "unrealized": "Unrealisierter Gewinn / Verlust",
+      "postedSplit": "{{posted}} gebucht · {{unposted}} noch nicht",
+      "realized": "Realisiert in diesem Jahr",
+      "lastReval": "Letzte Bewertung",
+      "never": "Nie",
+      "suggested": "Vorschlag: {{date}}"
+    },
+    "view": {
+      "open": "Offene Posten",
+      "settled": "Ausgeglichen",
+      "revaluation": "Stichtagsbewertung",
+      "journal": "Kursdifferenzen-Journal"
+    },
+    "col": {
+      "document": "Beleg",
+      "type": "Art",
+      "openForeign": "Offen (Fremdwährung)",
+      "bookedNow": "Buchungs- / aktueller Kurs",
+      "valueIn": "Wert in {{base}}",
+      "unrealized": "Unrealisiert",
+      "status": "Status",
+      "amount": "Betrag",
+      "bookedRate": "Buchungskurs",
+      "realized": "Realisiert"
+    },
+    "receivable": "Forderung",
+    "payable": "Verbindlichkeit",
+    "receive": "Vereinnahmen",
+    "pay": "Bezahlen",
+    "netIn": "Netto in {{base}}",
+    "state": {
+      "settled": "Ausgeglichen",
+      "partial": "Teilweise ausgeglichen",
+      "open": "Offen"
+    },
+    "demoNote": "Demodaten aus der simulierten API — Kurse sind simuliert, keine Live-Marktdaten."
+  }
+}

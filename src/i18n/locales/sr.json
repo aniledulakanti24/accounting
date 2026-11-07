@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Из дана у дан",
+      "finance": "финансије",
+      "advanced": "Напредно"
+    },
+    "mainMenu": "Главни мени",
+    "short": {
+      "parties": "Партије"
+    },
+    "sections": {
+      "dashboard": "Дасхбоард",
+      "sales": "Продаја",
+      "receivables": "Монеи Ин",
+      "procurement": "Куповине",
+      "payables": "Монеи Оут",
+      "cashbank": "Цасх & Банк",
+      "expenses": "Трошкови",
+      "tax": "Порез",
+      "reports": "Извештаји",
+      "advanced-features": "Напредне функције",
+      "parties": "Купци и добављачи",
+      "inventory": "Предмети",
+      "assets": "Основна средства",
+      "masters": "Подешавање и конфигурација",
+      "business-tools": "Тим и алати",
+      "party-tools": "Парти Тоолс",
+      "item-tools": "Итем Тоолс",
+      "storage": "Документи",
+      "alerts": "Алертс",
+      "migration": "Дата Мигратион"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Преглед",
+        "cash-flow": "Цасх Флов",
+        "tax-calendar": "Порески календар"
+      },
+      "sales": {
+        "quotations": "Цитати",
+        "proforma-invoices": "ПИ",
+        "sales-invoices": "фактура",
+        "delivery-challans": "Достава Цхаллан",
+        "receipts": "Признаница",
+        "invoice-desk": "Инвоице Деск"
+      },
+      "receivables": {
+        "money-in-center": "Новац у центру",
+        "receivables": "Потраживања",
+        "payments-received": "Уплате примљене",
+        "overdue-collections": "Колекције и подсетници",
+        "credit-notes": "Кредитне белешке и рефундације",
+        "sales-returns": "Салес Ретурнс",
+        "customer-statements": "Изјаве купаца",
+        "payment-links": "Паимент Линкс"
+      },
+      "procurement": {
+        "purchase-center": "Центар за куповину",
+        "purchase-orders": "Наруџбенице",
+        "goods-receipt": "Пријем робе",
+        "purchase-invoices": "Куповина фактура",
+        "payment-out": "Извршена плаћања",
+        "returns-debit-notes": "Поврат и задуживање",
+        "bill-approvals": "Одобрења закона"
+      },
+      "payables": {
+        "bills": "Паи Центер",
+        "payments": "Супплиер Паиментс",
+        "workforce": "Радна снага",
+        "adjustments": "Подешавања",
+        "bank-release": "Банковно издање"
+      },
+      "cashbank": {
+        "bank-accounts": "Моји налози",
+        "reconciliation": "Матцх Трансацтионс",
+        "cash-petty": "Ситни новац",
+        "contra": "Између налога",
+        "cheque-register": "Чекови",
+        "foreign-currency": "стране валуте",
+        "bank-feeds": "Банка Феедс",
+        "bank-rules": "Правила и помирење"
+      },
+      "expenses": {
+        "expense-center": "Сви трошкови",
+        "categories": "Врсте трошкова",
+        "automated-bills": "Понављајући трошкови",
+        "journal-vouchers": "Мануал Ентриес",
+        "provisions": "Обрачунавање",
+        "write-offs": "Отписи",
+        "period-close": "Крај месеца"
+      },
+      "tax": {
+        "gst-returns": "ГСТ Филинг",
+        "gst-filing-wizard": "⚡ Фајл ГСТР-3Б",
+        "gst-reconciliation": "ГСТ подударање",
+        "e-invoicing": "Е-рачуни",
+        "e-way-bills": "Е-путни рачуни",
+        "tds": "ТДС",
+        "tcs": "ТЦС",
+        "tax-payments": "Плати порез",
+        "quarterly-compliance": "Календар усклађености",
+        "ca-access": "ЦА привремени приступ",
+        "gst-from-books": "ГСТ од Боокс"
+      },
+      "reports": {
+        "financial-statements": "Финансијски извештаји",
+        "books": "Трансацтион Боокс",
+        "gst-reports": "ГСТ извештаји",
+        "ar-ap": "Потраживања наспрам обавеза",
+        "profitability": "Профитабилност",
+        "period-comparatives": "Поређење година",
+        "budget-vs-actuals": "Будгет Трацкер",
+        "cashflow-projection": "Цасх Форецаст",
+        "report-builder": "Прилагођени извештаји",
+        "general-ledger": "Главна књига",
+        "live-financials": "Ливе Финанциалс",
+        "ai-analyst": "АИ Аналист"
+      },
+      "advanced-features": {
+        "overview": "Преглед"
+      },
+      "parties": {
+        "all-parties": "Све стране",
+        "customer-ledgers": "Купци",
+        "supplier-ledgers": "Добављачи",
+        "shared-ledger": "Схаред Ледгер",
+        "statements": "Изјаве",
+        "reminders": "Подсетници",
+        "documents": "Партијски документи",
+        "portal": "Парти Портал",
+        "import": "Парти Импорт",
+        "duplicate-merge": "Дуплицирано спајање",
+        "gap-analysis": "Гап Аналисис"
+      },
+      "inventory": {
+        "inventory-items": "Предмети",
+        "godowns": "Складишта",
+        "stock-movement": "Стоцк Мовемент",
+        "item-pricing": "Прицинг",
+        "stock-valuation": "Вредновање акција",
+        "reorder-alerts": "Реордер Алертс",
+        "batch-serials": "Батцх & Сериал",
+        "barcode-labels": "Барцоде Лабелс",
+        "item-import": "Увоз предмета",
+        "gap-analysis": "Гап Аналисис"
+      },
+      "assets": {
+        "asset-register": "Ассет Лист",
+        "depreciation": "Амортизација",
+        "disposal-revaluation": "Продај или превредновати"
+      },
+      "masters": {
+        "chart-of-accounts": "Листа налога",
+        "tax-masters": "Пореске стопе",
+        "cost-centers": "Цост Центерс",
+        "voucher-types": "Врсте трансакција",
+        "opening-balances": "Почетни биланси",
+        "currencies": "Валуте"
+      },
+      "business-tools": {
+        "staff-payroll": "Платни списак",
+        "manage-users": "Усер Аццесс",
+        "online-orders": "Онлине Ордерс",
+        "sms-marketing": "СМС Маркетинг",
+        "accountant-hub": "Рачуновође и подршка"
+      },
+      "party-tools": {
+        "documents": "Партијски документи",
+        "portal": "Парти Портал",
+        "import": "Парти Импорт",
+        "duplicate-merge": "Дуплицирано спајање",
+        "gap-analysis": "Гап Аналисис"
+      },
+      "item-tools": {
+        "reorder-alerts": "Реордер Алертс",
+        "batch-serials": "Батцх & Сериал",
+        "barcode-labels": "Барцоде Лабелс",
+        "item-import": "Увоз предмета",
+        "gap-analysis": "Гап Аналисис"
+      },
+      "storage": {
+        "client-storage": "Цлиент Филес",
+        "unifiedtree-storage": "Цлоуд Стораге"
+      },
+      "alerts": {
+        "accountant-alerts": "Аццоунтант Алертс",
+        "compliance-alerts": "Упозорења о усклађености",
+        "cash-risk-alerts": "Упозорења о готовини и ризику",
+        "ca-access": "ЦА привремени приступ"
+      },
+      "migration": {
+        "import": "Увоз података",
+        "export": "Извези податке",
+        "history": "Историја увоза",
+        "tally-import": "Увоз из Талли & Зохо"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Куповине и плаћања",
+      "accountingSetup": "Подешавање рачуноводства",
+      "dataDocuments": "Подаци и документи"
+    }
+  },
+  "common": {
+    "save": "Сачувај промене",
+    "cancel": "Откажи",
+    "create": "Креирај",
+    "edit": "Уреди",
+    "delete": "Избриши",
+    "search": "Тражи",
+    "connect": "Повежите се",
+    "configure": "Конфигуришите",
+    "disconnect": "Прекини везу",
+    "sync": "Синц Нов",
+    "close": "Затвори",
+    "reset": "Ресетујте на подразумеване вредности",
+    "back": "Назад",
+    "continue": "Настави",
+    "all": "Све",
+    "retry": "Покушајте поново",
+    "loading": "Учитавање…",
+    "resetDemo": "Ресетујте демо податке"
+  },
+  "shell": {
+    "searchPlaceholder": "Претражите било шта…",
+    "settings": "Подешавања",
+    "language": "Језик",
+    "role": "Улога",
+    "greeting": {
+      "morning": "Добро јутро",
+      "afternoon": "Добар дан",
+      "evening": "Добро вече"
+    },
+    "settingsItems": {
+      "company-profile": "Профил компаније",
+      "configuration": "Конфигурација",
+      "fiscal-periods": "Фискални периоди",
+      "roles": "Улоге и корисници",
+      "integrations": "Интегратионс",
+      "notifications": "Обавештења",
+      "audit-logs": "Ревизија и евиденција",
+      "audit-trail": "Ревизијски траг отпоран на неовлашћено коришћење",
+      "developer": "Програмер и АПИ"
+    },
+    "translatedLanguages": "Преведено",
+    "untranslatedLanguages": "енглески до превода"
+  },
+  "status": {
+    "filed": "Филед",
+    "ready": "Спреман за архивирање",
+    "open": "Период отворен",
+    "paid": "Плаћено",
+    "pending": "На чекању",
+    "accepted": "Прихваћено",
+    "delivered": "Испоручено",
+    "rejected": "Одбијено",
+    "pdf-sent": "ПДФ је послат",
+    "not-sent": "Није послато",
+    "matched": "Усклађено",
+    "mismatch": "Неподударање",
+    "missing-supplier": "Није пријавио добављач",
+    "missing-books": "Недостаје у књигама",
+    "deferred": "Одложено",
+    "deducted": "Одузето",
+    "remitted": "Ремиттед",
+    "certified": "Цертифиед",
+    "to-report": "Да пријавим",
+    "reported": "Пријављено",
+    "accounted": "Аццоунтед",
+    "overdue": "Закаснио"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Спреман за архивирање",
+      "liabilityDue": "Доспела обавеза",
+      "paidThisYear": "Плаћено ове године",
+      "nextDeadline": "Следећи рок",
+      "noneOverdue": "Ниједан није каснио",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Спреман за архивирање",
+      "open": "Отвори",
+      "filed": "Филед"
+    },
+    "col": {
+      "period": "Период",
+      "authority": "Ауторитет",
+      "rate": "Рате",
+      "due": "Дуе",
+      "netPayable": "Нето плативо",
+      "status": "Статус",
+      "ack": "Признање"
+    },
+    "file": "Филе",
+    "view": "Виев",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Учитавање надлежности…",
+    "nothingToFile": "Ниједна пријава не чека на подношење — сви затворени периоди су предати.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Преглед",
+      "validate": "Потврди",
+      "declare": "Изјавите и поднесите",
+      "ack": "Признање"
+    },
+    "runValidation": "Покрени валидацију",
+    "validating": "Потврђује се…",
+    "submit": "Submit {{form}}",
+    "submitting": "Слање…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Нето износ",
+    "submitted": "Субмиттед",
+    "filedOn": "Поднето на",
+    "regime": {
+      "authority": "Ауторитет",
+      "channel": "Подношење канала",
+      "return": "Повратак",
+      "due": "Дуе",
+      "standardRate": "Стандардна стопа",
+      "threshold": "Праг регистрације"
+    },
+    "demoNote": "Демо подаци из уграђеног лажног пореског АПИ-ја — пријаве и плаћања се симулирају и ништа се не шаље пореској управи."
+  },
+  "fx": {
+    "title": "стране валуте",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Нова ФКС фактура / рачун",
+    "kpi": {
+      "netExposure": "Нето ФКС изложеност",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Нереализовани добитак/губитак",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Реализовано ове године",
+      "lastReval": "Последња ревалоризација",
+      "never": "Никада",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Отворите ставке",
+      "settled": "Решено",
+      "revaluation": "Ревалоризација на крају месеца",
+      "journal": "ФКС часопис"
+    },
+    "col": {
+      "document": "Документ",
+      "type": "Тип",
+      "openForeign": "Отворено (страно)",
+      "bookedNow": "Резервисано / сада",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Нереализовано",
+      "status": "Статус",
+      "amount": "Износ",
+      "bookedRate": "Резервисана стопа",
+      "realized": "Реализед"
+    },
+    "receivable": "Потраживање",
+    "payable": "Плаћа се",
+    "receive": "Примите",
+    "pay": "Плати",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Решено",
+      "partial": "Делимично решено",
+      "open": "Отвори"
+    },
+    "demoNote": "Демо подаци из уграђеног лажног АПИ-ја — стопе су симулиране, а не живи тржишни подаци."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Mokolo na Mokolo",
+      "finance": "Mbongo",
+      "advanced": "Kokende liboso"
+    },
+    "mainMenu": "Menu ya monene",
+    "short": {
+      "parties": "Ba parties"
+    },
+    "sections": {
+      "dashboard": "Tableau de bord",
+      "sales": "Boteki",
+      "receivables": "Mbongo Na",
+      "procurement": "Kosomba biloko",
+      "payables": "Mbongo Ebimi",
+      "cashbank": "Cash & Banque ya mbongo",
+      "expenses": "Depanse",
+      "tax": "Mpako ya mpako",
+      "reports": "Balapolo",
+      "advanced-features": "Makambo ya liboso",
+      "parties": "Ba Clients & Ba Fournisseurs",
+      "inventory": "Biloko",
+      "assets": "Biloko oyo ekoki kobongwana",
+      "masters": "Configuration & Configuration ya kosala",
+      "business-tools": "Ekipi & Bisaleli",
+      "party-tools": "Bisaleli ya Fɛti",
+      "item-tools": "Bisaleli ya Biloko",
+      "storage": "Mikanda",
+      "alerts": "Ba alertes",
+      "migration": "Migration ya ba données"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Botali ya mozindo",
+        "cash-flow": "Flux ya mbongo",
+        "tax-calendar": "Calendrier ya mpako"
+      },
+      "sales": {
+        "quotations": "Ba citations oyo elobami",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Faktire",
+        "delivery-challans": "Challan ya livraison",
+        "receipts": "Reçu",
+        "invoice-desk": "Bureau ya facture"
+      },
+      "receivables": {
+        "money-in-center": "Mbongo Na Centre",
+        "receivables": "Ba créances oyo esengeli",
+        "payments-received": "Bafutami oyo ezwami",
+        "overdue-collections": "Ba Collections & Ba rappels",
+        "credit-notes": "Notes ya Crédit & Ba Restitutions",
+        "sales-returns": "Ba Retours ya Vente",
+        "customer-statements": "Maloba ya bakiliya",
+        "payment-links": "Ba Liens ya kofuta"
+      },
+      "procurement": {
+        "purchase-center": "Centre ya kosomba biloko",
+        "purchase-orders": "Ba Commandes ya kosomba",
+        "goods-receipt": "Boyambi ya Biloko",
+        "purchase-invoices": "Ba Factures ya Kosomba",
+        "payment-out": "Bafutami oyo esalemi",
+        "returns-debit-notes": "Ba Retours & Notes ya Débit",
+        "bill-approvals": "Bondimi ya Mobeko ya Mobeko"
+      },
+      "payables": {
+        "bills": "Centre ya kofuta",
+        "payments": "Bafutami ya ba fournisseurs",
+        "workforce": "Bato ya mosala",
+        "adjustments": "Mbongwana oyo esalemi",
+        "bank-release": "Libération ya Banque"
+      },
+      "cashbank": {
+        "bank-accounts": "Ba Comptes na Ngai",
+        "reconciliation": "Ba Transactions ya Match",
+        "cash-petty": "Petite Cash ya mbongo",
+        "contra": "Kati na Ba Comptes",
+        "cheque-register": "Ba chèques",
+        "foreign-currency": "Mbongo ya bapaya",
+        "bank-feeds": "Ba Feeds ya Banque",
+        "bank-rules": "Mibeko & Boyokani"
+      },
+      "expenses": {
+        "expense-center": "Ba Dépenses Nionso",
+        "categories": "Mitindo ya ba dépenses",
+        "automated-bills": "Ba dépenses oyo ezongaka mbala na mbala",
+        "journal-vouchers": "Ba Entrées ya Manuel",
+        "provisions": "Ba accrues ya mbongo",
+        "write-offs": "Ba-écriture-offs",
+        "period-close": "Sanza-Nsuka"
+      },
+      "tax": {
+        "gst-returns": "Dépôt ya GST",
+        "gst-filing-wizard": "⚡ Fisyé GSTR-3B",
+        "gst-reconciliation": "Kokokana na GST",
+        "e-invoicing": "Ba Factures ya E-Facture",
+        "e-way-bills": "Ba Factures ya E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Futa Mpako",
+        "quarterly-compliance": "Manáka ya kotosa mibeko",
+        "ca-access": "CA Bozwi ya ntango mokuse",
+        "gst-from-books": "GST uta na Mikanda"
+      },
+      "reports": {
+        "financial-statements": "Ba rapports ya misolo",
+        "books": "Mikanda ya Transaction",
+        "gst-reports": "Ba rapports ya GST",
+        "ar-ap": "Ba créances vs Ba créances",
+        "profitability": "Kozwa litomba",
+        "period-comparatives": "Kokokanisa mbula",
+        "budget-vs-actuals": "Molandi ya budget",
+        "cashflow-projection": "Pronostic ya mbongo",
+        "report-builder": "Ba rapports ya personnalisé",
+        "general-ledger": "Buku monene ya monene",
+        "live-financials": "Ba Financiers en direct",
+        "ai-analyst": "Analyste ya AI"
+      },
+      "advanced-features": {
+        "overview": "Botali ya mozindo"
+      },
+      "parties": {
+        "all-parties": "Ba Parties nionso",
+        "customer-ledgers": "Bakiliya",
+        "supplier-ledgers": "Ba fournisseurs",
+        "shared-ledger": "Buku monene oyo bakabolaka",
+        "statements": "Maloba oyo elobami",
+        "reminders": "Makundoli",
+        "documents": "Mikanda ya Parti",
+        "portal": "Portal ya Parti",
+        "import": "Importation ya Parti",
+        "duplicate-merge": "Kosangisa ya kosala ba doublons",
+        "gap-analysis": "Analyse ya ba espaces"
+      },
+      "inventory": {
+        "inventory-items": "Biloko",
+        "godowns": "Ba entrepôts",
+        "stock-movement": "Mouvement ya Stock",
+        "item-pricing": "Kopesa ntalo ya biloko",
+        "stock-valuation": "Botali motuya ya ba stocks",
+        "reorder-alerts": "Ba Alertes ya Reorder",
+        "batch-serials": "Batch & Série ya",
+        "barcode-labels": "Ba étiquettes ya code barre",
+        "item-import": "Importation ya Biloko",
+        "gap-analysis": "Analyse ya ba espaces"
+      },
+      "assets": {
+        "asset-register": "Liste ya biloko",
+        "depreciation": "Kokita ya motuya ya biloko",
+        "disposal-revaluation": "Koteka to Kozongisa motuya"
+      },
+      "masters": {
+        "chart-of-accounts": "Liste ya ba comptes",
+        "tax-masters": "Ba Taux ya Impôts",
+        "cost-centers": "Ba Centres ya Coût",
+        "voucher-types": "Mitindo ya Transaction",
+        "opening-balances": "Ba Soldes ya Kobanda",
+        "currencies": "Ba mbongo ya bibende"
+      },
+      "business-tools": {
+        "staff-payroll": "Molongo ya lifuti",
+        "manage-users": "Accès ya Mosaleli",
+        "online-orders": "Ba Commandes en ligne",
+        "sms-marketing": "Marketing ya SMS",
+        "accountant-hub": "Ba Comptables & Soutien"
+      },
+      "party-tools": {
+        "documents": "Mikanda ya Parti",
+        "portal": "Portal ya Parti",
+        "import": "Importation ya Parti",
+        "duplicate-merge": "Kosangisa ya kosala ba doublons",
+        "gap-analysis": "Analyse ya ba espaces"
+      },
+      "item-tools": {
+        "reorder-alerts": "Ba Alertes ya Reorder",
+        "batch-serials": "Batch & Série ya",
+        "barcode-labels": "Ba étiquettes ya code barre",
+        "item-import": "Importation ya Biloko",
+        "gap-analysis": "Analyse ya ba espaces"
+      },
+      "storage": {
+        "client-storage": "Ba Fichiers ya Client",
+        "unifiedtree-storage": "Bobombi ya Lipata"
+      },
+      "alerts": {
+        "accountant-alerts": "Ba Alertes ya Comptable",
+        "compliance-alerts": "Ba alertes ya kotosa mibeko",
+        "cash-risk-alerts": "Ba Alertes ya Cash & Risque",
+        "ca-access": "CA Bozwi ya ntango mokuse"
+      },
+      "migration": {
+        "import": "Kokɔtisa ba Données",
+        "export": "Exporter ba Données",
+        "history": "Histoire ya importation",
+        "tally-import": "Importation na Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Kosomba & Kofuta",
+      "accountingSetup": "Configuration ya comptabilité",
+      "dataDocuments": "Ba Données & Mikanda"
+    }
+  },
+  "common": {
+    "save": "Bomba Mbongwana",
+    "cancel": "Kolongola",
+    "create": "Kosala",
+    "edit": "Kokoma",
+    "delete": "Boma",
+    "search": "Koluka",
+    "connect": "Kosangana",
+    "configure": "Kobongisa makambo",
+    "disconnect": "Kokata boyokani",
+    "sync": "Sync Sikoyo",
+    "close": "Kokanga",
+    "reset": "Réinitialiser na ba Par défauts",
+    "back": "Mukongo",
+    "continue": "Kokoba",
+    "all": "Nyonso",
+    "retry": "Meká lisusu",
+    "loading": "Ezali ko charger...",
+    "resetDemo": "Réinitialiser ba données ya démonstration"
+  },
+  "shell": {
+    "searchPlaceholder": "Luka eloko nionso...",
+    "settings": "Ba paramètres",
+    "language": "Lokota",
+    "role": "Mokumba",
+    "greeting": {
+      "morning": "Mbote",
+      "afternoon": "Nsima ya nzanga malamu",
+      "evening": "Mpokwa malamu"
+    },
+    "settingsItems": {
+      "company-profile": "Profil ya Société",
+      "configuration": "Configuration ya kosala",
+      "fiscal-periods": "Ba Périodes ya Fiscal",
+      "roles": "Misala & Ba usagers",
+      "integrations": "Ba intégrations",
+      "notifications": "Mayebisi",
+      "audit-logs": "Audit & Ba Logs ya kosala",
+      "audit-trail": "Trail ya Audit oyo ekoki kozala na ba tampers",
+      "developer": "Mobongisi & API"
+    },
+    "translatedLanguages": "Ebongolami",
+    "untranslatedLanguages": "Lingala tii ekobongola"
+  },
+  "status": {
+    "filed": "Ekɔtisami na dossier",
+    "ready": "Prêt ya kosala dossier",
+    "open": "Période ya polele",
+    "paid": "Kofuta",
+    "pending": "Kozelisa",
+    "accepted": "Endimisami",
+    "delivered": "Kopesa",
+    "rejected": "Baboyaki yango",
+    "pdf-sent": "PDF etindami",
+    "not-sent": "Batindami te",
+    "matched": "Ekokani na yango",
+    "mismatch": "Kozanga boyokani",
+    "missing-supplier": "Epesami lapolo te na fournisseur",
+    "missing-books": "Kozanga na mikanda",
+    "deferred": "Ezongisami sima",
+    "deducted": "Elongolami na mbongo",
+    "remitted": "Batindi yango",
+    "certified": "Ezali na mokanda ya kondimama",
+    "to-report": "Mpo na kopesa lapolo",
+    "reported": "Bayebisaki yango",
+    "accounted": "Ba comptables",
+    "overdue": "Esili koleka ntango"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Prêt ya kosala dossier",
+      "liabilityDue": "Responsabilité oyo esengeli kofutama",
+      "paidThisYear": "Bafutaki na mbula oyo",
+      "nextDeadline": "Mokolo ya suka oyo ekolanda",
+      "noneOverdue": "Moko te esili koleka ntango",
+      "overdue": "{{count}} esili koleka"
+    },
+    "filter": {
+      "ready": "Prêt ya kosala dossier",
+      "open": "Kofungola",
+      "filed": "Ekɔtisami na dossier"
+    },
+    "col": {
+      "period": "Eleko",
+      "authority": "Mokonzi",
+      "rate": "Ntalo",
+      "due": "Delai",
+      "netPayable": "Net oyo esengeli kofutama",
+      "status": "Statut",
+      "ack": "Kopesa matɔndi"
+    },
+    "file": "Dosie",
+    "view": "Kotala",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Bozali ko charger jurisdiction...",
+    "nothingToFile": "Ba déclarations moko te ezali kozela kozala déposé — ba périodes nionso ya fermée etindami.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Kotalela",
+      "validate": "Ko valider",
+      "declare": "Kosakola & kotinda",
+      "ack": "Kopesa matɔndi"
+    },
+    "runValidation": "Tambwisa validation",
+    "validating": "Ko valider...",
+    "submit": "Submit {{form}}",
+    "submitting": "Kotinda...",
+    "declaration": "Nasakoli ete sango oyo ezali na bozongisi oyo ezali solo mpe ya mobimba, mpe ete nazali na ndingisa ya kotinda yango na {{authority}}.",
+    "netAmount": "Mosolo ya net",
+    "submitted": "Epesamaki",
+    "filedOn": "Ekɔtisami na dossier na",
+    "regime": {
+      "authority": "Mokonzi",
+      "channel": "Chaîne ya kosala ba dossiers",
+      "return": "Kozonga",
+      "due": "Delai",
+      "standardRate": "Taux standard",
+      "threshold": "Seuil ya inscription"
+    },
+    "demoNote": "Ba données ya démonstration oyo ewutaka na API ya impôt mock intégré — ba dépôts na ba paiements esalemaka simulé mpe eloko moko te etindamaka na autorité ya impôts."
+  },
+  "fx": {
+    "title": "Mbongo ya bapaya",
+    "subtitle": "Mosolo ya base {{base}} · ba taux ya marché ya mock indicatif",
+    "newDoc": "Facture / facture ya sika ya FX",
+    "kpi": {
+      "netExposure": "Exposition net ya FX",
+      "openDocs": "{{count}} fungola mikanda",
+      "unrealized": "Litomba / bobungisi oyo esalemi te",
+      "postedSplit": "{{posted}} posted · {{unposted}} naino te",
+      "realized": "Esalemi na mbula oyo",
+      "lastReval": "Revaluation ya suka",
+      "never": "Ata moke te",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Fungola biloko",
+      "settled": "Basili kofanda",
+      "revaluation": "Bozongisi motuya ya suka ya sanza",
+      "journal": "Journal ya FX"
+    },
+    "col": {
+      "document": "Mokanda",
+      "type": "Lolenge",
+      "openForeign": "Fungola (ya poto) .",
+      "bookedNow": "Réservé / sikoyo",
+      "valueIn": "Motuya na {{base}}",
+      "unrealized": "Esalemi te",
+      "status": "Statut",
+      "amount": "Motango",
+      "bookedRate": "Taux ya réservation",
+      "realized": "Koyeba"
+    },
+    "receivable": "Oyo esengeli kozwama",
+    "payable": "Esengeli kofutama",
+    "receive": "Kozwa",
+    "pay": "Kofuta",
+    "netIn": "Net na {{base}}",
+    "state": {
+      "settled": "Basili kofanda",
+      "partial": "Eteni moko oyo esili kofandisama",
+      "open": "Kofungola"
+    },
+    "demoNote": "Ba données ya démonstration oyo ewutaka na API ya mock intégré — ba taux ezali simulé, ba données ya marché en direct te."
+  }
+}

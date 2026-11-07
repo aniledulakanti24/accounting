@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Hàng ngày",
+      "finance": "Tài chính",
+      "advanced": "Trình độ cao"
+    },
+    "mainMenu": "Thực đơn chính",
+    "short": {
+      "parties": "các bữa tiệc"
+    },
+    "sections": {
+      "dashboard": "Trang tổng quan",
+      "sales": "Việc bán hàng",
+      "receivables": "Tiền vào",
+      "procurement": "Mua hàng",
+      "payables": "Tiền ra",
+      "cashbank": "Tiền mặt & Ngân hàng",
+      "expenses": "Chi phí",
+      "tax": "Thuế",
+      "reports": "Báo cáo",
+      "advanced-features": "Tính năng nâng cao",
+      "parties": "Khách hàng & Nhà cung cấp",
+      "inventory": "Mặt hàng",
+      "assets": "Tài sản cố định",
+      "masters": "Thiết lập & Cấu hình",
+      "business-tools": "Nhóm & Công cụ",
+      "party-tools": "Công cụ tiệc tùng",
+      "item-tools": "Mục Công cụ",
+      "storage": "Tài liệu",
+      "alerts": "Cảnh báo",
+      "migration": "Di chuyển dữ liệu"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Tổng quan",
+        "cash-flow": "Dòng tiền",
+        "tax-calendar": "Lịch thuế"
+      },
+      "sales": {
+        "quotations": "Báo giá",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Hóa đơn",
+        "delivery-challans": "Challan giao hàng",
+        "receipts": "Biên lai",
+        "invoice-desk": "Bàn hóa đơn"
+      },
+      "receivables": {
+        "money-in-center": "Tiền Ở Trung Tâm",
+        "receivables": "Các khoản phải thu",
+        "payments-received": "Thanh toán đã nhận",
+        "overdue-collections": "Bộ sưu tập & Lời nhắc",
+        "credit-notes": "Ghi chú Tín dụng & Hoàn tiền",
+        "sales-returns": "Hàng bán bị trả lại",
+        "customer-statements": "Báo cáo của khách hàng",
+        "payment-links": "Liên kết thanh toán"
+      },
+      "procurement": {
+        "purchase-center": "Trung tâm mua hàng",
+        "purchase-orders": "Đơn đặt hàng",
+        "goods-receipt": "Biên nhận hàng hóa",
+        "purchase-invoices": "Hóa đơn mua hàng",
+        "payment-out": "Thanh toán đã thực hiện",
+        "returns-debit-notes": "Trả lại & Ghi nợ",
+        "bill-approvals": "Phê duyệt hóa đơn"
+      },
+      "payables": {
+        "bills": "Trung tâm thanh toán",
+        "payments": "Thanh toán của nhà cung cấp",
+        "workforce": "Lực lượng lao động",
+        "adjustments": "Điều chỉnh",
+        "bank-release": "Phát hành ngân hàng"
+      },
+      "cashbank": {
+        "bank-accounts": "Tài khoản của tôi",
+        "reconciliation": "Giao dịch khớp",
+        "cash-petty": "Tiền mặt nhỏ",
+        "contra": "Giữa các tài khoản",
+        "cheque-register": "Séc",
+        "foreign-currency": "Ngoại tệ",
+        "bank-feeds": "Nguồn cấp dữ liệu ngân hàng",
+        "bank-rules": "Quy tắc & Hòa giải"
+      },
+      "expenses": {
+        "expense-center": "Tất cả các chi phí",
+        "categories": "Các loại chi phí",
+        "automated-bills": "Chi phí định kỳ",
+        "journal-vouchers": "Nhập thủ công",
+        "provisions": "Tích lũy",
+        "write-offs": "Xóa nợ",
+        "period-close": "Cuối tháng"
+      },
+      "tax": {
+        "gst-returns": "Nộp thuế GST",
+        "gst-filing-wizard": "⚡ Tệp GSTR-3B",
+        "gst-reconciliation": "So khớp GST",
+        "e-invoicing": "Hóa đơn điện tử",
+        "e-way-bills": "Hóa đơn điện tử",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Nộp thuế",
+        "quarterly-compliance": "Lịch tuân thủ",
+        "ca-access": "Truy cập tạm thời CA",
+        "gst-from-books": "GST từ sách"
+      },
+      "reports": {
+        "financial-statements": "Báo cáo tài chính",
+        "books": "Sổ giao dịch",
+        "gst-reports": "Báo cáo GST",
+        "ar-ap": "Các khoản phải thu và các khoản phải trả",
+        "profitability": "Khả năng sinh lời",
+        "period-comparatives": "So sánh năm",
+        "budget-vs-actuals": "Trình theo dõi ngân sách",
+        "cashflow-projection": "Dự báo tiền mặt",
+        "report-builder": "Báo cáo tùy chỉnh",
+        "general-ledger": "Sổ cái tổng hợp",
+        "live-financials": "Tài chính trực tiếp",
+        "ai-analyst": "Nhà phân tích AI"
+      },
+      "advanced-features": {
+        "overview": "Tổng quan"
+      },
+      "parties": {
+        "all-parties": "Tất cả các bên",
+        "customer-ledgers": "Khách hàng",
+        "supplier-ledgers": "nhà cung cấp",
+        "shared-ledger": "Sổ cái chung",
+        "statements": "Báo cáo",
+        "reminders": "Lời nhắc",
+        "documents": "Văn kiện Đảng",
+        "portal": "Cổng thông tin Đảng",
+        "import": "Đảng nhập khẩu",
+        "duplicate-merge": "Hợp nhất trùng lặp",
+        "gap-analysis": "Phân tích khoảng trống"
+      },
+      "inventory": {
+        "inventory-items": "Mặt hàng",
+        "godowns": "Kho hàng",
+        "stock-movement": "Phong trào chứng khoán",
+        "item-pricing": "Định giá",
+        "stock-valuation": "Định giá cổ phiếu",
+        "reorder-alerts": "Sắp xếp lại cảnh báo",
+        "batch-serials": "Lô & Sê-ri",
+        "barcode-labels": "Nhãn mã vạch",
+        "item-import": "Nhập khẩu mặt hàng",
+        "gap-analysis": "Phân tích khoảng trống"
+      },
+      "assets": {
+        "asset-register": "Danh sách tài sản",
+        "depreciation": "Khấu hao",
+        "disposal-revaluation": "Bán hoặc đánh giá lại"
+      },
+      "masters": {
+        "chart-of-accounts": "Danh sách tài khoản",
+        "tax-masters": "Thuế suất",
+        "cost-centers": "Trung tâm chi phí",
+        "voucher-types": "Loại giao dịch",
+        "opening-balances": "Số dư ban đầu",
+        "currencies": "Tiền tệ"
+      },
+      "business-tools": {
+        "staff-payroll": "Bảng lương",
+        "manage-users": "Quyền truy cập của người dùng",
+        "online-orders": "Đơn đặt hàng trực tuyến",
+        "sms-marketing": "Tiếp thị qua SMS",
+        "accountant-hub": "Kế toán & Hỗ trợ"
+      },
+      "party-tools": {
+        "documents": "Văn kiện Đảng",
+        "portal": "Cổng thông tin Đảng",
+        "import": "Đảng nhập khẩu",
+        "duplicate-merge": "Hợp nhất trùng lặp",
+        "gap-analysis": "Phân tích khoảng trống"
+      },
+      "item-tools": {
+        "reorder-alerts": "Sắp xếp lại cảnh báo",
+        "batch-serials": "Lô & Sê-ri",
+        "barcode-labels": "Nhãn mã vạch",
+        "item-import": "Nhập khẩu mặt hàng",
+        "gap-analysis": "Phân tích khoảng trống"
+      },
+      "storage": {
+        "client-storage": "Tệp khách hàng",
+        "unifiedtree-storage": "Lưu trữ đám mây"
+      },
+      "alerts": {
+        "accountant-alerts": "Cảnh báo kế toán",
+        "compliance-alerts": "Cảnh báo tuân thủ",
+        "cash-risk-alerts": "Cảnh báo tiền mặt và rủi ro",
+        "ca-access": "Truy cập tạm thời CA"
+      },
+      "migration": {
+        "import": "Nhập dữ liệu",
+        "export": "Xuất dữ liệu",
+        "history": "Lịch sử nhập khẩu",
+        "tally-import": "Nhập từ Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Mua hàng & thanh toán",
+      "accountingSetup": "Thiết lập kế toán",
+      "dataDocuments": "Dữ liệu & Tài liệu"
+    }
+  },
+  "common": {
+    "save": "Lưu thay đổi",
+    "cancel": "Hủy bỏ",
+    "create": "Tạo nên",
+    "edit": "Biên tập",
+    "delete": "Xóa bỏ",
+    "search": "Tìm kiếm",
+    "connect": "Kết nối",
+    "configure": "Cấu hình",
+    "disconnect": "Ngắt kết nối",
+    "sync": "Đồng bộ hóa ngay bây giờ",
+    "close": "Đóng",
+    "reset": "Đặt lại về mặc định",
+    "back": "Mặt sau",
+    "continue": "Tiếp tục",
+    "all": "Tất cả",
+    "retry": "Thử lại",
+    "loading": "Đang tải…",
+    "resetDemo": "Đặt lại dữ liệu demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Tìm kiếm bất cứ điều gì…",
+    "settings": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "role": "Vai trò",
+    "greeting": {
+      "morning": "Chào buổi sáng",
+      "afternoon": "Chào buổi chiều",
+      "evening": "Buổi tối vui vẻ"
+    },
+    "settingsItems": {
+      "company-profile": "Hồ sơ công ty",
+      "configuration": "Cấu hình",
+      "fiscal-periods": "Kỳ tài chính",
+      "roles": "Vai trò & Người dùng",
+      "integrations": "Tích hợp",
+      "notifications": "Thông báo",
+      "audit-logs": "Kiểm tra & Nhật ký",
+      "audit-trail": "Đường mòn kiểm tra chống giả mạo",
+      "developer": "Nhà phát triển & API"
+    },
+    "translatedLanguages": "Đã dịch",
+    "untranslatedLanguages": "Tiếng Anh cho đến khi được dịch"
+  },
+  "status": {
+    "filed": "Đã nộp",
+    "ready": "Sẵn sàng nộp hồ sơ",
+    "open": "Thời gian mở",
+    "paid": "Trả",
+    "pending": "Chưa giải quyết",
+    "accepted": "Đã chấp nhận",
+    "delivered": "Đã giao hàng",
+    "rejected": "Vật bị loại bỏ",
+    "pdf-sent": "Đã gửi bản PDF",
+    "not-sent": "Chưa gửi",
+    "matched": "Đã khớp",
+    "mismatch": "Không khớp",
+    "missing-supplier": "Nhà cung cấp không báo cáo",
+    "missing-books": "Thiếu trong sách",
+    "deferred": "Trì hoãn",
+    "deducted": "Đã khấu trừ",
+    "remitted": "Đã chuyển",
+    "certified": "được chứng nhận",
+    "to-report": "Để báo cáo",
+    "reported": "Đã báo cáo",
+    "accounted": "Đã hạch toán",
+    "overdue": "Quá hạn"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Sẵn sàng nộp hồ sơ",
+      "liabilityDue": "Trách nhiệm pháp lý đến hạn",
+      "paidThisYear": "Đã trả trong năm nay",
+      "nextDeadline": "Hạn chót tiếp theo",
+      "noneOverdue": "Không quá hạn",
+      "overdue": "{{count}} quá hạn"
+    },
+    "filter": {
+      "ready": "Sẵn sàng nộp hồ sơ",
+      "open": "Mở",
+      "filed": "Đã nộp"
+    },
+    "col": {
+      "period": "Giai đoạn",
+      "authority": "Thẩm quyền",
+      "rate": "Tỷ lệ",
+      "due": "Quá hạn",
+      "netPayable": "Phải trả ròng",
+      "status": "Trạng thái",
+      "ack": "Lời cảm ơn"
+    },
+    "file": "Tài liệu",
+    "view": "Xem",
+    "fileForm": "Tệp {{form}}",
+    "loadingJurisdiction": "Đang tải khu vực pháp lý…",
+    "nothingToFile": "Không có tờ khai nào đang chờ để nộp - tất cả các khoảng thời gian đã đóng đều được gửi.",
+    "fileNext": "Tệp tiếp theo: {{name}}",
+    "steps": {
+      "review": "Ôn tập",
+      "validate": "Xác thực",
+      "declare": "Khai báo & nộp",
+      "ack": "Lời cảm ơn"
+    },
+    "runValidation": "Chạy xác thực",
+    "validating": "Đang xác thực…",
+    "submit": "Submit {{form}}",
+    "submitting": "Đang gửi…",
+    "declaration": "Tôi tuyên bố rằng thông tin trong tờ khai này là đúng sự thật và đầy đủ và tôi được phép gửi thông tin đó cho {{authority}}.",
+    "netAmount": "Số tiền ròng",
+    "submitted": "Đã gửi",
+    "filedOn": "Nộp vào",
+    "regime": {
+      "authority": "Thẩm quyền",
+      "channel": "Kênh nộp hồ sơ",
+      "return": "Trở lại",
+      "due": "Quá hạn",
+      "standardRate": "Tỷ lệ tiêu chuẩn",
+      "threshold": "Ngưỡng đăng ký"
+    },
+    "demoNote": "Dữ liệu demo từ API thuế mô phỏng được tích hợp sẵn — hồ sơ và thanh toán được mô phỏng và không có gì được gửi đến cơ quan thuế."
+  },
+  "fx": {
+    "title": "Ngoại tệ",
+    "subtitle": "Tiền tệ cơ sở {{base}} · Tỷ giá thị trường giả định",
+    "newDoc": "Hoá đơn/hóa đơn FX mới",
+    "kpi": {
+      "netExposure": "Tiếp xúc ròng FX",
+      "openDocs": "{{count}} tài liệu đang mở",
+      "unrealized": "Lãi/lỗ chưa thực hiện",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Đã thực hiện được trong năm nay",
+      "lastReval": "Đánh giá lại lần cuối",
+      "never": "Không bao giờ",
+      "suggested": "Được đề xuất: {{date}}"
+    },
+    "view": {
+      "open": "Mở mục",
+      "settled": "Đã giải quyết",
+      "revaluation": "Đánh giá lại cuối tháng",
+      "journal": "tạp chí ngoại hối"
+    },
+    "col": {
+      "document": "Tài liệu",
+      "type": "Kiểu",
+      "openForeign": "Mở (nước ngoài)",
+      "bookedNow": "Đã đặt / bây giờ",
+      "valueIn": "Giá trị trong {{base}}",
+      "unrealized": "Chưa thực hiện",
+      "status": "Trạng thái",
+      "amount": "Số lượng",
+      "bookedRate": "Giá đã đặt",
+      "realized": "Đã thực hiện"
+    },
+    "receivable": "Phải thu",
+    "payable": "Phải trả",
+    "receive": "Nhận được",
+    "pay": "Chi trả",
+    "netIn": "Mạng ở {{base}}",
+    "state": {
+      "settled": "Đã giải quyết",
+      "partial": "Đã giải quyết một phần",
+      "open": "Mở"
+    },
+    "demoNote": "Dữ liệu demo từ API mô phỏng tích hợp sẵn - tỷ giá được mô phỏng chứ không phải dữ liệu thị trường trực tiếp."
+  }
+}

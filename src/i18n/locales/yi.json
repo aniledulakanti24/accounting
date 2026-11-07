@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "טאָג-צו-טאָג",
+      "finance": "פינאַנצן",
+      "advanced": "אַוואַנסירטע"
+    },
+    "mainMenu": "הויפּט מעניו",
+    "short": {
+      "parties": "פּאַרטיעס"
+    },
+    "sections": {
+      "dashboard": "דאַשבאָרד",
+      "sales": "סאַלעס",
+      "receivables": "געלט אין",
+      "procurement": "פּערטשאַסאַז",
+      "payables": "געלט אָוט",
+      "cashbank": "געלט & באַנק",
+      "expenses": "הוצאות",
+      "tax": "שטייער",
+      "reports": "ריפּאָרץ",
+      "advanced-features": "אַוואַנסירטע פֿעיִקייטן",
+      "parties": "קאַסטאַמערז & סאַפּלייערז",
+      "inventory": "זאכן",
+      "assets": "פאַרפעסטיקט אַסעץ",
+      "masters": "סעטאַפּ & קאָנפיגוראַטיאָן",
+      "business-tools": "מאַנשאַפֿט & מכשירים",
+      "party-tools": "פארטיי מכשירים",
+      "item-tools": "פּונקט מכשירים",
+      "storage": "דאָקומענטן",
+      "alerts": "אַלערץ",
+      "migration": "דאַטאַ מיגראַטיאָן"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "איבערבליק",
+        "cash-flow": "געלט לויפן",
+        "tax-calendar": "שטייער קאַלענדאַר"
+      },
+      "sales": {
+        "quotations": "קוואָטעס",
+        "proforma-invoices": "פּי",
+        "sales-invoices": "ינווויס",
+        "delivery-challans": "עקספּרעס טשאַללאַן",
+        "receipts": "קאַבאָלע",
+        "invoice-desk": "ינווויס דעסק"
+      },
+      "receivables": {
+        "money-in-center": "געלט אין צענטער",
+        "receivables": "ריסיוואַבאַלז",
+        "payments-received": "פּיימאַנץ באקומען",
+        "overdue-collections": "זאַמלונגען & רימיינדערז",
+        "credit-notes": "קרעדיט נאָטעס & ריפאַנדז",
+        "sales-returns": "סאַלעס רעטורנס",
+        "customer-statements": "קונה סטייטמאַנץ",
+        "payment-links": "צאָלונג לינקס"
+      },
+      "procurement": {
+        "purchase-center": "קויפן צענטער",
+        "purchase-orders": "קויפן אָרדערס",
+        "goods-receipt": "סכוירע קאַבאָלע",
+        "purchase-invoices": "קויפן ינווויסיז",
+        "payment-out": "פּיימאַנץ געמאכט",
+        "returns-debit-notes": "רעטורנס & דעביט נאָטעס",
+        "bill-approvals": "ביל אַפּרווואַלז"
+      },
+      "payables": {
+        "bills": "באַצאָלן צענטער",
+        "payments": "סאַפּלייער פּיימאַנץ",
+        "workforce": "ווערקפאָרס",
+        "adjustments": "אַדזשאַסטמאַנץ",
+        "bank-release": "באַנק ריליס"
+      },
+      "cashbank": {
+        "bank-accounts": "מייַן אַקאַונץ",
+        "reconciliation": "גלייַכן טראַנזאַקשאַנז",
+        "cash-petty": "קליין געלט",
+        "contra": "צווישן אַקאַונץ",
+        "cheque-register": "טשעקס",
+        "foreign-currency": "פרעמד קראַנטקייַט",
+        "bank-feeds": "באַנק פידז",
+        "bank-rules": "כּללים & ויסגלייַך"
+      },
+      "expenses": {
+        "expense-center": "אַלע הוצאות",
+        "categories": "טייפּס פון הוצאות",
+        "automated-bills": "ריקערינג הוצאות",
+        "journal-vouchers": "מאַנואַל ענטריעס",
+        "provisions": "אַקרואַלס",
+        "write-offs": "שרייב-אָפס",
+        "period-close": "חודש-סוף"
+      },
+      "tax": {
+        "gst-returns": "GST פילינג",
+        "gst-filing-wizard": "⚡ טעקע GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E- ינווויסיז",
+        "e-way-bills": "E- וועג ביללס",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "באַצאָלן שטייַער",
+        "quarterly-compliance": "העסקעם קאַלענדאַר",
+        "ca-access": "CA צייטווייליגע אַקסעס",
+        "gst-from-books": "GST פֿון ספר"
+      },
+      "reports": {
+        "financial-statements": "פינאַנציעל רעפּאָרץ",
+        "books": "טראַנסאַקטיאָן ספר",
+        "gst-reports": "GST רעפּאָרץ",
+        "ar-ap": "ריסיוואַבאַלז ווס פּייַאַבלעס",
+        "profitability": "פּראָפיטאַביליטי",
+        "period-comparatives": "יאָר פאַרגלייַך",
+        "budget-vs-actuals": "בודזשעט טראַקער",
+        "cashflow-projection": "געלט פאָרעקאַסט",
+        "report-builder": "מנהג רעפּאָרץ",
+        "general-ledger": "אַלגעמיינע לעדזשער",
+        "live-financials": "לעבן פינאַנסיאַלס",
+        "ai-analyst": "אַי אַנאַליסט"
+      },
+      "advanced-features": {
+        "overview": "איבערבליק"
+      },
+      "parties": {
+        "all-parties": "אַלע פּאַרטיעס",
+        "customer-ledgers": "קאַסטאַמערז",
+        "supplier-ledgers": "סאַפּלייערז",
+        "shared-ledger": "שערד לעדזשער",
+        "statements": "סטייטמאַנץ",
+        "reminders": "דערמאָנונגען",
+        "documents": "פארטיי דאָקומענטן",
+        "portal": "פארטיי טויער",
+        "import": "פארטיי ימפּאָרט",
+        "duplicate-merge": "דופּליקאַט צונויפגיסן",
+        "gap-analysis": "גאַפּ אַנאַליסיס"
+      },
+      "inventory": {
+        "inventory-items": "זאכן",
+        "godowns": "ווערכאַוסיז",
+        "stock-movement": "לאַגער באַוועגונג",
+        "item-pricing": "פּרייסינג",
+        "stock-valuation": "לאַגער וואַלואַטיאָן",
+        "reorder-alerts": "ריאָרדער אַלערץ",
+        "batch-serials": "פּעקל & סיריאַל",
+        "barcode-labels": "באַרקאָדע לאַבעלס",
+        "item-import": "נומער ימפּאָרט",
+        "gap-analysis": "גאַפּ אַנאַליסיס"
+      },
+      "assets": {
+        "asset-register": "אַסעט רשימה",
+        "depreciation": "דיפּרישייישאַן",
+        "disposal-revaluation": "פאַרקויפן אָדער ריוואַליו"
+      },
+      "masters": {
+        "chart-of-accounts": "אַקאַונץ רשימה",
+        "tax-masters": "שטייער ראַטעס",
+        "cost-centers": "פּרייַז סענטערס",
+        "voucher-types": "טראַנסאַקטיאָן טייפּס",
+        "opening-balances": "סטאַרטינג באַלאַנסעס",
+        "currencies": "קוררענסיעס"
+      },
+      "business-tools": {
+        "staff-payroll": "פּייראָול",
+        "manage-users": "באַניצער אַקסעס",
+        "online-orders": "אָנליין אָרדערס",
+        "sms-marketing": "SMS מאַרקעטינג",
+        "accountant-hub": "אַקאַונטאַנץ & שטיצן"
+      },
+      "party-tools": {
+        "documents": "פארטיי דאָקומענטן",
+        "portal": "פארטיי טויער",
+        "import": "פארטיי ימפּאָרט",
+        "duplicate-merge": "דופּליקאַט צונויפגיסן",
+        "gap-analysis": "גאַפּ אַנאַליסיס"
+      },
+      "item-tools": {
+        "reorder-alerts": "ריאָרדער אַלערץ",
+        "batch-serials": "פּעקל & סיריאַל",
+        "barcode-labels": "באַרקאָדע לאַבעלס",
+        "item-import": "נומער ימפּאָרט",
+        "gap-analysis": "גאַפּ אַנאַליסיס"
+      },
+      "storage": {
+        "client-storage": "קליענט טעקעס",
+        "unifiedtree-storage": "וואָלקן סטאָרידזש"
+      },
+      "alerts": {
+        "accountant-alerts": "אַקאַונטאַנט אַלערץ",
+        "compliance-alerts": "קאָמפּליאַנסע אַלערץ",
+        "cash-risk-alerts": "געלט & ריזיקירן אַלערץ",
+        "ca-access": "CA צייטווייליגע אַקסעס"
+      },
+      "migration": {
+        "import": "אַרייַנפיר דאַטאַ",
+        "export": "אַרויספירן דאַטאַ",
+        "history": "אַרייַנפיר געשיכטע",
+        "tally-import": "אַרייַנפיר פֿון Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "פּערטשאַסאַז & פּיימאַנץ",
+      "accountingSetup": "אַקאַונטינג סעטאַפּ",
+      "dataDocuments": "דאַטאַ & דאָקומענטן"
+    }
+  },
+  "common": {
+    "save": "היט ענדערונגען",
+    "cancel": "באָטל מאַכן",
+    "create": "שאַפֿן",
+    "edit": "רעדאַגירן",
+    "delete": "ויסמעקן",
+    "search": "זוכן",
+    "connect": "פאַרבינדן",
+    "configure": "קאָנפיגורירן",
+    "disconnect": "דיסקאַנעקט",
+    "sync": "סינק איצט",
+    "close": "נאָענט",
+    "reset": "באַשטעטיק צו דיפאָלץ",
+    "back": "צוריק",
+    "continue": "פאָרזעצן",
+    "all": "אַלע",
+    "retry": "פרובירט ווידער",
+    "loading": "לאָדן…",
+    "resetDemo": "באַשטעטיק דעמאָ דאַטן"
+  },
+  "shell": {
+    "searchPlaceholder": "זוכן עפּעס…",
+    "settings": "סעטטינגס",
+    "language": "שפּראַך",
+    "role": "ראָלע",
+    "greeting": {
+      "morning": "גוט מאָרגן",
+      "afternoon": "גוט נאָכמיטאָג",
+      "evening": "גוטן אָוונט"
+    },
+    "settingsItems": {
+      "company-profile": "פירמע פּראָפיל",
+      "configuration": "קאָנפיגוראַטיאָן",
+      "fiscal-periods": "פינאַנציעל פּיריאַדז",
+      "roles": "ראָלעס & יוזערז",
+      "integrations": "ינטעגראַטיאָנס",
+      "notifications": "נאָוטאַפאַקיישאַנז",
+      "audit-logs": "קאָנטראָלירן & לאָגס",
+      "audit-trail": "טאַמפּער-דערווייַז קאָנטראָלירן טרייל",
+      "developer": "דעוועלאָפּער & אַפּי"
+    },
+    "translatedLanguages": "איבערגעזעצט",
+    "untranslatedLanguages": "ענגליש ביז איבערגעזעצט"
+  },
+  "status": {
+    "filed": "פיילד",
+    "ready": "גרייט צו טעקע",
+    "open": "פּעריאָד עפענען",
+    "paid": "באַצאָלט",
+    "pending": "פּענדינג",
+    "accepted": "אנגענומען",
+    "delivered": "איבערגעגעבן",
+    "rejected": "פארווארפן",
+    "pdf-sent": "פּדף געשיקט",
+    "not-sent": "נישט געשיקט",
+    "matched": "מאַטשט",
+    "mismatch": "מיסמאַטש",
+    "missing-supplier": "ניט געמאלדן דורך סאַפּלייער",
+    "missing-books": "פעלנדיק אין ביכער",
+    "deferred": "דיפערד",
+    "deducted": "דעדוקטירט",
+    "remitted": "רעמיטעד",
+    "certified": "סערטאַפייד",
+    "to-report": "צו באַריכט",
+    "reported": "געמאלדן",
+    "accounted": "אַקאַונאַד",
+    "overdue": "איבערגעבליבענע"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "גרייט צו טעקע",
+      "liabilityDue": "אַכרייַעס רעכט",
+      "paidThisYear": "באַצאָלט דעם יאָר",
+      "nextDeadline": "ווייַטער טערמין",
+      "noneOverdue": "קיין פאַרהאַלטן",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "גרייט צו טעקע",
+      "open": "עפענען",
+      "filed": "פיילד"
+    },
+    "col": {
+      "period": "פּעריאָד",
+      "authority": "אויטאָריטעט",
+      "rate": "קורס",
+      "due": "רעכט",
+      "netPayable": "נעץ פעליק",
+      "status": "סטאַטוס",
+      "ack": "דערקענטעניש"
+    },
+    "file": "טעקע",
+    "view": "View",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "לאָודינג דזשוריסדיקשאַן…",
+    "nothingToFile": "קיין רעטורנס ווארטן צו זיין פיילד - אַלע פארמאכט פּיריאַדז זענען דערלאנגט.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "איבערבליק",
+      "validate": "וואַלאַדייט",
+      "declare": "דערקלערן & פאָרלייגן",
+      "ack": "דערקענטעניש"
+    },
+    "runValidation": "לויפן וואַלאַדיישאַן",
+    "validating": "וואַלאַדייטינג…",
+    "submit": "Submit {{form}}",
+    "submitting": "פאָרלייגן…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "נעץ סומע",
+    "submitted": "דערלאנגט",
+    "filedOn": "פיילד אויף",
+    "regime": {
+      "authority": "אויטאָריטעט",
+      "channel": "פילינג קאַנאַל",
+      "return": "צוריקקומען",
+      "due": "רעכט",
+      "standardRate": "נאָרמאַל קורס",
+      "threshold": "רעגיסטראַציע שוועל"
+    },
+    "demoNote": "דעמאָ דאַטן פון די געבויט-אין רייצנ שטייער אַפּי - פילינגז און פּיימאַנץ זענען סימיאַלייטיד און גאָרנישט איז געשיקט צו אַ שטייער אויטאָריטעט."
+  },
+  "fx": {
+    "title": "פרעמד קראַנטקייַט",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "ניו פקס ינווויס / רעכענונג",
+    "kpi": {
+      "netExposure": "נעץ FX ויסשטעלן",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "ונרעאַליזעד געווינען / אָנווער",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "איינגעזען דעם יאָר",
+      "lastReval": "לעצטע ריוואַליויישאַן",
+      "never": "קיינמאָל",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "עפענען זאכן",
+      "settled": "געזעצט",
+      "revaluation": "ריוואַליויישאַן פון חודש סוף",
+      "journal": "FX זשורנאַל"
+    },
+    "col": {
+      "document": "דאָקומענט",
+      "type": "טיפּ",
+      "openForeign": "עפענען (פרעמד)",
+      "bookedNow": "בוקט / איצט",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "ונרעאַליזעד",
+      "status": "סטאַטוס",
+      "amount": "סומע",
+      "bookedRate": "בוקט קורס",
+      "realized": "איינגעזען"
+    },
+    "receivable": "ריסיוואַבאַל",
+    "payable": "פעליק",
+    "receive": "באַקומען",
+    "pay": "באַצאָלן",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "געזעצט",
+      "partial": "טייל-געזעצט",
+      "open": "עפענען"
+    },
+    "demoNote": "דעמאָ דאַטן פון די געבויט-אין מאָק אַפּי - ראַטעס זענען סימיאַלייטיד, נישט לעבן מאַרק דאַטן."
+  }
+}

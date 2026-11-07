@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Повседневное",
+      "finance": "Финансы",
+      "advanced": "Дополнительно"
+    },
+    "mainMenu": "Главное меню",
+    "short": {
+      "parties": "Контрагенты"
+    },
+    "sections": {
+      "dashboard": "Панель",
+      "sales": "Продажи",
+      "receivables": "Поступления",
+      "procurement": "Закупки",
+      "payables": "Платежи",
+      "cashbank": "Касса и банк",
+      "expenses": "Расходы",
+      "tax": "Налоги",
+      "reports": "Отчёты",
+      "advanced-features": "Расширенные функции",
+      "parties": "Клиенты и поставщики",
+      "inventory": "Товары",
+      "assets": "Основные средства",
+      "masters": "Настройка",
+      "business-tools": "Команда и инструменты",
+      "party-tools": "Инструменты контрагентов",
+      "item-tools": "Инструменты товаров",
+      "storage": "Документы",
+      "alerts": "Уведомления",
+      "migration": "Миграция данных"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Обзор",
+        "cash-flow": "Денежный поток",
+        "tax-calendar": "Налоговый календарь"
+      },
+      "sales": {
+        "quotations": "Коммерческие предложения",
+        "proforma-invoices": "Проформа",
+        "sales-invoices": "Счёт",
+        "delivery-challans": "Накладная",
+        "receipts": "Квитанция",
+        "invoice-desk": "Стол счетов"
+      },
+      "receivables": {
+        "money-in-center": "Центр поступлений",
+        "receivables": "Дебиторская задолженность",
+        "payments-received": "Полученные платежи",
+        "overdue-collections": "Взыскание и напоминания",
+        "credit-notes": "Кредит-ноты и возвраты",
+        "sales-returns": "Возвраты продаж",
+        "customer-statements": "Акты сверки с клиентами",
+        "payment-links": "Платежные ссылки"
+      },
+      "procurement": {
+        "purchase-center": "Центр закупок",
+        "purchase-orders": "Заказы поставщикам",
+        "goods-receipt": "Приёмка товаров",
+        "purchase-invoices": "Счета поставщиков",
+        "payment-out": "Произведённые платежи",
+        "returns-debit-notes": "Возвраты и дебет-ноты",
+        "bill-approvals": "Одобрение законопроектов"
+      },
+      "payables": {
+        "bills": "Центр платежей",
+        "payments": "Платежи поставщикам",
+        "workforce": "Персонал",
+        "adjustments": "Корректировки",
+        "bank-release": "Банковское подтверждение"
+      },
+      "cashbank": {
+        "bank-accounts": "Мои счета",
+        "reconciliation": "Сверка операций",
+        "cash-petty": "Подотчётная касса",
+        "contra": "Между счетами",
+        "cheque-register": "Чеки",
+        "foreign-currency": "Иностранная валюта",
+        "bank-feeds": "Банковские каналы",
+        "bank-rules": "Правила и согласование"
+      },
+      "expenses": {
+        "expense-center": "Все расходы",
+        "categories": "Виды расходов",
+        "automated-bills": "Регулярные расходы",
+        "journal-vouchers": "Ручные проводки",
+        "provisions": "Начисления",
+        "write-offs": "Списания",
+        "period-close": "Закрытие месяца"
+      },
+      "tax": {
+        "gst-returns": "Декларации GST",
+        "gst-filing-wizard": "⚡ Подать GSTR-3B",
+        "gst-reconciliation": "Сверка GST",
+        "e-invoicing": "Электронные счета",
+        "e-way-bills": "Электронные накладные",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Уплата налогов",
+        "quarterly-compliance": "Календарь отчётности",
+        "ca-access": "Временный доступ бухгалтера",
+        "gst-from-books": "НДС за книги"
+      },
+      "reports": {
+        "financial-statements": "Финансовая отчётность",
+        "books": "Журналы операций",
+        "gst-reports": "Отчёты GST",
+        "ar-ap": "Дебиторская и кредиторская",
+        "profitability": "Рентабельность",
+        "period-comparatives": "Сравнение по годам",
+        "budget-vs-actuals": "Контроль бюджета",
+        "cashflow-projection": "Прогноз денежных средств",
+        "report-builder": "Пользовательские отчёты",
+        "general-ledger": "Генеральная книга",
+        "live-financials": "Живые финансы",
+        "ai-analyst": "ИИ-аналитик"
+      },
+      "advanced-features": {
+        "overview": "Обзор"
+      },
+      "parties": {
+        "all-parties": "Все контрагенты",
+        "customer-ledgers": "Клиенты",
+        "supplier-ledgers": "Поставщики",
+        "shared-ledger": "Общий счёт",
+        "statements": "Акты сверки",
+        "reminders": "Напоминания",
+        "documents": "Партийные документы",
+        "portal": "Партийный портал",
+        "import": "Партийный импорт",
+        "duplicate-merge": "Дублировать объединение",
+        "gap-analysis": "Анализ пробелов"
+      },
+      "inventory": {
+        "inventory-items": "Товары",
+        "godowns": "Склады",
+        "stock-movement": "Движение запасов",
+        "item-pricing": "Цены",
+        "stock-valuation": "Оценка акций",
+        "reorder-alerts": "Оповещения об изменении порядка",
+        "batch-serials": "Пакетное и серийное производство",
+        "barcode-labels": "Этикетки со штрих-кодом",
+        "item-import": "Импорт товара",
+        "gap-analysis": "Анализ пробелов"
+      },
+      "assets": {
+        "asset-register": "Список активов",
+        "depreciation": "Амортизация",
+        "disposal-revaluation": "Продажа или переоценка"
+      },
+      "masters": {
+        "chart-of-accounts": "План счетов",
+        "tax-masters": "Налоговые ставки",
+        "cost-centers": "Центры затрат",
+        "voucher-types": "Типы операций",
+        "opening-balances": "Начальные остатки",
+        "currencies": "Валюты"
+      },
+      "business-tools": {
+        "staff-payroll": "Зарплата",
+        "manage-users": "Доступ пользователей",
+        "online-orders": "Онлайн-заказы",
+        "sms-marketing": "SMS-рассылки",
+        "accountant-hub": "Бухгалтеры и поддержка"
+      },
+      "party-tools": {
+        "documents": "Документы контрагентов",
+        "portal": "Портал контрагентов",
+        "import": "Импорт контрагентов",
+        "duplicate-merge": "Объединение дублей",
+        "gap-analysis": "Анализ пробелов"
+      },
+      "item-tools": {
+        "reorder-alerts": "Уведомления о дозаказе",
+        "batch-serials": "Партии и серийные номера",
+        "barcode-labels": "Этикетки со штрихкодом",
+        "item-import": "Импорт товаров",
+        "gap-analysis": "Анализ пробелов"
+      },
+      "storage": {
+        "client-storage": "Файлы клиентов",
+        "unifiedtree-storage": "Облачное хранилище"
+      },
+      "alerts": {
+        "accountant-alerts": "Уведомления бухгалтеру",
+        "compliance-alerts": "Уведомления о соответствии",
+        "cash-risk-alerts": "Уведомления о деньгах и рисках",
+        "ca-access": "Временный доступ бухгалтера"
+      },
+      "migration": {
+        "import": "Импорт данных",
+        "export": "Экспорт данных",
+        "history": "История импорта",
+        "tally-import": "Импорт из Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Покупки и платежи",
+      "accountingSetup": "Настройка бухгалтерского учета",
+      "dataDocuments": "Данные и документы"
+    }
+  },
+  "common": {
+    "save": "Сохранить изменения",
+    "cancel": "Отмена",
+    "create": "Создать",
+    "edit": "Изменить",
+    "delete": "Удалить",
+    "search": "Поиск",
+    "connect": "Подключить",
+    "configure": "Настроить",
+    "disconnect": "Отключить",
+    "sync": "Синхронизировать",
+    "close": "Закрыть",
+    "reset": "Сбросить настройки",
+    "back": "Назад",
+    "continue": "Продолжить",
+    "all": "Все",
+    "retry": "Повторить",
+    "loading": "Загрузка…",
+    "resetDemo": "Сбросить демо-данные"
+  },
+  "shell": {
+    "searchPlaceholder": "Поиск по всему…",
+    "settings": "Настройки",
+    "language": "Язык",
+    "role": "Роль",
+    "greeting": {
+      "morning": "Доброе утро",
+      "afternoon": "Добрый день",
+      "evening": "Добрый вечер"
+    },
+    "settingsItems": {
+      "company-profile": "Профиль компании",
+      "configuration": "Конфигурация",
+      "fiscal-periods": "Отчётные периоды",
+      "roles": "Роли и пользователи",
+      "integrations": "Интеграции",
+      "notifications": "Уведомления",
+      "audit-logs": "Аудит и журналы",
+      "audit-trail": "Защищенный от несанкционированного доступа контрольный журнал",
+      "developer": "Разработчик и API"
+    },
+    "translatedLanguages": "Переведены",
+    "untranslatedLanguages": "На английском до перевода"
+  },
+  "status": {
+    "filed": "Подана",
+    "ready": "Готова к подаче",
+    "open": "Период открыт",
+    "paid": "Оплачено",
+    "pending": "Ожидает",
+    "accepted": "Принят",
+    "delivered": "Доставлен",
+    "rejected": "Отклонён",
+    "pdf-sent": "PDF отправлен",
+    "not-sent": "Не отправлен",
+    "matched": "Сверено",
+    "mismatch": "Расхождение",
+    "missing-supplier": "Не отражено поставщиком",
+    "missing-books": "Нет в учёте",
+    "deferred": "Отложено",
+    "deducted": "Удержано",
+    "remitted": "Перечислено",
+    "certified": "Справка выдана",
+    "to-report": "К отчёту",
+    "reported": "Отчитано",
+    "accounted": "Отражено",
+    "overdue": "Просрочено"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Готовы к подаче",
+      "liabilityDue": "К уплате",
+      "paidThisYear": "Уплачено в этом году",
+      "nextDeadline": "Ближайший срок",
+      "noneOverdue": "Просрочек нет",
+      "overdue": "Просрочено: {{count}}"
+    },
+    "filter": {
+      "ready": "Готовы к подаче",
+      "open": "Открытые",
+      "filed": "Поданные"
+    },
+    "col": {
+      "period": "Период",
+      "authority": "Орган",
+      "rate": "Ставка",
+      "due": "Срок",
+      "netPayable": "К уплате (нетто)",
+      "status": "Статус",
+      "ack": "Квитанция"
+    },
+    "file": "Подать",
+    "view": "Открыть",
+    "fileForm": "Подать {{form}}",
+    "loadingJurisdiction": "Загрузка налогового режима…",
+    "nothingToFile": "Нет деклараций к подаче — все закрытые периоды поданы.",
+    "fileNext": "Следующая к подаче: {{name}}",
+    "steps": {
+      "review": "Проверка",
+      "validate": "Контроль",
+      "declare": "Подтверждение и подача",
+      "ack": "Квитанция"
+    },
+    "runValidation": "Запустить контроль",
+    "validating": "Проверка…",
+    "submit": "Подать {{form}}",
+    "submitting": "Отправка…",
+    "declaration": "Подтверждаю, что сведения в декларации достоверны и полны и что я уполномочен(а) подать её в {{authority}}.",
+    "netAmount": "Итоговая сумма",
+    "submitted": "Подана",
+    "filedOn": "Дата подачи",
+    "regime": {
+      "authority": "Налоговый орган",
+      "channel": "Способ подачи",
+      "return": "Декларация",
+      "due": "Срок",
+      "standardRate": "Основная ставка",
+      "threshold": "Порог регистрации"
+    },
+    "demoNote": "Демо-данные встроенного имитационного налогового API — подача и платежи имитируются, в налоговые органы ничего не отправляется."
+  },
+  "fx": {
+    "title": "Иностранная валюта",
+    "subtitle": "Базовая валюта {{base}} · ориентировочные имитационные курсы",
+    "newDoc": "Новый счёт в валюте",
+    "kpi": {
+      "netExposure": "Чистая валютная позиция",
+      "openDocs": "Открытых документов: {{count}}",
+      "unrealized": "Нереализованная курсовая разница",
+      "postedSplit": "Отражено {{posted}} · не отражено {{unposted}}",
+      "realized": "Реализовано за год",
+      "lastReval": "Последняя переоценка",
+      "never": "Не проводилась",
+      "suggested": "Рекомендуется: {{date}}"
+    },
+    "view": {
+      "open": "Открытые позиции",
+      "settled": "Погашенные",
+      "revaluation": "Переоценка на конец месяца",
+      "journal": "Журнал курсовых разниц"
+    },
+    "col": {
+      "document": "Документ",
+      "type": "Тип",
+      "openForeign": "Остаток (в валюте)",
+      "bookedNow": "Курс учёта / текущий",
+      "valueIn": "Стоимость в {{base}}",
+      "unrealized": "Нереализовано",
+      "status": "Статус",
+      "amount": "Сумма",
+      "bookedRate": "Курс учёта",
+      "realized": "Реализовано"
+    },
+    "receivable": "Дебиторская",
+    "payable": "Кредиторская",
+    "receive": "Получить",
+    "pay": "Оплатить",
+    "netIn": "Нетто в {{base}}",
+    "state": {
+      "settled": "Погашено",
+      "partial": "Частично погашено",
+      "open": "Открыто"
+    },
+    "demoNote": "Демо-данные встроенного имитационного API — курсы имитируются и не являются рыночными данными."
+  }
+}

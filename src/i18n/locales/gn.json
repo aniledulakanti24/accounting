@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ára ha ára",
+      "finance": "Viruporukuaa",
+      "advanced": "Tenonde"
+    },
+    "mainMenu": "Menú Principal rehegua",
+    "short": {
+      "parties": "Partido-kuéra rehegua"
+    },
+    "sections": {
+      "dashboard": "Tabla de mando",
+      "sales": "Ñemuha rehegua",
+      "receivables": "Viru En",
+      "procurement": "Umi mba’e ojejoguáva",
+      "payables": "Viru Osẽ",
+      "cashbank": "Efectivo & Banco rehegua",
+      "expenses": "Joguapyre",
+      "tax": "Impuesto rehegua",
+      "reports": "Marandukuéra",
+      "advanced-features": "Mba’ekuaarã ijyvatevéva",
+      "parties": "Cliente-kuéra & Proveedor-kuéra",
+      "inventory": "Rehegua",
+      "assets": "Activos Fijos rehegua",
+      "masters": "Ñemboheko & Ñemboheko",
+      "business-tools": "Equipo & Tembipurukuéra",
+      "party-tools": "Tembiporu Partido rehegua",
+      "item-tools": "Tembipurukuéra Mba’e’oka",
+      "storage": "Kuatiakuéra",
+      "alerts": "Alerta-kuéra rehegua",
+      "migration": "Datokuéra Migración rehegua"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Tembiecharã",
+        "cash-flow": "Flujo de Efectivo rehegua",
+        "tax-calendar": "Calendario Impuesto rehegua"
+      },
+      "sales": {
+        "quotations": "Cita-kuéra rehegua",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Ñemumbyrehai",
+        "delivery-challans": "Challan de entrega rehegua",
+        "receipts": "Virume'ẽhare",
+        "invoice-desk": "Escritorio de Facturas rehegua"
+      },
+      "receivables": {
+        "money-in-center": "Viru En Centro",
+        "receivables": "Umi mba’e ojehupytýva",
+        "payments-received": "Umi Pago Ojehupytýva",
+        "overdue-collections": "Ñembyaty & Mandu’arã",
+        "credit-notes": "Notas de Crédito & Reembolso rehegua",
+        "sales-returns": "Umi Retorno de Ventas rehegua",
+        "customer-statements": "Declaraciones de Clientes rehegua",
+        "payment-links": "Enlaces de Pago rehegua"
+      },
+      "procurement": {
+        "purchase-center": "Centro de Compras rehegua",
+        "purchase-orders": "Umi Pedido de Compra rehegua",
+        "goods-receipt": "Mba’erepy Recibo rehegua",
+        "purchase-invoices": "Facturas de Compras rehegua",
+        "payment-out": "Umi Pago Ojejapóva",
+        "returns-debit-notes": "Devolución & Notas de Débito rehegua",
+        "bill-approvals": "Proyecto de Ley Aprobación rehegua"
+      },
+      "payables": {
+        "bills": "Centro de Pago rehegua",
+        "payments": "Umi Pago Proveedor rehegua",
+        "workforce": "Mba’apoharakuéra",
+        "adjustments": "Umi ajuste ojejapóva",
+        "bank-release": "Liberación Banco rehegua"
+      },
+      "cashbank": {
+        "bank-accounts": "Che Kuatiakuéra",
+        "reconciliation": "Ñembojoaju Transacciones rehegua",
+        "cash-petty": "Pequeño Efectivo rehegua",
+        "contra": "Cuentas apytépe",
+        "cheque-register": "Cheque-kuéra rehegua",
+        "foreign-currency": "Moneda Extranjera rehegua",
+        "bank-feeds": "Banco Feeds rehegua",
+        "bank-rules": "Reglas & Reconciliación rehegua"
+      },
+      "expenses": {
+        "expense-center": "Opaite Gasto rehegua",
+        "categories": "Tipos de Gasto rehegua",
+        "automated-bills": "Gastos Recurrentes rehegua",
+        "journal-vouchers": "Entradas Manuales rehegua",
+        "provisions": "Umi devengo rehegua",
+        "write-offs": "Ojehai haguã",
+        "period-close": "Jasy-Opa"
+      },
+      "tax": {
+        "gst-returns": "Presentación GST rehegua",
+        "gst-filing-wizard": "⚡ Archivo GSTR-3B rehegua",
+        "gst-reconciliation": "GST Ñembojoaju",
+        "e-invoicing": "Facturas Electrónicas rehegua",
+        "e-way-bills": "Proyectos de Ley E-Way rehegua",
+        "tds": "TDS rehegua",
+        "tcs": "TCS rehegua",
+        "tax-payments": "Paga Impuesto rehegua",
+        "quarterly-compliance": "Calendario de Cumplimiento rehegua",
+        "ca-access": "CA Jeike Sapy’agua",
+        "gst-from-books": "GST Arandukakuéragui"
+      },
+      "reports": {
+        "financial-statements": "Marandu Viru rehegua",
+        "books": "Aranduka Transacción rehegua",
+        "gst-reports": "Marandu GST rehegua",
+        "ar-ap": "Umi crédito vs Pago rehegua",
+        "profitability": "Rentabilidad rehegua",
+        "period-comparatives": "Ary Ñembojojaha",
+        "budget-vs-actuals": "Presupuesto Rastreador rehegua",
+        "cashflow-projection": "Pronóstico de Efectivo rehegua",
+        "report-builder": "Marandu Personalizado rehegua",
+        "general-ledger": "Libro Mayor General rehegua",
+        "live-financials": "Financieros en vivo rehegua",
+        "ai-analyst": "Analista AI rehegua"
+      },
+      "advanced-features": {
+        "overview": "Tembiecharã"
+      },
+      "parties": {
+        "all-parties": "Mayma Parte-kuéra",
+        "customer-ledgers": "Umi cliente-kuéra",
+        "supplier-ledgers": "Proveedor-kuéra",
+        "shared-ledger": "Libro Mayor Compartido rehegua",
+        "statements": "Ñe’ẽñemi",
+        "reminders": "Mandu’arã",
+        "documents": "Kuatia Partido rehegua",
+        "portal": "Portal de Partido rehegua",
+        "import": "Partido Importación rehegua",
+        "duplicate-merge": "Ñembojoaju Duplicado rehegua",
+        "gap-analysis": "Análisis de Brechas rehegua"
+      },
+      "inventory": {
+        "inventory-items": "Rehegua",
+        "godowns": "Almacén-kuéra rehegua",
+        "stock-movement": "Movimiento de Acciones rehegua",
+        "item-pricing": "Precios rehegua",
+        "stock-valuation": "Valoración de Acciones rehegua",
+        "reorder-alerts": "Alerta Reordenamiento rehegua",
+        "batch-serials": "Lote & Serial rehegua",
+        "barcode-labels": "Etiquetas Código de Barras rehegua",
+        "item-import": "Artículo Importación rehegua",
+        "gap-analysis": "Análisis de Brechas rehegua"
+      },
+      "assets": {
+        "asset-register": "Lista de Activos rehegua",
+        "depreciation": "Depreciación rehegua",
+        "disposal-revaluation": "Ovende térã Revalor"
+      },
+      "masters": {
+        "chart-of-accounts": "Lista de Cuentas rehegua",
+        "tax-masters": "Tasa Impuesto rehegua",
+        "cost-centers": "Umi Centros de Costo rehegua",
+        "voucher-types": "Tipos de Transacción rehegua",
+        "opening-balances": "Saldos Ñepyrũrã",
+        "currencies": "Virukuéra rehegua"
+      },
+      "business-tools": {
+        "staff-payroll": "Nómina rehegua",
+        "manage-users": "Pojoapy Pojoapy rehegua",
+        "online-orders": "Pedidos en Línea rehegua",
+        "sms-marketing": "SMS Marketing rehegua",
+        "accountant-hub": "Contadores & Apoyo rehegua"
+      },
+      "party-tools": {
+        "documents": "Kuatia Partido rehegua",
+        "portal": "Portal de Partido rehegua",
+        "import": "Partido Importación rehegua",
+        "duplicate-merge": "Ñembojoaju Duplicado rehegua",
+        "gap-analysis": "Análisis de Brechas rehegua"
+      },
+      "item-tools": {
+        "reorder-alerts": "Alerta Reordenamiento rehegua",
+        "batch-serials": "Lote & Serial rehegua",
+        "barcode-labels": "Etiquetas Código de Barras rehegua",
+        "item-import": "Artículo Importación rehegua",
+        "gap-analysis": "Análisis de Brechas rehegua"
+      },
+      "storage": {
+        "client-storage": "Archivo Cliente rehegua",
+        "unifiedtree-storage": "Arai Ñeñongatuha"
+      },
+      "alerts": {
+        "accountant-alerts": "Contador-kuéra rehegua Alerta",
+        "compliance-alerts": "Alerta de Cumplimiento rehegua",
+        "cash-risk-alerts": "Alerta de Efectivo & Riesgo rehegua",
+        "ca-access": "CA Jeike Sapy’agua"
+      },
+      "migration": {
+        "import": "Ojegueru Datokuéra",
+        "export": "Ojeguerahauka Datokuéra",
+        "history": "Importación rembiasakue",
+        "tally-import": "Importación Tally & Zoho-gui"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Jogua & Ojehepyme’ẽva",
+      "accountingSetup": "Contable Ñemohenda",
+      "dataDocuments": "Datos & Kuatiakuéra"
+    }
+  },
+  "common": {
+    "save": "Oñongatu umi ñemoambue",
+    "cancel": "Heja",
+    "create": "Mboypy",
+    "edit": "Moambue",
+    "delete": "Mboje'oha",
+    "search": "Jeheka",
+    "connect": "Mbojoaju",
+    "configure": "Emohenda",
+    "disconnect": "Ojedesconecta haguã",
+    "sync": "Embojoaju Ko’áĝa",
+    "close": "Mboty",
+    "reset": "Oñemohenda jey umi Por defecto-pe",
+    "back": "Kupe",
+    "continue": "Mbojoapy",
+    "all": "Opavave",
+    "retry": "Eñeha’ã jey",
+    "loading": "Ojekarga hína...",
+    "resetDemo": "Oñemohenda jey umi dato demostración rehegua"
+  },
+  "shell": {
+    "searchPlaceholder": "Eheka oimeraẽ mba'e...",
+    "settings": "Ñemboheko",
+    "language": "Ñe'ẽ",
+    "role": "Kuatia",
+    "greeting": {
+      "morning": "Mba'éichapa ndepyhare",
+      "afternoon": "Tandeka'aru porãite",
+      "evening": "Mba'éichapa ndepyhare"
+    },
+    "settingsItems": {
+      "company-profile": "Perfil de Empresa rehegua",
+      "configuration": "Configuración rehegua",
+      "fiscal-periods": "Periodo Fiscal rehegua",
+      "roles": "Roles & Usuario-kuéra rehegua",
+      "integrations": "Integraciones rehegua",
+      "notifications": "Marandukuéra",
+      "audit-logs": "Auditoría & Registro rehegua",
+      "audit-trail": "Rastro de Auditoría a prueba de manipulación rehegua",
+      "developer": "Ñemoheñói & API"
+    },
+    "translatedLanguages": "Ombohasa",
+    "untranslatedLanguages": "Inglés oñembohasa peve"
+  },
+  "status": {
+    "filed": "Oñepresentáva",
+    "ready": "Oĩma preparádo oarchiva hag̃ua",
+    "open": "Período abierto",
+    "paid": "Hepyme'ẽmbyre",
+    "pending": "Oha'arõva",
+    "accepted": "Ojeacepta",
+    "delivered": "Ñeme'ẽmbyre",
+    "rejected": "Oñembotove",
+    "pdf-sent": "PDF oñemondova’ekue",
+    "not-sent": "Noñemondói",
+    "matched": "Ombojoaju",
+    "mismatch": "Ndojoavýiva",
+    "missing-supplier": "Ndojekuaaukái proveedor rupive",
+    "missing-books": "Ofaltáva arandukápe",
+    "deferred": "Ojediferíva",
+    "deducted": "Ojededuci",
+    "remitted": "Ojeremitíva",
+    "certified": "Oñemoañeteva’ekue",
+    "to-report": "Omombe’u haguã",
+    "reported": "Oñemomarandu",
+    "accounted": "Contabilidad rehegua",
+    "overdue": "Ohasáma va’ekue"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Oĩma preparádo oarchiva hag̃ua",
+      "liabilityDue": "Responsabilidad ojepagáva",
+      "paidThisYear": "Ojepagáva ko arýpe",
+      "nextDeadline": "Ára paha oúva",
+      "noneOverdue": "Ndaipóri vencida",
+      "overdue": "{{count}} ojehasa rire"
+    },
+    "filter": {
+      "ready": "Oĩma preparádo oarchiva hag̃ua",
+      "open": "Pe'a",
+      "filed": "Oñepresentáva"
+    },
+    "col": {
+      "period": "Arapa'ũ",
+      "authority": "Tendota",
+      "rate": "Mbohepy",
+      "due": "Oñemoha'arõva",
+      "netPayable": "Neto ojepagáva",
+      "status": "Tetã",
+      "ack": "Reconocimiento rehegua"
+    },
+    "file": "Tapykuererekahai",
+    "view": "Hecha",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ojekargávo jurisdicción...",
+    "nothingToFile": "Ndaipóri declaración oha’arõva oñepresenta — opaite periodo oñembotýva oñepresenta.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Vichea",
+      "validate": "Ojevalida haguã",
+      "declare": "Odeclara & opresenta",
+      "ack": "Reconocimiento rehegua"
+    },
+    "runValidation": "Emongu’e validación rehegua",
+    "validating": "Ojevalidávo...",
+    "submit": "Submit {{form}}",
+    "submitting": "Omondovo...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Monto neto rehegua",
+    "submitted": "Oñemoguahẽva",
+    "filedOn": "Ojearchiva’ekue ári",
+    "regime": {
+      "authority": "Tendota",
+      "channel": "Canal de archivo",
+      "return": "Jujey",
+      "due": "Oñemoha'arõva",
+      "standardRate": "Tasa estándar rehegua",
+      "threshold": "Umbral de inscripción rehegua"
+    },
+    "demoNote": "Umi dato demostración API tributaria simulado incorporado-gui — umi presentación ha pago oñesimula ha mba'eve noñemondói peteî autoridad tributaria-pe."
+  },
+  "fx": {
+    "title": "Moneda Extranjera rehegua",
+    "subtitle": "Moneda base {{base}} · tasa indicativa mercado simulado rehegua",
+    "newDoc": "Factura / factura FX pyahu",
+    "kpi": {
+      "netExposure": "Exposición FX neta rehegua",
+      "openDocs": "{{count}} ojepe’a kuatiakuéra",
+      "unrealized": "Ganancia / pérdida noñemoañetéiva",
+      "postedSplit": "{{posted}} oñemoherakuã · {{unposted}} neíra gueteri",
+      "realized": "Oñemoañetéva ko arýpe",
+      "lastReval": "Revaloración paha",
+      "never": "Araka'eve",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Ojepe’a umi mba’e",
+      "settled": "Oñemohenda",
+      "revaluation": "Revaloración jasy pahápe",
+      "journal": "Diario FX rehegua"
+    },
+    "col": {
+      "document": "Kuatia",
+      "type": "Hesegua",
+      "openForeign": "Abierto (pytagua) .",
+      "bookedNow": "Reserva / ko'ágã",
+      "valueIn": "Valor oĩva {{base}}-pe.",
+      "unrealized": "Ndojehechakuaáiva",
+      "status": "Tetã",
+      "amount": "Mboýpa",
+      "bookedRate": "Tasa reservada rehegua",
+      "realized": "Jehechakuaa"
+    },
+    "receivable": "Ojehupytyva’erã",
+    "payable": "Ojepagáva",
+    "receive": "Japyhy",
+    "pay": "Hepyme'ẽ",
+    "netIn": "Red oĩva {{base}}-pe.",
+    "state": {
+      "settled": "Oñemohenda",
+      "partial": "Parte-oñemohenda",
+      "open": "Pe'a"
+    },
+    "demoNote": "Umi dato demostración rehegua API simulacro incorporado-gui — umi tasa oñesimula, ndaha’éi umi dato mercado en vivo rehegua."
+  }
+}

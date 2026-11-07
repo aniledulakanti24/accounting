@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "יום-יום",
+      "finance": "לְמַמֵן",
+      "advanced": "מִתקַדֵם"
+    },
+    "mainMenu": "תפריט ראשי",
+    "short": {
+      "parties": "מסיבות"
+    },
+    "sections": {
+      "dashboard": "לוּחַ מַחווָנִים",
+      "sales": "מכירות",
+      "receivables": "Money In",
+      "procurement": "רכישות",
+      "payables": "כסף בחוץ",
+      "cashbank": "מזומן ובנק",
+      "expenses": "הוצאות",
+      "tax": "מַס",
+      "reports": "דוחות",
+      "advanced-features": "תכונות מתקדמות",
+      "parties": "לקוחות וספקים",
+      "inventory": "פריטים",
+      "assets": "רכוש קבוע",
+      "masters": "הגדרה ותצורה",
+      "business-tools": "צוות וכלים",
+      "party-tools": "כלי מסיבה",
+      "item-tools": "כלי פריט",
+      "storage": "מסמכים",
+      "alerts": "התראות",
+      "migration": "העברת נתונים"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "סקירה כללית",
+        "cash-flow": "תזרים מזומנים",
+        "tax-calendar": "לוח מס"
+      },
+      "sales": {
+        "quotations": "ציטוטים",
+        "proforma-invoices": "פַּיִי",
+        "sales-invoices": "חֶשׁבּוֹנִית",
+        "delivery-challans": "משלוח Challan",
+        "receipts": "קַבָּלָה",
+        "invoice-desk": "שולחן חשבוניות"
+      },
+      "receivables": {
+        "money-in-center": "כסף במרכז",
+        "receivables": "חייבים",
+        "payments-received": "תשלומים שהתקבלו",
+        "overdue-collections": "אוספים ותזכורות",
+        "credit-notes": "שטרות אשראי והחזרים",
+        "sales-returns": "החזרות מכירות",
+        "customer-statements": "הצהרות לקוחות",
+        "payment-links": "קישורי תשלום"
+      },
+      "procurement": {
+        "purchase-center": "מרכז רכישות",
+        "purchase-orders": "הזמנות רכש",
+        "goods-receipt": "קבלת סחורה",
+        "purchase-invoices": "חשבוניות רכישה",
+        "payment-out": "בוצעו תשלומים",
+        "returns-debit-notes": "החזרות והערות חיוב",
+        "bill-approvals": "אישורי חשבונות"
+      },
+      "payables": {
+        "bills": "מרכז תשלום",
+        "payments": "תשלומי ספקים",
+        "workforce": "כוח עבודה",
+        "adjustments": "התאמות",
+        "bank-release": "שחרור בנק"
+      },
+      "cashbank": {
+        "bank-accounts": "החשבונות שלי",
+        "reconciliation": "התאמה עסקאות",
+        "cash-petty": "פטי קאש",
+        "contra": "בין חשבונות",
+        "cheque-register": "צ'קים",
+        "foreign-currency": "מַטְבֵּעַ חוּץ",
+        "bank-feeds": "עדכוני בנק",
+        "bank-rules": "כללים ופיוס"
+      },
+      "expenses": {
+        "expense-center": "כל ההוצאות",
+        "categories": "סוגי הוצאות",
+        "automated-bills": "הוצאות חוזרות",
+        "journal-vouchers": "ערכים ידניים",
+        "provisions": "צבירות",
+        "write-offs": "מחיקות",
+        "period-close": "סוף חודש"
+      },
+      "tax": {
+        "gst-returns": "הגשת GST",
+        "gst-filing-wizard": "⚡ קובץ GSTR-3B",
+        "gst-reconciliation": "התאמת GST",
+        "e-invoicing": "חשבוניות אלקטרוניות",
+        "e-way-bills": "שטרות דרך אלקטרונית",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "שלם מס",
+        "quarterly-compliance": "לוח שנה תאימות",
+        "ca-access": "CA גישה זמנית",
+        "gst-from-books": "GST מ-Books"
+      },
+      "reports": {
+        "financial-statements": "דוחות כספיים",
+        "books": "ספרי עסקאות",
+        "gst-reports": "דוחות GST",
+        "ar-ap": "חייבים מול חובות",
+        "profitability": "רווחיות",
+        "period-comparatives": "השוואת שנה",
+        "budget-vs-actuals": "מעקב אחר תקציבים",
+        "cashflow-projection": "תחזית מזומנים",
+        "report-builder": "דוחות מותאמים אישית",
+        "general-ledger": "לדג'ר כללי",
+        "live-financials": "Live Financials",
+        "ai-analyst": "אנליסט בינה מלאכותית"
+      },
+      "advanced-features": {
+        "overview": "סקירה כללית"
+      },
+      "parties": {
+        "all-parties": "כל הצדדים",
+        "customer-ledgers": "לקוחות",
+        "supplier-ledgers": "ספקים",
+        "shared-ledger": "פנקס משותף",
+        "statements": "הצהרות",
+        "reminders": "תזכורות",
+        "documents": "מסמכי המפלגה",
+        "portal": "פורטל מסיבה",
+        "import": "ייבוא ​​מסיבה",
+        "duplicate-merge": "מיזוג כפול",
+        "gap-analysis": "ניתוח פערים"
+      },
+      "inventory": {
+        "inventory-items": "פריטים",
+        "godowns": "מחסנים",
+        "stock-movement": "תנועת מניות",
+        "item-pricing": "תמחור",
+        "stock-valuation": "הערכת שווי מלאי",
+        "reorder-alerts": "סדר מחדש את ההתראות",
+        "batch-serials": "אצווה וסדרה",
+        "barcode-labels": "תוויות ברקוד",
+        "item-import": "ייבוא ​​פריט",
+        "gap-analysis": "ניתוח פערים"
+      },
+      "assets": {
+        "asset-register": "רשימת נכסים",
+        "depreciation": "פְּחָת",
+        "disposal-revaluation": "מכירה או ערך מחדש"
+      },
+      "masters": {
+        "chart-of-accounts": "רשימת חשבונות",
+        "tax-masters": "שיעורי מס",
+        "cost-centers": "מרכזי עלות",
+        "voucher-types": "סוגי עסקאות",
+        "opening-balances": "יתרות התחלה",
+        "currencies": "מטבעות"
+      },
+      "business-tools": {
+        "staff-payroll": "גִלְיוֹן שָׂכָר",
+        "manage-users": "גישת משתמש",
+        "online-orders": "הזמנות מקוונות",
+        "sms-marketing": "שיווק ב-SMS",
+        "accountant-hub": "רואי חשבון ותמיכה"
+      },
+      "party-tools": {
+        "documents": "מסמכי המפלגה",
+        "portal": "פורטל מסיבה",
+        "import": "ייבוא ​​מסיבה",
+        "duplicate-merge": "מיזוג כפול",
+        "gap-analysis": "ניתוח פערים"
+      },
+      "item-tools": {
+        "reorder-alerts": "סדר מחדש את ההתראות",
+        "batch-serials": "אצווה וסדרה",
+        "barcode-labels": "תוויות ברקוד",
+        "item-import": "ייבוא ​​פריט",
+        "gap-analysis": "ניתוח פערים"
+      },
+      "storage": {
+        "client-storage": "קבצי לקוח",
+        "unifiedtree-storage": "אחסון בענן"
+      },
+      "alerts": {
+        "accountant-alerts": "התראות רואה חשבון",
+        "compliance-alerts": "התראות תאימות",
+        "cash-risk-alerts": "התראות על מזומנים וסיכון",
+        "ca-access": "CA גישה זמנית"
+      },
+      "migration": {
+        "import": "ייבוא ​​נתונים",
+        "export": "ייצוא נתונים",
+        "history": "ייבוא ​​היסטוריית",
+        "tally-import": "ייבוא ​​מ-Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "רכישות ותשלומים",
+      "accountingSetup": "הגדרת הנהלת חשבונות",
+      "dataDocuments": "נתונים ומסמכים"
+    }
+  },
+  "common": {
+    "save": "שמור שינויים",
+    "cancel": "לְבַטֵל",
+    "create": "לִיצוֹר",
+    "edit": "לַעֲרוֹך",
+    "delete": "לִמְחוֹק",
+    "search": "לְחַפֵּשׂ",
+    "connect": "לְחַבֵּר",
+    "configure": "הגדר",
+    "disconnect": "לְנַתֵק",
+    "sync": "סנכרן עכשיו",
+    "close": "לִסְגוֹר",
+    "reset": "אפס לברירות מחדל",
+    "back": "בְּחֲזָרָה",
+    "continue": "לְהַמשִׁיך",
+    "all": "כֹּל",
+    "retry": "נסה שוב",
+    "loading": "טְעִינָה…",
+    "resetDemo": "אפס נתוני הדגמה"
+  },
+  "shell": {
+    "searchPlaceholder": "חפש בכל דבר…",
+    "settings": "הגדרות",
+    "language": "שָׂפָה",
+    "role": "תַפְקִיד",
+    "greeting": {
+      "morning": "בוקר טוב",
+      "afternoon": "צהריים טובים",
+      "evening": "ערב טוב"
+    },
+    "settingsItems": {
+      "company-profile": "פרופיל החברה",
+      "configuration": "תְצוּרָה",
+      "fiscal-periods": "תקופות פיסקאליות",
+      "roles": "תפקידים ומשתמשים",
+      "integrations": "אינטגרציות",
+      "notifications": "התראות",
+      "audit-logs": "ביקורת & יומנים",
+      "audit-trail": "שביל ביקורת חסין חבלה",
+      "developer": "מפתח & API"
+    },
+    "translatedLanguages": "מְתוּרגָם",
+    "untranslatedLanguages": "אנגלית עד לתרגום"
+  },
+  "status": {
+    "filed": "מְתוּיָק",
+    "ready": "מוכן לתיוק",
+    "open": "תקופה פתוחה",
+    "paid": "בתשלום",
+    "pending": "תָלוּי וְעוֹמֵד",
+    "accepted": "מְקוּבָּל",
+    "delivered": "נמסר",
+    "rejected": "נִדחֶה",
+    "pdf-sent": "PDF נשלח",
+    "not-sent": "לא נשלח",
+    "matched": "תואם",
+    "mismatch": "אי התאמה",
+    "missing-supplier": "לא דווח על ידי הספק",
+    "missing-books": "חסר בספרים",
+    "deferred": "דָחוּי",
+    "deducted": "נוכה",
+    "remitted": "נמסר",
+    "certified": "מוּסמָך",
+    "to-report": "לדווח",
+    "reported": "דווח",
+    "accounted": "חשבונאות",
+    "overdue": "באיחור"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "מוכן לתיוק",
+      "liabilityDue": "אחריות בשל",
+      "paidThisYear": "שולם השנה",
+      "nextDeadline": "המועד הבא",
+      "noneOverdue": "אין איחור",
+      "overdue": "{{count}} באיחור"
+    },
+    "filter": {
+      "ready": "מוכן לתיוק",
+      "open": "לִפְתוֹחַ",
+      "filed": "מְתוּיָק"
+    },
+    "col": {
+      "period": "תְקוּפָה",
+      "authority": "רְשׁוּת",
+      "rate": "קֶצֶב",
+      "due": "בשל",
+      "netPayable": "תשלום נטו",
+      "status": "סטָטוּס",
+      "ack": "הוֹדָאָה"
+    },
+    "file": "קוֹבֶץ",
+    "view": "נוֹף",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "טוען תחום שיפוט...",
+    "nothingToFile": "אין דוחות ממתינים להגשה - כל התקופות הסגורות מוגשות.",
+    "fileNext": "הקובץ הבא: {{name}}",
+    "steps": {
+      "review": "סְקִירָה",
+      "validate": "לְאַמֵת",
+      "declare": "הצהיר והגש",
+      "ack": "הוֹדָאָה"
+    },
+    "runValidation": "הפעל אימות",
+    "validating": "מאמת...",
+    "submit": "Submit {{form}}",
+    "submitting": "הַגָשָׁה…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "סכום נטו",
+    "submitted": "הוגש",
+    "filedOn": "הוגש בתאריך",
+    "regime": {
+      "authority": "רְשׁוּת",
+      "channel": "ערוץ תיוק",
+      "return": "לַחֲזוֹר",
+      "due": "בשל",
+      "standardRate": "תעריף סטנדרטי",
+      "threshold": "סף רישום"
+    },
+    "demoNote": "נתוני הדגמה מה-API המובנה של מיסוי מדומה - הגשות ותשלומים מדומים ושום דבר לא נשלח לרשות המס."
+  },
+  "fx": {
+    "title": "מַטְבֵּעַ חוּץ",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "חשבונית / שטר חדש FX",
+    "kpi": {
+      "netExposure": "חשיפת FX נטו",
+      "openDocs": "{{count}} מסמכים פתוחים",
+      "unrealized": "רווח/הפסד לא ממומשים",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "הבין השנה",
+      "lastReval": "שערוך אחרון",
+      "never": "לְעוֹלָם לֹא",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "פתח פריטים",
+      "settled": "מְיוּשָׁב",
+      "revaluation": "שערוך סוף חודש",
+      "journal": "יומן FX"
+    },
+    "col": {
+      "document": "מִסְמָך",
+      "type": "סוּג",
+      "openForeign": "פתוח (זר)",
+      "bookedNow": "הוזמן / עכשיו",
+      "valueIn": "ערך ב-{{base}}",
+      "unrealized": "לא ממומש",
+      "status": "סטָטוּס",
+      "amount": "סְכוּם",
+      "bookedRate": "תעריף מוזמן",
+      "realized": "הבין"
+    },
+    "receivable": "ניתן לקבל",
+    "payable": "בתשלום",
+    "receive": "לְקַבֵּל",
+    "pay": "לְשַׁלֵם",
+    "netIn": "נטו ב-{{base}}",
+    "state": {
+      "settled": "מְיוּשָׁב",
+      "partial": "חלק מסודר",
+      "open": "לִפְתוֹחַ"
+    },
+    "demoNote": "נתוני הדגמה מה-API המדומה המובנה - התעריפים הם סימולציה, לא נתוני שוק חיים."
+  }
+}

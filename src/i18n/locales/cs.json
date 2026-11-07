@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ze dne na den",
+      "finance": "Finance",
+      "advanced": "Moderní"
+    },
+    "mainMenu": "Hlavní menu",
+    "short": {
+      "parties": "Večírky"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Prodej",
+      "receivables": "Peníze v",
+      "procurement": "Nákupy",
+      "payables": "Peníze ven",
+      "cashbank": "Hotovost a banka",
+      "expenses": "Výdaje",
+      "tax": "Daň",
+      "reports": "Zprávy",
+      "advanced-features": "Pokročilé funkce",
+      "parties": "Zákazníci a dodavatelé",
+      "inventory": "Položky",
+      "assets": "Dlouhodobý majetek",
+      "masters": "Nastavení a konfigurace",
+      "business-tools": "Tým a nástroje",
+      "party-tools": "Party Nástroje",
+      "item-tools": "Nástroje položky",
+      "storage": "Dokumenty",
+      "alerts": "Upozornění",
+      "migration": "Migrace dat"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Přehled",
+        "cash-flow": "Cash Flow",
+        "tax-calendar": "Daňový kalendář"
+      },
+      "sales": {
+        "quotations": "Citace",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Faktura",
+        "delivery-challans": "Doručení Challan",
+        "receipts": "Příjem",
+        "invoice-desk": "Faktura pult"
+      },
+      "receivables": {
+        "money-in-center": "Peníze ve středu",
+        "receivables": "Pohledávky",
+        "payments-received": "Platby přijaté",
+        "overdue-collections": "Sbírky a upomínky",
+        "credit-notes": "Kreditní poznámky a refundace",
+        "sales-returns": "Vrácení prodeje",
+        "customer-statements": "Prohlášení zákazníka",
+        "payment-links": "Platební odkazy"
+      },
+      "procurement": {
+        "purchase-center": "Nákupní centrum",
+        "purchase-orders": "Nákupní objednávky",
+        "goods-receipt": "Příjem zboží",
+        "purchase-invoices": "Nákupní faktury",
+        "payment-out": "Provedené platby",
+        "returns-debit-notes": "Vrácení a vrubopisy",
+        "bill-approvals": "Schválení účtu"
+      },
+      "payables": {
+        "bills": "Platební centrum",
+        "payments": "Dodavatelské platby",
+        "workforce": "Pracovní síla",
+        "adjustments": "Úpravy",
+        "bank-release": "Uvolnění banky"
+      },
+      "cashbank": {
+        "bank-accounts": "Moje účty",
+        "reconciliation": "Match transakce",
+        "cash-petty": "Drobné výdaje",
+        "contra": "Mezi účty",
+        "cheque-register": "Kontroly",
+        "foreign-currency": "Cizí měna",
+        "bank-feeds": "Bankovní zdroje",
+        "bank-rules": "Pravidla a usmíření"
+      },
+      "expenses": {
+        "expense-center": "Všechny výdaje",
+        "categories": "Typy výdajů",
+        "automated-bills": "Opakující se výdaje",
+        "journal-vouchers": "Manuální zápisy",
+        "provisions": "Časové rozlišení",
+        "write-offs": "Odpisy",
+        "period-close": "Konec měsíce"
+      },
+      "tax": {
+        "gst-returns": "Podání GST",
+        "gst-filing-wizard": "⚡ Soubor GSTR-3B",
+        "gst-reconciliation": "Shoda GST",
+        "e-invoicing": "Elektronické faktury",
+        "e-way-bills": "E-Way účty",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Platit daň",
+        "quarterly-compliance": "Kalendář shody",
+        "ca-access": "Dočasný přístup CA",
+        "gst-from-books": "GST z Knih"
+      },
+      "reports": {
+        "financial-statements": "Finanční zprávy",
+        "books": "Transakční knihy",
+        "gst-reports": "Přehledy GST",
+        "ar-ap": "Pohledávky vs závazky",
+        "profitability": "Ziskovost",
+        "period-comparatives": "Srovnání roku",
+        "budget-vs-actuals": "Sledování rozpočtu",
+        "cashflow-projection": "Hotovostní předpověď",
+        "report-builder": "Vlastní přehledy",
+        "general-ledger": "hlavní kniha",
+        "live-financials": "Živé finance",
+        "ai-analyst": "Analytik AI"
+      },
+      "advanced-features": {
+        "overview": "Přehled"
+      },
+      "parties": {
+        "all-parties": "Všechny strany",
+        "customer-ledgers": "Zákazníci",
+        "supplier-ledgers": "Dodavatelé",
+        "shared-ledger": "Sdílená účetní kniha",
+        "statements": "Výpisy",
+        "reminders": "Připomenutí",
+        "documents": "Dokumenty strany",
+        "portal": "Portál strany",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicitní sloučení",
+        "gap-analysis": "Analýza mezer"
+      },
+      "inventory": {
+        "inventory-items": "Položky",
+        "godowns": "Sklady",
+        "stock-movement": "Pohyb akcií",
+        "item-pricing": "Ceny",
+        "stock-valuation": "Ocenění akcií",
+        "reorder-alerts": "Změnit pořadí upozornění",
+        "batch-serials": "Dávkové a sériové",
+        "barcode-labels": "Štítky s čárovým kódem",
+        "item-import": "Import položky",
+        "gap-analysis": "Analýza mezer"
+      },
+      "assets": {
+        "asset-register": "Seznam aktiv",
+        "depreciation": "Amortizace",
+        "disposal-revaluation": "Prodej nebo přecenění"
+      },
+      "masters": {
+        "chart-of-accounts": "Seznam účtů",
+        "tax-masters": "daňové sazby",
+        "cost-centers": "Nákladová střediska",
+        "voucher-types": "Typy transakcí",
+        "opening-balances": "Počáteční zůstatky",
+        "currencies": "Měny"
+      },
+      "business-tools": {
+        "staff-payroll": "Mzdy",
+        "manage-users": "Uživatelský přístup",
+        "online-orders": "Online objednávky",
+        "sms-marketing": "SMS marketing",
+        "accountant-hub": "Účetní a podpora"
+      },
+      "party-tools": {
+        "documents": "Dokumenty strany",
+        "portal": "Portál strany",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicitní sloučení",
+        "gap-analysis": "Analýza mezer"
+      },
+      "item-tools": {
+        "reorder-alerts": "Změnit pořadí upozornění",
+        "batch-serials": "Dávkové a sériové",
+        "barcode-labels": "Štítky s čárovým kódem",
+        "item-import": "Import položky",
+        "gap-analysis": "Analýza mezer"
+      },
+      "storage": {
+        "client-storage": "Klientské soubory",
+        "unifiedtree-storage": "Cloudové úložiště"
+      },
+      "alerts": {
+        "accountant-alerts": "Upozornění účetní",
+        "compliance-alerts": "Upozornění na dodržování předpisů",
+        "cash-risk-alerts": "Upozornění na hotovost a rizika",
+        "ca-access": "Dočasný přístup CA"
+      },
+      "migration": {
+        "import": "Importovat data",
+        "export": "Export dat",
+        "history": "Historie importu",
+        "tally-import": "Import z Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Nákupy a platby",
+      "accountingSetup": "Nastavení účetnictví",
+      "dataDocuments": "Data a dokumenty"
+    }
+  },
+  "common": {
+    "save": "Uložit změny",
+    "cancel": "Zrušit",
+    "create": "Vytvořit",
+    "edit": "Upravit",
+    "delete": "Vymazat",
+    "search": "Vyhledávání",
+    "connect": "Připojit",
+    "configure": "Konfigurovat",
+    "disconnect": "Odpojit",
+    "sync": "Synchronizovat nyní",
+    "close": "Blízko",
+    "reset": "Obnovit výchozí",
+    "back": "Zadní",
+    "continue": "Pokračovat",
+    "all": "Vše",
+    "retry": "Zkuste to znovu",
+    "loading": "Načítání…",
+    "resetDemo": "Resetovat demo data"
+  },
+  "shell": {
+    "searchPlaceholder": "Hledat cokoli…",
+    "settings": "Nastavení",
+    "language": "Jazyk",
+    "role": "Role",
+    "greeting": {
+      "morning": "Dobré ráno",
+      "afternoon": "Dobré odpoledne",
+      "evening": "Dobrý večer"
+    },
+    "settingsItems": {
+      "company-profile": "Profil společnosti",
+      "configuration": "Konfigurace",
+      "fiscal-periods": "Fiskální období",
+      "roles": "Role a uživatelé",
+      "integrations": "Integrace",
+      "notifications": "Oznámení",
+      "audit-logs": "Audit a protokoly",
+      "audit-trail": "Audit Trail odolný proti neoprávněné manipulaci",
+      "developer": "Vývojář a API"
+    },
+    "translatedLanguages": "Přeloženo",
+    "untranslatedLanguages": "Anglicky až do překladu"
+  },
+  "status": {
+    "filed": "Podáno",
+    "ready": "Připraveno k podání",
+    "open": "Otevřené období",
+    "paid": "Zaplaceno",
+    "pending": "Čeká na vyřízení",
+    "accepted": "Přijato",
+    "delivered": "Doručeno",
+    "rejected": "Odmítnuto",
+    "pdf-sent": "PDF odesláno",
+    "not-sent": "Nebylo odesláno",
+    "matched": "Shoda",
+    "mismatch": "Neshoda",
+    "missing-supplier": "Dodavatel neuvádí",
+    "missing-books": "Chybí v knihách",
+    "deferred": "Odložený",
+    "deducted": "Odečteno",
+    "remitted": "Odpuštěno",
+    "certified": "Certifikováno",
+    "to-report": "Nahlásit",
+    "reported": "Nahlášeno",
+    "accounted": "Zaúčtováno",
+    "overdue": "Po splatnosti"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Připraveno k podání",
+      "liabilityDue": "Splatná odpovědnost",
+      "paidThisYear": "Letos zaplaceno",
+      "nextDeadline": "Další termín",
+      "noneOverdue": "Žádné po splatnosti",
+      "overdue": "{{count}} po splatnosti"
+    },
+    "filter": {
+      "ready": "Připraveno k podání",
+      "open": "OTEVŘENO",
+      "filed": "Podáno"
+    },
+    "col": {
+      "period": "Období",
+      "authority": "Autorita",
+      "rate": "Hodnotit",
+      "due": "Splatné",
+      "netPayable": "Čistá splatná",
+      "status": "Postavení",
+      "ack": "Potvrzení"
+    },
+    "file": "Soubor",
+    "view": "Pohled",
+    "fileForm": "Soubor {{form}}",
+    "loadingJurisdiction": "Načítání jurisdikce…",
+    "nothingToFile": "Žádná přiznání nečekají na podání – odevzdávají se všechna uzavřená období.",
+    "fileNext": "Další soubor: {{name}}",
+    "steps": {
+      "review": "Recenze",
+      "validate": "Ověřit",
+      "declare": "Prohlásit a odeslat",
+      "ack": "Potvrzení"
+    },
+    "runValidation": "Spustit ověření",
+    "validating": "Ověřování…",
+    "submit": "Odeslat {{form}}",
+    "submitting": "Odesílání…",
+    "declaration": "Prohlašuji, že informace v tomto přiznání jsou pravdivé a úplné a že jsem oprávněn je předat {{authority}}.",
+    "netAmount": "Čistá částka",
+    "submitted": "Odesláno",
+    "filedOn": "Podáno dne",
+    "regime": {
+      "authority": "Autorita",
+      "channel": "Kanál podání",
+      "return": "Návrat",
+      "due": "Splatné",
+      "standardRate": "Standardní sazba",
+      "threshold": "Práh registrace"
+    },
+    "demoNote": "Ukázková data z vestavěného simulovaného daňového API – podání a platby jsou simulovány a daňovému úřadu se nic neodesílá."
+  },
+  "fx": {
+    "title": "Cizí měna",
+    "subtitle": "Základní měna {{base}} · orientační falešné tržní kurzy",
+    "newDoc": "Nová FX faktura / účet",
+    "kpi": {
+      "netExposure": "Čistá FX expozice",
+      "openDocs": "{{count}} otevřených dokumentů",
+      "unrealized": "Nerealizovaný zisk/ztráta",
+      "postedSplit": "{{posted}} zveřejněno · {{unposted}} ještě ne",
+      "realized": "Realizováno letos",
+      "lastReval": "Poslední přecenění",
+      "never": "Nikdy",
+      "suggested": "Doporučené: {{date}}"
+    },
+    "view": {
+      "open": "Otevřete položky",
+      "settled": "Usazeno",
+      "revaluation": "Přecenění na konci měsíce",
+      "journal": "FX deník"
+    },
+    "col": {
+      "document": "Dokument",
+      "type": "Typ",
+      "openForeign": "Otevřeno (cizí)",
+      "bookedNow": "Zarezervováno / nyní",
+      "valueIn": "Hodnota v {{base}}",
+      "unrealized": "Nerealizováno",
+      "status": "Postavení",
+      "amount": "Množství",
+      "bookedRate": "Rezervovaná sazba",
+      "realized": "Realizováno"
+    },
+    "receivable": "Pohledávka",
+    "payable": "Splatný",
+    "receive": "Dostávat",
+    "pay": "Platit",
+    "netIn": "Čistá v {{base}}",
+    "state": {
+      "settled": "Usazeno",
+      "partial": "Částečně usazeno",
+      "open": "OTEVŘENO"
+    },
+    "demoNote": "Ukázková data z vestavěného simulovaného API – sazby jsou simulované, nikoli aktuální tržní data."
+  }
+}

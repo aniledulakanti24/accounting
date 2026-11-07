@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ден за ден",
+      "finance": "Финанси",
+      "advanced": "Разширено"
+    },
+    "mainMenu": "Главно меню",
+    "short": {
+      "parties": "Партита"
+    },
+    "sections": {
+      "dashboard": "Табло за управление",
+      "sales": "Продажби",
+      "receivables": "Входящи пари",
+      "procurement": "покупки",
+      "payables": "Money Out",
+      "cashbank": "Парични средства и банка",
+      "expenses": "Разноски",
+      "tax": "Данък",
+      "reports": "Доклади",
+      "advanced-features": "Разширени функции",
+      "parties": "Клиенти и доставчици",
+      "inventory": "Предмети",
+      "assets": "Дълготрайни активи",
+      "masters": "Настройка и конфигуриране",
+      "business-tools": "Екип и инструменти",
+      "party-tools": "Парти инструменти",
+      "item-tools": "Инструменти за предмет",
+      "storage": "Документи",
+      "alerts": "Сигнали",
+      "migration": "Миграция на данни"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Преглед",
+        "cash-flow": "Паричен поток",
+        "tax-calendar": "Данъчен календар"
+      },
+      "sales": {
+        "quotations": "Цитати",
+        "proforma-invoices": "ПИ",
+        "sales-invoices": "Фактура",
+        "delivery-challans": "Доставка Challan",
+        "receipts": "разписка",
+        "invoice-desk": "Бюро за фактури"
+      },
+      "receivables": {
+        "money-in-center": "Пари в центъра",
+        "receivables": "Вземания",
+        "payments-received": "Получени плащания",
+        "overdue-collections": "Колекции и напомняния",
+        "credit-notes": "Кредитни бележки и възстановяване на средства",
+        "sales-returns": "Връщания от продажби",
+        "customer-statements": "Декларации на клиенти",
+        "payment-links": "Връзки за плащане"
+      },
+      "procurement": {
+        "purchase-center": "Център за покупки",
+        "purchase-orders": "Поръчки за покупка",
+        "goods-receipt": "Разписка за стоки",
+        "purchase-invoices": "Фактури за покупка",
+        "payment-out": "Извършени плащания",
+        "returns-debit-notes": "Връщания и дебитни бележки",
+        "bill-approvals": "Одобрения на сметки"
+      },
+      "payables": {
+        "bills": "Разплащателен център",
+        "payments": "Плащания на доставчика",
+        "workforce": "Работна сила",
+        "adjustments": "Корекции",
+        "bank-release": "Банково освобождаване"
+      },
+      "cashbank": {
+        "bank-accounts": "Моите акаунти",
+        "reconciliation": "Съпоставяне на транзакции",
+        "cash-petty": "Дребни пари",
+        "contra": "Между акаунти",
+        "cheque-register": "Проверки",
+        "foreign-currency": "Чуждестранна валута",
+        "bank-feeds": "Банкови канали",
+        "bank-rules": "Правила и помирение"
+      },
+      "expenses": {
+        "expense-center": "Всички разходи",
+        "categories": "Видове разходи",
+        "automated-bills": "Повтарящи се разходи",
+        "journal-vouchers": "Ръчни записи",
+        "provisions": "Начисления",
+        "write-offs": "Отписвания",
+        "period-close": "Краят на месеца"
+      },
+      "tax": {
+        "gst-returns": "Подаване на GST",
+        "gst-filing-wizard": "⚡ Файл GSTR-3B",
+        "gst-reconciliation": "Съпоставяне на GST",
+        "e-invoicing": "Е-фактури",
+        "e-way-bills": "Електронни пътни сметки",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Платете данък",
+        "quarterly-compliance": "Календар за съответствие",
+        "ca-access": "CA Временен достъп",
+        "gst-from-books": "GST от Книги"
+      },
+      "reports": {
+        "financial-statements": "Финансови отчети",
+        "books": "Транзакционни книги",
+        "gst-reports": "GST отчети",
+        "ar-ap": "Вземания срещу задължения",
+        "profitability": "Рентабилност",
+        "period-comparatives": "Сравнение на годините",
+        "budget-vs-actuals": "Проследяване на бюджета",
+        "cashflow-projection": "Парични прогнози",
+        "report-builder": "Персонализирани отчети",
+        "general-ledger": "Главна книга",
+        "live-financials": "Финанси на живо",
+        "ai-analyst": "AI анализатор"
+      },
+      "advanced-features": {
+        "overview": "Преглед"
+      },
+      "parties": {
+        "all-parties": "Всички страни",
+        "customer-ledgers": "Клиенти",
+        "supplier-ledgers": "Доставчици",
+        "shared-ledger": "Споделена книга",
+        "statements": "Изявления",
+        "reminders": "Напомняния",
+        "documents": "Партийни документи",
+        "portal": "Партиен портал",
+        "import": "Парти импортиране",
+        "duplicate-merge": "Дублиране на обединяване",
+        "gap-analysis": "Анализ на пропуски"
+      },
+      "inventory": {
+        "inventory-items": "Предмети",
+        "godowns": "Складове",
+        "stock-movement": "Движение на акциите",
+        "item-pricing": "Ценообразуване",
+        "stock-valuation": "Оценка на акциите",
+        "reorder-alerts": "Пренареждане на сигнали",
+        "batch-serials": "Партида и серия",
+        "barcode-labels": "Баркод етикети",
+        "item-import": "Импортиране на артикул",
+        "gap-analysis": "Анализ на пропуски"
+      },
+      "assets": {
+        "asset-register": "Списък на активите",
+        "depreciation": "Амортизация",
+        "disposal-revaluation": "Продайте или преоценете"
+      },
+      "masters": {
+        "chart-of-accounts": "Списък с акаунти",
+        "tax-masters": "Данъчни ставки",
+        "cost-centers": "Разходни центрове",
+        "voucher-types": "Видове транзакции",
+        "opening-balances": "Начални баланси",
+        "currencies": "Валути"
+      },
+      "business-tools": {
+        "staff-payroll": "ТРЗ",
+        "manage-users": "Потребителски достъп",
+        "online-orders": "Онлайн поръчки",
+        "sms-marketing": "SMS маркетинг",
+        "accountant-hub": "Счетоводители и поддръжка"
+      },
+      "party-tools": {
+        "documents": "Партийни документи",
+        "portal": "Партиен портал",
+        "import": "Парти импортиране",
+        "duplicate-merge": "Дублиране на обединяване",
+        "gap-analysis": "Анализ на пропуски"
+      },
+      "item-tools": {
+        "reorder-alerts": "Пренареждане на сигнали",
+        "batch-serials": "Партида и серия",
+        "barcode-labels": "Баркод етикети",
+        "item-import": "Импортиране на артикул",
+        "gap-analysis": "Анализ на пропуски"
+      },
+      "storage": {
+        "client-storage": "Клиентски файлове",
+        "unifiedtree-storage": "Облачно съхранение"
+      },
+      "alerts": {
+        "accountant-alerts": "Счетоводни сигнали",
+        "compliance-alerts": "Сигнали за съответствие",
+        "cash-risk-alerts": "Сигнали за пари и риск",
+        "ca-access": "CA Временен достъп"
+      },
+      "migration": {
+        "import": "Импортиране на данни",
+        "export": "Експортиране на данни",
+        "history": "Импортиране на история",
+        "tally-import": "Внос от Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Покупки и плащания",
+      "accountingSetup": "Настройка на счетоводството",
+      "dataDocuments": "Данни и документи"
+    }
+  },
+  "common": {
+    "save": "Запазване на промените",
+    "cancel": "Отказ",
+    "create": "Създавайте",
+    "edit": "Редактиране",
+    "delete": "Изтриване",
+    "search": "Търсене",
+    "connect": "Свържете се",
+    "configure": "Конфигуриране",
+    "disconnect": "Прекъснете връзката",
+    "sync": "Синхронизиране сега",
+    "close": "затвори",
+    "reset": "Възстановяване на настройките по подразбиране",
+    "back": "Назад",
+    "continue": "Продължи",
+    "all": "Всички",
+    "retry": "Опитайте отново",
+    "loading": "Зарежда се...",
+    "resetDemo": "Нулирайте демонстрационните данни"
+  },
+  "shell": {
+    "searchPlaceholder": "Търсете каквото и да е...",
+    "settings": "Настройки",
+    "language": "език",
+    "role": "Роля",
+    "greeting": {
+      "morning": "добро утро",
+      "afternoon": "добър ден",
+      "evening": "Добър вечер"
+    },
+    "settingsItems": {
+      "company-profile": "Фирмен профил",
+      "configuration": "Конфигурация",
+      "fiscal-periods": "Фискални периоди",
+      "roles": "Роли и потребители",
+      "integrations": "Интеграции",
+      "notifications": "Известия",
+      "audit-logs": "Одит и регистрационни файлове",
+      "audit-trail": "Защитена от подправяне одитна пътека",
+      "developer": "Разработчик и API"
+    },
+    "translatedLanguages": "Преведено",
+    "untranslatedLanguages": "Английски до превод"
+  },
+  "status": {
+    "filed": "Подадено",
+    "ready": "Готов за подаване",
+    "open": "Отворен период",
+    "paid": "Платено",
+    "pending": "В очакване",
+    "accepted": "Прието",
+    "delivered": "Доставено",
+    "rejected": "Отхвърлено",
+    "pdf-sent": "PDF файл е изпратен",
+    "not-sent": "Не е изпратено",
+    "matched": "Съвпадение",
+    "mismatch": "Несъответствие",
+    "missing-supplier": "Не е съобщено от доставчика",
+    "missing-books": "Липсва в книгите",
+    "deferred": "Отложено",
+    "deducted": "Приспаднат",
+    "remitted": "Преведено",
+    "certified": "Сертифицирани",
+    "to-report": "Да докладвам",
+    "reported": "Докладвано",
+    "accounted": "Осчетоводени",
+    "overdue": "Просрочени"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Готов за подаване",
+      "liabilityDue": "Дължима отговорност",
+      "paidThisYear": "Платено тази година",
+      "nextDeadline": "Следващ краен срок",
+      "noneOverdue": "Няма просрочени",
+      "overdue": "{{count}} просрочени"
+    },
+    "filter": {
+      "ready": "Готов за подаване",
+      "open": "Отворете",
+      "filed": "Подадено"
+    },
+    "col": {
+      "period": "Точка",
+      "authority": "авторитет",
+      "rate": "Оценете",
+      "due": "дължим",
+      "netPayable": "Нетно плащане",
+      "status": "Статус",
+      "ack": "Признание"
+    },
+    "file": "Файл",
+    "view": "Преглед",
+    "fileForm": "Файл {{form}}",
+    "loadingJurisdiction": "Юрисдикцията се зарежда...",
+    "nothingToFile": "Няма декларации, които чакат да бъдат подадени — всички затворени периоди са подадени.",
+    "fileNext": "Следващ файл: {{name}}",
+    "steps": {
+      "review": "Преглед",
+      "validate": "Валидирайте",
+      "declare": "Декларирайте и изпратете",
+      "ack": "Признание"
+    },
+    "runValidation": "Изпълнете проверка",
+    "validating": "Потвърждава се...",
+    "submit": "Изпратете {{form}}",
+    "submitting": "Изпраща се...",
+    "declaration": "Декларирам, че информацията в тази декларация е вярна и пълна и че съм упълномощен да я изпратя на {{authority}}.",
+    "netAmount": "Нетна сума",
+    "submitted": "Изпратено",
+    "filedOn": "Подадена на",
+    "regime": {
+      "authority": "авторитет",
+      "channel": "Картотечен канал",
+      "return": "Връщане",
+      "due": "дължим",
+      "standardRate": "Стандартна ставка",
+      "threshold": "Праг за регистрация"
+    },
+    "demoNote": "Демонстрационни данни от вградения API за фиктивни данъци — декларациите и плащанията се симулират и нищо не се изпраща на данъчните власти."
+  },
+  "fx": {
+    "title": "Чуждестранна валута",
+    "subtitle": "Основна валута {{base}} · индикативни фиктивни пазарни курсове",
+    "newDoc": "Нова FX фактура / сметка",
+    "kpi": {
+      "netExposure": "Нетна FX експозиция",
+      "openDocs": "{{count}} отворени документа",
+      "unrealized": "Нереализирана печалба/загуба",
+      "postedSplit": "{{posted}} публикувано · {{unposted}} още не",
+      "realized": "Реализирано тази година",
+      "lastReval": "Последна преоценка",
+      "never": "Никога",
+      "suggested": "Предложено: {{date}}"
+    },
+    "view": {
+      "open": "Отворени елементи",
+      "settled": "Уредено",
+      "revaluation": "Преоценка в края на месеца",
+      "journal": "FX дневник"
+    },
+    "col": {
+      "document": "Документ",
+      "type": "Тип",
+      "openForeign": "Отворено (чуждо)",
+      "bookedNow": "Резервиран / сега",
+      "valueIn": "Стойност в {{base}}",
+      "unrealized": "Нереализиран",
+      "status": "Статус",
+      "amount": "Сума",
+      "bookedRate": "Резервирана цена",
+      "realized": "Осъзнат"
+    },
+    "receivable": "Вземане",
+    "payable": "Платими",
+    "receive": "Получете",
+    "pay": "Плащане",
+    "netIn": "Нет в {{base}}",
+    "state": {
+      "settled": "Уредено",
+      "partial": "Частично уреден",
+      "open": "Отворете"
+    },
+    "demoNote": "Демонстрационни данни от вградения макет на API — курсовете са симулирани, а не пазарни данни на живо."
+  }
+}

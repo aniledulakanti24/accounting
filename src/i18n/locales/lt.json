@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Kasdien",
+      "finance": "Finansai",
+      "advanced": "Išplėstinė"
+    },
+    "mainMenu": "Pagrindinis meniu",
+    "short": {
+      "parties": "Vakarėliai"
+    },
+    "sections": {
+      "dashboard": "Prietaisų skydelis",
+      "sales": "Pardavimai",
+      "receivables": "Pinigai In",
+      "procurement": "Pirkiniai",
+      "payables": "Money Out",
+      "cashbank": "Grynieji pinigai ir bankas",
+      "expenses": "Išlaidos",
+      "tax": "Mokesčiai",
+      "reports": "Ataskaitos",
+      "advanced-features": "Išplėstinės funkcijos",
+      "parties": "Klientai ir tiekėjai",
+      "inventory": "Daiktai",
+      "assets": "Ilgalaikis turtas",
+      "masters": "Sąranka ir konfigūracija",
+      "business-tools": "Komanda ir įrankiai",
+      "party-tools": "Vakarėlio įrankiai",
+      "item-tools": "Prekės įrankiai",
+      "storage": "Dokumentai",
+      "alerts": "Perspėjimai",
+      "migration": "Duomenų perkėlimas"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Apžvalga",
+        "cash-flow": "Pinigų srautas",
+        "tax-calendar": "Mokesčių kalendorius"
+      },
+      "sales": {
+        "quotations": "Citatos",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Sąskaita faktūra",
+        "delivery-challans": "Pristatymas Challan",
+        "receipts": "Kvitas",
+        "invoice-desk": "Sąskaitų faktūrų stalas"
+      },
+      "receivables": {
+        "money-in-center": "Pinigai centre",
+        "receivables": "Gautinos sumos",
+        "payments-received": "Gauti mokėjimai",
+        "overdue-collections": "Kolekcijos ir priminimai",
+        "credit-notes": "Kredito pažymos ir pinigų grąžinimas",
+        "sales-returns": "Pardavimų grąžinimai",
+        "customer-statements": "Klientų pareiškimai",
+        "payment-links": "Mokėjimo nuorodos"
+      },
+      "procurement": {
+        "purchase-center": "Pirkimo centras",
+        "purchase-orders": "Pirkimo užsakymai",
+        "goods-receipt": "Prekių gavimas",
+        "purchase-invoices": "Pirkimo sąskaitos faktūros",
+        "payment-out": "Atlikti mokėjimai",
+        "returns-debit-notes": "Grąžinimai ir debeto pažymos",
+        "bill-approvals": "Sąskaitų patvirtinimai"
+      },
+      "payables": {
+        "bills": "Mokėjimo centras",
+        "payments": "Tiekėjo mokėjimai",
+        "workforce": "Darbo jėga",
+        "adjustments": "Koregavimai",
+        "bank-release": "Banko leidimas"
+      },
+      "cashbank": {
+        "bank-accounts": "Mano sąskaitos",
+        "reconciliation": "Suderinti sandorius",
+        "cash-petty": "Petty Cash",
+        "contra": "Tarp sąskaitų",
+        "cheque-register": "Patikros",
+        "foreign-currency": "Užsienio valiuta",
+        "bank-feeds": "Banko tiekimas",
+        "bank-rules": "Taisyklės ir susitaikymas"
+      },
+      "expenses": {
+        "expense-center": "Visos išlaidos",
+        "categories": "Išlaidų rūšys",
+        "automated-bills": "Pasikartojančios išlaidos",
+        "journal-vouchers": "Rankiniai įrašai",
+        "provisions": "Sukauptos sumos",
+        "write-offs": "Nurašymai",
+        "period-close": "Mėnuo-Pabaiga"
+      },
+      "tax": {
+        "gst-returns": "GST padavimas",
+        "gst-filing-wizard": "⚡ Failas GSTR-3B",
+        "gst-reconciliation": "GST atitikimas",
+        "e-invoicing": "Elektroninės sąskaitos faktūros",
+        "e-way-bills": "Elektroniniai važtaraščiai",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Mokėti Mokesčius",
+        "quarterly-compliance": "Atitikties kalendorius",
+        "ca-access": "CA laikina prieiga",
+        "gst-from-books": "GST iš knygų"
+      },
+      "reports": {
+        "financial-statements": "Finansinės ataskaitos",
+        "books": "Sandorių knygos",
+        "gst-reports": "GST ataskaitos",
+        "ar-ap": "Gautinos sumos vs mokėtinos sumos",
+        "profitability": "Pelningumas",
+        "period-comparatives": "Metų palyginimas",
+        "budget-vs-actuals": "Biudžeto stebėjimo priemonė",
+        "cashflow-projection": "Grynųjų pinigų prognozė",
+        "report-builder": "Individualios ataskaitos",
+        "general-ledger": "Didžioji knyga",
+        "live-financials": "Tiesioginiai finansai",
+        "ai-analyst": "AI analitikas"
+      },
+      "advanced-features": {
+        "overview": "Apžvalga"
+      },
+      "parties": {
+        "all-parties": "Visos Šalys",
+        "customer-ledgers": "Klientai",
+        "supplier-ledgers": "Tiekėjai",
+        "shared-ledger": "Bendra knyga",
+        "statements": "pareiškimai",
+        "reminders": "Priminimai",
+        "documents": "Vakarėlio dokumentai",
+        "portal": "Vakarėlių portalas",
+        "import": "Vakarėlio importas",
+        "duplicate-merge": "Dubliuoti sujungimą",
+        "gap-analysis": "Spragų analizė"
+      },
+      "inventory": {
+        "inventory-items": "Daiktai",
+        "godowns": "Sandėliai",
+        "stock-movement": "Akcijų judėjimas",
+        "item-pricing": "Kainodara",
+        "stock-valuation": "Atsargų vertinimas",
+        "reorder-alerts": "Pertvarkykite įspėjimus",
+        "batch-serials": "Partija ir serija",
+        "barcode-labels": "Brūkšninio kodo etiketės",
+        "item-import": "Prekės importas",
+        "gap-analysis": "Spragų analizė"
+      },
+      "assets": {
+        "asset-register": "Turto sąrašas",
+        "depreciation": "Nusidėvėjimas",
+        "disposal-revaluation": "Parduoti arba perkainoti"
+      },
+      "masters": {
+        "chart-of-accounts": "Sąskaitų sąrašas",
+        "tax-masters": "Mokesčių tarifai",
+        "cost-centers": "Išlaidų centrai",
+        "voucher-types": "Sandorių tipai",
+        "opening-balances": "Pradiniai likučiai",
+        "currencies": "Valiutos"
+      },
+      "business-tools": {
+        "staff-payroll": "Darbo užmokestis",
+        "manage-users": "Vartotojo prieiga",
+        "online-orders": "Užsakymai internetu",
+        "sms-marketing": "SMS rinkodara",
+        "accountant-hub": "Buhalteriai ir pagalba"
+      },
+      "party-tools": {
+        "documents": "Vakarėlio dokumentai",
+        "portal": "Vakarėlių portalas",
+        "import": "Vakarėlio importas",
+        "duplicate-merge": "Dubliuoti sujungimą",
+        "gap-analysis": "Spragų analizė"
+      },
+      "item-tools": {
+        "reorder-alerts": "Pertvarkykite įspėjimus",
+        "batch-serials": "Partija ir serija",
+        "barcode-labels": "Brūkšninio kodo etiketės",
+        "item-import": "Prekės importas",
+        "gap-analysis": "Spragų analizė"
+      },
+      "storage": {
+        "client-storage": "Kliento failai",
+        "unifiedtree-storage": "Debesų saugykla"
+      },
+      "alerts": {
+        "accountant-alerts": "Buhalterio įspėjimai",
+        "compliance-alerts": "Atitikties įspėjimai",
+        "cash-risk-alerts": "Grynųjų pinigų ir rizikos įspėjimai",
+        "ca-access": "CA laikina prieiga"
+      },
+      "migration": {
+        "import": "Importuoti duomenis",
+        "export": "Eksportuoti duomenis",
+        "history": "Importuoti istoriją",
+        "tally-import": "Importuoti iš Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Pirkimai ir mokėjimai",
+      "accountingSetup": "Apskaitos sąranka",
+      "dataDocuments": "Duomenys ir dokumentai"
+    }
+  },
+  "common": {
+    "save": "Išsaugoti pakeitimus",
+    "cancel": "Atšaukti",
+    "create": "Sukurti",
+    "edit": "Redaguoti",
+    "delete": "Ištrinti",
+    "search": "Ieškoti",
+    "connect": "Prisijunkite",
+    "configure": "Konfigūruoti",
+    "disconnect": "Atsijungti",
+    "sync": "Sinchronizuoti dabar",
+    "close": "Uždaryti",
+    "reset": "Atstatyti į numatytuosius nustatymus",
+    "back": "Atgal",
+    "continue": "Tęsti",
+    "all": "Visi",
+    "retry": "Bandykite dar kartą",
+    "loading": "Įkeliama…",
+    "resetDemo": "Iš naujo nustatyti demonstracinius duomenis"
+  },
+  "shell": {
+    "searchPlaceholder": "Ieškokite bet ko…",
+    "settings": "Nustatymai",
+    "language": "Kalba",
+    "role": "Vaidmuo",
+    "greeting": {
+      "morning": "Labas rytas",
+      "afternoon": "Laba diena",
+      "evening": "Labas vakaras"
+    },
+    "settingsItems": {
+      "company-profile": "Įmonės profilis",
+      "configuration": "Konfigūracija",
+      "fiscal-periods": "Fiskaliniai laikotarpiai",
+      "roles": "Vaidmenys ir vartotojai",
+      "integrations": "Integracijos",
+      "notifications": "Pranešimai",
+      "audit-logs": "Auditas ir žurnalai",
+      "audit-trail": "Apsaugos nuo klastojimo audito seka",
+      "developer": "Kūrėjas ir API"
+    },
+    "translatedLanguages": "Išversta",
+    "untranslatedLanguages": "Anglų kalba iki vertimo"
+  },
+  "status": {
+    "filed": "Pateikta",
+    "ready": "Paruošta paduoti",
+    "open": "Laikotarpis atviras",
+    "paid": "Mokama",
+    "pending": "Laukiama",
+    "accepted": "Priimta",
+    "delivered": "Pristatyta",
+    "rejected": "Atmesta",
+    "pdf-sent": "PDF išsiųstas",
+    "not-sent": "Neišsiųsta",
+    "matched": "Suderinta",
+    "mismatch": "Neatitikimas",
+    "missing-supplier": "Tiekėjas nepranešė",
+    "missing-books": "Trūksta knygose",
+    "deferred": "Atidėtas",
+    "deducted": "Išskaičiuota",
+    "remitted": "Perduota",
+    "certified": "Sertifikuota",
+    "to-report": "Norėdami pranešti",
+    "reported": "Pranešta",
+    "accounted": "Apskaityta",
+    "overdue": "Pavėluota"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Paruošta paduoti",
+      "liabilityDue": "Sumokėta atsakomybė",
+      "paidThisYear": "Sumokėta šiais metais",
+      "nextDeadline": "Kitas terminas",
+      "noneOverdue": "Nė vienas nepavėluotas",
+      "overdue": "{{count}} vėluoja"
+    },
+    "filter": {
+      "ready": "Paruošta paduoti",
+      "open": "Atidaryti",
+      "filed": "Pateikta"
+    },
+    "col": {
+      "period": "Laikotarpis",
+      "authority": "Valdžia",
+      "rate": "Įvertink",
+      "due": "Dėl",
+      "netPayable": "Grynoji mokėtina suma",
+      "status": "Būsena",
+      "ack": "Pripažinimas"
+    },
+    "file": "Failas",
+    "view": "Žiūrėti",
+    "fileForm": "Failas {{form}}",
+    "loadingJurisdiction": "Įkeliama jurisdikcija…",
+    "nothingToFile": "Jokių deklaracijų nelaukiama pateikti – pateikiami visi uždaromi laikotarpiai.",
+    "fileNext": "Failas kitas: {{name}}",
+    "steps": {
+      "review": "Apžvalga",
+      "validate": "Patvirtinti",
+      "declare": "Deklaruoti ir pateikti",
+      "ack": "Pripažinimas"
+    },
+    "runValidation": "Vykdykite patvirtinimą",
+    "validating": "Patvirtinama…",
+    "submit": "Pateikti {{form}}",
+    "submitting": "Pateikiama…",
+    "declaration": "Pareiškiu, kad šioje deklaracijoje pateikta informacija yra teisinga ir išsami ir kad esu įgaliotas ją pateikti {{authority}}.",
+    "netAmount": "Grynoji suma",
+    "submitted": "Pateikta",
+    "filedOn": "Pateikta",
+    "regime": {
+      "authority": "Valdžia",
+      "channel": "Failavimo kanalas",
+      "return": "Grįžti",
+      "due": "Dėl",
+      "standardRate": "Standartinis tarifas",
+      "threshold": "Registracijos riba"
+    },
+    "demoNote": "Demonstraciniai duomenys iš integruotos netikros mokesčių API – paraiškos ir mokėjimai imituojami ir nieko nesiunčiama mokesčių institucijai."
+  },
+  "fx": {
+    "title": "Užsienio valiuta",
+    "subtitle": "Bazinė valiuta {{base}} · orientaciniai netikri rinkos kursai",
+    "newDoc": "Nauja FX sąskaita faktūra / sąskaita",
+    "kpi": {
+      "netExposure": "Grynoji FX ekspozicija",
+      "openDocs": "{{count}} atidarytų dokumentų",
+      "unrealized": "Nerealizuotas pelnas / nuostolis",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Realizuota šiais metais",
+      "lastReval": "Paskutinis perkainojimas",
+      "never": "Niekada",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Atidaryti elementus",
+      "settled": "Įsikūrė",
+      "revaluation": "Mėnesio pabaigos perkainojimas",
+      "journal": "FX žurnalas"
+    },
+    "col": {
+      "document": "dokumentas",
+      "type": "Tipas",
+      "openForeign": "Atviras (užsienio)",
+      "bookedNow": "Užsakyta / dabar",
+      "valueIn": "Vertė {{base}}",
+      "unrealized": "Nerealizuotas",
+      "status": "Būsena",
+      "amount": "Suma",
+      "bookedRate": "Užsakyta norma",
+      "realized": "Suprato"
+    },
+    "receivable": "Gautini",
+    "payable": "Mokama",
+    "receive": "Gauti",
+    "pay": "Mokėti",
+    "netIn": "Grynasis {{base}}",
+    "state": {
+      "settled": "Įsikūrė",
+      "partial": "Iš dalies nusistovėjusi",
+      "open": "Atidaryti"
+    },
+    "demoNote": "Demonstraciniai duomenys iš integruotos netikros API – įkainiai imituojami, o ne tiesioginiai rinkos duomenys."
+  }
+}

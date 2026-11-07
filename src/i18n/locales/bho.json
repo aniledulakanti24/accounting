@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "दिन-प्रतिदिन के बात बा",
+      "finance": "आमदनी",
+      "advanced": "उन्नत"
+    },
+    "mainMenu": "मुख्य मेनू में बा",
+    "short": {
+      "parties": "पार्टी के लोग के"
+    },
+    "sections": {
+      "dashboard": "डैशबोर्ड के बा",
+      "sales": "बिक्री के काम होला",
+      "receivables": "मनी इन के बा",
+      "procurement": "खरीददारी के काम होला",
+      "payables": "मनी आउट हो गइल",
+      "cashbank": "कैश एंड बैंक के बा",
+      "expenses": "खरचा",
+      "tax": "कर के बा",
+      "reports": "रिपोर्ट बा",
+      "advanced-features": "एडवांस फीचर बा",
+      "parties": "ग्राहक अउर आपूर्तिकर्ता लोग के",
+      "inventory": "वस्तू",
+      "assets": "स्थिर संपत्ति के बारे में बतावल गइल बा",
+      "masters": "सेटअप अउर कॉन्फ़िगरेशन के बारे में बतावल गइल बा",
+      "business-tools": "टीम अउर टूल के बारे में बतावल गइल बा",
+      "party-tools": "पार्टी के औजार के बारे में बतावल गइल बा",
+      "item-tools": "आइटम टूल के बारे में बतावल गइल बा",
+      "storage": "दस्तावेज के बारे में बतावल गइल बा",
+      "alerts": "अलर्ट कर दिहल गइल बा",
+      "migration": "डेटा माइग्रेशन के बारे में बतावल गइल बा"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "अवलोकन कइल जाव",
+        "cash-flow": "नकदी के प्रवाह के बारे में बतावल गइल बा",
+        "tax-calendar": "कर कैलेंडर के बा"
+      },
+      "sales": {
+        "quotations": "उद्धरण दिहल गइल बा",
+        "proforma-invoices": "पीआई के बा",
+        "sales-invoices": "चालान",
+        "delivery-challans": "डिलीवरी चालन के बा",
+        "receipts": "रसीद",
+        "invoice-desk": "चालान डेस्क के बा"
+      },
+      "receivables": {
+        "money-in-center": "मनी इन सेंटर के बा",
+        "receivables": "प्राप्यता के बा",
+        "payments-received": "भुगतान मिल गइल बा",
+        "overdue-collections": "संग्रह अउर याद दिलावत बानी",
+        "credit-notes": "क्रेडिट नोट आ रिफंड के बारे में बतावल गइल बा",
+        "sales-returns": "बिक्री के रिटर्न के बारे में बतावल गइल बा",
+        "customer-statements": "ग्राहक के बयान के बारे में बतावल गइल बा",
+        "payment-links": "भुगतान के लिंक दिहल गइल बा"
+      },
+      "procurement": {
+        "purchase-center": "खरीद केंद्र के बा",
+        "purchase-orders": "खरीद के आदेश दिहल गइल बा",
+        "goods-receipt": "माल के रसीद मिलल बा",
+        "purchase-invoices": "चालान खरीदे के बा",
+        "payment-out": "भुगतान कइल गइल",
+        "returns-debit-notes": "रिटर्न अउर डेबिट नोट के बारे में बतावल गइल बा",
+        "bill-approvals": "विधेयक के मंजूरी दिहल गइल"
+      },
+      "payables": {
+        "bills": "पे सेंटर के बा",
+        "payments": "आपूर्तिकर्ता के भुगतान के बारे में बतावल गइल बा",
+        "workforce": "कार्यबल के बा",
+        "adjustments": "समायोजन कइल गइल बा",
+        "bank-release": "बैंक रिलीज हो गइल"
+      },
+      "cashbank": {
+        "bank-accounts": "हमार खाता बा",
+        "reconciliation": "लेनदेन के मिलान कइल जाला",
+        "cash-petty": "पेटी कैश के बा",
+        "contra": "खाता के बीच में बा",
+        "cheque-register": "जांच कइल जाला",
+        "foreign-currency": "विदेशी मुद्रा के बा",
+        "bank-feeds": "बैंक फीड्स के बा",
+        "bank-rules": "नियम अउर सुलह के बारे में बतावल गइल बा"
+      },
+      "expenses": {
+        "expense-center": "सब खरचा के बा",
+        "categories": "व्यय के प्रकार के बारे में बतावल गइल बा",
+        "automated-bills": "आवर्ती खरचा के बारे में बतावल गइल बा",
+        "journal-vouchers": "मैनुअल प्रविष्टि के बा",
+        "provisions": "एक्रूल के बारे में बतावल गइल बा",
+        "write-offs": "राइट-ऑफ हो गइल बा",
+        "period-close": "महीना-अंत के बा"
+      },
+      "tax": {
+        "gst-returns": "जीएसटी फाइलिंग के बा",
+        "gst-filing-wizard": "⚡ फाइल जीएसटीआर-3बी के बा",
+        "gst-reconciliation": "जीएसटी मिलान के बा",
+        "e-invoicing": "ई-चालान के बारे में बतावल गइल बा",
+        "e-way-bills": "ई-वे बिल के बारे में बतावल गइल बा",
+        "tds": "टीडीएस के बा",
+        "tcs": "टीसीएस के बा",
+        "tax-payments": "टैक्स के भुगतान करीं",
+        "quarterly-compliance": "अनुपालन कैलेंडर के बा",
+        "ca-access": "सीए अस्थायी पहुँच के बा",
+        "gst-from-books": "बुक्स से जीएसटी के बा"
+      },
+      "reports": {
+        "financial-statements": "वित्तीय रिपोर्ट के बारे में बतावल गईल बा",
+        "books": "लेनदेन के किताबन के बारे में बतावल गइल बा",
+        "gst-reports": "जीएसटी रिपोर्ट के बारे में बतावल गईल बा",
+        "ar-ap": "प्राप्य बनाम देय के बा",
+        "profitability": "मुनाफाखोरी के भाव बा",
+        "period-comparatives": "साल के तुलना कइल जाला",
+        "budget-vs-actuals": "बजट ट्रैकर के बा",
+        "cashflow-projection": "नकदी के पूर्वानुमान बा",
+        "report-builder": "कस्टम रिपोर्ट के बारे में बतावल गइल बा",
+        "general-ledger": "जनरल लेजर के बा",
+        "live-financials": "लाइव फाइनेंशियल के बारे में बतावल गइल बा",
+        "ai-analyst": "एआई विश्लेषक के ह"
+      },
+      "advanced-features": {
+        "overview": "अवलोकन कइल जाव"
+      },
+      "parties": {
+        "all-parties": "सभे दल के बा",
+        "customer-ledgers": "ग्राहकन के कहना बा",
+        "supplier-ledgers": "आपूर्तिकर्ता लोग के बा",
+        "shared-ledger": "साझा लेजर के बा",
+        "statements": "बयान दिहल गइल बा",
+        "reminders": "याद दिआवल जाला",
+        "documents": "पार्टी के दस्तावेज के बारे में बतावल गईल",
+        "portal": "पार्टी पोर्टल के बा",
+        "import": "पार्टी के आयात के बा",
+        "duplicate-merge": "डुप्लिकेट मर्ज कइल जाला",
+        "gap-analysis": "गैप एनालिसिस के बारे में बतावल गइल बा"
+      },
+      "inventory": {
+        "inventory-items": "वस्तू",
+        "godowns": "गोदाम के बा",
+        "stock-movement": "स्टॉक मूवमेंट के बा",
+        "item-pricing": "दाम तय कइल जाला",
+        "stock-valuation": "स्टॉक के मूल्यांकन के बारे में बतावल गइल बा",
+        "reorder-alerts": "अलर्ट के फेर से क्रमबद्ध करीं",
+        "batch-serials": "बैच अउर सीरियल के बा",
+        "barcode-labels": "बारकोड लेबल के बारे में बतावल गइल बा",
+        "item-import": "आइटम आयात कइल जाला",
+        "gap-analysis": "गैप एनालिसिस के बारे में बतावल गइल बा"
+      },
+      "assets": {
+        "asset-register": "संपत्ति के सूची बा",
+        "depreciation": "मूल्यह्रास हो गइल बा",
+        "disposal-revaluation": "बेचल भा पुनर्मूल्यांकन कइल"
+      },
+      "masters": {
+        "chart-of-accounts": "खाता के सूची बा",
+        "tax-masters": "कर दर के बारे में बतावल गइल बा",
+        "cost-centers": "लागत केंद्र के बा",
+        "voucher-types": "लेनदेन के प्रकार के बारे में बतावल गइल बा",
+        "opening-balances": "बैलेंस शुरू होखे के बा",
+        "currencies": "मुद्रा के बारे में बतावल गइल बा"
+      },
+      "business-tools": {
+        "staff-payroll": "पेरोल के नाम से जानल जाला",
+        "manage-users": "उपयोगकर्ता के पहुँच के बारे में बतावल गइल बा",
+        "online-orders": "ऑनलाइन ऑर्डर दिहल जाला",
+        "sms-marketing": "एसएमएस मार्केटिंग के बा",
+        "accountant-hub": "एकाउंटेंट अउर सपोर्ट के ह"
+      },
+      "party-tools": {
+        "documents": "पार्टी के दस्तावेज के बारे में बतावल गईल",
+        "portal": "पार्टी पोर्टल के बा",
+        "import": "पार्टी के आयात के बा",
+        "duplicate-merge": "डुप्लिकेट मर्ज कइल जाला",
+        "gap-analysis": "गैप एनालिसिस के बारे में बतावल गइल बा"
+      },
+      "item-tools": {
+        "reorder-alerts": "अलर्ट के फेर से क्रमबद्ध करीं",
+        "batch-serials": "बैच अउर सीरियल के बा",
+        "barcode-labels": "बारकोड लेबल के बारे में बतावल गइल बा",
+        "item-import": "आइटम आयात कइल जाला",
+        "gap-analysis": "गैप एनालिसिस के बारे में बतावल गइल बा"
+      },
+      "storage": {
+        "client-storage": "क्लाइंट फाइल के बारे में बतावल गइल बा",
+        "unifiedtree-storage": "क्लाउड स्टोरेज के बारे में बतावल गइल बा"
+      },
+      "alerts": {
+        "accountant-alerts": "लेखाकार के अलर्ट बा",
+        "compliance-alerts": "अनुपालन के अलर्ट दिहल गइल बा",
+        "cash-risk-alerts": "नकद आ जोखिम के अलर्ट दिहल गइल बा",
+        "ca-access": "सीए अस्थायी पहुँच के बा"
+      },
+      "migration": {
+        "import": "डेटा आयात कइल जाला",
+        "export": "डेटा निर्यात कइल जाला",
+        "history": "आयात के इतिहास के बारे में बतावल गइल बा",
+        "tally-import": "टैली एंड ज़ोहो से आयात कइल जाला"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "खरीददारी आ भुगतान के काम होला",
+      "accountingSetup": "लेखा सेटअप के बारे में बतावल गइल बा",
+      "dataDocuments": "डेटा अउर दस्तावेज के बारे में बतावल गइल बा"
+    }
+  },
+  "common": {
+    "save": "बदलाव के सहेजल जाला",
+    "cancel": "मना कइ दीं",
+    "create": "बनावल",
+    "edit": "संपादन कईल",
+    "delete": "हटाईं",
+    "search": "तलाशी",
+    "connect": "जुड़ीं",
+    "configure": "कॉन्फ़िगर कइल जाला",
+    "disconnect": "डिस्कनेक्ट हो गइल बा",
+    "sync": "अब सिंक करीं",
+    "close": "बंद करीं",
+    "reset": "डिफ़ॉल्ट पर रीसेट कइल जाला",
+    "back": "पीछे",
+    "continue": "चालू रखीं",
+    "all": "कुल्हि",
+    "retry": "दोबारा कोशिश करीं",
+    "loading": "लोड हो रहल बा...",
+    "resetDemo": "डेमो डेटा के रीसेट करीं"
+  },
+  "shell": {
+    "searchPlaceholder": "कुछ भी खोजल जाव...",
+    "settings": "सेटिंग्स के बारे में बतावल गइल बा",
+    "language": "भाखा",
+    "role": "भूमिका",
+    "greeting": {
+      "morning": "शुभ प्रभात",
+      "afternoon": "शुभ दूपहरिया",
+      "evening": "शुभ संध्या"
+    },
+    "settingsItems": {
+      "company-profile": "कंपनी के प्रोफाइल बा",
+      "configuration": "कॉन्फ़िगरेशन के बारे में बतावल गइल बा",
+      "fiscal-periods": "राजकोषीय अवधि के बारे में बतावल गइल बा",
+      "roles": "भूमिका आ उपयोगकर्ता लोग के बा",
+      "integrations": "एकीकरण के काम कइल जाला",
+      "notifications": "सूचना दिहल गइल बा",
+      "audit-logs": "ऑडिट एंड लॉग के बारे में बतावल गइल बा",
+      "audit-trail": "छेड़छाड़-प्रूफ ऑडिट ट्रेल के बा",
+      "developer": "डेवलपर अउर एपीआई के बा"
+    },
+    "translatedLanguages": "अनुवाद कइल गइल बा",
+    "untranslatedLanguages": "जबले अनुवाद ना हो जाव तबले अंग्रेजी"
+  },
+  "status": {
+    "filed": "दायर कइल गइल बा",
+    "ready": "फाइल करे खातिर तइयार बा",
+    "open": "अवधि खुलल बा",
+    "paid": "भुगतान भईल",
+    "pending": "फँसल",
+    "accepted": "स्वीकार कइल गइल",
+    "delivered": "पहुंची देहनी",
+    "rejected": "खारिज कर दिहल गइल",
+    "pdf-sent": "पीडीएफ भेजल गइल बा",
+    "not-sent": "ना भेजल गइल",
+    "matched": "मिलान कइल गइल",
+    "mismatch": "बेमेल हो गइल बा",
+    "missing-supplier": "आपूर्तिकर्ता के ओर से रिपोर्ट नईखे कईल गईल",
+    "missing-books": "किताबन में गायब बा",
+    "deferred": "स्थगित कर दिहल गइल",
+    "deducted": "कटौती कइल गइल बा",
+    "remitted": "रिमिट कर दिहल गइल",
+    "certified": "प्रमाणित कइल गइल बा",
+    "to-report": "रिपोर्ट करे खातिर",
+    "reported": "रिपोर्ट कइल गइल बा",
+    "accounted": "लेखा-जोखा कइल गइल",
+    "overdue": "ओवरड्यू हो गइल बा"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "फाइल करे खातिर तइयार बा",
+      "liabilityDue": "देय दायित्व के बा",
+      "paidThisYear": "एह साल भुगतान कइल गइल",
+      "nextDeadline": "अगिला समय सीमा के बा",
+      "noneOverdue": "कवनो ओवरड्यू ना भइल",
+      "overdue": "{{count}} ओवरड्यू हो गइल बा"
+    },
+    "filter": {
+      "ready": "फाइल करे खातिर तइयार बा",
+      "open": "खुला",
+      "filed": "दायर कइल गइल बा"
+    },
+    "col": {
+      "period": "अवधि",
+      "authority": "अधिकार",
+      "rate": "भाव",
+      "due": "बकाया",
+      "netPayable": "शुद्ध देय के बा",
+      "status": "ओहदा",
+      "ack": "आभार व्यक्त कइल जाला"
+    },
+    "file": "फाइल",
+    "view": "नजारा",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "अधिकार क्षेत्र लोड हो रहल बा...",
+    "nothingToFile": "कवनो रिटर्न दाखिल करे के इंतजार नइखे होखत — सगरी बंद अवधि जमा हो गइल बा.",
+    "fileNext": "अगिला फाइल: {{name}}",
+    "steps": {
+      "review": "समीक्षा",
+      "validate": "मान्यता दिहल जाव",
+      "declare": "घोषणा & जमा करे के बा",
+      "ack": "आभार व्यक्त कइल जाला"
+    },
+    "runValidation": "सत्यापन चलावे के बा",
+    "validating": "मान्यता दिहल जा रहल बा...",
+    "submit": "Submit {{form}}",
+    "submitting": "सबमिट कइल जा रहल बा...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "शुद्ध राशि के बा",
+    "submitted": "जमा कइल गइल बा",
+    "filedOn": "पर दाखिल भइल बा",
+    "regime": {
+      "authority": "अधिकार",
+      "channel": "फाइलिंग चैनल के बा",
+      "return": "लउटल",
+      "due": "बकाया",
+      "standardRate": "मानक दर के बा",
+      "threshold": "रजिस्ट्रेशन के सीमा बा"
+    },
+    "demoNote": "बिल्ट-इन मॉक टैक्स एपीआई से डेमो डेटा — फाइलिंग आ भुगतान के सिमुलेट कइल जाला आ कवनो टैक्स अथॉरिटी के कुछ ना भेजल जाला।"
+  },
+  "fx": {
+    "title": "विदेशी मुद्रा के बा",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "नया एफएक्स चालान / बिल बा",
+    "kpi": {
+      "netExposure": "नेट एफएक्स एक्सपोजर के बा",
+      "openDocs": "{{count}} दस्तावेज खोलल जाला",
+      "unrealized": "अवास्तविक लाभ / हानि के बा",
+      "postedSplit": "{{posted}} पोस्ट कइल गइल · {{unposted}} अभी तक नइखे",
+      "realized": "एह साल एहसास भइल",
+      "lastReval": "पिछला पुनर्मूल्यांकन के बा",
+      "never": "कब्बो ना",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "खुलल आइटम के बा",
+      "settled": "बस गइल बा",
+      "revaluation": "महीना के अंत में पुनर्मूल्यांकन कइल जाला",
+      "journal": "एफएक्स जर्नल के ह"
+    },
+    "col": {
+      "document": "दस्तावेज",
+      "type": "किसिम",
+      "openForeign": "खुला (विदेशी) के बा।",
+      "bookedNow": "बुक हो गइल / अब",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "अवास्तविक हो गइल",
+      "status": "ओहदा",
+      "amount": "राशि",
+      "bookedRate": "बुक कइल गइल दर",
+      "realized": "एहसास भईल"
+    },
+    "receivable": "प्राप्य बा",
+    "payable": "देय बा",
+    "receive": "पायीं",
+    "pay": "भुगतान",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "बस गइल बा",
+      "partial": "आंशिक रूप से बसल बा",
+      "open": "खुला"
+    },
+    "demoNote": "बिल्ट-इन मॉक एपीआई से डेमो डेटा — दर सिमुलेटेड होला, लाइव बाजार डेटा ना।"
+  }
+}

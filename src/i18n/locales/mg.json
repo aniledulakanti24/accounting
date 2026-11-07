@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Isan'andro",
+      "finance": "Finance",
+      "advanced": "Advanced"
+    },
+    "mainMenu": "Main Menu",
+    "short": {
+      "parties": "Mpifanaraka"
+    },
+    "sections": {
+      "dashboard": "anaty fiara",
+      "sales": "Varotra",
+      "receivables": "Vola In",
+      "procurement": "Fividianana",
+      "payables": "Vola mivoaka",
+      "cashbank": "Cash & Bank",
+      "expenses": "VOLA LANINAO",
+      "tax": "HETRA",
+      "reports": "tatitra",
+      "advanced-features": "Advanced Features",
+      "parties": "Mpanjifa & mpamatsy",
+      "inventory": "IREO SINGA NASIANA",
+      "assets": "Fananana raikitra",
+      "masters": "Setup & Configuration",
+      "business-tools": "Ekipa & Fitaovana",
+      "party-tools": "Party Tools",
+      "item-tools": "Item Tools",
+      "storage": "Docs",
+      "alerts": "fanairana",
+      "migration": "Data fifindra-monina"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Overview",
+        "cash-flow": "Fihodinan'ny vola tolobositra",
+        "tax-calendar": "Kalandrie hetra"
+      },
+      "sales": {
+        "quotations": "fakan-teny",
+        "proforma-invoices": "PI",
+        "sales-invoices": "faktiora",
+        "delivery-challans": "Livraison Challan",
+        "receipts": "rosia",
+        "invoice-desk": "Biraon'ny faktiora"
+      },
+      "receivables": {
+        "money-in-center": "Vola ao afovoany",
+        "receivables": "Receivables",
+        "payments-received": "Fandoavana voaray",
+        "overdue-collections": "Fanangonana & Fampahatsiahivana",
+        "credit-notes": "Credit Notes & Refunds",
+        "sales-returns": "Famerenana ny varotra",
+        "customer-statements": "Fanambarana mpanjifa",
+        "payment-links": "Rohy fandoavam-bola"
+      },
+      "procurement": {
+        "purchase-center": "Foibe fividianana",
+        "purchase-orders": "Buy Orders",
+        "goods-receipt": "Fandraisan'anjara",
+        "purchase-invoices": "Purchase Invoice",
+        "payment-out": "Fandoavana natao",
+        "returns-debit-notes": "Return & Debit Notes",
+        "bill-approvals": "Fankatoavana Bill"
+      },
+      "payables": {
+        "bills": "Foibe fandoavam-bola",
+        "payments": "Fandoavana ny mpamatsy",
+        "workforce": "Mpiasa",
+        "adjustments": "fanitsiana",
+        "bank-release": "Bank Release"
+      },
+      "cashbank": {
+        "bank-accounts": "Ny Kaontiko",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Petty Cash",
+        "contra": "Eo anelanelan'ny kaonty",
+        "cheque-register": "taratasim-bola",
+        "foreign-currency": "Vola vahiny",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Fitsipika & Fampihavanana"
+      },
+      "expenses": {
+        "expense-center": "Ny fandaniana rehetra",
+        "categories": "Karazana fandaniana",
+        "automated-bills": "Fandaniam-bola miverimberina",
+        "journal-vouchers": "Entries manual",
+        "provisions": "Accruals",
+        "write-offs": "Famotsorana",
+        "period-close": "faran'ny volana"
+      },
+      "tax": {
+        "gst-returns": "Fametrahana GST",
+        "gst-filing-wizard": "⚡ File GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-Faktiora",
+        "e-way-bills": "Faktiora E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Mandoa hetra",
+        "quarterly-compliance": "Kalandrie fanarahan-dalàna",
+        "ca-access": "CA Temporary Access",
+        "gst-from-books": "GST avy amin'ny boky"
+      },
+      "reports": {
+        "financial-statements": "Tatitra ara-bola",
+        "books": "Boky Transaction",
+        "gst-reports": "Tatitra momba ny GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Tombontsoa",
+        "period-comparatives": "Taona fampitahana",
+        "budget-vs-actuals": "Tetibola Tracker",
+        "cashflow-projection": "Vola vinavina",
+        "report-builder": "Custom Reports",
+        "general-ledger": "Jeneraly Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Overview"
+      },
+      "parties": {
+        "all-parties": "Antoko Rehetra",
+        "customer-ledgers": "mpanjifa",
+        "supplier-ledgers": "mpamatsy",
+        "shared-ledger": "Ledger zaraina",
+        "statements": "fanambarana",
+        "reminders": "FAMPAHATSIAHIVAN'ANDRIAMANITRA?",
+        "documents": "Antontan-taratasy momba ny antoko",
+        "portal": "Portal Antoko",
+        "import": "Fanafarana antoko",
+        "duplicate-merge": "Mitambatra duplicate",
+        "gap-analysis": "Famakafakana Gap"
+      },
+      "inventory": {
+        "inventory-items": "IREO SINGA NASIANA",
+        "godowns": "trano fanatobiana entana",
+        "stock-movement": "Stock Movement",
+        "item-pricing": "Pricing",
+        "stock-valuation": "Stock Valuation",
+        "reorder-alerts": "Avereno alahatra ny fanairana",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Import entana",
+        "gap-analysis": "Famakafakana Gap"
+      },
+      "assets": {
+        "asset-register": "Lisitry ny fananana",
+        "depreciation": "fihenan-danjan'ny",
+        "disposal-revaluation": "Amidy na Avereno tombana"
+      },
+      "masters": {
+        "chart-of-accounts": "Lisitry ny kaonty",
+        "tax-masters": "Saram-bola",
+        "cost-centers": "Cost Centers",
+        "voucher-types": "Karazana fifampiraharahana",
+        "opening-balances": "Fandanjalanjana fanombohana",
+        "currencies": "vola"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll",
+        "manage-users": "User Access",
+        "online-orders": "Kaomandy an-tserasera",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Antontan-taratasy momba ny antoko",
+        "portal": "Portal Antoko",
+        "import": "Fanafarana antoko",
+        "duplicate-merge": "Mitambatra duplicate",
+        "gap-analysis": "Famakafakana Gap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Avereno alahatra ny fanairana",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Import entana",
+        "gap-analysis": "Famakafakana Gap"
+      },
+      "storage": {
+        "client-storage": "Client Files",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Fanairana kaonty",
+        "compliance-alerts": "Fanairana fanarahan-dalàna",
+        "cash-risk-alerts": "Fanairana vola sy risika",
+        "ca-access": "CA Temporary Access"
+      },
+      "migration": {
+        "import": "Manafatra angona",
+        "export": "Export Data",
+        "history": "Import History",
+        "tally-import": "Import avy any Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Fividianana & Fandoavana",
+      "accountingSetup": "Accounting Setup",
+      "dataDocuments": "Data & Documents"
+    }
+  },
+  "common": {
+    "save": "Save Changes",
+    "cancel": "hanafoana",
+    "create": "MANANGANA",
+    "edit": "Ovay",
+    "delete": "Mamafa",
+    "search": "karohy",
+    "connect": "Connect",
+    "configure": "Tefeo",
+    "disconnect": "elektrônika",
+    "sync": "Ampifanaraho izao",
+    "close": "AKAIKY",
+    "reset": "Hiverina any amin'ny Defaults",
+    "back": "indray",
+    "continue": "FOANA",
+    "all": "rehetra",
+    "retry": "Hanandrana indray",
+    "loading": "Loading…",
+    "resetDemo": "Avereno ny angona demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Hikaroka na inona na inona…",
+    "settings": "Fikirana",
+    "language": "Fiteny",
+    "role": "anjara asa",
+    "greeting": {
+      "morning": "Salama",
+      "afternoon": "Salama",
+      "evening": "Salama"
+    },
+    "settingsItems": {
+      "company-profile": "Piraofilin'ny orinasa",
+      "configuration": "fanahafana",
+      "fiscal-periods": "Vanim-potoana ara-bola",
+      "roles": "Andraikitra & Mpampiasa",
+      "integrations": "Integrations",
+      "notifications": "fampahatsiahivana",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "nandika",
+    "untranslatedLanguages": "Anglisy mandra-padika"
+  },
+  "status": {
+    "filed": "fitoriana",
+    "ready": "Vonona hametraka",
+    "open": "Vanim-potoana misokatra",
+    "paid": "karama",
+    "pending": "mbola miandry",
+    "accepted": "nanaiky",
+    "delivered": "Nafahana",
+    "rejected": "TSY",
+    "pdf-sent": "PDF nalefa",
+    "not-sent": "Tsy nalefa",
+    "matched": "mifanentana",
+    "mismatch": "Tsy mifanentana",
+    "missing-supplier": "Tsy notaterin'ny mpamatsy",
+    "missing-books": "Tsy hita ao anaty boky",
+    "deferred": "azo vetivety dia mankarary",
+    "deducted": "nakòn",
+    "remitted": "voavela",
+    "certified": "voamarina",
+    "to-report": "Mitatitra",
+    "reported": "nitatitra",
+    "accounted": "fiheverana",
+    "overdue": "loatra izany"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Vonona hametraka",
+      "liabilityDue": "Adidy tokony hatao",
+      "paidThisYear": "Voaloa tamin'ity taona ity",
+      "nextDeadline": "Fe-potoana manaraka",
+      "noneOverdue": "Tsy misy tara",
+      "overdue": "{{count}} tara"
+    },
+    "filter": {
+      "ready": "Vonona hametraka",
+      "open": "Misokatra",
+      "filed": "fitoriana"
+    },
+    "col": {
+      "period": "NANOMBOKA TEO",
+      "authority": "fahefana",
+      "rate": "taha",
+      "due": "noho",
+      "netPayable": "Tsy maintsy aloa",
+      "status": "sata",
+      "ack": "fahalalana"
+    },
+    "file": "rakitra",
+    "view": "View",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Fametrahana fahefana…",
+    "nothingToFile": "Tsy misy fiverenana miandry ny fametrahana - ny fe-potoana mihidy rehetra dia alefa.",
+    "fileNext": "File manaraka: {{name}}",
+    "steps": {
+      "review": "FAMERENANA",
+      "validate": "hanamafy",
+      "declare": "Ambarao & atolotra",
+      "ack": "fahalalana"
+    },
+    "runValidation": "Manaova validation",
+    "validating": "Manamarina…",
+    "submit": "Alefaso {{form}}",
+    "submitting": "Mandefa…",
+    "declaration": "Manambara aho fa marina sy feno ny fampahalalana amin'ity fiverenana ity, ary mahazo alalana aho handefa izany any amin'ny {{authority}}.",
+    "netAmount": "Vola madiodio",
+    "submitted": "nanaiky",
+    "filedOn": "Napetraka tamin'ny",
+    "regime": {
+      "authority": "fahefana",
+      "channel": "Fantsona fandefasana",
+      "return": "Miverena",
+      "due": "noho",
+      "standardRate": "tahan'ny manara-penitra",
+      "threshold": "Fehezan'ny fisoratana anarana"
+    },
+    "demoNote": "Ny angon-drakitry ny demo avy amin'ny API hetra maneso naorina — ny antontan-taratasy sy ny fandoavam-bola dia amboarina ary tsy misy alefa any amin'ny manampahefana hetra."
+  },
+  "fx": {
+    "title": "Vola vahiny",
+    "subtitle": "Vola fototra {{base}} · fanondro ny tahan'ny tsena",
+    "newDoc": "Faktiora / faktiora FX vaovao",
+    "kpi": {
+      "netExposure": "Net FX exposure",
+      "openDocs": "{{count}} antontan-taratasy misokatra",
+      "unrealized": "Tombontsoa/fatiantoka tsy tontosa",
+      "postedSplit": "{{posted}} dia navoaka · {{unposted}} tsy mbola",
+      "realized": "Tsapa tamin'ity taona ity",
+      "lastReval": "Famerenana farany",
+      "never": "tsy",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Sokafy entana",
+      "settled": "nanorim-ponenana",
+      "revaluation": "Famerenana amin'ny faran'ny volana",
+      "journal": "FX diary"
+    },
+    "col": {
+      "document": "tahirin-kevitra",
+      "type": "Type",
+      "openForeign": "Misokatra (vahiny)",
+      "bookedNow": "Namandrika / izao",
+      "valueIn": "Sanda ao amin'ny {{base}}",
+      "unrealized": "tsy tanteraka",
+      "status": "sata",
+      "amount": "vola",
+      "bookedRate": "Sarany namandrika",
+      "realized": "tonga saina"
+    },
+    "receivable": "azo raisina",
+    "payable": "hofany",
+    "receive": "Raiso",
+    "pay": "KARAMANY",
+    "netIn": "Net ao amin'ny {{base}}",
+    "state": {
+      "settled": "nanorim-ponenana",
+      "partial": "Ampahany mipetraka",
+      "open": "Misokatra"
+    },
+    "demoNote": "Ny angona demo avy amin'ny API fanesoana naorina — ny sarany dia natao simulate, fa tsy angona tsena mivantana."
+  }
+}

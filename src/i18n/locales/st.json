@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Letsatsi le letsatsi",
+      "finance": "Lichelete",
+      "advanced": "E tsoetseng pele"
+    },
+    "mainMenu": "Main menu",
+    "short": {
+      "parties": "Mekha"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Thekiso",
+      "receivables": "Chelete Ka",
+      "procurement": "Theko",
+      "payables": "Chelete Tsoa",
+      "cashbank": "Chelete le Banka",
+      "expenses": "Litšenyehelo",
+      "tax": "Lekhetho",
+      "reports": "Litlaleho",
+      "advanced-features": "Lintlha tse tsoetseng pele",
+      "parties": "Bareki le Bafani ba thepa",
+      "inventory": "Lintho",
+      "assets": "Matlotlo a Tsitsitseng",
+      "masters": "Seta & Tlhophiso",
+      "business-tools": "Sehlopha le Lisebelisoa",
+      "party-tools": "Lisebelisoa tsa Mokete",
+      "item-tools": "Lintho Lisebelisoa",
+      "storage": "Litokomane",
+      "alerts": "Litemoso",
+      "migration": "Phalliso ea Boitsebiso"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Kakaretso",
+        "cash-flow": "Phallo ea chelete",
+        "tax-calendar": "Khalendara ea Lekhetho"
+      },
+      "sales": {
+        "quotations": "Mantsoe a qotsitsoeng",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Delivery Challan",
+        "receipts": "Receipt",
+        "invoice-desk": "Lefapha la Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Chelete Setsing",
+        "receivables": "Dikamohelo",
+        "payments-received": "Litefiso li Amohetse",
+        "overdue-collections": "Likhopotso le Likhopotso",
+        "credit-notes": "Lintlha tsa Mokitlane le Lichelete",
+        "sales-returns": "Sales Returns",
+        "customer-statements": "Lipolelo tsa bareki",
+        "payment-links": "Lihokelo tsa Tefo"
+      },
+      "procurement": {
+        "purchase-center": "Setsi sa Theko",
+        "purchase-orders": "Theko Litaelo",
+        "goods-receipt": "Receipt ea Thepa",
+        "purchase-invoices": "Li-invoice tsa ho reka",
+        "payment-out": "Litefiso tse Entsoe",
+        "returns-debit-notes": "Returns & Debit Notes",
+        "bill-approvals": "Litumello tsa Bili"
+      },
+      "payables": {
+        "bills": "Setsi sa Lefa",
+        "payments": "Litefiso tsa Bafani",
+        "workforce": "Basebetsi",
+        "adjustments": "Liphetoho",
+        "bank-release": "Phatlalatso ea Banka"
+      },
+      "cashbank": {
+        "bank-accounts": "Liakhaonto Tsa Ka",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Chelete e nyane",
+        "contra": "Pakeng tsa Liakhaonto",
+        "cheque-register": "Licheke",
+        "foreign-currency": "Chelete ea Kantle ho Naha",
+        "bank-feeds": "Banka Feeds",
+        "bank-rules": "Melao & Poelano"
+      },
+      "expenses": {
+        "expense-center": "Litšenyehelo Tsohle",
+        "categories": "Mefuta ea Litšenyehelo",
+        "automated-bills": "Litšenyehelo tse Tsoang Khafetsa",
+        "journal-vouchers": "Kenyelletso ka Manual",
+        "provisions": "Accruals",
+        "write-offs": "Lits'oants'o",
+        "period-close": "Khoeli-Qetellong"
+      },
+      "tax": {
+        "gst-returns": "Tlhahiso ea GST",
+        "gst-filing-wizard": "⚡ Faele ea GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-invoice",
+        "e-way-bills": "Likoloto tsa E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Lefa Lekhetho",
+        "quarterly-compliance": "Khalendara ea Tumellano",
+        "ca-access": "CA Phihlello ea Nakoana",
+        "gst-from-books": "GST ho tsoa Libuka"
+      },
+      "reports": {
+        "financial-statements": "Litlaleho tsa Lichelete",
+        "books": "Libuka tsa Transaction",
+        "gst-reports": "Litlaleho tsa GST",
+        "ar-ap": "Receivable vs Ho Lefshoa",
+        "profitability": "Phaello",
+        "period-comparatives": "Selemo Papiso",
+        "budget-vs-actuals": "Tekanyetso Tracker",
+        "cashflow-projection": "Chelete Forecast",
+        "report-builder": "Litlaleho tsa Tloaelo",
+        "general-ledger": "General Ledger",
+        "live-financials": "Phela Lichelete",
+        "ai-analyst": "Mohlahlobi oa AI"
+      },
+      "advanced-features": {
+        "overview": "Kakaretso"
+      },
+      "parties": {
+        "all-parties": "Mekha kaofela",
+        "customer-ledgers": "Bareki",
+        "supplier-ledgers": "Bafani ba thepa",
+        "shared-ledger": "Ledger e arolelanoeng",
+        "statements": "Lipolelo",
+        "reminders": "Likhopotso",
+        "documents": "Litokomane tsa Mokha",
+        "portal": "Mokete Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Kopanya habeli",
+        "gap-analysis": "Tlhahlobo ea Lekhalo"
+      },
+      "inventory": {
+        "inventory-items": "Lintho",
+        "godowns": "Libaka tsa polokelo",
+        "stock-movement": "Motsamao oa Setoko",
+        "item-pricing": "Theko",
+        "stock-valuation": "Theko ea Setoko",
+        "reorder-alerts": "Hlophisa Litlhokomeliso",
+        "batch-serials": "Sehlopha le seriale",
+        "barcode-labels": "Li-Labels tsa Barcode",
+        "item-import": "Ntho ea Keta",
+        "gap-analysis": "Tlhahlobo ea Lekhalo"
+      },
+      "assets": {
+        "asset-register": "Lethathamo la Matlotlo",
+        "depreciation": "Ho theoha ha boleng",
+        "disposal-revaluation": "Rekisa kapa Rekisa"
+      },
+      "masters": {
+        "chart-of-accounts": "Lethathamo la Liakhaonto",
+        "tax-masters": "Litefiso tsa Lekhetho",
+        "cost-centers": "Litsi tsa Litšenyehelo",
+        "voucher-types": "Mefuta ea Transaction",
+        "opening-balances": "Ho qala ho leka-lekanya",
+        "currencies": "Lichelete"
+      },
+      "business-tools": {
+        "staff-payroll": "Moputso",
+        "manage-users": "Access Access",
+        "online-orders": "Litaelo tsa Inthaneteng",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Liak'haonte le Tšehetso"
+      },
+      "party-tools": {
+        "documents": "Litokomane tsa Mokha",
+        "portal": "Mokete Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Kopanya habeli",
+        "gap-analysis": "Tlhahlobo ea Lekhalo"
+      },
+      "item-tools": {
+        "reorder-alerts": "Hlophisa Litlhokomeliso",
+        "batch-serials": "Sehlopha le seriale",
+        "barcode-labels": "Li-Labels tsa Barcode",
+        "item-import": "Ntho ea Keta",
+        "gap-analysis": "Tlhahlobo ea Lekhalo"
+      },
+      "storage": {
+        "client-storage": "Lifaele tsa Client",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Litlhokomeliso tsa Accountant",
+        "compliance-alerts": "Litlhokomeliso tsa Tumellano",
+        "cash-risk-alerts": "Chelete & Litlhokomeliso tsa Kotsi",
+        "ca-access": "CA Phihlello ea Nakoana"
+      },
+      "migration": {
+        "import": "Fumana Boitsebiso",
+        "export": "Export Data",
+        "history": "Nalane ea kantle",
+        "tally-import": "Fumana ho tsoa ho Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Theko & Litefo",
+      "accountingSetup": "Tlhophiso ea Accounting",
+      "dataDocuments": "Lintlha le Litokomane"
+    }
+  },
+  "common": {
+    "save": "Boloka Liphetoho",
+    "cancel": "Hlakola",
+    "create": "Theha",
+    "edit": "Fetola",
+    "delete": "Hlakola",
+    "search": "Batla",
+    "connect": "Hokela",
+    "configure": "Hlophisa",
+    "disconnect": "Hakolla",
+    "sync": "Sync Hona Joale",
+    "close": "Koala",
+    "reset": "Khutlela ho Defaults",
+    "back": "Morao",
+    "continue": "Tsoela pele",
+    "all": "Tsohle",
+    "retry": "Leka hape",
+    "loading": "E ea kenya...",
+    "resetDemo": "Seta bocha data ea demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Batla eng kapa eng...",
+    "settings": "Litlhophiso",
+    "language": "Puo",
+    "role": "Karolo",
+    "greeting": {
+      "morning": "Khotsong",
+      "afternoon": "Lumelang",
+      "evening": "Lumelang"
+    },
+    "settingsItems": {
+      "company-profile": "Boemo ba Khoebo",
+      "configuration": "Tlhophiso",
+      "fiscal-periods": "Linako tsa Lichelete",
+      "roles": "Likarolo le Basebelisi",
+      "integrations": "Kopanyo",
+      "notifications": "Litsebiso",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Tsela ea ho Audit e senyehileng",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "E fetoletsoe",
+    "untranslatedLanguages": "Senyesemane ho fihlela se fetoleloa"
+  },
+  "status": {
+    "filed": "E felisitsoe",
+    "ready": "E loketse ho faela",
+    "open": "Nako e butsoeng",
+    "paid": "Lefile",
+    "pending": "E emetse",
+    "accepted": "E amohetsoe",
+    "delivered": "E filwe",
+    "rejected": "Hanoa",
+    "pdf-sent": "PDF e rometsoe",
+    "not-sent": "Ha e rometsoe",
+    "matched": "E tsamaellana",
+    "mismatch": "Phapang",
+    "missing-supplier": "Ha e tlalehe ke morekisi",
+    "missing-books": "E sieo libukeng",
+    "deferred": "E chechisitsoe morao",
+    "deducted": "E tlositsoe",
+    "remitted": "E rometsoe",
+    "certified": "Pakiloeng",
+    "to-report": "Ho tlaleha",
+    "reported": "E tlalehiloe",
+    "accounted": "E behiloe",
+    "overdue": "E fetiloe ke nako"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "E loketse ho faela",
+      "liabilityDue": "Boikarabello bo lokelang",
+      "paidThisYear": "E lefelletsoe selemong sena",
+      "nextDeadline": "Nako ea ho qetela e latelang",
+      "noneOverdue": "Ha ho na tse siiloeng ke nako",
+      "overdue": "{{count}} e fetiloe ke nako"
+    },
+    "filter": {
+      "ready": "E loketse ho faela",
+      "open": "Bula",
+      "filed": "E felisitsoe"
+    },
+    "col": {
+      "period": "Nako",
+      "authority": "Bolaoli",
+      "rate": "Sekhahla",
+      "due": "E tlameha",
+      "netPayable": "Chelete e lefelloang",
+      "status": "Boemo",
+      "ack": "Kananelo"
+    },
+    "file": "Faele",
+    "view": "Sheba",
+    "fileForm": "Faele {{form}}",
+    "loadingJurisdiction": "E kenya sebaka sa ho laola...",
+    "nothingToFile": "Ha ho lipoelo tse emetseng ho hlahisoa - linako tsohle tse koetsoeng li rometsoe.",
+    "fileNext": "Kenya faele e latelang: {{name}}",
+    "steps": {
+      "review": "Hlahloba",
+      "validate": "Netefatsa",
+      "declare": "Phatlalatsa & ikokobelletsa",
+      "ack": "Kananelo"
+    },
+    "runValidation": "Matha netefatso",
+    "validating": "E ea netefatsa...",
+    "submit": "Kenya {{form}}",
+    "submitting": "E ea romela...",
+    "declaration": "Ke phatlalatsa hore lintlha tse bukeng ena ke 'nete, li feletse, le hore ke filoe tumello ea ho li romela ho {{authority}}.",
+    "netAmount": "Chelete ea chelete",
+    "submitted": "E rometsoe",
+    "filedOn": "E kentsoe ho",
+    "regime": {
+      "authority": "Bolaoli",
+      "channel": "Ho faela mocha",
+      "return": "Kgutla",
+      "due": "E tlameha",
+      "standardRate": "Sekhahla se tloaelehileng",
+      "threshold": "Moeli oa ho ngolisa"
+    },
+    "demoNote": "Lintlha tsa demo ho tsoa ho API ea lekhetho e hahelletsoeng ka hare - litefiso le litefo lia etsisoa 'me ha ho letho le romelloang ho balaoli ba lekhetho."
+  },
+  "fx": {
+    "title": "Chelete ea Kantle ho Naha",
+    "subtitle": "Chelete ea mantlha {{base}} · litefiso tsa 'maraka tsa mock",
+    "newDoc": "Invoice / bili e ncha ea FX",
+    "kpi": {
+      "netExposure": "Nete ​​​​ea FX",
+      "openDocs": "{{count}} litokomane tse butsoeng",
+      "unrealized": "Phaello/ tahlehelo e sa phethahalang",
+      "postedSplit": "{{posted}} e beilwe · {{unposted}} ha eso",
+      "realized": "E fumaneha selemong sena",
+      "lastReval": "Moralo oa ho qetela",
+      "never": "Le ka mohla",
+      "suggested": "Tlhahiso: {{date}}"
+    },
+    "view": {
+      "open": "Bula lintho",
+      "settled": "Settled",
+      "revaluation": "Tlhahlobo ea ho qetela ea khoeli",
+      "journal": "FX koranta"
+    },
+    "col": {
+      "document": "Tokomane",
+      "type": "Mofuta",
+      "openForeign": "Bula (ea kantle)",
+      "bookedNow": "E ngolisitsoe / hona joale",
+      "valueIn": "Boleng ho {{base}}",
+      "unrealized": "E sa phethahalang",
+      "status": "Boemo",
+      "amount": "Chelete",
+      "bookedRate": "Reite e ngolisitsoeng",
+      "realized": "E elelloa"
+    },
+    "receivable": "E amohetsoeng",
+    "payable": "E lefelloang",
+    "receive": "Amohela",
+    "pay": "Lefa",
+    "netIn": "Nete ​​ka {{base}}",
+    "state": {
+      "settled": "Settled",
+      "partial": "Karolo e itseng",
+      "open": "Bula"
+    },
+    "demoNote": "Lintlha tsa demo ho tsoa ho API ea mock e hahelletsoeng - litefiso lia etsisoa, eseng data ea 'maraka o teng."
+  }
+}

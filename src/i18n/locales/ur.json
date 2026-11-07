@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "دن بہ دن",
+      "finance": "فنانس",
+      "advanced": "اعلی درجے کی"
+    },
+    "mainMenu": "مین مینو",
+    "short": {
+      "parties": "پارٹیاں"
+    },
+    "sections": {
+      "dashboard": "ڈیش بورڈ",
+      "sales": "سیلز",
+      "receivables": "پیسے میں",
+      "procurement": "خریداریاں",
+      "payables": "پیسے باہر",
+      "cashbank": "کیش اینڈ بینک",
+      "expenses": "اخراجات",
+      "tax": "ٹیکس",
+      "reports": "رپورٹس",
+      "advanced-features": "اعلی درجے کی خصوصیات",
+      "parties": "صارفین اور سپلائرز",
+      "inventory": "اشیاء",
+      "assets": "فکسڈ اثاثے",
+      "masters": "سیٹ اپ اور کنفیگریشن",
+      "business-tools": "ٹیم اور ٹولز",
+      "party-tools": "پارٹی ٹولز",
+      "item-tools": "آئٹم ٹولز",
+      "storage": "دستاویزات",
+      "alerts": "انتباہات",
+      "migration": "ڈیٹا مائیگریشن"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "جائزہ",
+        "cash-flow": "کیش فلو",
+        "tax-calendar": "ٹیکس کیلنڈر"
+      },
+      "sales": {
+        "quotations": "اقتباسات",
+        "proforma-invoices": "پی آئی",
+        "sales-invoices": "رسید",
+        "delivery-challans": "ڈلیوری چالان",
+        "receipts": "رسید",
+        "invoice-desk": "انوائس ڈیسک"
+      },
+      "receivables": {
+        "money-in-center": "مرکز میں پیسہ",
+        "receivables": "قابل وصول",
+        "payments-received": "ادائیگیاں موصول ہوئیں",
+        "overdue-collections": "مجموعے اور یاد دہانیاں",
+        "credit-notes": "کریڈٹ نوٹس اور ریفنڈز",
+        "sales-returns": "سیلز ریٹرن",
+        "customer-statements": "کسٹمر کے بیانات",
+        "payment-links": "ادائیگی کے لنکس"
+      },
+      "procurement": {
+        "purchase-center": "مرکز خریداری",
+        "purchase-orders": "خریداری کے آرڈرز",
+        "goods-receipt": "سامان کی رسید",
+        "purchase-invoices": "رسیدیں خریدیں۔",
+        "payment-out": "ادائیگیاں کی گئیں۔",
+        "returns-debit-notes": "واپسی اور ڈیبٹ نوٹس",
+        "bill-approvals": "بل کی منظوری"
+      },
+      "payables": {
+        "bills": "پے سینٹر",
+        "payments": "فراہم کنندہ کی ادائیگی",
+        "workforce": "افرادی قوت",
+        "adjustments": "ایڈجسٹمنٹس",
+        "bank-release": "بینک ریلیز"
+      },
+      "cashbank": {
+        "bank-accounts": "میرے اکاؤنٹس",
+        "reconciliation": "میچ ٹرانزیکشنز",
+        "cash-petty": "پیٹی کیش",
+        "contra": "اکاؤنٹس کے درمیان",
+        "cheque-register": "چیک کرتا ہے۔",
+        "foreign-currency": "غیر ملکی کرنسی",
+        "bank-feeds": "بینک فیڈز",
+        "bank-rules": "اصول اور مفاہمت"
+      },
+      "expenses": {
+        "expense-center": "تمام اخراجات",
+        "categories": "اخراجات کی اقسام",
+        "automated-bills": "بار بار چلنے والے اخراجات",
+        "journal-vouchers": "دستی اندراجات",
+        "provisions": "جمع",
+        "write-offs": "رائٹ آف",
+        "period-close": "مہینے کا اختتام"
+      },
+      "tax": {
+        "gst-returns": "جی ایس ٹی فائلنگ",
+        "gst-filing-wizard": "⚡ فائل GSTR-3B",
+        "gst-reconciliation": "جی ایس ٹی میچنگ",
+        "e-invoicing": "ای انوائسز",
+        "e-way-bills": "ای وے بلز",
+        "tds": "ٹی ڈی ایس",
+        "tcs": "ٹی سی ایس",
+        "tax-payments": "ٹیکس ادا کریں۔",
+        "quarterly-compliance": "تعمیل کیلنڈر",
+        "ca-access": "CA عارضی رسائی",
+        "gst-from-books": "کتابوں سے جی ایس ٹی"
+      },
+      "reports": {
+        "financial-statements": "مالیاتی رپورٹس",
+        "books": "لین دین کی کتابیں۔",
+        "gst-reports": "جی ایس ٹی رپورٹس",
+        "ar-ap": "قابل وصول بمقابلہ قابل ادائیگی",
+        "profitability": "منافع بخشی۔",
+        "period-comparatives": "سال کا موازنہ",
+        "budget-vs-actuals": "بجٹ ٹریکر",
+        "cashflow-projection": "نقد کی پیشن گوئی",
+        "report-builder": "حسب ضرورت رپورٹس",
+        "general-ledger": "جنرل لیجر",
+        "live-financials": "لائیو مالیات",
+        "ai-analyst": "اے آئی تجزیہ کار"
+      },
+      "advanced-features": {
+        "overview": "جائزہ"
+      },
+      "parties": {
+        "all-parties": "آل پارٹیز",
+        "customer-ledgers": "گاہکوں",
+        "supplier-ledgers": "سپلائرز",
+        "shared-ledger": "مشترکہ لیجر",
+        "statements": "بیانات",
+        "reminders": "یاد دہانیاں",
+        "documents": "پارٹی دستاویزات",
+        "portal": "پارٹی پورٹل",
+        "import": "پارٹی امپورٹ",
+        "duplicate-merge": "ڈپلیکیٹ انضمام",
+        "gap-analysis": "خلا کا تجزیہ"
+      },
+      "inventory": {
+        "inventory-items": "اشیاء",
+        "godowns": "گودام",
+        "stock-movement": "اسٹاک کی نقل و حرکت",
+        "item-pricing": "قیمتوں کا تعین",
+        "stock-valuation": "اسٹاک کی تشخیص",
+        "reorder-alerts": "الرٹس کو دوبارہ ترتیب دیں۔",
+        "batch-serials": "بیچ اور سیریل",
+        "barcode-labels": "بارکوڈ لیبلز",
+        "item-import": "آئٹم کی درآمد",
+        "gap-analysis": "خلا کا تجزیہ"
+      },
+      "assets": {
+        "asset-register": "اثاثوں کی فہرست",
+        "depreciation": "فرسودگی",
+        "disposal-revaluation": "فروخت کریں یا دوبارہ قدر کریں۔"
+      },
+      "masters": {
+        "chart-of-accounts": "اکاؤنٹس کی فہرست",
+        "tax-masters": "ٹیکس کی شرح",
+        "cost-centers": "لاگت کے مراکز",
+        "voucher-types": "لین دین کی اقسام",
+        "opening-balances": "بیلنس شروع کرنا",
+        "currencies": "کرنسیاں"
+      },
+      "business-tools": {
+        "staff-payroll": "پے رول",
+        "manage-users": "صارف تک رسائی",
+        "online-orders": "آن لائن آرڈرز",
+        "sms-marketing": "ایس ایم ایس مارکیٹنگ",
+        "accountant-hub": "اکاؤنٹنٹس اور سپورٹ"
+      },
+      "party-tools": {
+        "documents": "پارٹی دستاویزات",
+        "portal": "پارٹی پورٹل",
+        "import": "پارٹی امپورٹ",
+        "duplicate-merge": "ڈپلیکیٹ انضمام",
+        "gap-analysis": "خلا کا تجزیہ"
+      },
+      "item-tools": {
+        "reorder-alerts": "الرٹس کو دوبارہ ترتیب دیں۔",
+        "batch-serials": "بیچ اور سیریل",
+        "barcode-labels": "بارکوڈ لیبلز",
+        "item-import": "آئٹم کی درآمد",
+        "gap-analysis": "خلا کا تجزیہ"
+      },
+      "storage": {
+        "client-storage": "کلائنٹ فائلیں۔",
+        "unifiedtree-storage": "کلاؤڈ اسٹوریج"
+      },
+      "alerts": {
+        "accountant-alerts": "اکاؤنٹنٹ الرٹس",
+        "compliance-alerts": "تعمیل کے انتباہات",
+        "cash-risk-alerts": "کیش اور رسک الرٹس",
+        "ca-access": "CA عارضی رسائی"
+      },
+      "migration": {
+        "import": "ڈیٹا درآمد کریں۔",
+        "export": "ڈیٹا ایکسپورٹ کریں۔",
+        "history": "درآمد کی تاریخ",
+        "tally-import": "Tally اور Zoho سے درآمد کریں۔"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "خریداریاں اور ادائیگیاں",
+      "accountingSetup": "اکاؤنٹنگ سیٹ اپ",
+      "dataDocuments": "ڈیٹا اور دستاویزات"
+    }
+  },
+  "common": {
+    "save": "تبدیلیاں محفوظ کریں۔",
+    "cancel": "منسوخ کریں۔",
+    "create": "بنائیں",
+    "edit": "ترمیم کریں۔",
+    "delete": "حذف کریں۔",
+    "search": "تلاش کریں۔",
+    "connect": "جڑیں۔",
+    "configure": "ترتیب دیں۔",
+    "disconnect": "منقطع کرنا",
+    "sync": "ابھی مطابقت پذیری کریں۔",
+    "close": "بند",
+    "reset": "ڈیفالٹس پر ری سیٹ کریں۔",
+    "back": "پیچھے",
+    "continue": "جاری رکھیں",
+    "all": "تمام",
+    "retry": "دوبارہ کوشش کریں۔",
+    "loading": "لوڈ ہو رہا ہے…",
+    "resetDemo": "ڈیمو ڈیٹا کو دوبارہ ترتیب دیں۔"
+  },
+  "shell": {
+    "searchPlaceholder": "کچھ بھی تلاش کریں…",
+    "settings": "ترتیبات",
+    "language": "زبان",
+    "role": "کردار",
+    "greeting": {
+      "morning": "صبح بخیر",
+      "afternoon": "صبح بخیر",
+      "evening": "شب بخیر"
+    },
+    "settingsItems": {
+      "company-profile": "کمپنی کا پروفائل",
+      "configuration": "کنفیگریشن",
+      "fiscal-periods": "مالی ادوار",
+      "roles": "کردار اور صارفین",
+      "integrations": "انضمام",
+      "notifications": "اطلاعات",
+      "audit-logs": "آڈٹ اور لاگز",
+      "audit-trail": "ٹمپر پروف آڈٹ ٹریل",
+      "developer": "ڈویلپر اور API"
+    },
+    "translatedLanguages": "ترجمہ شدہ",
+    "untranslatedLanguages": "انگریزی ترجمہ ہونے تک"
+  },
+  "status": {
+    "filed": "دائر",
+    "ready": "فائل کرنے کے لیے تیار",
+    "open": "مدت کھلی۔",
+    "paid": "ادا کیا",
+    "pending": "زیر التواء",
+    "accepted": "قبول کر لیا",
+    "delivered": "پہنچایا",
+    "rejected": "مسترد",
+    "pdf-sent": "پی ڈی ایف بھیجی گئی۔",
+    "not-sent": "بھیجا نہیں۔",
+    "matched": "مماثل",
+    "mismatch": "بے میل",
+    "missing-supplier": "فراہم کنندہ کے ذریعہ اطلاع نہیں دی گئی۔",
+    "missing-books": "کتابوں میں گم",
+    "deferred": "موخر",
+    "deducted": "کٹوتی",
+    "remitted": "بھجوایا",
+    "certified": "تصدیق شدہ",
+    "to-report": "رپورٹ کرنا",
+    "reported": "رپورٹ کیا",
+    "accounted": "حساب کتاب",
+    "overdue": "زائد المیعاد"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "فائل کرنے کے لیے تیار",
+      "liabilityDue": "واجب الادا ذمہ داری",
+      "paidThisYear": "اس سال ادا کیا گیا۔",
+      "nextDeadline": "اگلی آخری تاریخ",
+      "noneOverdue": "کوئی بھی واجب الادا نہیں۔",
+      "overdue": "{{count}} زائد المیعاد"
+    },
+    "filter": {
+      "ready": "فائل کرنے کے لیے تیار",
+      "open": "کھولیں۔",
+      "filed": "دائر"
+    },
+    "col": {
+      "period": "مدت",
+      "authority": "اتھارٹی",
+      "rate": "شرح",
+      "due": "واجب الادا",
+      "netPayable": "قابل ادائیگی",
+      "status": "حیثیت",
+      "ack": "اعتراف"
+    },
+    "file": "فائل",
+    "view": "دیکھیں",
+    "fileForm": "فائل {{form}}",
+    "loadingJurisdiction": "دائرہ اختیار لوڈ ہو رہا ہے…",
+    "nothingToFile": "کوئی ریٹرن فائل کیے جانے کا انتظار نہیں ہے - تمام بند ادوار جمع کرائے جاتے ہیں۔",
+    "fileNext": "اگلی فائل: {{name}}",
+    "steps": {
+      "review": "جائزہ لیں",
+      "validate": "توثیق کریں۔",
+      "declare": "اعلان کریں اور جمع کروائیں۔",
+      "ack": "اعتراف"
+    },
+    "runValidation": "توثیق چلائیں۔",
+    "validating": "تصدیق ہو رہی ہے…",
+    "submit": "جمع کروائیں {{form}}",
+    "submitting": "جمع کر رہا ہے…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "خالص رقم",
+    "submitted": "جمع کرایا",
+    "filedOn": "پر دائر کیا گیا۔",
+    "regime": {
+      "authority": "اتھارٹی",
+      "channel": "فائلنگ چینل",
+      "return": "واپسی",
+      "due": "واجب الادا",
+      "standardRate": "معیاری شرح",
+      "threshold": "رجسٹریشن کی حد"
+    },
+    "demoNote": "بلٹ ان موک ٹیکس API سے ڈیمو ڈیٹا — فائلنگ اور ادائیگیاں نقلی ہیں اور ٹیکس اتھارٹی کو کچھ نہیں بھیجا جاتا ہے۔"
+  },
+  "fx": {
+    "title": "غیر ملکی کرنسی",
+    "subtitle": "بنیادی کرنسی {{base}} · اشارے فرضی مارکیٹ کی شرحیں۔",
+    "newDoc": "نیا FX انوائس/بل",
+    "kpi": {
+      "netExposure": "نیٹ ایف ایکس ایکسپوژر",
+      "openDocs": "{{count}} کھلی دستاویزات",
+      "unrealized": "غیر حقیقی فائدہ/ نقصان",
+      "postedSplit": "{{posted}} پوسٹ کیا گیا · {{unposted}} ابھی تک نہیں ہے۔",
+      "realized": "اس سال احساس ہوا۔",
+      "lastReval": "آخری جائزہ",
+      "never": "کبھی نہیں۔",
+      "suggested": "تجویز کردہ: {{date}}"
+    },
+    "view": {
+      "open": "آئٹمز کھولیں۔",
+      "settled": "آباد",
+      "revaluation": "مہینے کے آخر میں دوبارہ تشخیص",
+      "journal": "FX جرنل"
+    },
+    "col": {
+      "document": "دستاویز",
+      "type": "قسم",
+      "openForeign": "کھلا (غیر ملکی)",
+      "bookedNow": "بک / ابھی",
+      "valueIn": "{{base}} میں قدر",
+      "unrealized": "غیر حقیقی",
+      "status": "حیثیت",
+      "amount": "رقم",
+      "bookedRate": "بک شدہ ریٹ",
+      "realized": "احساس ہوا۔"
+    },
+    "receivable": "قابل وصول",
+    "payable": "قابل ادائیگی",
+    "receive": "وصول کریں۔",
+    "pay": "ادا کریں۔",
+    "netIn": "{{base}} میں نیٹ",
+    "state": {
+      "settled": "آباد",
+      "partial": "جزوی طور پر طے شدہ",
+      "open": "کھولیں۔"
+    },
+    "demoNote": "بلٹ ان موک API سے ڈیمو ڈیٹا — شرحیں نقلی ہیں، لائیو مارکیٹ ڈیٹا نہیں۔"
+  }
+}

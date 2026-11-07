@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "दिसान दीस",
+      "finance": "अर्थसहाय्य",
+      "advanced": "आधुनीक"
+    },
+    "mainMenu": "मुखेल मेनू",
+    "short": {
+      "parties": "पार्ट्यो"
+    },
+    "sections": {
+      "dashboard": "डॅशबोर्ड",
+      "sales": "विक्री",
+      "receivables": "पयशे इन",
+      "procurement": "खरेदी करप",
+      "payables": "मनी आउट",
+      "cashbank": "रोख आनी बँक",
+      "expenses": "खर्च",
+      "tax": "कर",
+      "reports": "अहवाल दितात",
+      "advanced-features": "प्रगत वैशिश्ट्यां",
+      "parties": "गिरायक आनी पुरवणदार",
+      "inventory": "वस्तू",
+      "assets": "स्थिर मालमत्ता",
+      "masters": "सेटअप आनी संरचना",
+      "business-tools": "पंगड आनी साधनां",
+      "party-tools": "पक्षाचीं साधनां",
+      "item-tools": "आयटम साधनां",
+      "storage": "दस्तावेज",
+      "alerts": "सावधानताय दितात",
+      "migration": "डेटा स्थलांतर करप"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "एक नियाळ",
+        "cash-flow": "रोख प्रवाह",
+        "tax-calendar": "कर कॅलेंडर"
+      },
+      "sales": {
+        "quotations": "उद्धरणां",
+        "proforma-invoices": "पी.आय",
+        "sales-invoices": "इनवॉयस",
+        "delivery-challans": "डिलिव्हरी चालन",
+        "receipts": "पावती",
+        "invoice-desk": "पावणी डेस्क"
+      },
+      "receivables": {
+        "money-in-center": "मनी इन सेंटर",
+        "receivables": "प्राप्यता",
+        "payments-received": "फारीकणी मेळ्ळी",
+        "overdue-collections": "संग्रह आनी स्मरणिका",
+        "credit-notes": "क्रेडीट नोट्स आनी रिफंड",
+        "sales-returns": "विक्री परतावो",
+        "customer-statements": "गिरायक विधानां",
+        "payment-links": "फारीकणी दुवे"
+      },
+      "procurement": {
+        "purchase-center": "खरेदी केंद्र",
+        "purchase-orders": "खरेदी ऑर्डर",
+        "goods-receipt": "मालाची पावती",
+        "purchase-invoices": "खरेदी पावणी",
+        "payment-out": "फारीकणी केल्लीं",
+        "returns-debit-notes": "रिटर्न्स आनी डेबिट नोट्स",
+        "bill-approvals": "विधेयक मंजुरी"
+      },
+      "payables": {
+        "bills": "पे सेंटर",
+        "payments": "पुरवणदार फारीकणी",
+        "workforce": "कामगार बळ",
+        "adjustments": "समायोजन करप",
+        "bank-release": "बँक रिलीज"
+      },
+      "cashbank": {
+        "bank-accounts": "म्हजीं खातीं",
+        "reconciliation": "वेव्हार जुळोवप",
+        "cash-petty": "पेटी कॅश",
+        "contra": "खात्यां मदीं",
+        "cheque-register": "तपासणी करता",
+        "foreign-currency": "परकी चलन",
+        "bank-feeds": "बँक फीड्स",
+        "bank-rules": "नेम आनी समेट"
+      },
+      "expenses": {
+        "expense-center": "सगळे खर्च",
+        "categories": "खर्चाचे प्रकार",
+        "automated-bills": "परत परत जावपी खर्च",
+        "journal-vouchers": "हाताळणी नोंदी",
+        "provisions": "जमा जावप",
+        "write-offs": "राइट-ऑफ करप",
+        "period-close": "म्हयनो-अंत"
+      },
+      "tax": {
+        "gst-returns": "जीएसटी फायल करप",
+        "gst-filing-wizard": "⚡ फायल जीएसटीआर-3बी",
+        "gst-reconciliation": "जीएसटी जुळोवप",
+        "e-invoicing": "ई-पाणी",
+        "e-way-bills": "ई-वे बिलां",
+        "tds": "टीडीएस हांणी केला",
+        "tcs": "टीसीएस हांणी केला",
+        "tax-payments": "कर भरचो",
+        "quarterly-compliance": "पालन ​​कॅलेंडर",
+        "ca-access": "सीए तात्पुरतो प्रवेश",
+        "gst-from-books": "पुस्तकां कडल्यान जीएसटी"
+      },
+      "reports": {
+        "financial-statements": "अर्थीक अहवाल",
+        "books": "वेव्हार पुस्तकां",
+        "gst-reports": "जीएसटी अहवाल",
+        "ar-ap": "प्राप्यता विरुद्ध देय",
+        "profitability": "फायदेशीरताय",
+        "period-comparatives": "वर्साची तुळा करप",
+        "budget-vs-actuals": "अर्थसंकल्प ट्रॅकर",
+        "cashflow-projection": "रोख अदमास",
+        "report-builder": "सानुकूल अहवाल",
+        "general-ledger": "जनरल लेजर",
+        "live-financials": "लायव्ह फायनान्शियल्स",
+        "ai-analyst": "एआय विश्लेशक"
+      },
+      "advanced-features": {
+        "overview": "एक नियाळ"
+      },
+      "parties": {
+        "all-parties": "सगळे पक्ष",
+        "customer-ledgers": "गिरायकांक",
+        "supplier-ledgers": "पुरवणदारांक",
+        "shared-ledger": "वांटून घेतिल्लें लेजर",
+        "statements": "विधानां",
+        "reminders": "याद करून दिवप",
+        "documents": "पक्षाचे दस्तावेज",
+        "portal": "पक्ष पोर्टल",
+        "import": "पक्ष आयात करप",
+        "duplicate-merge": "डुप्लीकेट मर्ज करप",
+        "gap-analysis": "गॅप विश्लेशण"
+      },
+      "inventory": {
+        "inventory-items": "वस्तू",
+        "godowns": "गोदामांचो आस्पाव जाता",
+        "stock-movement": "स्टॉक चळवळ",
+        "item-pricing": "किंमत थारावप",
+        "stock-valuation": "स्टॉक मूल्यमापन करप",
+        "reorder-alerts": "अलर्ट परतून क्रमवारीत करात",
+        "batch-serials": "बॅच आनी सिरियल",
+        "barcode-labels": "बारकोड लेबलां",
+        "item-import": "आयटम आयात करप",
+        "gap-analysis": "गॅप विश्लेशण"
+      },
+      "assets": {
+        "asset-register": "मालमत्तेची वळेरी",
+        "depreciation": "घसरण जावप",
+        "disposal-revaluation": "विकप वा पुनर्मूल्यांकन करप"
+      },
+      "masters": {
+        "chart-of-accounts": "लेखा वळेरी",
+        "tax-masters": "कर दर",
+        "cost-centers": "खर्च केंद्रां",
+        "voucher-types": "वेव्हाराचे प्रकार",
+        "opening-balances": "शिल्लक सुरू करप",
+        "currencies": "चलनां"
+      },
+      "business-tools": {
+        "staff-payroll": "पगारपत्र",
+        "manage-users": "वापरप्याचो प्रवेश",
+        "online-orders": "ऑनलायन ऑर्डर दिवप",
+        "sms-marketing": "एसएमएस मार्केटिंग",
+        "accountant-hub": "लेखाकार आनी आदार"
+      },
+      "party-tools": {
+        "documents": "पक्षाचे दस्तावेज",
+        "portal": "पक्ष पोर्टल",
+        "import": "पक्ष आयात करप",
+        "duplicate-merge": "डुप्लीकेट मर्ज करप",
+        "gap-analysis": "गॅप विश्लेशण"
+      },
+      "item-tools": {
+        "reorder-alerts": "अलर्ट परतून क्रमवारीत करात",
+        "batch-serials": "बॅच आनी सिरियल",
+        "barcode-labels": "बारकोड लेबलां",
+        "item-import": "आयटम आयात करप",
+        "gap-analysis": "गॅप विश्लेशण"
+      },
+      "storage": {
+        "client-storage": "क्लायंट फायली",
+        "unifiedtree-storage": "मेघ सांठवण"
+      },
+      "alerts": {
+        "accountant-alerts": "लेखाकार अलर्ट करता",
+        "compliance-alerts": "पालन ​​इशारो",
+        "cash-risk-alerts": "रोख आनी जोखीम अलर्ट",
+        "ca-access": "सीए तात्पुरतो प्रवेश"
+      },
+      "migration": {
+        "import": "डेटा आयात करचो",
+        "export": "डेटा निर्यात करप",
+        "history": "आयात इतिहास",
+        "tally-import": "टॅली & ज़ोहो कडल्यान आयात करप"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "खरेदी आनी फारीकणी",
+      "accountingSetup": "लेखा सेटअप",
+      "dataDocuments": "डेटा आनी दस्तावेज"
+    }
+  },
+  "common": {
+    "save": "बदल जतनाय घेयात",
+    "cancel": "रद्द",
+    "create": "निर्माण करचें",
+    "edit": "संपादन करचें",
+    "delete": "वगळावचें",
+    "search": "सोद",
+    "connect": "जोडचें",
+    "configure": "संरचीत करचें",
+    "disconnect": "डिस्कनेक्ट करप",
+    "sync": "आतां समक्रमण करचें",
+    "close": "धांपप",
+    "reset": "मुलभूतांचेर रीसेट करात",
+    "back": "फाटीं",
+    "continue": "फुडें व्हरप",
+    "all": "सगलें",
+    "retry": "परतून यत्न करात",
+    "loading": "लोड करप...",
+    "resetDemo": "डेमो डेटा रीसेट करात"
+  },
+  "shell": {
+    "searchPlaceholder": "खंयचेंय सोदचें...",
+    "settings": "सेटिंग्ज",
+    "language": "भास",
+    "role": "भुमिका",
+    "greeting": {
+      "morning": "बरी सकाळ आंवडेतां",
+      "afternoon": "शुभ दनपार",
+      "evening": "बरी सांज आंवडेतां"
+    },
+    "settingsItems": {
+      "company-profile": "कंपनीची म्हायती",
+      "configuration": "संरचना करप",
+      "fiscal-periods": "वित्तीय काळ",
+      "roles": "भुमिका आनी वापरपी",
+      "integrations": "एकठांय करप",
+      "notifications": "अधिसुचोवण्यो",
+      "audit-logs": "ऑडिट आनी लॉग",
+      "audit-trail": "छेडछाड-प्रूफ ऑडिट ट्रेल",
+      "developer": "विकसक आनी एपीआय"
+    },
+    "translatedLanguages": "अणकारीत केला",
+    "untranslatedLanguages": "अणकारीत जायसर इंग्लीश"
+  },
+  "status": {
+    "filed": "दाखल केला",
+    "ready": "फायल करपाक तयार",
+    "open": "काळ उक्तो",
+    "paid": "फारीक केल्लें",
+    "pending": "अनिर्णित",
+    "accepted": "मान्य केलें",
+    "delivered": "धाडलें",
+    "rejected": "नाका म्हणलें",
+    "pdf-sent": "पीडीएफ धाडला",
+    "not-sent": "धाडलो ना",
+    "matched": "जुळ्ळें",
+    "mismatch": "बेजोडपण",
+    "missing-supplier": "पुरवणदारान अहवाल दिवंक ना",
+    "missing-books": "पुस्तकांत गळून पडप",
+    "deferred": "स्थगीत केल्लें",
+    "deducted": "कपात केल्लें",
+    "remitted": "रिमिट केला",
+    "certified": "प्रमाणीत केल्लें",
+    "to-report": "अहवाल दिवपाक",
+    "reported": "कळयलें",
+    "accounted": "हिशोब केल्लें",
+    "overdue": "मुजतवाड जाल्या"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "फायल करपाक तयार",
+      "liabilityDue": "देय जापसालदारकी",
+      "paidThisYear": "अंदूं फारीक केलें",
+      "nextDeadline": "फुडली मुजत",
+      "noneOverdue": "कोणूच ओव्हरड्यू ना",
+      "overdue": "{{count}} कालबाह्य जाला"
+    },
+    "filter": {
+      "ready": "फायल करपाक तयार",
+      "open": "उकतें",
+      "filed": "दाखल केला"
+    },
+    "col": {
+      "period": "कालावधी",
+      "authority": "प्राधिकरण",
+      "rate": "दर",
+      "due": "देय",
+      "netPayable": "निव्वळ देय",
+      "status": "स्थिती",
+      "ack": "पावती दिवप"
+    },
+    "file": "उजो",
+    "view": "दृश्य करचें",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "अधिकारक्षेत्र लोड करप...",
+    "nothingToFile": "खंयचेच रिटर्न दाखल करपाची वाट पळयना — सगळे बंद काळ सादर करतात.",
+    "fileNext": "फुडें फायल करात: {{name}}",
+    "steps": {
+      "review": "नियाळ",
+      "validate": "प्रमाणीत करप",
+      "declare": "जाहीर करप & सादर करप",
+      "ack": "पावती दिवप"
+    },
+    "runValidation": "प्रमाणीकरण चालीक लावचें",
+    "validating": "प्रमाणीत करप...",
+    "submit": "Submit {{form}}",
+    "submitting": "सादर करप...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "निव्वळ रक्कम",
+    "submitted": "सादर केला",
+    "filedOn": "वर दाखल केला",
+    "regime": {
+      "authority": "प्राधिकरण",
+      "channel": "फायल करप चॅनल",
+      "return": "परत येवप",
+      "due": "देय",
+      "standardRate": "मानक दर",
+      "threshold": "नोंदणीची कूंड"
+    },
+    "demoNote": "बिल्ट-इन मॉक टॅक्स एपीआय कडल्यान डेमो डेटा — फायलीं आनी फारीकणी अनुकरण करतात आनी कर प्राधिकरणाक कांयच धाडनात."
+  },
+  "fx": {
+    "title": "परकी चलन",
+    "subtitle": "बेस चलन {{base}} · संकेतात्मक नकली बाजार दर",
+    "newDoc": "नवे एफएक्स पावणी / बिल",
+    "kpi": {
+      "netExposure": "निव्वळ एफएक्स एक्सपोझर",
+      "openDocs": "{{count}} दस्तावेज उगडात",
+      "unrealized": "अवास्तव फायदो / लुकसाण",
+      "postedSplit": "{{posted}} पोस्ट केला · {{unposted}} अजून ना",
+      "realized": "ह्या वर्सा साकार जालें",
+      "lastReval": "निमाणें पुनर्मूल्यांकन",
+      "never": "केन्नाच ना",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "उक्ती आयटम",
+      "settled": "स्थीर जालें",
+      "revaluation": "म्हयन्याच्या शेवटाक पुनर्मूल्यांकन",
+      "journal": "एफएक्स जर्नल"
+    },
+    "col": {
+      "document": "दस्तावेज",
+      "type": "प्रकार",
+      "openForeign": "उक्ते (विदेशी) २.",
+      "bookedNow": "बुक केल्लें / आतां",
+      "valueIn": "{{base}} मदीं मोल.",
+      "unrealized": "अवास्तव जाल्लें",
+      "status": "स्थिती",
+      "amount": "रक्कम",
+      "bookedRate": "बुक केल्लो दर",
+      "realized": "जाणा जावप"
+    },
+    "receivable": "मेळोवपाक जाय",
+    "payable": "देय",
+    "receive": "प्राप्त करप",
+    "pay": "फारीक करचें",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "स्थीर जालें",
+      "partial": "अंशतः स्थीर जाल्लें",
+      "open": "उकतें"
+    },
+    "demoNote": "बिल्ट-इन मॉक एपीआय कडल्यान डेमो डेटा — दर अनुकरण केल्ले आसात, लायव्ह बाजार डेटा न्हय."
+  }
+}

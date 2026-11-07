@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Iz dana u dan",
+      "finance": "Financije",
+      "advanced": "Napredno"
+    },
+    "mainMenu": "Glavni izbornik",
+    "short": {
+      "parties": "Stranke"
+    },
+    "sections": {
+      "dashboard": "Nadzorna ploča",
+      "sales": "Prodajni",
+      "receivables": "Novac u",
+      "procurement": "Kupnja",
+      "payables": "Money Out",
+      "cashbank": "Gotovina i banka",
+      "expenses": "Troškovi",
+      "tax": "Porez",
+      "reports": "izvješća",
+      "advanced-features": "Napredne značajke",
+      "parties": "Kupci i dobavljači",
+      "inventory": "Predmeti",
+      "assets": "Osnovna sredstva",
+      "masters": "Postavljanje i konfiguracija",
+      "business-tools": "Tim i alati",
+      "party-tools": "Party alati",
+      "item-tools": "Alati za stavke",
+      "storage": "Dokumenti",
+      "alerts": "upozorenja",
+      "migration": "Migracija podataka"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Pregled",
+        "cash-flow": "Novčani tok",
+        "tax-calendar": "Porezni kalendar"
+      },
+      "sales": {
+        "quotations": "Citati",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Dostavnica",
+        "delivery-challans": "Dostava Challan",
+        "receipts": "Potvrda o primitku",
+        "invoice-desk": "Desk za fakture"
+      },
+      "receivables": {
+        "money-in-center": "Novac u centru",
+        "receivables": "Potraživanja",
+        "payments-received": "Uplate primljene",
+        "overdue-collections": "Zbirke i podsjetnici",
+        "credit-notes": "Kreditna izvješća i povrati",
+        "sales-returns": "Povrati od prodaje",
+        "customer-statements": "Izjave kupaca",
+        "payment-links": "Veze za plaćanje"
+      },
+      "procurement": {
+        "purchase-center": "Centar za nabavu",
+        "purchase-orders": "Narudžbenice",
+        "goods-receipt": "Prijem robe",
+        "purchase-invoices": "Računi za kupnju",
+        "payment-out": "Uplate izvršene",
+        "returns-debit-notes": "Povrati i zaduženja",
+        "bill-approvals": "Odobrenja računa"
+      },
+      "payables": {
+        "bills": "Platni centar",
+        "payments": "Plaćanja dobavljača",
+        "workforce": "Radna snaga",
+        "adjustments": "Prilagodbe",
+        "bank-release": "Izjava banke"
+      },
+      "cashbank": {
+        "bank-accounts": "Moji računi",
+        "reconciliation": "Podudaranje transakcija",
+        "cash-petty": "Sitan novac",
+        "contra": "Između računa",
+        "cheque-register": "Čekovi",
+        "foreign-currency": "Strana valuta",
+        "bank-feeds": "Bankovni izvori podataka",
+        "bank-rules": "Pravila i pomirenje"
+      },
+      "expenses": {
+        "expense-center": "Svi troškovi",
+        "categories": "Vrste troškova",
+        "automated-bills": "Ponavljajući troškovi",
+        "journal-vouchers": "Ručni unosi",
+        "provisions": "Vremenska razgraničenja",
+        "write-offs": "Otpisi",
+        "period-close": "Kraj mjeseca"
+      },
+      "tax": {
+        "gst-returns": "Podnošenje GST-a",
+        "gst-filing-wizard": "⚡ Datoteka GSTR-3B",
+        "gst-reconciliation": "Usklađivanje GST-a",
+        "e-invoicing": "E-računi",
+        "e-way-bills": "E-putnice",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Plati porez",
+        "quarterly-compliance": "Kalendar usklađenosti",
+        "ca-access": "CA privremeni pristup",
+        "gst-from-books": "GST iz knjiga"
+      },
+      "reports": {
+        "financial-statements": "Financijska izvješća",
+        "books": "Transakcijske knjige",
+        "gst-reports": "GST izvješća",
+        "ar-ap": "Potraživanja vs obveze",
+        "profitability": "Profitabilnost",
+        "period-comparatives": "Usporedba godina",
+        "budget-vs-actuals": "Praćenje proračuna",
+        "cashflow-projection": "Gotovinska prognoza",
+        "report-builder": "Prilagođena izvješća",
+        "general-ledger": "Glavna knjiga",
+        "live-financials": "Financije uživo",
+        "ai-analyst": "AI analitičar"
+      },
+      "advanced-features": {
+        "overview": "Pregled"
+      },
+      "parties": {
+        "all-parties": "Sve stranke",
+        "customer-ledgers": "Kupci",
+        "supplier-ledgers": "Dobavljači",
+        "shared-ledger": "Dijeljena knjiga",
+        "statements": "Izjave",
+        "reminders": "Podsjetnici",
+        "documents": "Stranački dokumenti",
+        "portal": "Stranački portal",
+        "import": "Party Import",
+        "duplicate-merge": "Spajanje duplikata",
+        "gap-analysis": "Gap analiza"
+      },
+      "inventory": {
+        "inventory-items": "Predmeti",
+        "godowns": "Skladišta",
+        "stock-movement": "Kretanje dionica",
+        "item-pricing": "Cijene",
+        "stock-valuation": "Vrednovanje dionica",
+        "reorder-alerts": "Promjena redoslijeda upozorenja",
+        "batch-serials": "Serijski i serijski",
+        "barcode-labels": "Naljepnice s barkodom",
+        "item-import": "Uvoz predmeta",
+        "gap-analysis": "Gap analiza"
+      },
+      "assets": {
+        "asset-register": "Popis imovine",
+        "depreciation": "Amortizacija",
+        "disposal-revaluation": "Prodaj ili procijeni"
+      },
+      "masters": {
+        "chart-of-accounts": "Popis računa",
+        "tax-masters": "Porezne stope",
+        "cost-centers": "Centri troškova",
+        "voucher-types": "Vrste transakcija",
+        "opening-balances": "Početna stanja",
+        "currencies": "Valute"
+      },
+      "business-tools": {
+        "staff-payroll": "Platni spisak",
+        "manage-users": "Korisnički pristup",
+        "online-orders": "Online narudžbe",
+        "sms-marketing": "SMS marketing",
+        "accountant-hub": "Računovođe i podrška"
+      },
+      "party-tools": {
+        "documents": "Stranački dokumenti",
+        "portal": "Stranački portal",
+        "import": "Party Import",
+        "duplicate-merge": "Spajanje duplikata",
+        "gap-analysis": "Gap analiza"
+      },
+      "item-tools": {
+        "reorder-alerts": "Promjena redoslijeda upozorenja",
+        "batch-serials": "Serijski i serijski",
+        "barcode-labels": "Naljepnice s barkodom",
+        "item-import": "Uvoz predmeta",
+        "gap-analysis": "Gap analiza"
+      },
+      "storage": {
+        "client-storage": "Klijentske datoteke",
+        "unifiedtree-storage": "Pohrana u oblaku"
+      },
+      "alerts": {
+        "accountant-alerts": "Računovođa upozorenja",
+        "compliance-alerts": "Upozorenja o sukladnosti",
+        "cash-risk-alerts": "Upozorenja o gotovini i riziku",
+        "ca-access": "CA privremeni pristup"
+      },
+      "migration": {
+        "import": "Uvoz podataka",
+        "export": "Izvoz podataka",
+        "history": "Povijest uvoza",
+        "tally-import": "Uvoz iz Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Kupnja i plaćanja",
+      "accountingSetup": "Postavljanje računovodstva",
+      "dataDocuments": "Podaci i dokumenti"
+    }
+  },
+  "common": {
+    "save": "Spremi promjene",
+    "cancel": "Otkazati",
+    "create": "Stvoriti",
+    "edit": "Uredi",
+    "delete": "Izbrisati",
+    "search": "Pretraživanje",
+    "connect": "Poveži se",
+    "configure": "Konfigurirati",
+    "disconnect": "Prekini vezu",
+    "sync": "Sinkroniziraj sada",
+    "close": "Zatvoriti",
+    "reset": "Vrati na zadane postavke",
+    "back": "Nazad",
+    "continue": "Nastaviti",
+    "all": "Sve",
+    "retry": "Pokušaj ponovo",
+    "loading": "učitavanje...",
+    "resetDemo": "Poništavanje demo podataka"
+  },
+  "shell": {
+    "searchPlaceholder": "Traži bilo što…",
+    "settings": "postavke",
+    "language": "Jezik",
+    "role": "Uloga",
+    "greeting": {
+      "morning": "Dobro jutro",
+      "afternoon": "Dobar dan",
+      "evening": "Dobra večer"
+    },
+    "settingsItems": {
+      "company-profile": "Profil tvrtke",
+      "configuration": "Konfiguracija",
+      "fiscal-periods": "Fiskalna razdoblja",
+      "roles": "Uloge i korisnici",
+      "integrations": "Integracije",
+      "notifications": "Obavijesti",
+      "audit-logs": "Revizija i zapisnici",
+      "audit-trail": "Revizijski trag zaštićen od neovlaštenih promjena",
+      "developer": "Programer & API"
+    },
+    "translatedLanguages": "Prevedeno",
+    "untranslatedLanguages": "Engleski do prijevoda"
+  },
+  "status": {
+    "filed": "Podneseno",
+    "ready": "Spremno za arhiviranje",
+    "open": "Razdoblje otvoreno",
+    "paid": "Plaćeno",
+    "pending": "Na čekanju",
+    "accepted": "Prihvaćeno",
+    "delivered": "Isporučeno",
+    "rejected": "Odbijen",
+    "pdf-sent": "PDF poslan",
+    "not-sent": "Nije poslano",
+    "matched": "Podudaranje",
+    "mismatch": "Neusklađenost",
+    "missing-supplier": "Dobavljač nije prijavio",
+    "missing-books": "Nedostaje u knjigama",
+    "deferred": "Odgođeno",
+    "deducted": "Oduzeto",
+    "remitted": "Poslano",
+    "certified": "Certificiran",
+    "to-report": "Za prijavu",
+    "reported": "Prijavljeno",
+    "accounted": "Uračunato",
+    "overdue": "Zakašnjelo"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Spremno za arhiviranje",
+      "liabilityDue": "Dospjela obveza",
+      "paidThisYear": "Plaćeno ove godine",
+      "nextDeadline": "Sljedeći rok",
+      "noneOverdue": "Nema kašnjenja",
+      "overdue": "{{count}} kasni"
+    },
+    "filter": {
+      "ready": "Spremno za arhiviranje",
+      "open": "Otvoriti",
+      "filed": "Podneseno"
+    },
+    "col": {
+      "period": "Razdoblje",
+      "authority": "Autoritet",
+      "rate": "Stopa",
+      "due": "Duge",
+      "netPayable": "Neto plativo",
+      "status": "Status",
+      "ack": "Priznanje"
+    },
+    "file": "File",
+    "view": "Pogled",
+    "fileForm": "Datoteka {{form}}",
+    "loadingJurisdiction": "Učitavanje nadležnosti…",
+    "nothingToFile": "Nijedan povrat ne čeka na podnošenje — predaju se sva zatvorena razdoblja.",
+    "fileNext": "Sljedeća datoteka: {{name}}",
+    "steps": {
+      "review": "Pregled",
+      "validate": "Potvrdi",
+      "declare": "Deklarirajte i pošaljite",
+      "ack": "Priznanje"
+    },
+    "runValidation": "Pokreni provjeru valjanosti",
+    "validating": "Provjera...",
+    "submit": "Submit {{form}}",
+    "submitting": "Slanje...",
+    "declaration": "Izjavljujem da su podaci u ovoj prijavi istiniti i potpuni i da sam ovlašten predati ih {{authority}}.",
+    "netAmount": "Neto iznos",
+    "submitted": "Poslano",
+    "filedOn": "Podneseno dana",
+    "regime": {
+      "authority": "Autoritet",
+      "channel": "Kanal za arhiviranje",
+      "return": "Povratak",
+      "due": "Duge",
+      "standardRate": "Standardna stopa",
+      "threshold": "Prag registracije"
+    },
+    "demoNote": "Demo podaci iz ugrađenog lažnog poreznog API-ja — prijave i plaćanja se simuliraju i ništa se ne šalje poreznoj upravi."
+  },
+  "fx": {
+    "title": "Strana valuta",
+    "subtitle": "Osnovna valuta {{base}} · indikativni lažni tržišni tečajevi",
+    "newDoc": "Nova devizna faktura / račun",
+    "kpi": {
+      "netExposure": "Neto FX izloženost",
+      "openDocs": "{{count}} otvorenih dokumenata",
+      "unrealized": "Nerealizirani dobitak/gubitak",
+      "postedSplit": "{{posted}} objavljeno · {{unposted}} još nije",
+      "realized": "Realizirano ove godine",
+      "lastReval": "Zadnja revalorizacija",
+      "never": "Nikada",
+      "suggested": "Predloženo: {{date}}"
+    },
+    "view": {
+      "open": "Otvorene stavke",
+      "settled": "Naselili",
+      "revaluation": "Revalorizacija na kraju mjeseca",
+      "journal": "FX dnevnik"
+    },
+    "col": {
+      "document": "Dokument",
+      "type": "Tip",
+      "openForeign": "Otvoreno (strano)",
+      "bookedNow": "Rezervirano / sada",
+      "valueIn": "Vrijednost u {{base}}",
+      "unrealized": "Nerealizirano",
+      "status": "Status",
+      "amount": "Iznositi",
+      "bookedRate": "Rezervirana cijena",
+      "realized": "Ostvaren"
+    },
+    "receivable": "Potraživanje",
+    "payable": "Plativo",
+    "receive": "primiti",
+    "pay": "Platiti",
+    "netIn": "Neto u {{base}}",
+    "state": {
+      "settled": "Naselili",
+      "partial": "Djelomično riješeno",
+      "open": "Otvoriti"
+    },
+    "demoNote": "Demo podaci iz ugrađenog lažnog API-ja — stope su simulirane, a ne tržišni podaci uživo."
+  }
+}

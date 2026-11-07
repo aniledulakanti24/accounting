@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "日復一日",
+      "finance": "金融",
+      "advanced": "先進的"
+    },
+    "mainMenu": "主選單",
+    "short": {
+      "parties": "派對"
+    },
+    "sections": {
+      "dashboard": "儀表板",
+      "sales": "銷售量",
+      "receivables": "資金投入",
+      "procurement": "購買",
+      "payables": "錢出",
+      "cashbank": "現金及銀行",
+      "expenses": "開支",
+      "tax": "稅",
+      "reports": "報告",
+      "advanced-features": "進階功能",
+      "parties": "客戶與供應商",
+      "inventory": "專案",
+      "assets": "固定資產",
+      "masters": "設定和配置",
+      "business-tools": "團隊與工具",
+      "party-tools": "派對工具",
+      "item-tools": "專案工具",
+      "storage": "文件",
+      "alerts": "警報",
+      "migration": "資料遷移"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "概述",
+        "cash-flow": "現金週轉",
+        "tax-calendar": "稅務日曆"
+      },
+      "sales": {
+        "quotations": "語錄",
+        "proforma-invoices": "PI",
+        "sales-invoices": "發票",
+        "delivery-challans": "送貨查蘭",
+        "receipts": "收據",
+        "invoice-desk": "發票台"
+      },
+      "receivables": {
+        "money-in-center": "錢在中心",
+        "receivables": "應收帳款",
+        "payments-received": "已收到付款",
+        "overdue-collections": "收藏與提醒",
+        "credit-notes": "貸項票據和退款",
+        "sales-returns": "銷售退貨",
+        "customer-statements": "客戶聲明",
+        "payment-links": "付款連結"
+      },
+      "procurement": {
+        "purchase-center": "採購中心",
+        "purchase-orders": "採購訂單",
+        "goods-receipt": "收貨",
+        "purchase-invoices": "採購發票",
+        "payment-out": "已付款",
+        "returns-debit-notes": "退貨和借方票據",
+        "bill-approvals": "法案批准"
+      },
+      "payables": {
+        "bills": "支付中心",
+        "payments": "供應商付款",
+        "workforce": "勞動力",
+        "adjustments": "調整",
+        "bank-release": "銀行發布"
+      },
+      "cashbank": {
+        "bank-accounts": "我的帳戶",
+        "reconciliation": "匹配交易",
+        "cash-petty": "小額現金",
+        "contra": "帳戶之間",
+        "cheque-register": "支票",
+        "foreign-currency": "外幣",
+        "bank-feeds": "銀行資料",
+        "bank-rules": "規則與協調"
+      },
+      "expenses": {
+        "expense-center": "所有費用",
+        "categories": "費用類型",
+        "automated-bills": "經常性費用",
+        "journal-vouchers": "手動輸入",
+        "provisions": "應計費用",
+        "write-offs": "核銷",
+        "period-close": "月末"
+      },
+      "tax": {
+        "gst-returns": "GST Filing",
+        "gst-filing-wizard": "⚡ File GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "電子發票",
+        "e-way-bills": "E-Way Bills",
+        "tds": "總固體溶解度",
+        "tcs": "TCS",
+        "tax-payments": "納稅",
+        "quarterly-compliance": "合規日曆",
+        "ca-access": "CA Temporary Access",
+        "gst-from-books": "圖書消費稅"
+      },
+      "reports": {
+        "financial-statements": "財務報告",
+        "books": "Transaction Books",
+        "gst-reports": "GST Reports",
+        "ar-ap": "應收帳款與應付帳款",
+        "profitability": "獲利能力",
+        "period-comparatives": "Year Comparison",
+        "budget-vs-actuals": "預算追蹤器",
+        "cashflow-projection": "Cash Forecast",
+        "report-builder": "客製化報告",
+        "general-ledger": "總帳",
+        "live-financials": "即時財務",
+        "ai-analyst": "人工智慧分析師"
+      },
+      "advanced-features": {
+        "overview": "概述"
+      },
+      "parties": {
+        "all-parties": "All Parties",
+        "customer-ledgers": "顧客",
+        "supplier-ledgers": "供應商",
+        "shared-ledger": "Shared Ledger",
+        "statements": "聲明",
+        "reminders": "提醒事項",
+        "documents": "黨的文件",
+        "portal": "派對門戶",
+        "import": "派對匯入",
+        "duplicate-merge": "重複合併",
+        "gap-analysis": "差距分析"
+      },
+      "inventory": {
+        "inventory-items": "專案",
+        "godowns": "倉庫",
+        "stock-movement": "股票走勢",
+        "item-pricing": "定價",
+        "stock-valuation": "股票估值",
+        "reorder-alerts": "重新排序警報",
+        "batch-serials": "批量和串行",
+        "barcode-labels": "條碼標籤",
+        "item-import": "物品導入",
+        "gap-analysis": "差距分析"
+      },
+      "assets": {
+        "asset-register": "資產清單",
+        "depreciation": "折舊",
+        "disposal-revaluation": "Sell or Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "帳戶列表",
+        "tax-masters": "稅率",
+        "cost-centers": "成本中心",
+        "voucher-types": "交易類型",
+        "opening-balances": "起始餘額",
+        "currencies": "貨幣"
+      },
+      "business-tools": {
+        "staff-payroll": "薪資單",
+        "manage-users": "使用者存取",
+        "online-orders": "網上訂單",
+        "sms-marketing": "簡訊行銷",
+        "accountant-hub": "會計師和支持"
+      },
+      "party-tools": {
+        "documents": "Party Documents",
+        "portal": "派對門戶",
+        "import": "派對匯入",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "差距分析"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "批量和串行",
+        "barcode-labels": "條碼標籤",
+        "item-import": "物品導入",
+        "gap-analysis": "差距分析"
+      },
+      "storage": {
+        "client-storage": "客戶文件",
+        "unifiedtree-storage": "雲端儲存"
+      },
+      "alerts": {
+        "accountant-alerts": "會計師提醒",
+        "compliance-alerts": "合規警報",
+        "cash-risk-alerts": "現金和風險警報",
+        "ca-access": "CA臨時訪問"
+      },
+      "migration": {
+        "import": "導入數據",
+        "export": "匯出數據",
+        "history": "導入歷史記錄",
+        "tally-import": "從 Tally 和 Zoho 導入"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "購買和付款",
+      "accountingSetup": "會計設定",
+      "dataDocuments": "數據和文件"
+    }
+  },
+  "common": {
+    "save": "儲存變更",
+    "cancel": "取消",
+    "create": "創造",
+    "edit": "編輯",
+    "delete": "刪除",
+    "search": "搜尋",
+    "connect": "連接",
+    "configure": "配置",
+    "disconnect": "斷開",
+    "sync": "立即同步",
+    "close": "關閉",
+    "reset": "重設為預設值",
+    "back": "後退",
+    "continue": "繼續",
+    "all": "全部",
+    "retry": "重試",
+    "loading": "載入中…",
+    "resetDemo": "重置演示數據"
+  },
+  "shell": {
+    "searchPlaceholder": "搜尋任何東西...",
+    "settings": "設定",
+    "language": "語言",
+    "role": "角色",
+    "greeting": {
+      "morning": "早安",
+      "afternoon": "午安",
+      "evening": "晚安"
+    },
+    "settingsItems": {
+      "company-profile": "公司簡介",
+      "configuration": "配置",
+      "fiscal-periods": "會計期間",
+      "roles": "角色和用戶",
+      "integrations": "整合",
+      "notifications": "通知",
+      "audit-logs": "審計和日誌",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "已翻譯",
+    "untranslatedLanguages": "翻譯前為英語"
+  },
+  "status": {
+    "filed": "提起",
+    "ready": "準備歸檔",
+    "open": "開放期間",
+    "paid": "有薪資的",
+    "pending": "待辦的",
+    "accepted": "公認",
+    "delivered": "發表",
+    "rejected": "被拒絕",
+    "pdf-sent": "PDF已發送",
+    "not-sent": "未發送",
+    "matched": "匹配的",
+    "mismatch": "不匹配",
+    "missing-supplier": "供應商未報告",
+    "missing-books": "書本上不見了",
+    "deferred": "延期",
+    "deducted": "扣除",
+    "remitted": "匯出",
+    "certified": "已認證",
+    "to-report": "檢舉",
+    "reported": "已報道",
+    "accounted": "已核算",
+    "overdue": "逾期"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "準備歸檔",
+      "liabilityDue": "到期責任",
+      "paidThisYear": "今年已繳費",
+      "nextDeadline": "下一個截止日期",
+      "noneOverdue": "無逾期",
+      "overdue": "{{count}} 逾期"
+    },
+    "filter": {
+      "ready": "準備歸檔",
+      "open": "打開",
+      "filed": "提起"
+    },
+    "col": {
+      "period": "時期",
+      "authority": "權威",
+      "rate": "速度",
+      "due": "到期的",
+      "netPayable": "應付淨額",
+      "status": "地位",
+      "ack": "致謝"
+    },
+    "file": "文件",
+    "view": "看法",
+    "fileForm": "文件 {{form}}",
+    "loadingJurisdiction": "正在載入管轄權...",
+    "nothingToFile": "沒有等待提交的申報表－所有關閉期間均已提交。",
+    "fileNext": "下一個檔案：{{name}}",
+    "steps": {
+      "review": "審查",
+      "validate": "證實",
+      "declare": "申報並提交",
+      "ack": "致謝"
+    },
+    "runValidation": "運行驗證",
+    "validating": "正在驗證...",
+    "submit": "Submit {{form}}",
+    "submitting": "正在提交...",
+    "declaration": "我聲明此申報表中的資訊真實且完整，並且我有權將其提交給{{authority}}。",
+    "netAmount": "淨額",
+    "submitted": "已提交",
+    "filedOn": "提交於",
+    "regime": {
+      "authority": "權威",
+      "channel": "備案管道",
+      "return": "返回",
+      "due": "到期的",
+      "standardRate": "標準費率",
+      "threshold": "註冊門檻"
+    },
+    "demoNote": "來自內建模擬稅務 API 的簡報資料 — 模擬申報和付款，不會向稅務機關發送任何內容。"
+  },
+  "fx": {
+    "title": "外幣",
+    "subtitle": "基礎貨幣 {{base}} · 指示性模擬市場匯率",
+    "newDoc": "新的外匯發票/帳單",
+    "kpi": {
+      "netExposure": "淨外匯敞口",
+      "openDocs": "{{count}} 個開啟的文檔",
+      "unrealized": "未實現損益",
+      "postedSplit": "{{posted}} 已發布 · {{unposted}} 尚未發布",
+      "realized": "今年已實現",
+      "lastReval": "上次重估",
+      "never": "絕不",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "未清項目",
+      "settled": "已定居",
+      "revaluation": "月末重估",
+      "journal": "外匯雜誌"
+    },
+    "col": {
+      "document": "文件",
+      "type": "類型",
+      "openForeign": "開放（國外）",
+      "bookedNow": "已預訂/現在",
+      "valueIn": "值以 {{base}} 為單位",
+      "unrealized": "未實現",
+      "status": "地位",
+      "amount": "數量",
+      "bookedRate": "預訂率",
+      "realized": "已實現"
+    },
+    "receivable": "應收帳款",
+    "payable": "應付",
+    "receive": "收到",
+    "pay": "支付",
+    "netIn": "網路位於{{base}}",
+    "state": {
+      "settled": "已定居",
+      "partial": "部分解決",
+      "open": "打開"
+    },
+    "demoNote": "來自內建模擬 API 的演示數據 — 匯率是模擬的，而不是即時市場數據。"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Μέρα με τη μέρα",
+      "finance": "Οικονομικά",
+      "advanced": "Προχωρημένος"
+    },
+    "mainMenu": "Κύριο Μενού",
+    "short": {
+      "parties": "Κόμματα"
+    },
+    "sections": {
+      "dashboard": "Ταμπλό",
+      "sales": "Εμπορικός",
+      "receivables": "Χρήματα μέσα",
+      "procurement": "Ψώνια",
+      "payables": "Έξω τα χρήματα",
+      "cashbank": "Μετρητά & Τράπεζα",
+      "expenses": "Εξοδα",
+      "tax": "Φόρος",
+      "reports": "Αναφορές",
+      "advanced-features": "Προηγμένες δυνατότητες",
+      "parties": "Πελάτες & Προμηθευτές",
+      "inventory": "Είδη",
+      "assets": "Πάγιο ενεργητικό",
+      "masters": "Ρύθμιση & Διαμόρφωση",
+      "business-tools": "Ομάδα & Εργαλεία",
+      "party-tools": "Εργαλεία πάρτι",
+      "item-tools": "Εργαλεία αντικειμένου",
+      "storage": "Εγγραφα",
+      "alerts": "Ειδοποιήσεις",
+      "migration": "Μετανάστευση δεδομένων"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Επισκόπηση",
+        "cash-flow": "Ταμειακή ροή",
+        "tax-calendar": "Φορολογικό Ημερολόγιο"
+      },
+      "sales": {
+        "quotations": "Εισαγωγικά",
+        "proforma-invoices": "ΠΙ",
+        "sales-invoices": "Τιμολόγιο",
+        "delivery-challans": "Παράδοση Challan",
+        "receipts": "Παραλαβή",
+        "invoice-desk": "Γραφείο τιμολογίων"
+      },
+      "receivables": {
+        "money-in-center": "Χρήματα στο Κέντρο",
+        "receivables": "Απαιτήσεις",
+        "payments-received": "Πληρωμές που ελήφθησαν",
+        "overdue-collections": "Συλλογές & Υπενθυμίσεις",
+        "credit-notes": "Πιστωτικές σημειώσεις & επιστροφές χρημάτων",
+        "sales-returns": "Επιστροφές Πωλήσεων",
+        "customer-statements": "Δηλώσεις πελατών",
+        "payment-links": "Σύνδεσμοι πληρωμής"
+      },
+      "procurement": {
+        "purchase-center": "Κέντρο αγορών",
+        "purchase-orders": "Εντολές Αγοράς",
+        "goods-receipt": "Απόδειξη εμπορευμάτων",
+        "purchase-invoices": "Τιμολόγια αγορών",
+        "payment-out": "Πραγματοποιήθηκαν πληρωμές",
+        "returns-debit-notes": "Επιστροφές & χρεωστικές σημειώσεις",
+        "bill-approvals": "Εγκρίσεις νομοσχεδίων"
+      },
+      "payables": {
+        "bills": "Κέντρο πληρωμών",
+        "payments": "Πληρωμές προμηθευτών",
+        "workforce": "Εργατικό δυναμικό",
+        "adjustments": "Προσαρμογές",
+        "bank-release": "Τραπεζική Απελευθέρωση"
+      },
+      "cashbank": {
+        "bank-accounts": "Οι λογαριασμοί μου",
+        "reconciliation": "Συναλλαγές αντιστοίχισης",
+        "cash-petty": "Μικρό ταμείο",
+        "contra": "Μεταξύ λογαριασμών",
+        "cheque-register": "Έλεγχοι",
+        "foreign-currency": "Ξένο Νόμισμα",
+        "bank-feeds": "Τροφοδοσίες Τραπεζών",
+        "bank-rules": "Κανόνες & Συμφιλίωση"
+      },
+      "expenses": {
+        "expense-center": "Όλα τα Έξοδα",
+        "categories": "Τύποι δαπανών",
+        "automated-bills": "Επαναλαμβανόμενα Έξοδα",
+        "journal-vouchers": "Χειροκίνητες καταχωρήσεις",
+        "provisions": "δεδουλευμένα",
+        "write-offs": "Διαγραφές",
+        "period-close": "Μήνα-Τέλος"
+      },
+      "tax": {
+        "gst-returns": "Αρχειοθέτηση GST",
+        "gst-filing-wizard": "⚡ Αρχείο GSTR-3B",
+        "gst-reconciliation": "Αντιστοίχιση GST",
+        "e-invoicing": "Ηλεκτρονικά τιμολόγια",
+        "e-way-bills": "Λογαριασμοί E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Πληρώστε Φόρο",
+        "quarterly-compliance": "Ημερολόγιο συμμόρφωσης",
+        "ca-access": "CA Προσωρινή πρόσβαση",
+        "gst-from-books": "GST από τα Βιβλία"
+      },
+      "reports": {
+        "financial-statements": "Οικονομικές Εκθέσεις",
+        "books": "Βιβλία Συναλλαγών",
+        "gst-reports": "Αναφορές GST",
+        "ar-ap": "Απαιτήσεις έναντι υποχρεώσεων",
+        "profitability": "Κερδοφορία",
+        "period-comparatives": "Σύγκριση έτους",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Πρόβλεψη μετρητών",
+        "report-builder": "Προσαρμοσμένες αναφορές",
+        "general-ledger": "Γενικό καθολικό",
+        "live-financials": "Ζωντανά οικονομικά",
+        "ai-analyst": "Αναλυτής AI"
+      },
+      "advanced-features": {
+        "overview": "Επισκόπηση"
+      },
+      "parties": {
+        "all-parties": "Όλα τα κόμματα",
+        "customer-ledgers": "Πελάτες",
+        "supplier-ledgers": "Προμηθευτές",
+        "shared-ledger": "Κοινό Καθολικό",
+        "statements": "Δηλώσεις",
+        "reminders": "Υπενθυμίσεις",
+        "documents": "Έγγραφα κόμματος",
+        "portal": "Πύλη Κόμματος",
+        "import": "Κόμμα Εισαγωγή",
+        "duplicate-merge": "Διπλότυπη συγχώνευση",
+        "gap-analysis": "Ανάλυση κενών"
+      },
+      "inventory": {
+        "inventory-items": "Είδη",
+        "godowns": "Αποθήκες",
+        "stock-movement": "Κίνηση μετοχών",
+        "item-pricing": "Τιμολόγηση",
+        "stock-valuation": "Αποτίμηση μετοχών",
+        "reorder-alerts": "Αναδιάταξη ειδοποιήσεων",
+        "batch-serials": "Παρτίδα & Σειρά",
+        "barcode-labels": "Ετικέτες Barcode",
+        "item-import": "Εισαγωγή αντικειμένου",
+        "gap-analysis": "Ανάλυση κενών"
+      },
+      "assets": {
+        "asset-register": "Λίστα περιουσιακών στοιχείων",
+        "depreciation": "Απόσβεση",
+        "disposal-revaluation": "Πώληση ή Επανεκτίμηση"
+      },
+      "masters": {
+        "chart-of-accounts": "Λίστα λογαριασμών",
+        "tax-masters": "Φορολογικοί Συντελεστές",
+        "cost-centers": "Κέντρα Κόστους",
+        "voucher-types": "Τύποι συναλλαγών",
+        "opening-balances": "Υπόλοιπα έναρξης",
+        "currencies": "νομίσματα"
+      },
+      "business-tools": {
+        "staff-payroll": "Μισθολόγιο",
+        "manage-users": "Πρόσβαση χρήστη",
+        "online-orders": "Διαδικτυακές παραγγελίες",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Λογιστές & Υποστήριξη"
+      },
+      "party-tools": {
+        "documents": "Έγγραφα κόμματος",
+        "portal": "Πύλη Κόμματος",
+        "import": "Κόμμα Εισαγωγή",
+        "duplicate-merge": "Διπλότυπη συγχώνευση",
+        "gap-analysis": "Ανάλυση κενών"
+      },
+      "item-tools": {
+        "reorder-alerts": "Αναδιάταξη ειδοποιήσεων",
+        "batch-serials": "Παρτίδα & Σειρά",
+        "barcode-labels": "Ετικέτες Barcode",
+        "item-import": "Εισαγωγή αντικειμένου",
+        "gap-analysis": "Ανάλυση κενών"
+      },
+      "storage": {
+        "client-storage": "Αρχεία πελάτη",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Ειδοποιήσεις Λογιστών",
+        "compliance-alerts": "Ειδοποιήσεις συμμόρφωσης",
+        "cash-risk-alerts": "Ειδοποιήσεις μετρητών και κινδύνου",
+        "ca-access": "CA Προσωρινή πρόσβαση"
+      },
+      "migration": {
+        "import": "Εισαγωγή δεδομένων",
+        "export": "Εξαγωγή δεδομένων",
+        "history": "Ιστορικό Εισαγωγών",
+        "tally-import": "Εισαγωγή από την Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Αγορές & Πληρωμές",
+      "accountingSetup": "Λογιστική Ρύθμιση",
+      "dataDocuments": "Δεδομένα & Έγγραφα"
+    }
+  },
+  "common": {
+    "save": "Αποθήκευση αλλαγών",
+    "cancel": "Ματαίωση",
+    "create": "Δημιουργώ",
+    "edit": "Εκδίδω",
+    "delete": "Διαγράφω",
+    "search": "Ερευνα",
+    "connect": "Συνδέω",
+    "configure": "Διαμόρφωση",
+    "disconnect": "Αποσυνδέω",
+    "sync": "Συγχρονισμός τώρα",
+    "close": "Κοντά",
+    "reset": "Επαναφορά στις προεπιλογές",
+    "back": "Πίσω",
+    "continue": "Συνεχίζω",
+    "all": "Ολοι",
+    "retry": "Δοκιμάζω πάλι",
+    "loading": "Φόρτωση…",
+    "resetDemo": "Επαναφορά δεδομένων επίδειξης"
+  },
+  "shell": {
+    "searchPlaceholder": "Αναζητήστε οτιδήποτε…",
+    "settings": "Ρυθμίσεις",
+    "language": "Γλώσσα",
+    "role": "Ρόλος",
+    "greeting": {
+      "morning": "Καλημέρα",
+      "afternoon": "Καλημέρα",
+      "evening": "Καλησπέρα"
+    },
+    "settingsItems": {
+      "company-profile": "Εταιρικό Προφίλ",
+      "configuration": "Διαμόρφωση",
+      "fiscal-periods": "Δημοσιονομικές Περιόδους",
+      "roles": "Ρόλοι & Χρήστες",
+      "integrations": "Ενσωματώσεις",
+      "notifications": "Ειδοποιήσεις",
+      "audit-logs": "Έλεγχος & Μητρώα",
+      "audit-trail": "Διαδρομή ελέγχου χωρίς παραβίαση",
+      "developer": "Προγραμματιστής & API"
+    },
+    "translatedLanguages": "Μεταφρασμένο",
+    "untranslatedLanguages": "Αγγλικά μέχρι τη μετάφραση"
+  },
+  "status": {
+    "filed": "Αρχειοθετήθηκε",
+    "ready": "Έτοιμο για αρχειοθέτηση",
+    "open": "Ανοιχτή περίοδος",
+    "paid": "Εμμισθος",
+    "pending": "Εκκρεμής",
+    "accepted": "Δεκτός",
+    "delivered": "Παραδόθηκε",
+    "rejected": "Απορρίφθηκε",
+    "pdf-sent": "Το PDF εστάλη",
+    "not-sent": "Δεν εστάλη",
+    "matched": "Ταίριαξε",
+    "mismatch": "Αναντιστοιχία",
+    "missing-supplier": "Δεν αναφέρεται από τον προμηθευτή",
+    "missing-books": "Λείπει στα βιβλία",
+    "deferred": "Αναβαλλόμενος",
+    "deducted": "Αφαιρέθηκε",
+    "remitted": "Παραδόθηκε",
+    "certified": "Επικυρωμένος",
+    "to-report": "Για αναφορά",
+    "reported": "Αναφέρθηκε",
+    "accounted": "Λογιστική",
+    "overdue": "Εκπρόθεσμος"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Έτοιμο για αρχειοθέτηση",
+      "liabilityDue": "Οφειλόμενη ευθύνη",
+      "paidThisYear": "Πληρώθηκε φέτος",
+      "nextDeadline": "Επόμενη προθεσμία",
+      "noneOverdue": "Καμία εκπρόθεσμη",
+      "overdue": "{{count}} ληξιπρόθεσμα"
+    },
+    "filter": {
+      "ready": "Έτοιμο για αρχειοθέτηση",
+      "open": "Ανοιχτό",
+      "filed": "Αρχειοθετήθηκε"
+    },
+    "col": {
+      "period": "Περίοδος",
+      "authority": "Εξουσία",
+      "rate": "Τιμή",
+      "due": "Οφειλόμενος",
+      "netPayable": "Καθαρό πληρωτέο",
+      "status": "Κατάσταση",
+      "ack": "Αναγνώριση"
+    },
+    "file": "Αρχείο",
+    "view": "Θέα",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Φόρτωση δικαιοδοσίας…",
+    "nothingToFile": "Δεν αναμένονται επιστροφές για υποβολή — όλες οι κλειστές περίοδοι υποβάλλονται.",
+    "fileNext": "Επόμενο αρχείο: {{name}}",
+    "steps": {
+      "review": "Κριτική",
+      "validate": "Επικυρώνω",
+      "declare": "Δηλώστε και υποβάλετε",
+      "ack": "Αναγνώριση"
+    },
+    "runValidation": "Εκτέλεση επικύρωσης",
+    "validating": "Επικύρωση…",
+    "submit": "Submit {{form}}",
+    "submitting": "Υποβολή…",
+    "declaration": "Δηλώνω ότι οι πληροφορίες σε αυτήν την δήλωση είναι αληθείς και πλήρεις και ότι είμαι εξουσιοδοτημένος να τις υποβάλω στην {{authority}}.",
+    "netAmount": "Καθαρό ποσό",
+    "submitted": "Υποβλήθηκε",
+    "filedOn": "Κατατέθηκε στις",
+    "regime": {
+      "authority": "Εξουσία",
+      "channel": "Κανάλι αρχειοθέτησης",
+      "return": "Απόδοση",
+      "due": "Οφειλόμενος",
+      "standardRate": "Τυπική τιμή",
+      "threshold": "Όριο εγγραφής"
+    },
+    "demoNote": "Δεδομένα επίδειξης από το ενσωματωμένο εικονικό φορολογικό API — οι αρχειοθετήσεις και οι πληρωμές προσομοιώνονται και τίποτα δεν αποστέλλεται σε φορολογική αρχή."
+  },
+  "fx": {
+    "title": "Ξένο Νόμισμα",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Νέο τιμολόγιο / λογαριασμός συναλλάγματος",
+    "kpi": {
+      "netExposure": "Καθαρή έκθεση σε συνάλλαγμα",
+      "openDocs": "{{count}} ανοιχτά έγγραφα",
+      "unrealized": "Μη πραγματοποιηθέν κέρδος/ζημία",
+      "postedSplit": "Το {{posted}} δημοσιεύτηκε · {{unposted}} όχι ακόμα",
+      "realized": "Πραγματοποιήθηκε φέτος",
+      "lastReval": "Τελευταία αναπροσαρμογή",
+      "never": "Ποτέ",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Ανοίξτε στοιχεία",
+      "settled": "Πάγιος",
+      "revaluation": "Αναπροσαρμογή στο τέλος του μήνα",
+      "journal": "περιοδικό FX"
+    },
+    "col": {
+      "document": "Εγγραφο",
+      "type": "Τύπος",
+      "openForeign": "Ανοιχτό (ξένο)",
+      "bookedNow": "Έγινε κράτηση / τώρα",
+      "valueIn": "Τιμή σε {{base}}",
+      "unrealized": "Απραγματοποίητος",
+      "status": "Κατάσταση",
+      "amount": "Ποσό",
+      "bookedRate": "Κράτηση τιμή",
+      "realized": "Πραγματοποιήθηκε"
+    },
+    "receivable": "Εισπρακτέος",
+    "payable": "Πληρωτέος",
+    "receive": "Λαμβάνω",
+    "pay": "Πληρωμή",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Πάγιος",
+      "partial": "Μερικώς διευθετημένο",
+      "open": "Ανοιχτό"
+    },
+    "demoNote": "Δεδομένα επίδειξης από το ενσωματωμένο εικονικό API — οι τιμές προσομοιώνονται και όχι ζωντανά δεδομένα αγοράς."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ቀን-ወደ-ቀን",
+      "finance": "ፋይናንስ",
+      "advanced": "የላቀ"
+    },
+    "mainMenu": "ዋና ምናሌ",
+    "short": {
+      "parties": "ፓርቲዎች"
+    },
+    "sections": {
+      "dashboard": "ዳሽቦርድ",
+      "sales": "ሽያጭ",
+      "receivables": "ገንዘብ ወደ ውስጥ",
+      "procurement": "ግዢዎች",
+      "payables": "ገንዘብ ውጭ",
+      "cashbank": "ጥሬ ገንዘብ እና ባንክ",
+      "expenses": "ወጪዎች",
+      "tax": "ግብር",
+      "reports": "ሪፖርቶች",
+      "advanced-features": "የላቁ ባህሪያት",
+      "parties": "ደንበኞች እና አቅራቢዎች",
+      "inventory": "እቃዎች",
+      "assets": "ቋሚ ንብረቶች",
+      "masters": "ማዋቀር እና ማዋቀር",
+      "business-tools": "ቡድን እና መሳሪያዎች",
+      "party-tools": "የድግስ መሳሪያዎች",
+      "item-tools": "የንጥል መሳሪያዎች",
+      "storage": "ሰነዶች",
+      "alerts": "ማንቂያዎች",
+      "migration": "የውሂብ ፍልሰት"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "አጠቃላይ እይታ",
+        "cash-flow": "የገንዘብ ፍሰት",
+        "tax-calendar": "የግብር የቀን መቁጠሪያ"
+      },
+      "sales": {
+        "quotations": "ጥቅሶች",
+        "proforma-invoices": "ፒ.አይ",
+        "sales-invoices": "ደረሰኝ",
+        "delivery-challans": "መላኪያ Challan",
+        "receipts": "ደረሰኝ",
+        "invoice-desk": "የክፍያ መጠየቂያ ዴስክ"
+      },
+      "receivables": {
+        "money-in-center": "በማዕከል ውስጥ ገንዘብ",
+        "receivables": "ደረሰኞች",
+        "payments-received": "ክፍያዎች ተቀብለዋል",
+        "overdue-collections": "ስብስቦች እና አስታዋሾች",
+        "credit-notes": "የብድር ማስታወሻዎች እና ተመላሽ ገንዘቦች",
+        "sales-returns": "የሽያጭ ተመላሾች",
+        "customer-statements": "የደንበኛ መግለጫዎች",
+        "payment-links": "የክፍያ አገናኞች"
+      },
+      "procurement": {
+        "purchase-center": "የግዢ ማዕከል",
+        "purchase-orders": "የግዢ ትዕዛዞች",
+        "goods-receipt": "የእቃ ደረሰኝ",
+        "purchase-invoices": "የግዢ ደረሰኞች",
+        "payment-out": "ክፍያዎች ተደርገዋል።",
+        "returns-debit-notes": "ተመላሾች እና የዴቢት ማስታወሻዎች",
+        "bill-approvals": "ቢል ማጽደቆች"
+      },
+      "payables": {
+        "bills": "የክፍያ ማዕከል",
+        "payments": "የአቅራቢ ክፍያዎች",
+        "workforce": "የሰው ኃይል",
+        "adjustments": "ማስተካከያዎች",
+        "bank-release": "የባንክ መልቀቅ"
+      },
+      "cashbank": {
+        "bank-accounts": "የእኔ መለያዎች",
+        "reconciliation": "ግጥሚያ ግብይቶች",
+        "cash-petty": "ጥቃቅን ጥሬ ገንዘብ",
+        "contra": "በመለያዎች መካከል",
+        "cheque-register": "ቼኮች",
+        "foreign-currency": "የውጭ ምንዛሪ",
+        "bank-feeds": "የባንክ ምግቦች",
+        "bank-rules": "ደንቦች እና እርቅ"
+      },
+      "expenses": {
+        "expense-center": "ሁሉም ወጪዎች",
+        "categories": "የወጪ ዓይነቶች",
+        "automated-bills": "ተደጋጋሚ ወጪዎች",
+        "journal-vouchers": "በእጅ ግቤቶች",
+        "provisions": "የተከማቸ",
+        "write-offs": "መፃፊያዎች",
+        "period-close": "ወር-መጨረሻ"
+      },
+      "tax": {
+        "gst-returns": "GST ፋይል ማድረግ",
+        "gst-filing-wizard": "⚡ ፋይል GSTR-3B",
+        "gst-reconciliation": "GST ማዛመድ",
+        "e-invoicing": "ኢ-ደረሰኞች",
+        "e-way-bills": "ኢ-ዌይ ሂሳቦች",
+        "tds": "ቲ.ዲ.ኤስ",
+        "tcs": "TCS",
+        "tax-payments": "ግብር ይክፈሉ።",
+        "quarterly-compliance": "ተገዢነት የቀን መቁጠሪያ",
+        "ca-access": "CA ጊዜያዊ መዳረሻ",
+        "gst-from-books": "GST ከመጻሕፍት"
+      },
+      "reports": {
+        "financial-statements": "የፋይናንስ ሪፖርቶች",
+        "books": "የግብይት መጽሐፍት።",
+        "gst-reports": "የጂኤስቲ ሪፖርቶች",
+        "ar-ap": "ደረሰኞች ከክፍያ ጋር",
+        "profitability": "ትርፋማነት",
+        "period-comparatives": "የዓመት ንጽጽር",
+        "budget-vs-actuals": "የበጀት መከታተያ",
+        "cashflow-projection": "የገንዘብ ትንበያ",
+        "report-builder": "ብጁ ሪፖርቶች",
+        "general-ledger": "ጄኔራል ደብተር",
+        "live-financials": "የቀጥታ ፋይናንሺያል",
+        "ai-analyst": "AI ተንታኝ"
+      },
+      "advanced-features": {
+        "overview": "አጠቃላይ እይታ"
+      },
+      "parties": {
+        "all-parties": "ሁሉም ፓርቲዎች",
+        "customer-ledgers": "ደንበኞች",
+        "supplier-ledgers": "አቅራቢዎች",
+        "shared-ledger": "የተጋራ ደብተር",
+        "statements": "መግለጫዎች",
+        "reminders": "አስታዋሾች",
+        "documents": "የፓርቲ ሰነዶች",
+        "portal": "የፓርቲ ፖርታል",
+        "import": "የድግስ ማስመጣት",
+        "duplicate-merge": "የተባዛ ውህደት",
+        "gap-analysis": "ክፍተት ትንተና"
+      },
+      "inventory": {
+        "inventory-items": "እቃዎች",
+        "godowns": "መጋዘኖች",
+        "stock-movement": "የአክሲዮን እንቅስቃሴ",
+        "item-pricing": "የዋጋ አሰጣጥ",
+        "stock-valuation": "የአክሲዮን ዋጋ",
+        "reorder-alerts": "ማንቂያዎችን እንደገና ይዘዙ",
+        "batch-serials": "ባች እና ተከታታይ",
+        "barcode-labels": "የአሞሌ መለያዎች",
+        "item-import": "ዕቃ ማስመጣት።",
+        "gap-analysis": "ክፍተት ትንተና"
+      },
+      "assets": {
+        "asset-register": "የንብረት ዝርዝር",
+        "depreciation": "የዋጋ ቅነሳ",
+        "disposal-revaluation": "ይሽጡ ወይም ዋጋ ይስጡ"
+      },
+      "masters": {
+        "chart-of-accounts": "የመለያዎች ዝርዝር",
+        "tax-masters": "የግብር ተመኖች",
+        "cost-centers": "የወጪ ማዕከሎች",
+        "voucher-types": "የግብይት ዓይነቶች",
+        "opening-balances": "የመነሻ ሚዛን",
+        "currencies": "ምንዛሬዎች"
+      },
+      "business-tools": {
+        "staff-payroll": "ደሞዝ",
+        "manage-users": "የተጠቃሚ መዳረሻ",
+        "online-orders": "የመስመር ላይ ትዕዛዞች",
+        "sms-marketing": "የኤስኤምኤስ ግብይት",
+        "accountant-hub": "የሂሳብ ባለሙያዎች እና ድጋፍ"
+      },
+      "party-tools": {
+        "documents": "የፓርቲ ሰነዶች",
+        "portal": "የፓርቲ ፖርታል",
+        "import": "የድግስ ማስመጣት",
+        "duplicate-merge": "የተባዛ ውህደት",
+        "gap-analysis": "ክፍተት ትንተና"
+      },
+      "item-tools": {
+        "reorder-alerts": "ማንቂያዎችን እንደገና ይዘዙ",
+        "batch-serials": "ባች እና ተከታታይ",
+        "barcode-labels": "የአሞሌ መለያዎች",
+        "item-import": "ዕቃ ማስመጣት።",
+        "gap-analysis": "ክፍተት ትንተና"
+      },
+      "storage": {
+        "client-storage": "የደንበኛ ፋይሎች",
+        "unifiedtree-storage": "የደመና ማከማቻ"
+      },
+      "alerts": {
+        "accountant-alerts": "የሂሳብ ባለሙያ ማንቂያዎች",
+        "compliance-alerts": "የተገዢነት ማንቂያዎች",
+        "cash-risk-alerts": "የገንዘብ እና የአደጋ ማንቂያዎች",
+        "ca-access": "CA ጊዜያዊ መዳረሻ"
+      },
+      "migration": {
+        "import": "ውሂብ አስመጣ",
+        "export": "ውሂብ ወደ ውጪ ላክ",
+        "history": "ታሪክ አስመጣ",
+        "tally-import": "ከTally & Zoho አስመጣ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ግዢዎች እና ክፍያዎች",
+      "accountingSetup": "የሂሳብ አያያዝ ቅንብር",
+      "dataDocuments": "ውሂብ እና ሰነዶች"
+    }
+  },
+  "common": {
+    "save": "ለውጦችን ያስቀምጡ",
+    "cancel": "ሰርዝ",
+    "create": "ፍጠር",
+    "edit": "አርትዕ",
+    "delete": "ሰርዝ",
+    "search": "ፈልግ",
+    "connect": "ተገናኝ",
+    "configure": "አዋቅር",
+    "disconnect": "ግንኙነት አቋርጥ",
+    "sync": "አሁን አስምር",
+    "close": "ገጠመ",
+    "reset": "ወደ ነባሪዎች ዳግም አስጀምር",
+    "back": "ተመለስ",
+    "continue": "ቀጥል",
+    "all": "ሁሉም",
+    "retry": "እንደገና ይሞክሩ",
+    "loading": "በመጫን ላይ…",
+    "resetDemo": "የማሳያ ውሂብን ዳግም ያስጀምሩ"
+  },
+  "shell": {
+    "searchPlaceholder": "ማንኛውንም ነገር ይፈልጉ…",
+    "settings": "ቅንብሮች",
+    "language": "ቋንቋ",
+    "role": "ሚና",
+    "greeting": {
+      "morning": "ምልካም እድል",
+      "afternoon": "እንደምን አረፈድክ",
+      "evening": "አንደምን አመሸህ"
+    },
+    "settingsItems": {
+      "company-profile": "የኩባንያው መገለጫ",
+      "configuration": "ማዋቀር",
+      "fiscal-periods": "የፊስካል ወቅቶች",
+      "roles": "ሚናዎች እና ተጠቃሚዎች",
+      "integrations": "ውህደቶች",
+      "notifications": "ማሳወቂያዎች",
+      "audit-logs": "ኦዲት እና ምዝግብ ማስታወሻዎች",
+      "audit-trail": "የማይነካ የኦዲት መሄጃ",
+      "developer": "ገንቢ እና ኤፒአይ"
+    },
+    "translatedLanguages": "ተተርጉሟል",
+    "untranslatedLanguages": "እንግሊዝኛ እስኪተረጎም ድረስ"
+  },
+  "status": {
+    "filed": "ተመዝግቧል",
+    "ready": "ፋይል ለማድረግ ዝግጁ",
+    "open": "ጊዜ ክፍት ነው።",
+    "paid": "የተከፈለ",
+    "pending": "በመጠባበቅ ላይ",
+    "accepted": "ተቀባይነት አግኝቷል",
+    "delivered": "ደረሰ",
+    "rejected": "ውድቅ ተደርጓል",
+    "pdf-sent": "ፒዲኤፍ ተልኳል።",
+    "not-sent": "አልተላከም።",
+    "matched": "ተዛመደ",
+    "mismatch": "አለመመጣጠን",
+    "missing-supplier": "በአቅራቢው አልተዘገበም።",
+    "missing-books": "በመጻሕፍት ውስጥ ይጎድላል",
+    "deferred": "የዘገየ",
+    "deducted": "ተቀንሷል",
+    "remitted": "ተሰርዟል።",
+    "certified": "የተረጋገጠ",
+    "to-report": "ሪፖርት ለማድረግ",
+    "reported": "ሪፖርት ተደርጓል",
+    "accounted": "ተቆጥሯል።",
+    "overdue": "ዘግይቷል"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ፋይል ለማድረግ ዝግጁ",
+      "liabilityDue": "የሚከፈል ተጠያቂነት",
+      "paidThisYear": "በዚህ አመት ተከፍሏል።",
+      "nextDeadline": "የሚቀጥለው የመጨረሻ ቀን",
+      "noneOverdue": "ምንም የዘገየ የለም።",
+      "overdue": "{{count}} ጊዜው አልፎበታል።"
+    },
+    "filter": {
+      "ready": "ፋይል ለማድረግ ዝግጁ",
+      "open": "ክፈት",
+      "filed": "ተመዝግቧል"
+    },
+    "col": {
+      "period": "ጊዜ",
+      "authority": "ስልጣን",
+      "rate": "ደረጃ ይስጡ",
+      "due": "የሚከፈል",
+      "netPayable": "የተጣራ የሚከፈል",
+      "status": "ሁኔታ",
+      "ack": "እውቅና"
+    },
+    "file": "ፋይል",
+    "view": "ይመልከቱ",
+    "fileForm": "ፋይል {{form}}",
+    "loadingJurisdiction": "ስልጣንን በመጫን ላይ…",
+    "nothingToFile": "ምንም ተመላሾች ለመመዝገብ አይጠብቁም - ሁሉም የተዘጉ ወቅቶች ገብተዋል።",
+    "fileNext": "ቀጥሎ ፋይል ያድርጉ፡ {{name}}",
+    "steps": {
+      "review": "ግምገማ",
+      "validate": "አረጋግጥ",
+      "declare": "ይግለጹ እና ያስገቡ",
+      "ack": "እውቅና"
+    },
+    "runValidation": "ማረጋገጫን አሂድ",
+    "validating": "በማረጋገጥ ላይ…",
+    "submit": "{{form}} አስገባ",
+    "submitting": "በማስረከብ ላይ…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "የተጣራ መጠን",
+    "submitted": "ገብቷል።",
+    "filedOn": "ገብቷል።",
+    "regime": {
+      "authority": "ስልጣን",
+      "channel": "ቻናል መሙላት",
+      "return": "ተመለስ",
+      "due": "የሚከፈል",
+      "standardRate": "መደበኛ ተመን",
+      "threshold": "የምዝገባ ገደብ"
+    },
+    "demoNote": "የማሳያ ውሂብ አብሮ ከተሰራው የማስመሰያ ታክስ ኤፒአይ - ሰነዶች እና ክፍያዎች ተመስለዋል እና ምንም ነገር ለታክስ ባለስልጣን አይላክም።"
+  },
+  "fx": {
+    "title": "የውጭ ምንዛሪ",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "አዲስ FX ደረሰኝ / ሂሳብ",
+    "kpi": {
+      "netExposure": "የተጣራ FX መጋለጥ",
+      "openDocs": "{{count}} ክፍት ሰነዶች",
+      "unrealized": "ያልታወቀ ትርፍ/ኪሳራ",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "በዚህ ዓመት ተገነዘበ",
+      "lastReval": "የመጨረሻ ግምገማ",
+      "never": "በጭራሽ",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "ንጥሎችን ክፈት",
+      "settled": "ተቀምጧል",
+      "revaluation": "ወር-መጨረሻ ግምገማ",
+      "journal": "FX ጆርናል"
+    },
+    "col": {
+      "document": "ሰነድ",
+      "type": "ዓይነት",
+      "openForeign": "ክፍት (የውጭ)",
+      "bookedNow": "ተይዟል/አሁን",
+      "valueIn": "ዋጋ በ{{base}}",
+      "unrealized": "ያልተገነዘበ",
+      "status": "ሁኔታ",
+      "amount": "መጠን",
+      "bookedRate": "የተያዘ ተመን",
+      "realized": "ተገነዘበ"
+    },
+    "receivable": "የሚቀበል",
+    "payable": "የሚከፈል",
+    "receive": "ተቀበል",
+    "pay": "ይክፈሉ።",
+    "netIn": "በ{{base}} ውስጥ የተጣራ",
+    "state": {
+      "settled": "ተቀምጧል",
+      "partial": "በከፊል የተቀመጠ",
+      "open": "ክፈት"
+    },
+    "demoNote": "የማሳያ ውሂብ አብሮ በተሰራው የማስመሰል ኤፒአይ — ተመኖች የሚመሳሰሉት እንጂ የቀጥታ የገበያ ውሂብ አይደሉም።"
+  }
+}

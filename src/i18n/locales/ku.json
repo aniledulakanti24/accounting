@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Roj bi roj",
+      "finance": "Malî",
+      "advanced": "Pêşveçû"
+    },
+    "mainMenu": "Menuya sereke",
+    "short": {
+      "parties": "Partiyên"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Sales",
+      "receivables": "Money In",
+      "procurement": "Kirîn",
+      "payables": "Money Out",
+      "cashbank": "Cash & Bank",
+      "expenses": "Mesrefên",
+      "tax": "Bac",
+      "reports": "Raporên",
+      "advanced-features": "Taybetmendiyên pêşkeftî",
+      "parties": "Mişterî & Pêşkêşker",
+      "inventory": "Items",
+      "assets": "Amûrên Sabît",
+      "masters": "Sazkirin & Vesazkirin",
+      "business-tools": "Tîm & Amûrên",
+      "party-tools": "Amûrên Partiyê",
+      "item-tools": "Amûrên Babetê",
+      "storage": "Documents",
+      "alerts": "Alerts",
+      "migration": "Koçkirina Daneyên"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Têgihiştinî",
+        "cash-flow": "Herikîna Pereyê",
+        "tax-calendar": "Salnameya Bacê"
+      },
+      "sales": {
+        "quotations": "Quotations",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Biha",
+        "delivery-challans": "Delivery Challan",
+        "receipts": "Meqbûz",
+        "invoice-desk": "Maseya fatûre"
+      },
+      "receivables": {
+        "money-in-center": "Pere Li Navenda",
+        "receivables": "Receivables",
+        "payments-received": "Payments Received",
+        "overdue-collections": "Berhev & Bîranîn",
+        "credit-notes": "Têbînî û Vegerandina Krediyê",
+        "sales-returns": "Sales Returns",
+        "customer-statements": "Daxuyaniyên Mişterî",
+        "payment-links": "Girêdanên Payment"
+      },
+      "procurement": {
+        "purchase-center": "Navenda Kirînê",
+        "purchase-orders": "Orders kirînê",
+        "goods-receipt": "Qebûlkirina Malan",
+        "purchase-invoices": "Faturên Kirînê",
+        "payment-out": "Payments Made",
+        "returns-debit-notes": "Vegere & Têbînî Debit",
+        "bill-approvals": "Bill Approvals"
+      },
+      "payables": {
+        "bills": "Navenda Pay",
+        "payments": "Payments Supplier",
+        "workforce": "Karker",
+        "adjustments": "Guherandinên",
+        "bank-release": "Release Bank"
+      },
+      "cashbank": {
+        "bank-accounts": "Hesabên min",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Petty Cash",
+        "contra": "Di navbera Hesaban de",
+        "cheque-register": "Checks",
+        "foreign-currency": "Pereyê Biyanî",
+        "bank-feeds": "Feeds Bank",
+        "bank-rules": "Rêbaz & Lihevhatin"
+      },
+      "expenses": {
+        "expense-center": "Hemû Lêçûn",
+        "categories": "Cureyên lêçûn",
+        "automated-bills": "Lêçûnên Dubare",
+        "journal-vouchers": "Entries Manual",
+        "provisions": "Accruals",
+        "write-offs": "Nivîsandin",
+        "period-close": "Meh-Dawiya"
+      },
+      "tax": {
+        "gst-returns": "Pelêkirina GST",
+        "gst-filing-wizard": "⚡ Pelê GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-Faturên",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bacê bidin",
+        "quarterly-compliance": "Calendar Compliance",
+        "ca-access": "CA Gihîştina Demkî",
+        "gst-from-books": "GST ji Pirtûkan"
+      },
+      "reports": {
+        "financial-statements": "Raportên Financial",
+        "books": "Pirtûkên Danûstendinê",
+        "gst-reports": "Raporên GST",
+        "ar-ap": "Desketiyên vs Payables",
+        "profitability": "Profitability",
+        "period-comparatives": "Berhevdana Salê",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Cash Forecast",
+        "report-builder": "Raporên Custom",
+        "general-ledger": "General Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "Analîstê AI"
+      },
+      "advanced-features": {
+        "overview": "Têgihiştinî"
+      },
+      "parties": {
+        "all-parties": "Hemû Partî",
+        "customer-ledgers": "Mişterî",
+        "supplier-ledgers": "Suppliers",
+        "shared-ledger": "Ledger parvekirî",
+        "statements": "Daxuyaniyên",
+        "reminders": "Reminders",
+        "documents": "Belgeyên Partiyê",
+        "portal": "Partî Portal",
+        "import": "Partî Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Analysis Gap"
+      },
+      "inventory": {
+        "inventory-items": "Items",
+        "godowns": "Warehouses",
+        "stock-movement": "Tevgera Stock",
+        "item-pricing": "Pricing",
+        "stock-valuation": "Stock Valuation",
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Analysis Gap"
+      },
+      "assets": {
+        "asset-register": "Lîsteya Taybetmendiyê",
+        "depreciation": "Depreciation",
+        "disposal-revaluation": "Bifroşin an Binirxînin"
+      },
+      "masters": {
+        "chart-of-accounts": "Lîsteya Hesaban",
+        "tax-masters": "Rêjeyên Bacê",
+        "cost-centers": "Navendên Mesrefê",
+        "voucher-types": "Cureyên danûstandinê",
+        "opening-balances": "Destpêkirina Balansên",
+        "currencies": "Currencies"
+      },
+      "business-tools": {
+        "staff-payroll": "Rêza yomîya",
+        "manage-users": "Gihîştina Bikarhêner",
+        "online-orders": "Orders liserxetê",
+        "sms-marketing": "Kirrûbirra SMS",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Belgeyên Partiyê",
+        "portal": "Partî Portal",
+        "import": "Partî Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Analysis Gap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Analysis Gap"
+      },
+      "storage": {
+        "client-storage": "Pelên Client",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Accountant Alerts",
+        "compliance-alerts": "Alerts Compliance",
+        "cash-risk-alerts": "Cash & Risk Alerts",
+        "ca-access": "CA Gihîştina Demkî"
+      },
+      "migration": {
+        "import": "Daneyên Import",
+        "export": "Daneyên hinardekirinê",
+        "history": "Dîroka Import",
+        "tally-import": "Import ji Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Kirîn & Tezmînat",
+      "accountingSetup": "Setup Accounting",
+      "dataDocuments": "Dane & Belge"
+    }
+  },
+  "common": {
+    "save": "Save Changes",
+    "cancel": "Bişûndekirin",
+    "create": "Xûliqandin",
+    "edit": "Weşandin",
+    "delete": "Jêbirin",
+    "search": "Gerr",
+    "connect": "Bihevgirêdan",
+    "configure": "Mîheng bikin",
+    "disconnect": "Hevqetandin",
+    "sync": "Niha Sync bikin",
+    "close": "Nêzîkî",
+    "reset": "Vegerîne li Pêşniyaran",
+    "back": "Paş",
+    "continue": "Berdewamkirin",
+    "all": "Gişt",
+    "retry": "Ji nû ve biceribîne",
+    "loading": "Barkirin…",
+    "resetDemo": "Daneyên demo ji nû ve bike"
+  },
+  "shell": {
+    "searchPlaceholder": "Li tiştekî bigerin…",
+    "settings": "Settings",
+    "language": "Ziman",
+    "role": "Role",
+    "greeting": {
+      "morning": "Beyanî baş",
+      "afternoon": "Paş nîvro",
+      "evening": "Êvar baş"
+    },
+    "settingsItems": {
+      "company-profile": "Profîla Pargîdaniyê",
+      "configuration": "Veavakirin",
+      "fiscal-periods": "Serdemên Darayî",
+      "roles": "Rol & Bikarhêner",
+      "integrations": "Integrations",
+      "notifications": "Notifications",
+      "audit-logs": "Kontrolkirin & Têketin",
+      "audit-trail": "Tamper-delîl Audit Trail",
+      "developer": "Pêşdebir & API"
+    },
+    "translatedLanguages": "Wergerandin",
+    "untranslatedLanguages": "Îngilîzî heta wergerandin"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Ji bo pelê amade ye",
+    "open": "Period vekirî",
+    "paid": "Pere kirin",
+    "pending": "Nexelas",
+    "accepted": "Qebûl kirin",
+    "delivered": "Radest kirin",
+    "rejected": "Redkirin",
+    "pdf-sent": "PDF şandin",
+    "not-sent": "Ne şandin",
+    "matched": "Lihevhatî",
+    "mismatch": "Nelihevkirin",
+    "missing-supplier": "Ji hêla dabînker ve nehatiye ragihandin",
+    "missing-books": "Di pirtûkan de winda ne",
+    "deferred": "Deferred",
+    "deducted": "Daxistin",
+    "remitted": "Remitted",
+    "certified": "Certified",
+    "to-report": "To rapor kirin",
+    "reported": "Hat ragihandin",
+    "accounted": "Hesab kirin",
+    "overdue": "Demhatî"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Ji bo pelê amade ye",
+      "liabilityDue": "Berpirsiyariya ber",
+      "paidThisYear": "Îsal dayîn",
+      "nextDeadline": "Dawiya paşerojê",
+      "noneOverdue": "Dereng nîne",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Ji bo pelê amade ye",
+      "open": "Vekirî",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "Cilhatina jinan",
+      "authority": "Erc",
+      "rate": "Qûrs",
+      "due": "Due",
+      "netPayable": "Net payable",
+      "status": "Cî",
+      "ack": "Nasyarî"
+    },
+    "file": "Dosî",
+    "view": "Dîtinî",
+    "fileForm": "Pela {{form}}",
+    "loadingJurisdiction": "Dadwerî tê barkirin…",
+    "nothingToFile": "Ti veger li bendê ne ku were tomar kirin - hemî serdemên girtî têne şandin.",
+    "fileNext": "Pelê pêve: {{name}}",
+    "steps": {
+      "review": "Axaftin",
+      "validate": "Validate",
+      "declare": "Daxuyan bikin û bişînin",
+      "ack": "Nasyarî"
+    },
+    "runValidation": "Verastkirinê bixebitin",
+    "validating": "Rastkirin…",
+    "submit": "Bişîne {{form}}",
+    "submitting": "Dişîne…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "mîqdara net",
+    "submitted": "Pêşkêş kirin",
+    "filedOn": "Li ser tomar kirin",
+    "regime": {
+      "authority": "Erc",
+      "channel": "Kanala peldankê",
+      "return": "Vegerr",
+      "due": "Due",
+      "standardRate": "Rêjeya standard",
+      "threshold": "sînorê Registration"
+    },
+    "demoNote": "Daneyên demo ji API-ya bacê ya çêkirî - peldank û drav têne simulasyon kirin û tiştek ji saziyek bacê re nayê şandin."
+  },
+  "fx": {
+    "title": "Pereyê Biyanî",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "fatûreya / fatûreya FX ya nû",
+    "kpi": {
+      "netExposure": "Pêşkêşkirina Net FX",
+      "openDocs": "{{count}} belgeyên vekirî",
+      "unrealized": "Qezenc / windabûna nedîtî",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Îsal pêk hat",
+      "lastReval": "Revaluation Last",
+      "never": "Qet",
+      "suggested": "Pêşniyar kirin: {{date}}"
+    },
+    "view": {
+      "open": "Tiştên vekin",
+      "settled": "Rûniştin",
+      "revaluation": "Revaluation dawiya meha",
+      "journal": "kovara FX"
+    },
+    "col": {
+      "document": "Belge",
+      "type": "Awa",
+      "openForeign": "Vekirî (biyanî)",
+      "bookedNow": "Veqetandin / niha",
+      "valueIn": "Nirx di {{base}} de",
+      "unrealized": "Unrealized",
+      "status": "Cî",
+      "amount": "Biha",
+      "bookedRate": "Rêjeya veqetandî",
+      "realized": "Rast kirin"
+    },
+    "receivable": "Receivable",
+    "payable": "Erzan",
+    "receive": "Wergirtin",
+    "pay": "Diravdan",
+    "netIn": "Net li {{base}}",
+    "state": {
+      "settled": "Rûniştin",
+      "partial": "Beşek rûniştî",
+      "open": "Vekirî"
+    },
+    "demoNote": "Daneyên demo-yê ji API-ya mockê ya çêkirî - rêjeyên simulasyonê ne, ne daneyên bazarê yên zindî."
+  }
+}

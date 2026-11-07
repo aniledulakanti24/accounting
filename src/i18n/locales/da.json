@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Dag-til-dag",
+      "finance": "Finansiere",
+      "advanced": "Fremskreden"
+    },
+    "mainMenu": "Hovedmenu",
+    "short": {
+      "parties": "Fester"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Salg",
+      "receivables": "Penge ind",
+      "procurement": "Indkøb",
+      "payables": "Penge ud",
+      "cashbank": "Kontanter & Bank",
+      "expenses": "Udgifter",
+      "tax": "Skat",
+      "reports": "Rapporter",
+      "advanced-features": "Avancerede funktioner",
+      "parties": "Kunder & Leverandører",
+      "inventory": "genstande",
+      "assets": "Anlægsaktiver",
+      "masters": "Opsætning og konfiguration",
+      "business-tools": "Team og værktøjer",
+      "party-tools": "Festværktøjer",
+      "item-tools": "Vareværktøjer",
+      "storage": "Dokumenter",
+      "alerts": "Advarsler",
+      "migration": "Datamigrering"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Oversigt",
+        "cash-flow": "Cash Flow",
+        "tax-calendar": "Skattekalender"
+      },
+      "sales": {
+        "quotations": "Citater",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Faktura",
+        "delivery-challans": "Levering Challan",
+        "receipts": "Modtagelse",
+        "invoice-desk": "Faktura skrivebord"
+      },
+      "receivables": {
+        "money-in-center": "Penge i centrum",
+        "receivables": "Tilgodehavender",
+        "payments-received": "Betalinger modtaget",
+        "overdue-collections": "Indsamlinger og påmindelser",
+        "credit-notes": "Kreditnotaer og tilbagebetalinger",
+        "sales-returns": "Salgsretur",
+        "customer-statements": "Kundeerklæringer",
+        "payment-links": "Betalingslinks"
+      },
+      "procurement": {
+        "purchase-center": "Indkøbscenter",
+        "purchase-orders": "Indkøbsordrer",
+        "goods-receipt": "Varemodtagelse",
+        "purchase-invoices": "Købsfakturaer",
+        "payment-out": "Foretagne betalinger",
+        "returns-debit-notes": "Returneringer og debetnotaer",
+        "bill-approvals": "Bill godkendelser"
+      },
+      "payables": {
+        "bills": "Betalingscenter",
+        "payments": "Leverandørbetalinger",
+        "workforce": "Arbejdsstyrke",
+        "adjustments": "Justeringer",
+        "bank-release": "Bankfrigivelse"
+      },
+      "cashbank": {
+        "bank-accounts": "Mine konti",
+        "reconciliation": "Match transaktioner",
+        "cash-petty": "Småpenge",
+        "contra": "Mellem konti",
+        "cheque-register": "Checks",
+        "foreign-currency": "Fremmed valuta",
+        "bank-feeds": "Bank feeds",
+        "bank-rules": "Regler og afstemning"
+      },
+      "expenses": {
+        "expense-center": "Alle Udgifter",
+        "categories": "Udgiftstyper",
+        "automated-bills": "Tilbagevendende Udgifter",
+        "journal-vouchers": "Manuelle indtastninger",
+        "provisions": "Periodiseringer",
+        "write-offs": "Afskrivninger",
+        "period-close": "Månedsslutning"
+      },
+      "tax": {
+        "gst-returns": "GST-arkivering",
+        "gst-filing-wizard": "⚡ Fil GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-fakturaer",
+        "e-way-bills": "E-vejsregninger",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Betal skat",
+        "quarterly-compliance": "Overholdelseskalender",
+        "ca-access": "CA Midlertidig adgang",
+        "gst-from-books": "GST fra Bøger"
+      },
+      "reports": {
+        "financial-statements": "Finansielle rapporter",
+        "books": "Transaktionsbøger",
+        "gst-reports": "GST rapporter",
+        "ar-ap": "Tilgodehavender vs Gæld",
+        "profitability": "Rentabilitet",
+        "period-comparatives": "Års sammenligning",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Cash Forecast",
+        "report-builder": "Brugerdefinerede rapporter",
+        "general-ledger": "Hovedbog",
+        "live-financials": "Live økonomi",
+        "ai-analyst": "AI-analytiker"
+      },
+      "advanced-features": {
+        "overview": "Oversigt"
+      },
+      "parties": {
+        "all-parties": "Alle parter",
+        "customer-ledgers": "Kunder",
+        "supplier-ledgers": "Leverandører",
+        "shared-ledger": "Delt hovedbog",
+        "statements": "Udsagn",
+        "reminders": "Påmindelser",
+        "documents": "Partidokumenter",
+        "portal": "Festportal",
+        "import": "Parti import",
+        "duplicate-merge": "Dublet fletning",
+        "gap-analysis": "Gab Analyse"
+      },
+      "inventory": {
+        "inventory-items": "genstande",
+        "godowns": "Lagerbygninger",
+        "stock-movement": "Aktiebevægelse",
+        "item-pricing": "Prissætning",
+        "stock-valuation": "Aktievurdering",
+        "reorder-alerts": "Genarranger advarsler",
+        "batch-serials": "Batch og seriel",
+        "barcode-labels": "Stregkodeetiketter",
+        "item-import": "Vareimport",
+        "gap-analysis": "Gab Analyse"
+      },
+      "assets": {
+        "asset-register": "Aktivliste",
+        "depreciation": "Afskrivninger",
+        "disposal-revaluation": "Sælg eller omvurder"
+      },
+      "masters": {
+        "chart-of-accounts": "Kontoliste",
+        "tax-masters": "Skattesatser",
+        "cost-centers": "Omkostningscentre",
+        "voucher-types": "Transaktionstyper",
+        "opening-balances": "Startbalancer",
+        "currencies": "Valutaer"
+      },
+      "business-tools": {
+        "staff-payroll": "Lønningsliste",
+        "manage-users": "Brugeradgang",
+        "online-orders": "Online ordrer",
+        "sms-marketing": "SMS markedsføring",
+        "accountant-hub": "Revisorer & Support"
+      },
+      "party-tools": {
+        "documents": "Partidokumenter",
+        "portal": "Festportal",
+        "import": "Parti import",
+        "duplicate-merge": "Dublet fletning",
+        "gap-analysis": "Gab Analyse"
+      },
+      "item-tools": {
+        "reorder-alerts": "Genarranger advarsler",
+        "batch-serials": "Batch og seriel",
+        "barcode-labels": "Stregkodeetiketter",
+        "item-import": "Vareimport",
+        "gap-analysis": "Gab Analyse"
+      },
+      "storage": {
+        "client-storage": "Klient filer",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Regnskabsadvarsler",
+        "compliance-alerts": "Overholdelsesalarmer",
+        "cash-risk-alerts": "Kontant- og risikoadvarsler",
+        "ca-access": "CA Midlertidig adgang"
+      },
+      "migration": {
+        "import": "Importer data",
+        "export": "Eksporter data",
+        "history": "Importhistorik",
+        "tally-import": "Importer fra Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Køb & Betalinger",
+      "accountingSetup": "Regnskabsopsætning",
+      "dataDocuments": "Data & Dokumenter"
+    }
+  },
+  "common": {
+    "save": "Gem ændringer",
+    "cancel": "Ophæve",
+    "create": "Skabe",
+    "edit": "Redigere",
+    "delete": "Slet",
+    "search": "Søge",
+    "connect": "Forbinde",
+    "configure": "Konfigurer",
+    "disconnect": "Afbryde",
+    "sync": "Synkroniser nu",
+    "close": "Tæt",
+    "reset": "Nulstil til standarder",
+    "back": "Tilbage",
+    "continue": "Fortsætte",
+    "all": "Alle",
+    "retry": "Prøv igen",
+    "loading": "Indlæser...",
+    "resetDemo": "Nulstil demodata"
+  },
+  "shell": {
+    "searchPlaceholder": "Søg hvad som helst...",
+    "settings": "Indstillinger",
+    "language": "Sprog",
+    "role": "Rolle",
+    "greeting": {
+      "morning": "Godmorgen",
+      "afternoon": "God eftermiddag",
+      "evening": "God aften"
+    },
+    "settingsItems": {
+      "company-profile": "Virksomhedsprofil",
+      "configuration": "Konfiguration",
+      "fiscal-periods": "Finansielle perioder",
+      "roles": "Roller og brugere",
+      "integrations": "Integrationer",
+      "notifications": "Meddelelser",
+      "audit-logs": "Revision & Logs",
+      "audit-trail": "Indgrebssikker revisionsspor",
+      "developer": "Udvikler & API"
+    },
+    "translatedLanguages": "Oversat",
+    "untranslatedLanguages": "engelsk indtil oversættelse"
+  },
+  "status": {
+    "filed": "Arkiveret",
+    "ready": "Klar til at arkivere",
+    "open": "Periode åben",
+    "paid": "Betalt",
+    "pending": "Indtil",
+    "accepted": "Accepteret",
+    "delivered": "Leveret",
+    "rejected": "Afvist",
+    "pdf-sent": "PDF sendt",
+    "not-sent": "Ikke sendt",
+    "matched": "Matchet",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Ikke rapporteret af leverandør",
+    "missing-books": "Mangler i bøger",
+    "deferred": "Udskudt",
+    "deducted": "Fratrukket",
+    "remitted": "Eftergivet",
+    "certified": "Certificeret",
+    "to-report": "At rapportere",
+    "reported": "Rapporteret",
+    "accounted": "Regnskabt",
+    "overdue": "Forsinket"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Klar til at arkivere",
+      "liabilityDue": "Ansvar forfalden",
+      "paidThisYear": "Betalt i år",
+      "nextDeadline": "Næste deadline",
+      "noneOverdue": "Ingen forfaldne",
+      "overdue": "{{count}} forfaldne"
+    },
+    "filter": {
+      "ready": "Klar til at arkivere",
+      "open": "Åben",
+      "filed": "Arkiveret"
+    },
+    "col": {
+      "period": "Periode",
+      "authority": "Myndighed",
+      "rate": "Sats",
+      "due": "Forfalder",
+      "netPayable": "Netto betales",
+      "status": "Status",
+      "ack": "Anerkendelse"
+    },
+    "file": "Fil",
+    "view": "Udsigt",
+    "fileForm": "Fil {{form}}",
+    "loadingJurisdiction": "Indlæser jurisdiktion...",
+    "nothingToFile": "Ingen returneringer venter på at blive indgivet - alle lukkede perioder er indsendt.",
+    "fileNext": "Fil næste: {{name}}",
+    "steps": {
+      "review": "Gennemgå",
+      "validate": "Valider",
+      "declare": "Erklær og indsend",
+      "ack": "Anerkendelse"
+    },
+    "runValidation": "Kør validering",
+    "validating": "Validerer...",
+    "submit": "Indsend {{form}}",
+    "submitting": "Indsender...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Netto beløb",
+    "submitted": "Indsendt",
+    "filedOn": "Arkiveret den",
+    "regime": {
+      "authority": "Myndighed",
+      "channel": "Arkiveringskanal",
+      "return": "Retur",
+      "due": "Forfalder",
+      "standardRate": "Standardpris",
+      "threshold": "Registreringsgrænse"
+    },
+    "demoNote": "Demodata fra den indbyggede mock tax API - registreringer og betalinger simuleres, og intet sendes til en skattemyndighed."
+  },
+  "fx": {
+    "title": "Fremmed valuta",
+    "subtitle": "Basisvaluta {{base}} · vejledende falske markedskurser",
+    "newDoc": "Ny FX faktura / regning",
+    "kpi": {
+      "netExposure": "Netto FX eksponering",
+      "openDocs": "{{count}} åbne dokumenter",
+      "unrealized": "Urealiseret gevinst/tab",
+      "postedSplit": "{{posted}} indsendt · {{unposted}} ikke endnu",
+      "realized": "Indså i år",
+      "lastReval": "Sidste opskrivning",
+      "never": "Aldrig",
+      "suggested": "Foreslået: {{date}}"
+    },
+    "view": {
+      "open": "Åbn elementer",
+      "settled": "Afgjort",
+      "revaluation": "Revaluering ved udgangen af ​​måneden",
+      "journal": "FX journal"
+    },
+    "col": {
+      "document": "Dokument",
+      "type": "Type",
+      "openForeign": "Åben (udenlandsk)",
+      "bookedNow": "Booket / nu",
+      "valueIn": "Værdi i {{base}}",
+      "unrealized": "Urealiseret",
+      "status": "Status",
+      "amount": "Beløb",
+      "bookedRate": "Booket sats",
+      "realized": "Indså"
+    },
+    "receivable": "Tilgodehavende",
+    "payable": "Betales",
+    "receive": "Modtage",
+    "pay": "Betale",
+    "netIn": "Netto i {{base}}",
+    "state": {
+      "settled": "Afgjort",
+      "partial": "Delvist afgjort",
+      "open": "Åben"
+    },
+    "demoNote": "Demodata fra den indbyggede mock API - satser er simulerede, ikke live markedsdata."
+  }
+}

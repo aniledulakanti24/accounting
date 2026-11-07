@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Napról-napra",
+      "finance": "Pénzügy",
+      "advanced": "Fejlett"
+    },
+    "mainMenu": "Főmenü",
+    "short": {
+      "parties": "Partik"
+    },
+    "sections": {
+      "dashboard": "Műszerfal",
+      "sales": "Értékesítés",
+      "receivables": "Pénz be",
+      "procurement": "Vásárlások",
+      "payables": "Ki a pénzt",
+      "cashbank": "Készpénz és bank",
+      "expenses": "Költségek",
+      "tax": "Adó",
+      "reports": "Jelentések",
+      "advanced-features": "Speciális funkciók",
+      "parties": "Vevők és beszállítók",
+      "inventory": "Elemek",
+      "assets": "Befektetett eszközök",
+      "masters": "Beállítás és konfigurálás",
+      "business-tools": "Csapat és eszközök",
+      "party-tools": "Party Tools",
+      "item-tools": "Tétel eszközök",
+      "storage": "Dokumentumok",
+      "alerts": "Figyelmeztetések",
+      "migration": "Adatmigráció"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Áttekintés",
+        "cash-flow": "Pénzforgalom",
+        "tax-calendar": "Adónaptár"
+      },
+      "sales": {
+        "quotations": "Idézetek",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Számla",
+        "delivery-challans": "Szállítási Challan",
+        "receipts": "Nyugta",
+        "invoice-desk": "Számla íróasztal"
+      },
+      "receivables": {
+        "money-in-center": "Pénz a központban",
+        "receivables": "Követelések",
+        "payments-received": "Beérkezett kifizetések",
+        "overdue-collections": "Gyűjtemények és emlékeztetők",
+        "credit-notes": "Jóváírások és visszatérítések",
+        "sales-returns": "Értékesítési visszaadások",
+        "customer-statements": "Ügyfélnyilatkozatok",
+        "payment-links": "Fizetési linkek"
+      },
+      "procurement": {
+        "purchase-center": "Beszerzési Központ",
+        "purchase-orders": "Megrendelések",
+        "goods-receipt": "Áruátvétel",
+        "purchase-invoices": "Vásárlási számlák",
+        "payment-out": "Fizetések megtörtént",
+        "returns-debit-notes": "Visszáru és terhelési megjegyzések",
+        "bill-approvals": "Bill jóváhagyások"
+      },
+      "payables": {
+        "bills": "Fizetési Központ",
+        "payments": "Szállítói fizetések",
+        "workforce": "Munkaerő",
+        "adjustments": "Kiigazítások",
+        "bank-release": "Banki kiadás"
+      },
+      "cashbank": {
+        "bank-accounts": "Saját fiókok",
+        "reconciliation": "Tranzakciók egyezése",
+        "cash-petty": "Petty Cash",
+        "contra": "Számlák között",
+        "cheque-register": "Ellenőrzések",
+        "foreign-currency": "Deviza",
+        "bank-feeds": "Banki hírcsatornák",
+        "bank-rules": "Szabályok és egyeztetés"
+      },
+      "expenses": {
+        "expense-center": "Minden költség",
+        "categories": "Költségtípusok",
+        "automated-bills": "Ismétlődő költségek",
+        "journal-vouchers": "Kézi bejegyzések",
+        "provisions": "Időbeli elhatárolások",
+        "write-offs": "Leírások",
+        "period-close": "Hónap vége"
+      },
+      "tax": {
+        "gst-returns": "GST bejelentés",
+        "gst-filing-wizard": "⚡ GSTR-3B fájl",
+        "gst-reconciliation": "GST egyezés",
+        "e-invoicing": "E-számlák",
+        "e-way-bills": "E-útlevél",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Fizessen adót",
+        "quarterly-compliance": "Megfelelőségi naptár",
+        "ca-access": "CA ideiglenes hozzáférés",
+        "gst-from-books": "GST a Bookstól"
+      },
+      "reports": {
+        "financial-statements": "Pénzügyi jelentések",
+        "books": "Tranzakciós könyvek",
+        "gst-reports": "GST jelentések",
+        "ar-ap": "Követelések vs kötelezettségek",
+        "profitability": "Jövedelmezőség",
+        "period-comparatives": "Év összehasonlítása",
+        "budget-vs-actuals": "Költségkeret-követő",
+        "cashflow-projection": "Készpénz előrejelzés",
+        "report-builder": "Egyéni jelentések",
+        "general-ledger": "Főkönyv",
+        "live-financials": "Élő pénzügyek",
+        "ai-analyst": "AI elemző"
+      },
+      "advanced-features": {
+        "overview": "Áttekintés"
+      },
+      "parties": {
+        "all-parties": "Minden fél",
+        "customer-ledgers": "Ügyfelek",
+        "supplier-ledgers": "Szállítók",
+        "shared-ledger": "Közös főkönyv",
+        "statements": "Nyilatkozatok",
+        "reminders": "Emlékeztetők",
+        "documents": "Párt dokumentumai",
+        "portal": "Party Portál",
+        "import": "Party import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Hiányelemzés"
+      },
+      "inventory": {
+        "inventory-items": "Elemek",
+        "godowns": "Raktárak",
+        "stock-movement": "Részvénymozgás",
+        "item-pricing": "Árképzés",
+        "stock-valuation": "Részvényértékelés",
+        "reorder-alerts": "Figyelmeztetések átrendezése",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Vonalkód címkék",
+        "item-import": "Tétel importálása",
+        "gap-analysis": "Hiányelemzés"
+      },
+      "assets": {
+        "asset-register": "Eszközlista",
+        "depreciation": "Értékcsökkenés",
+        "disposal-revaluation": "Eladni vagy átértékelni"
+      },
+      "masters": {
+        "chart-of-accounts": "Számlák listája",
+        "tax-masters": "Adókulcsok",
+        "cost-centers": "Költségközpontok",
+        "voucher-types": "Tranzakciótípusok",
+        "opening-balances": "Kezdő egyenlegek",
+        "currencies": "Pénznemek"
+      },
+      "business-tools": {
+        "staff-payroll": "Bérszámfejtés",
+        "manage-users": "Felhasználói hozzáférés",
+        "online-orders": "Online rendelések",
+        "sms-marketing": "SMS marketing",
+        "accountant-hub": "Könyvelők és támogatás"
+      },
+      "party-tools": {
+        "documents": "Párt dokumentumai",
+        "portal": "Party Portál",
+        "import": "Party import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Hiányelemzés"
+      },
+      "item-tools": {
+        "reorder-alerts": "Figyelmeztetések átrendezése",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Vonalkód címkék",
+        "item-import": "Tétel importálása",
+        "gap-analysis": "Hiányelemzés"
+      },
+      "storage": {
+        "client-storage": "Kliens fájlok",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Könyvelői figyelmeztetések",
+        "compliance-alerts": "Megfelelőségi figyelmeztetések",
+        "cash-risk-alerts": "Készpénz és kockázati figyelmeztetések",
+        "ca-access": "CA ideiglenes hozzáférés"
+      },
+      "migration": {
+        "import": "Adatok importálása",
+        "export": "Adatok exportálása",
+        "history": "Előzmények importálása",
+        "tally-import": "Importálás a Tally & Zoho-ból"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Vásárlások és fizetések",
+      "accountingSetup": "Könyvelés beállítása",
+      "dataDocuments": "Adatok és dokumentumok"
+    }
+  },
+  "common": {
+    "save": "Módosítások mentése",
+    "cancel": "Mégse",
+    "create": "Teremt",
+    "edit": "Szerkesztés",
+    "delete": "Töröl",
+    "search": "Keresés",
+    "connect": "Csatlakozás",
+    "configure": "Konfigurálás",
+    "disconnect": "Leválasztás",
+    "sync": "Szinkronizálás most",
+    "close": "Közeli",
+    "reset": "Állítsa vissza az alapértelmezett értékeket",
+    "back": "Vissza",
+    "continue": "Folytatás",
+    "all": "Minden",
+    "retry": "Próbálja újra",
+    "loading": "Terhelés…",
+    "resetDemo": "Demó adatok visszaállítása"
+  },
+  "shell": {
+    "searchPlaceholder": "Keressen bármit…",
+    "settings": "Beállítások elemre",
+    "language": "Nyelv",
+    "role": "Szerep",
+    "greeting": {
+      "morning": "Jó reggelt",
+      "afternoon": "Jó napot",
+      "evening": "Jó estét"
+    },
+    "settingsItems": {
+      "company-profile": "Vállalati profil",
+      "configuration": "Konfiguráció",
+      "fiscal-periods": "Pénzügyi időszakok",
+      "roles": "Szerepek és felhasználók",
+      "integrations": "Integrációk",
+      "notifications": "Értesítések",
+      "audit-logs": "Audit és naplók",
+      "audit-trail": "Hamisításbiztos ellenőrzési nyomvonal",
+      "developer": "Fejlesztő és API"
+    },
+    "translatedLanguages": "Lefordított",
+    "untranslatedLanguages": "angol a fordításig"
+  },
+  "status": {
+    "filed": "Iktatott",
+    "ready": "Fájlra kész",
+    "open": "Nyitott időszak",
+    "paid": "Fizetett",
+    "pending": "Függőben levő",
+    "accepted": "Elfogadott",
+    "delivered": "Szállítva",
+    "rejected": "Elutasítva",
+    "pdf-sent": "PDF elküldve",
+    "not-sent": "Nem küldték el",
+    "matched": "Egyező",
+    "mismatch": "Mismatch",
+    "missing-supplier": "A szállító nem jelentette be",
+    "missing-books": "Hiányzik a könyvekből",
+    "deferred": "Halasztott",
+    "deducted": "Levonva",
+    "remitted": "Átküldve",
+    "certified": "Minősített",
+    "to-report": "Jelenteni",
+    "reported": "Jelentve",
+    "accounted": "Elszámolt",
+    "overdue": "Lejárt"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Fájlra kész",
+      "liabilityDue": "Esedékes felelősség",
+      "paidThisYear": "Idén fizetve",
+      "nextDeadline": "Következő határidő",
+      "noneOverdue": "Egyik sem késett",
+      "overdue": "{{count}} lejárt"
+    },
+    "filter": {
+      "ready": "Fájlra kész",
+      "open": "Nyitott",
+      "filed": "Iktatott"
+    },
+    "col": {
+      "period": "Időszak",
+      "authority": "Hatóság",
+      "rate": "Arány",
+      "due": "Esedékes",
+      "netPayable": "Nettó fizetendő",
+      "status": "Állapot",
+      "ack": "Nyugtázás"
+    },
+    "file": "Fájl",
+    "view": "Kilátás",
+    "fileForm": "Fájl {{form}}",
+    "loadingJurisdiction": "Joghatóság betöltése…",
+    "nothingToFile": "Egyetlen bevallás sem vár benyújtásra – minden lezárt időszak benyújtásra kerül.",
+    "fileNext": "Következő fájl: {{name}}",
+    "steps": {
+      "review": "Tekintse át",
+      "validate": "Érvényesít",
+      "declare": "Nyilatkozni és benyújtani",
+      "ack": "Nyugtázás"
+    },
+    "runValidation": "Futtassa az érvényesítést",
+    "validating": "Érvényesítés…",
+    "submit": "Submit {{form}}",
+    "submitting": "Beküldés…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Nettó összeg",
+    "submitted": "Beküldve",
+    "filedOn": "Bejelentve:",
+    "regime": {
+      "authority": "Hatóság",
+      "channel": "Irattári csatorna",
+      "return": "Visszatérés",
+      "due": "Esedékes",
+      "standardRate": "Normál árfolyam",
+      "threshold": "Regisztrációs küszöb"
+    },
+    "demoNote": "Demo adatok a beépített áladó API-ból – a bejelentéseket és a kifizetéseket szimulálják, és semmit sem küldenek el az adóhatóságnak."
+  },
+  "fx": {
+    "title": "Deviza",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Új devizaszámla/számla",
+    "kpi": {
+      "netExposure": "Nettó deviza kitettség",
+      "openDocs": "{{count}} nyitott dokumentum",
+      "unrealized": "Nem realizált nyereség/veszteség",
+      "postedSplit": "{{posted}} közzétéve · {{unposted}} még nem",
+      "realized": "Idén valósult meg",
+      "lastReval": "Utolsó átértékelés",
+      "never": "Soha",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Nyissa meg az elemeket",
+      "settled": "Letelepedett",
+      "revaluation": "Hónap végi átértékelés",
+      "journal": "FX napló"
+    },
+    "col": {
+      "document": "Dokumentum",
+      "type": "Írja be",
+      "openForeign": "Nyitott (külföldi)",
+      "bookedNow": "Foglalt / most",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Meg nem valósult",
+      "status": "Állapot",
+      "amount": "Összeg",
+      "bookedRate": "Lefoglalt árfolyam",
+      "realized": "Rájött"
+    },
+    "receivable": "Követelhető",
+    "payable": "Kifizetendő",
+    "receive": "Kap",
+    "pay": "Fizetés",
+    "netIn": "Nettó itt: {{base}}",
+    "state": {
+      "settled": "Letelepedett",
+      "partial": "Részben rendezett",
+      "open": "Nyitott"
+    },
+    "demoNote": "Demóadatok a beépített ál-API-ból – a díjak szimuláltak, nem pedig az élő piaci adatok."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "اليومي",
+      "finance": "المالية",
+      "advanced": "متقدم"
+    },
+    "mainMenu": "القائمة الرئيسية",
+    "short": {
+      "parties": "الأطراف"
+    },
+    "sections": {
+      "dashboard": "لوحة التحكم",
+      "sales": "المبيعات",
+      "receivables": "المقبوضات",
+      "procurement": "المشتريات",
+      "payables": "المدفوعات",
+      "cashbank": "النقد والبنوك",
+      "expenses": "المصروفات",
+      "tax": "الضرائب",
+      "reports": "التقارير",
+      "advanced-features": "ميزات متقدمة",
+      "parties": "العملاء والموردون",
+      "inventory": "الأصناف",
+      "assets": "الأصول الثابتة",
+      "masters": "الإعداد والتهيئة",
+      "business-tools": "الفريق والأدوات",
+      "party-tools": "أدوات الأطراف",
+      "item-tools": "أدوات الأصناف",
+      "storage": "المستندات",
+      "alerts": "التنبيهات",
+      "migration": "ترحيل البيانات"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "نظرة عامة",
+        "cash-flow": "التدفق النقدي",
+        "tax-calendar": "التقويم الضريبي"
+      },
+      "sales": {
+        "quotations": "عروض الأسعار",
+        "proforma-invoices": "فاتورة مبدئية",
+        "sales-invoices": "فاتورة",
+        "delivery-challans": "إشعار تسليم",
+        "receipts": "إيصال",
+        "invoice-desk": "مكتب الفواتير"
+      },
+      "receivables": {
+        "money-in-center": "مركز المقبوضات",
+        "receivables": "الذمم المدينة",
+        "payments-received": "الدفعات المستلمة",
+        "overdue-collections": "التحصيل والتذكيرات",
+        "credit-notes": "الإشعارات الدائنة والمبالغ المستردة",
+        "sales-returns": "مرتجعات المبيعات",
+        "customer-statements": "كشوف حساب العملاء",
+        "payment-links": "روابط الدفع"
+      },
+      "procurement": {
+        "purchase-center": "مركز المشتريات",
+        "purchase-orders": "أوامر الشراء",
+        "goods-receipt": "استلام البضائع",
+        "purchase-invoices": "فواتير الشراء",
+        "payment-out": "الدفعات الصادرة",
+        "returns-debit-notes": "المرتجعات والإشعارات المدينة",
+        "bill-approvals": "الموافقات على الفاتورة"
+      },
+      "payables": {
+        "bills": "مركز الدفع",
+        "payments": "دفعات الموردين",
+        "workforce": "القوى العاملة",
+        "adjustments": "التسويات",
+        "bank-release": "الإفراج البنكي"
+      },
+      "cashbank": {
+        "bank-accounts": "حساباتي",
+        "reconciliation": "مطابقة المعاملات",
+        "cash-petty": "النثرية",
+        "contra": "بين الحسابات",
+        "cheque-register": "الشيكات",
+        "foreign-currency": "العملات الأجنبية",
+        "bank-feeds": "خلاصات البنك",
+        "bank-rules": "القواعد والمصالحة"
+      },
+      "expenses": {
+        "expense-center": "كل المصروفات",
+        "categories": "أنواع المصروفات",
+        "automated-bills": "مصروفات متكررة",
+        "journal-vouchers": "قيود يدوية",
+        "provisions": "المستحقات",
+        "write-offs": "الشطب",
+        "period-close": "إقفال الشهر"
+      },
+      "tax": {
+        "gst-returns": "إقرارات GST",
+        "gst-filing-wizard": "⚡ تقديم GSTR-3B",
+        "gst-reconciliation": "مطابقة GST",
+        "e-invoicing": "الفواتير الإلكترونية",
+        "e-way-bills": "بوالص الطريق الإلكترونية",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "سداد الضريبة",
+        "quarterly-compliance": "تقويم الامتثال",
+        "ca-access": "وصول مؤقت للمحاسب",
+        "gst-from-books": "ضريبة السلع والخدمات من الكتب"
+      },
+      "reports": {
+        "financial-statements": "التقارير المالية",
+        "books": "دفاتر المعاملات",
+        "gst-reports": "تقارير GST",
+        "ar-ap": "المدينون مقابل الدائنين",
+        "profitability": "الربحية",
+        "period-comparatives": "مقارنة السنوات",
+        "budget-vs-actuals": "متابعة الميزانية",
+        "cashflow-projection": "توقع النقد",
+        "report-builder": "تقارير مخصصة",
+        "general-ledger": "دفتر الأستاذ العام",
+        "live-financials": "المالية الحية",
+        "ai-analyst": "محلل الذكاء الاصطناعي"
+      },
+      "advanced-features": {
+        "overview": "نظرة عامة"
+      },
+      "parties": {
+        "all-parties": "كل الأطراف",
+        "customer-ledgers": "العملاء",
+        "supplier-ledgers": "الموردون",
+        "shared-ledger": "حساب مشترك",
+        "statements": "كشوف الحساب",
+        "reminders": "التذكيرات",
+        "documents": "وثائق الحزب",
+        "portal": "بوابة الحزب",
+        "import": "استيراد الحزب",
+        "duplicate-merge": "دمج مكرر",
+        "gap-analysis": "تحليل الفجوة"
+      },
+      "inventory": {
+        "inventory-items": "الأصناف",
+        "godowns": "المستودعات",
+        "stock-movement": "حركة المخزون",
+        "item-pricing": "التسعير",
+        "stock-valuation": "تقييم الأسهم",
+        "reorder-alerts": "إعادة ترتيب التنبيهات",
+        "batch-serials": "الدفعة والمسلسل",
+        "barcode-labels": "تسميات الباركود",
+        "item-import": "استيراد العنصر",
+        "gap-analysis": "تحليل الفجوة"
+      },
+      "assets": {
+        "asset-register": "قائمة الأصول",
+        "depreciation": "الإهلاك",
+        "disposal-revaluation": "البيع أو إعادة التقييم"
+      },
+      "masters": {
+        "chart-of-accounts": "دليل الحسابات",
+        "tax-masters": "معدلات الضريبة",
+        "cost-centers": "مراكز التكلفة",
+        "voucher-types": "أنواع المعاملات",
+        "opening-balances": "الأرصدة الافتتاحية",
+        "currencies": "العملات"
+      },
+      "business-tools": {
+        "staff-payroll": "الرواتب",
+        "manage-users": "صلاحيات المستخدمين",
+        "online-orders": "الطلبات الإلكترونية",
+        "sms-marketing": "التسويق عبر الرسائل",
+        "accountant-hub": "المحاسبين والدعم"
+      },
+      "party-tools": {
+        "documents": "مستندات الأطراف",
+        "portal": "بوابة الأطراف",
+        "import": "استيراد الأطراف",
+        "duplicate-merge": "دمج المكررات",
+        "gap-analysis": "تحليل الفجوات"
+      },
+      "item-tools": {
+        "reorder-alerts": "تنبيهات إعادة الطلب",
+        "batch-serials": "الدفعات والأرقام التسلسلية",
+        "barcode-labels": "ملصقات الباركود",
+        "item-import": "استيراد الأصناف",
+        "gap-analysis": "تحليل الفجوات"
+      },
+      "storage": {
+        "client-storage": "ملفات العملاء",
+        "unifiedtree-storage": "التخزين السحابي"
+      },
+      "alerts": {
+        "accountant-alerts": "تنبيهات المحاسب",
+        "compliance-alerts": "تنبيهات الامتثال",
+        "cash-risk-alerts": "تنبيهات النقد والمخاطر",
+        "ca-access": "وصول مؤقت للمحاسب"
+      },
+      "migration": {
+        "import": "استيراد البيانات",
+        "export": "تصدير البيانات",
+        "history": "سجل الاستيراد",
+        "tally-import": "الاستيراد من Tally وZoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "المشتريات والمدفوعات",
+      "accountingSetup": "إعداد المحاسبة",
+      "dataDocuments": "البيانات والوثائق"
+    }
+  },
+  "common": {
+    "save": "حفظ التغييرات",
+    "cancel": "إلغاء",
+    "create": "إنشاء",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "search": "بحث",
+    "connect": "اتصال",
+    "configure": "تهيئة",
+    "disconnect": "قطع الاتصال",
+    "sync": "مزامنة الآن",
+    "close": "إغلاق",
+    "reset": "استعادة الإعدادات الافتراضية",
+    "back": "رجوع",
+    "continue": "متابعة",
+    "all": "الكل",
+    "retry": "إعادة المحاولة",
+    "loading": "جارٍ التحميل…",
+    "resetDemo": "إعادة تعيين البيانات التجريبية"
+  },
+  "shell": {
+    "searchPlaceholder": "ابحث عن أي شيء…",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "role": "الدور",
+    "greeting": {
+      "morning": "صباح الخير",
+      "afternoon": "مساء الخير",
+      "evening": "مساء الخير"
+    },
+    "settingsItems": {
+      "company-profile": "ملف الشركة",
+      "configuration": "التهيئة",
+      "fiscal-periods": "الفترات المالية",
+      "roles": "الأدوار والمستخدمون",
+      "integrations": "التكاملات",
+      "notifications": "الإشعارات",
+      "audit-logs": "التدقيق والسجلات",
+      "audit-trail": "مسار التدقيق المقاوم للتلاعب",
+      "developer": "المطور وواجهة برمجة التطبيقات"
+    },
+    "translatedLanguages": "مترجمة",
+    "untranslatedLanguages": "بالإنجليزية حتى تتم الترجمة"
+  },
+  "status": {
+    "filed": "مقدَّم",
+    "ready": "جاهز للتقديم",
+    "open": "الفترة مفتوحة",
+    "paid": "مدفوع",
+    "pending": "قيد الانتظار",
+    "accepted": "مقبول",
+    "delivered": "تم التسليم",
+    "rejected": "مرفوض",
+    "pdf-sent": "أُرسل PDF",
+    "not-sent": "لم يُرسل",
+    "matched": "مطابق",
+    "mismatch": "غير مطابق",
+    "missing-supplier": "لم يبلّغ عنه المورد",
+    "missing-books": "غير موجود في الدفاتر",
+    "deferred": "مؤجل",
+    "deducted": "مخصوم",
+    "remitted": "مُورَّد",
+    "certified": "معتمد",
+    "to-report": "للإبلاغ",
+    "reported": "تم الإبلاغ",
+    "accounted": "مقيَّد",
+    "overdue": "متأخر"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "جاهز للتقديم",
+      "liabilityDue": "الالتزام المستحق",
+      "paidThisYear": "المدفوع هذا العام",
+      "nextDeadline": "الموعد النهائي التالي",
+      "noneOverdue": "لا توجد متأخرات",
+      "overdue": "{{count}} متأخر"
+    },
+    "filter": {
+      "ready": "جاهز للتقديم",
+      "open": "مفتوح",
+      "filed": "مقدَّم"
+    },
+    "col": {
+      "period": "الفترة",
+      "authority": "الجهة",
+      "rate": "النسبة",
+      "due": "الاستحقاق",
+      "netPayable": "صافي المستحق",
+      "status": "الحالة",
+      "ack": "رقم الإشعار"
+    },
+    "file": "تقديم",
+    "view": "عرض",
+    "fileForm": "تقديم {{form}}",
+    "loadingJurisdiction": "جارٍ تحميل الولاية الضريبية…",
+    "nothingToFile": "لا توجد إقرارات بانتظار التقديم — جميع الفترات المغلقة مقدَّمة.",
+    "fileNext": "التقديم التالي: {{name}}",
+    "steps": {
+      "review": "مراجعة",
+      "validate": "تحقق",
+      "declare": "إقرار وتقديم",
+      "ack": "الإشعار"
+    },
+    "runValidation": "تشغيل التحقق",
+    "validating": "جارٍ التحقق…",
+    "submit": "تقديم {{form}}",
+    "submitting": "جارٍ التقديم…",
+    "declaration": "أُقر بأن المعلومات الواردة في هذا الإقرار صحيحة وكاملة، وأنني مخوّل بتقديمه إلى {{authority}}.",
+    "netAmount": "صافي المبلغ",
+    "submitted": "تم التقديم",
+    "filedOn": "تاريخ التقديم",
+    "regime": {
+      "authority": "الجهة",
+      "channel": "قناة التقديم",
+      "return": "الإقرار",
+      "due": "الاستحقاق",
+      "standardRate": "النسبة القياسية",
+      "threshold": "حد التسجيل"
+    },
+    "demoNote": "بيانات تجريبية من واجهة الضرائب المحاكاة — التقديم والدفع محاكاة ولا يُرسل شيء إلى أي جهة ضريبية."
+  },
+  "fx": {
+    "title": "العملات الأجنبية",
+    "subtitle": "العملة الأساسية {{base}} · أسعار سوق تجريبية إرشادية",
+    "newDoc": "فاتورة / فاتورة مورد بعملة أجنبية",
+    "kpi": {
+      "netExposure": "صافي التعرض للعملات",
+      "openDocs": "{{count}} مستندات مفتوحة",
+      "unrealized": "أرباح / خسائر غير محققة",
+      "postedSplit": "{{posted}} مقيدة · {{unposted}} غير مقيدة بعد",
+      "realized": "المحقق هذا العام",
+      "lastReval": "آخر إعادة تقييم",
+      "never": "لم تتم",
+      "suggested": "المقترح: {{date}}"
+    },
+    "view": {
+      "open": "البنود المفتوحة",
+      "settled": "المسددة",
+      "revaluation": "إعادة تقييم نهاية الشهر",
+      "journal": "قيود العملات"
+    },
+    "col": {
+      "document": "المستند",
+      "type": "النوع",
+      "openForeign": "المفتوح (أجنبي)",
+      "bookedNow": "سعر القيد / الحالي",
+      "valueIn": "القيمة بـ {{base}}",
+      "unrealized": "غير محقق",
+      "status": "الحالة",
+      "amount": "المبلغ",
+      "bookedRate": "سعر القيد",
+      "realized": "المحقق"
+    },
+    "receivable": "مدين",
+    "payable": "دائن",
+    "receive": "تحصيل",
+    "pay": "دفع",
+    "netIn": "الصافي بـ {{base}}",
+    "state": {
+      "settled": "مسدد",
+      "partial": "مسدد جزئيًا",
+      "open": "مفتوح"
+    },
+    "demoNote": "بيانات تجريبية من الواجهة المحاكاة — الأسعار محاكاة وليست بيانات سوق حية."
+  }
+}

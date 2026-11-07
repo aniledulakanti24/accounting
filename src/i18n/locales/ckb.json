@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ڕۆژ بە ڕۆژ",
+      "finance": "دارایی",
+      "advanced": "پێشکەوتوو"
+    },
+    "mainMenu": "مێنۆی سەرەکی",
+    "short": {
+      "parties": "حیزبەکان"
+    },
+    "sections": {
+      "dashboard": "داشبۆرد",
+      "sales": "فرۆشتن",
+      "receivables": "پارە لە...",
+      "procurement": "کڕینەکان",
+      "payables": "پارە دەرچوو",
+      "cashbank": "کاش و بانک",
+      "expenses": "خەرجیەکان",
+      "tax": "باج",
+      "reports": "ڕاپۆرتەکان",
+      "advanced-features": "تایبەتمەندییە پێشکەوتووەکان",
+      "parties": "کڕیاران و دابینکەران",
+      "inventory": "کەرەستەکان",
+      "assets": "سەروەت و سامانی جێگیر",
+      "masters": "ڕێکخستن و ڕێکخستن",
+      "business-tools": "تیم و ئامرازەکان",
+      "party-tools": "ئامرازەکانی ئاهەنگەکان",
+      "item-tools": "ئامرازەکانی بابەتی",
+      "storage": "بەڵگەنامەکان",
+      "alerts": "ئاگادارکردنەوەکان",
+      "migration": "کۆچی داتا"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "تێڕوانینێکی گشتی",
+        "cash-flow": "ڕۆیشتنی پارە",
+        "tax-calendar": "ساڵنامەی باج"
+      },
+      "sales": {
+        "quotations": "وەرگێڕانەکان",
+        "proforma-invoices": "PI",
+        "sales-invoices": "پسوولە",
+        "delivery-challans": "گەیاندن چالان",
+        "receipts": "ڕەچەتە",
+        "invoice-desk": "مێزی فاکتورە"
+      },
+      "receivables": {
+        "money-in-center": "پارە لە سەنتەری",
+        "receivables": "وەرگیراوەکان",
+        "payments-received": "پارەدانەکان وەرگیراون",
+        "overdue-collections": "کۆکردنەوە و بیرخستنەوە",
+        "credit-notes": "تێبینی قەرز و گەڕاندنەوەی پارە",
+        "sales-returns": "گەڕانەوەی فرۆشتن",
+        "customer-statements": "بەیاننامەی کڕیار",
+        "payment-links": "لینکی پارەدان"
+      },
+      "procurement": {
+        "purchase-center": "سەنتەری کڕین",
+        "purchase-orders": "داواکاری کڕین",
+        "goods-receipt": "پسوڵەی کاڵاکان",
+        "purchase-invoices": "فاکتورەی کڕین",
+        "payment-out": "پارەدانەکان ئەنجامدراون",
+        "returns-debit-notes": "تێبینی گەڕانەوە و خەرجکردن",
+        "bill-approvals": "پەسەندکردنی پڕۆژە یاسا"
+      },
+      "payables": {
+        "bills": "سەنتەری مووچە",
+        "payments": "پارەدانی دابینکەر",
+        "workforce": "هێزی کار",
+        "adjustments": "ڕێکخستنەکان",
+        "bank-release": "ئازادکردنی بانکی"
+      },
+      "cashbank": {
+        "bank-accounts": "ئەکاونتەکانی من",
+        "reconciliation": "مامەڵەکانی هاوتاکردن",
+        "cash-petty": "پیتی کاش",
+        "contra": "لە نێوان ئەکاونتەکاندا",
+        "cheque-register": "چێک دەکات",
+        "foreign-currency": "دراوی بیانی",
+        "bank-feeds": "بانکی فیدز",
+        "bank-rules": "یاسا و ئاشتەوایی"
+      },
+      "expenses": {
+        "expense-center": "هەموو خەرجییەکان",
+        "categories": "جۆرەکانی خەرجییەکان",
+        "automated-bills": "خەرجییە دووبارەبووەکان",
+        "journal-vouchers": "هاتنە ژوورەوەی دەستی",
+        "provisions": "کۆکردنەوەکان",
+        "write-offs": "سڕینەوەکان",
+        "period-close": "مانگ-کۆتایی"
+      },
+      "tax": {
+        "gst-returns": "تۆمارکردنی GST",
+        "gst-filing-wizard": "⚡ فایل GSTR-3B",
+        "gst-reconciliation": "هاوتاکردنی GST",
+        "e-invoicing": "فاکتورەی ئەلیکترۆنی",
+        "e-way-bills": "پڕۆژە یاساکانی ڕێگای ئەلیکترۆنی",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "باج بدە",
+        "quarterly-compliance": "ساڵنامەی پابەندبوون",
+        "ca-access": "CA دەستگەیشتن بە کاتی",
+        "gst-from-books": "GST لە کتێبەکانەوە"
+      },
+      "reports": {
+        "financial-statements": "ڕاپۆرتە داراییەکان",
+        "books": "کتێبی مامەڵەکردن",
+        "gst-reports": "ڕاپۆرتەکانی GST",
+        "ar-ap": "وەرگیراوەکان بەرامبەر بە قەرزەکان",
+        "profitability": "قازانج",
+        "period-comparatives": "بەراوردکردنی ساڵ",
+        "budget-vs-actuals": "شوێنپێهەڵگری بودجە",
+        "cashflow-projection": "پێشبینی نەختینەیی",
+        "report-builder": "ڕاپۆرتی تایبەتمەند",
+        "general-ledger": "کتێبی گشتی",
+        "live-financials": "لایڤ فاینانشیاڵ",
+        "ai-analyst": "شیکارکەری AI"
+      },
+      "advanced-features": {
+        "overview": "تێڕوانینێکی گشتی"
+      },
+      "parties": {
+        "all-parties": "هەموو لایەنەکان",
+        "customer-ledgers": "کڕیاران",
+        "supplier-ledgers": "دابینکەران",
+        "shared-ledger": "کتێبی سەرەکی هاوبەش",
+        "statements": "لێدوانەکان",
+        "reminders": "بیرخستنەوەکان",
+        "documents": "بەڵگەنامەکانی حزب",
+        "portal": "پۆرتاڵی ئاهەنگەکان",
+        "import": "هاوردەکردنی حزب",
+        "duplicate-merge": "دووبارە تێکەڵکردن",
+        "gap-analysis": "شیکاری بۆشایی"
+      },
+      "inventory": {
+        "inventory-items": "کەرەستەکان",
+        "godowns": "کۆگاکان",
+        "stock-movement": "بزووتنەوەی پشکەکان",
+        "item-pricing": "نرخدانان",
+        "stock-valuation": "بەهادان بە پشکەکان",
+        "reorder-alerts": "ئاگادارکردنەوەکان ڕێکخستنەوە",
+        "batch-serials": "وەجبە و زنجیرەیی",
+        "barcode-labels": "لیبێڵەکانی بارکۆد",
+        "item-import": "هاوردەکردنی بابەتی",
+        "gap-analysis": "شیکاری بۆشایی"
+      },
+      "assets": {
+        "asset-register": "لیستی سەروەت و سامان",
+        "depreciation": "دابەزینی بەها",
+        "disposal-revaluation": "فرۆشتن یان پێداچوونەوە"
+      },
+      "masters": {
+        "chart-of-accounts": "لیستی ئەکاونتەکان",
+        "tax-masters": "ڕێژەی باج",
+        "cost-centers": "ناوەندەکانی تێچوون",
+        "voucher-types": "جۆرەکانی مامەڵە",
+        "opening-balances": "باڵانسی دەستپێکردن",
+        "currencies": "دراوەکان"
+      },
+      "business-tools": {
+        "staff-payroll": "مووچە",
+        "manage-users": "دەستڕاگەیشتن بە بەکارهێنەر",
+        "online-orders": "داواکاری ئۆنلاین",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "ژمێریاران و پشتگیری"
+      },
+      "party-tools": {
+        "documents": "بەڵگەنامەکانی حزب",
+        "portal": "پۆرتاڵی ئاهەنگەکان",
+        "import": "هاوردەکردنی حزب",
+        "duplicate-merge": "دووبارە تێکەڵکردن",
+        "gap-analysis": "شیکاری بۆشایی"
+      },
+      "item-tools": {
+        "reorder-alerts": "ئاگادارکردنەوەکان ڕێکخستنەوە",
+        "batch-serials": "وەجبە و زنجیرەیی",
+        "barcode-labels": "لیبێڵەکانی بارکۆد",
+        "item-import": "هاوردەکردنی بابەتی",
+        "gap-analysis": "شیکاری بۆشایی"
+      },
+      "storage": {
+        "client-storage": "فایلەکانی مشتەری",
+        "unifiedtree-storage": "هەڵگرتنی هەور"
+      },
+      "alerts": {
+        "accountant-alerts": "ئاگادارکردنەوەکانی ژمێریار",
+        "compliance-alerts": "ئاگادارکردنەوەکانی پابەندبوون",
+        "cash-risk-alerts": "ئاگادارکردنەوەی پارە و مەترسی",
+        "ca-access": "CA دەستگەیشتن بە کاتی"
+      },
+      "migration": {
+        "import": "هاوردەکردنی داتا",
+        "export": "هەناردەکردنی داتا",
+        "history": "مێژووی هاوردەکردن",
+        "tally-import": "هاوردەکردن لە تالی و زۆهۆ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "کڕین و پارەدان",
+      "accountingSetup": "ڕێکخستنی ژمێریاری",
+      "dataDocuments": "داتا و بەڵگەنامەکان"
+    }
+  },
+  "common": {
+    "save": "گۆڕانکارییەکان پاشەکەوت بکە",
+    "cancel": "ڕەتکردنەوە",
+    "create": "دروستکردن",
+    "edit": "بژارکردن",
+    "delete": "سڕینەوە",
+    "search": "گەڕان",
+    "connect": "گرێدان",
+    "configure": "ڕێکخستن",
+    "disconnect": "پچڕانی پەیوەندی",
+    "sync": "ئێستا هاوکات بکە",
+    "close": "داخستن",
+    "reset": "ڕێست بکە بۆ Defaults",
+    "back": "گەڕانەوە",
+    "continue": "بەردەوام بوون",
+    "all": "گشت",
+    "retry": "دووبارە هەوڵبدەرەوە",
+    "loading": "بارکردن...",
+    "resetDemo": "داتاکانی دیمۆ ڕێست بکە"
+  },
+  "shell": {
+    "searchPlaceholder": "لە هەر شتێکدا بگەڕێ...",
+    "settings": "ڕێکخستنەکان",
+    "language": "زمان",
+    "role": "ئەرک",
+    "greeting": {
+      "morning": "بەیانی باش",
+      "afternoon": "دوای نیوەڕت باش",
+      "evening": "ئێوارە باش"
+    },
+    "settingsItems": {
+      "company-profile": "پڕۆفایلی کۆمپانیا",
+      "configuration": "ڕێکخستن",
+      "fiscal-periods": "ماوە داراییەکان",
+      "roles": "ڕۆڵ و بەکارهێنەران",
+      "integrations": "یەکگرتنەکان",
+      "notifications": "ئاگادارکردنەوەکان",
+      "audit-logs": "وردبینی و لۆگەکان",
+      "audit-trail": "ڕێڕەوی وردبینی دژە دەستکاریکردن",
+      "developer": "گەشەپێدەر و API"
+    },
+    "translatedLanguages": "وەرگێڕدراوە",
+    "untranslatedLanguages": "ئینگلیزی تا وەرگێڕان"
+  },
+  "status": {
+    "filed": "فایل کراوە",
+    "ready": "ئامادەیە بۆ فایلکردن",
+    "open": "ماوەی کراوە",
+    "paid": "پارەی دا",
+    "pending": "هەڵپەسێردراو",
+    "accepted": "قبوڵ کراوە",
+    "delivered": "گەیاندی",
+    "rejected": "ڕەتکرایەوە",
+    "pdf-sent": "PDF نێردراوە",
+    "not-sent": "نەنێردراوە",
+    "matched": "هاوتا بووە",
+    "mismatch": "ناتەبایی",
+    "missing-supplier": "لەلایەن دابینکەرەوە ڕاپۆرت نەکراوە",
+    "missing-books": "لە کتێبەکاندا ون بوون",
+    "deferred": "دواخراوە",
+    "deducted": "لێبڕاوە",
+    "remitted": "ڕەوانە کراوە",
+    "certified": "بڕوانامەی هەیە",
+    "to-report": "بۆ ڕاپۆرتکردن",
+    "reported": "ڕاپۆرت کراوە",
+    "accounted": "ژمێریاری",
+    "overdue": "دواکەوتووە"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ئامادەیە بۆ فایلکردن",
+      "liabilityDue": "بەرپرسیارێتی کە دەبێ بدرێت",
+      "paidThisYear": "ئەمساڵ پارەی پێدراوە",
+      "nextDeadline": "دوا وادەی داهاتوو",
+      "noneOverdue": "هیچیان دواکەوتووە",
+      "overdue": "{{count}} دواکەوتووە"
+    },
+    "filter": {
+      "ready": "ئامادەیە بۆ فایلکردن",
+      "open": "کردنەوە",
+      "filed": "فایل کراوە"
+    },
+    "col": {
+      "period": "ماوە",
+      "authority": "دەسەڵات",
+      "rate": "ڕێژە",
+      "due": "بەهۆی",
+      "netPayable": "پارەی پاک",
+      "status": "دۆخ",
+      "ack": "دانپێدانان"
+    },
+    "file": "فایل",
+    "view": "دیمەن",
+    "fileForm": "فایل {{form}}",
+    "loadingJurisdiction": "بارکردنی دەسەڵاتی دادوەری...",
+    "nothingToFile": "هیچ گەڕانەوەیەک چاوەڕێی تۆمارکردن ناکات — هەموو ماوە داخراوەکان پێشکەش دەکرێن.",
+    "fileNext": "فایلەکەی داهاتوو: {{name}}",
+    "steps": {
+      "review": "پێداچوونەوە",
+      "validate": "چەسپاندن",
+      "declare": "ڕاگەیاندن و پێشکەشکردن",
+      "ack": "دانپێدانان"
+    },
+    "runValidation": "ڕەچاوکردن جێبەجێ بکە",
+    "validating": "چەسپاندنی...",
+    "submit": "پێشکەشکردنی {{form}}",
+    "submitting": "پێشکەشکردنی...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "بڕی پاک",
+    "submitted": "پێشکەش کراوە",
+    "filedOn": "فایل کراوە لەسەر",
+    "regime": {
+      "authority": "دەسەڵات",
+      "channel": "کەناڵی فایلکردن",
+      "return": "گەڕانەوە",
+      "due": "بەهۆی",
+      "standardRate": "ڕێژەی ستاندارد",
+      "threshold": "ئاستی تۆمارکردن"
+    },
+    "demoNote": "داتاکانی دیمۆ لە APIی باجی ساختەی ناوەکییەوە — تۆمارکردن و پارەدانەکان ھاوشێوە دەکرێن و هیچ شتێک بۆ دەسەڵاتی باج دەنێردرێت."
+  },
+  "fx": {
+    "title": "دراوی بیانی",
+    "subtitle": "دراوی بنەڕەتی {{base}} · ڕێژەی بازاڕی ساختەی نیشاندەری",
+    "newDoc": "فاکتورە / فەسڵی نوێی FX",
+    "kpi": {
+      "netExposure": "بەرکەوتنی تۆڕی FX",
+      "openDocs": "{{count}} بەڵگەنامەکان بکەرەوە",
+      "unrealized": "قازانج / زیانێکی نەهاتوو",
+      "postedSplit": "{{posted}} پۆست کراوە · {{unposted}} هێشتا نەکراوە",
+      "realized": "ئەمساڵ بەدی هات",
+      "lastReval": "دوا هەڵسەنگاندنەوە",
+      "never": "هەرگیز",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "شتەکان بکەرەوە",
+      "settled": "جێگیر بوو",
+      "revaluation": "دووبارە بەهادان بە کۆتایی مانگ",
+      "journal": "گۆڤاری FX"
+    },
+    "col": {
+      "document": "بەڵگەنامە",
+      "type": "جۆر",
+      "openForeign": "کراوە (بیانی)",
+      "bookedNow": "حجز کراوە / ئێستا",
+      "valueIn": "بەها لە {{base}}",
+      "unrealized": "بەدی نەهاتووە",
+      "status": "دۆخ",
+      "amount": "بڕ",
+      "bookedRate": "ڕێژەی حجزکراو",
+      "realized": "زانی"
+    },
+    "receivable": "وەرگیراو",
+    "payable": "پارە دەدرێت",
+    "receive": "وەرگرتن",
+    "pay": "پارەدان",
+    "netIn": "تۆڕ لە {{base}}",
+    "state": {
+      "settled": "جێگیر بوو",
+      "partial": "بەشێکی یەکلایی بووەتەوە",
+      "open": "کردنەوە"
+    },
+    "demoNote": "داتاکانی دیمۆ لە API ساختەی ناوەکییەوە — ڕێژەکان ھاوشێوە دەکرێن، نەک داتاکانی بازاڕی ڕاستەوخۆ."
+  }
+}

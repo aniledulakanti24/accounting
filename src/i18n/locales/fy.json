@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Deistich",
+      "finance": "Finânsjes",
+      "advanced": "Avansearre"
+    },
+    "mainMenu": "Haadmenu",
+    "short": {
+      "parties": "Partijen"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Ferkeap",
+      "receivables": "Jild yn",
+      "procurement": "Oankeapen",
+      "payables": "Jild út",
+      "cashbank": "Cash & Bank",
+      "expenses": "Útjeften",
+      "tax": "Belesting",
+      "reports": "Ferslaggen",
+      "advanced-features": "Avansearre eigenskippen",
+      "parties": "Klanten & Suppliers",
+      "inventory": "Items",
+      "assets": "Fêste aktiva",
+      "masters": "Ynstelling & konfiguraasje",
+      "business-tools": "Team & Tools",
+      "party-tools": "Party Tools",
+      "item-tools": "Item Tools",
+      "storage": "Dokuminten",
+      "alerts": "Alerts",
+      "migration": "Data Migraasje"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Oersicht",
+        "cash-flow": "Cash Flow",
+        "tax-calendar": "Tax Calendar"
+      },
+      "sales": {
+        "quotations": "Quotations",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Levering Challan",
+        "receipts": "Receipt",
+        "invoice-desk": "Invoice Desk"
+      },
+      "receivables": {
+        "money-in-center": "Jild Yn Center",
+        "receivables": "Receivables",
+        "payments-received": "Betellingen ûntfongen",
+        "overdue-collections": "Samlingen en herinneringen",
+        "credit-notes": "Credit Notes & Refunds",
+        "sales-returns": "Ferkeap Returns",
+        "customer-statements": "Customer Statements",
+        "payment-links": "Payment Links"
+      },
+      "procurement": {
+        "purchase-center": "Purchase Center",
+        "purchase-orders": "Purchase Orders",
+        "goods-receipt": "Goederen Receipt",
+        "purchase-invoices": "Purchase Invoices",
+        "payment-out": "Betellingen makke",
+        "returns-debit-notes": "Returns & Debit Notes",
+        "bill-approvals": "Bill goedkarring"
+      },
+      "payables": {
+        "bills": "Pay Center",
+        "payments": "Supplier Payments",
+        "workforce": "Workforce",
+        "adjustments": "Oanpassingen",
+        "bank-release": "Bank Release"
+      },
+      "cashbank": {
+        "bank-accounts": "Myn akkounts",
+        "reconciliation": "Wedstriid Transaksjes",
+        "cash-petty": "Petty Cash",
+        "contra": "Tusken Accounts",
+        "cheque-register": "Sjeks",
+        "foreign-currency": "Bûtenlânske faluta",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Regels & Fersoening"
+      },
+      "expenses": {
+        "expense-center": "Alle útjeften",
+        "categories": "Soarten kosten",
+        "automated-bills": "Weromkommende útjeften",
+        "journal-vouchers": "Hânlieding Entries",
+        "provisions": "Accruals",
+        "write-offs": "Ofskriuwings",
+        "period-close": "Moanne-ein"
+      },
+      "tax": {
+        "gst-returns": "GST registraasje",
+        "gst-filing-wizard": "⚡ Bestân GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-Invoices",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Tax betelje",
+        "quarterly-compliance": "Compliance Calendar",
+        "ca-access": "CA Tydlike tagong",
+        "gst-from-books": "GST út Boeken"
+      },
+      "reports": {
+        "financial-statements": "Finansjele ferslaggen",
+        "books": "Transaksje Boeken",
+        "gst-reports": "GST rapporten",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Profitabiliteit",
+        "period-comparatives": "Jier Fergeliking",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Cash Forecast",
+        "report-builder": "Oanpaste rapporten",
+        "general-ledger": "Algemien Ledger",
+        "live-financials": "Live finansjeel",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Oersicht"
+      },
+      "parties": {
+        "all-parties": "Alle Partijen",
+        "customer-ledgers": "Klanten",
+        "supplier-ledgers": "Leveransiers",
+        "shared-ledger": "Dielde Ledger",
+        "statements": "Utspraken",
+        "reminders": "Herinneringen",
+        "documents": "Partij Dokuminten",
+        "portal": "Partij Portal",
+        "import": "Partij Ymportearje",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap analyze"
+      },
+      "inventory": {
+        "inventory-items": "Items",
+        "godowns": "Warehouses",
+        "stock-movement": "Stock Movement",
+        "item-pricing": "Priis",
+        "stock-valuation": "Stock wurdearring",
+        "reorder-alerts": "Alerts opnij oarderje",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item ymportearje",
+        "gap-analysis": "Gap analyze"
+      },
+      "assets": {
+        "asset-register": "Asset List",
+        "depreciation": "Afskriuwing",
+        "disposal-revaluation": "Ferkeapje of revaluearje"
+      },
+      "masters": {
+        "chart-of-accounts": "Accounts List",
+        "tax-masters": "Tax Tariven",
+        "cost-centers": "Kosten Centers",
+        "voucher-types": "Transaksje Soarten",
+        "opening-balances": "Startbalansen",
+        "currencies": "Faluta's"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll",
+        "manage-users": "Brûker tagong",
+        "online-orders": "Online oarders",
+        "sms-marketing": "SMS marketing",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Partij Dokuminten",
+        "portal": "Partij Portal",
+        "import": "Partij Ymportearje",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap analyze"
+      },
+      "item-tools": {
+        "reorder-alerts": "Alerts opnij oarderje",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item ymportearje",
+        "gap-analysis": "Gap analyze"
+      },
+      "storage": {
+        "client-storage": "Client Files",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Accountant Alerts",
+        "compliance-alerts": "Compliance Alerts",
+        "cash-risk-alerts": "Cash & Risk Alerts",
+        "ca-access": "CA Tydlike tagong"
+      },
+      "migration": {
+        "import": "Ymportearje Gegevens",
+        "export": "Eksportearje Gegevens",
+        "history": "Ymportearje Skiednis",
+        "tally-import": "Ymportearje fan Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Oankeapen & betellingen",
+      "accountingSetup": "Accounting Setup",
+      "dataDocuments": "Gegevens en dokuminten"
+    }
+  },
+  "common": {
+    "save": "Feroarings bewarje",
+    "cancel": "Ofbrekke",
+    "create": "Meitsje",
+    "edit": "Bewurkje",
+    "delete": "Wiskje",
+    "search": "Sykje",
+    "connect": "Ferbine",
+    "configure": "Konfigurearje",
+    "disconnect": "Ferbine",
+    "sync": "Syngronisearje no",
+    "close": "Slute",
+    "reset": "Weromsette nei standert",
+    "back": "Rêch",
+    "continue": "Trochgean",
+    "all": "Alle",
+    "retry": "Opnij besykje",
+    "loading": "Laden…",
+    "resetDemo": "Reset demo gegevens"
+  },
+  "shell": {
+    "searchPlaceholder": "Sykje alles ...",
+    "settings": "Ynstellings",
+    "language": "Taal",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Goedei",
+      "afternoon": "Goeiemiddei",
+      "evening": "Goejûn"
+    },
+    "settingsItems": {
+      "company-profile": "Company Profile",
+      "configuration": "Konfiguraasje",
+      "fiscal-periods": "Fiskale perioaden",
+      "roles": "Rollen en brûkers",
+      "integrations": "Yntegraasjes",
+      "notifications": "Notifikaasjes",
+      "audit-logs": "Audit & Logboeken",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Untwikkelder & API"
+    },
+    "translatedLanguages": "Oerset",
+    "untranslatedLanguages": "Ingelsk oant oerset"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Klear foar triem",
+    "open": "Periode iepen",
+    "paid": "Betelle",
+    "pending": "Yn ôfwachting",
+    "accepted": "Akseptearre",
+    "delivered": "Levere",
+    "rejected": "Ofwiisd",
+    "pdf-sent": "PDF ferstjoerd",
+    "not-sent": "Net ferstjoerd",
+    "matched": "Matched",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Net rapportearre troch leveransier",
+    "missing-books": "Mis yn boeken",
+    "deferred": "Deferred",
+    "deducted": "Ofrekkene",
+    "remitted": "Remitted",
+    "certified": "Sertifisearre",
+    "to-report": "Te melden",
+    "reported": "Rapportearre",
+    "accounted": "Accounted",
+    "overdue": "Efterstallich"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Klear foar triem",
+      "liabilityDue": "Ferskuldige oanspraaklikens",
+      "paidThisYear": "Dit jier betelle",
+      "nextDeadline": "Folgjende deadline",
+      "noneOverdue": "Gjin efterstallich",
+      "overdue": "{{count}} efterstallich"
+    },
+    "filter": {
+      "ready": "Klear foar triem",
+      "open": "Iepen",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "Perioade",
+      "authority": "Autoriteit",
+      "rate": "Taryf",
+      "due": "Due",
+      "netPayable": "Net te beteljen",
+      "status": "Status",
+      "ack": "Erkenning"
+    },
+    "file": "File",
+    "view": "Fisy",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Jurisdiksje laden…",
+    "nothingToFile": "Gjin weromjeften wachtsje op yntsjinjen - alle sletten perioaden wurde yntsjinne.",
+    "fileNext": "Folgjende triem: {{name}}",
+    "steps": {
+      "review": "Resinsje",
+      "validate": "Validearje",
+      "declare": "Ferklearje & yntsjinje",
+      "ack": "Erkenning"
+    },
+    "runValidation": "Run falidaasje",
+    "validating": "Validearje…",
+    "submit": "Submit {{form}}",
+    "submitting": "Ynstjoere...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Netto bedrach",
+    "submitted": "Yntsjinne",
+    "filedOn": "Yntsjinne op",
+    "regime": {
+      "authority": "Autoriteit",
+      "channel": "Filing kanaal",
+      "return": "Weromkomme",
+      "due": "Due",
+      "standardRate": "Standert taryf",
+      "threshold": "Registraasje drompel"
+    },
+    "demoNote": "Demo-gegevens fan 'e ynboude mock tax API - oanfragen en betellingen wurde simulearre en neat wurdt stjoerd nei in belestingautoriteit."
+  },
+  "fx": {
+    "title": "Bûtenlânske faluta",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Nije FX faktuer / rekken",
+    "kpi": {
+      "netExposure": "Net FX exposure",
+      "openDocs": "{{count}} iepen dokuminten",
+      "unrealized": "Unrealisearre winst / ferlies",
+      "postedSplit": "{{posted}} pleatst · {{unposted}} noch net",
+      "realized": "Dit jier realisearre",
+      "lastReval": "Lêste revaluaasje",
+      "never": "Nea",
+      "suggested": "Foarsteld: {{date}}"
+    },
+    "view": {
+      "open": "Iepenje items",
+      "settled": "Settled",
+      "revaluation": "Moanne-ein werwurdearring",
+      "journal": "FX tydskrift"
+    },
+    "col": {
+      "document": "Dokumint",
+      "type": "Type",
+      "openForeign": "Iepen (bûtenlânsk)",
+      "bookedNow": "Boekt / no",
+      "valueIn": "Wearde yn {{base}}",
+      "unrealized": "Unrealisearre",
+      "status": "Status",
+      "amount": "Tal",
+      "bookedRate": "Boekt taryf",
+      "realized": "Realisearre"
+    },
+    "receivable": "Receivable",
+    "payable": "Betelber",
+    "receive": "Ûntfange",
+    "pay": "Betelje",
+    "netIn": "Net yn {{base}}",
+    "state": {
+      "settled": "Settled",
+      "partial": "Diel fêstlein",
+      "open": "Iepen"
+    },
+    "demoNote": "Demo-gegevens fan 'e ynboude mock API - tariven wurde simulearre, gjin live-merkgegevens."
+  }
+}

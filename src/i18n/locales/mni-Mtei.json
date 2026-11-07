@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ꯅꯨꯃꯤꯠ ꯈꯨꯗꯤꯡꯒꯤ ꯑꯣꯏꯕꯥ꯫",
+      "finance": "ꯁꯦꯜ ꯊꯨꯝꯒꯤ ꯍꯤꯔꯝ",
+      "advanced": "ꯃꯈꯥ ꯇꯥꯅ ꯆꯪꯁꯤꯟꯕ"
+    },
+    "mainMenu": "ꯃꯦꯟ ꯃꯦꯅꯨ꯫",
+    "short": {
+      "parties": "ꯄꯥꯔꯇꯤꯁꯤꯡ꯫"
+    },
+    "sections": {
+      "dashboard": "ꯗꯦꯁꯕꯣꯔꯗ꯫",
+      "sales": "ꯁꯦꯂꯁ ꯇꯧꯕꯥ꯫",
+      "receivables": "ꯃꯅꯤ ꯏꯟ",
+      "procurement": "ꯄꯔꯆꯦꯖ ꯇꯧꯕꯥ꯫",
+      "payables": "ꯃꯅꯤ ꯑꯥꯎꯠ ꯇꯧꯕꯥ꯫",
+      "cashbank": "ꯀꯦꯁ ꯑꯃꯁꯨꯡ ꯕꯦꯉ꯭ꯛ꯫",
+      "expenses": "ꯆꯥꯗꯤꯡ ꯇꯧꯕꯁꯤꯡ",
+      "tax": "ꯇꯦꯛꯁ ꯂꯧꯕꯥ꯫",
+      "reports": "ꯔꯤꯄꯣꯔꯇꯁꯤꯡ ꯄꯤꯔꯤ꯫",
+      "advanced-features": "ꯑꯦꯗꯚꯥꯟꯁ ꯐꯤꯆꯔꯁꯤꯡ꯫",
+      "parties": "ꯀꯁ꯭ꯇꯃꯔꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯁꯞꯂꯥꯏꯌꯔꯁꯤꯡ꯫",
+      "inventory": "ꯄꯣꯠꯂꯝꯁꯤꯡ",
+      "assets": "ꯐꯤꯛꯁ ꯇꯧꯔꯕꯥ ꯑꯦꯁꯦꯠꯁꯤꯡ꯫",
+      "masters": "ꯁꯦꯇꯑꯞ & ꯀꯅꯐꯤꯒꯔꯦꯁꯟ ꯇꯧꯕꯥ꯫",
+      "business-tools": "ꯇꯤꯝ ꯑꯃꯁꯨꯡ ꯇꯨꯂꯁꯤꯡ꯫",
+      "party-tools": "ꯄꯥꯔꯇꯤꯒꯤ ꯈꯨꯠꯂꯥꯌꯁꯤꯡ꯫",
+      "item-tools": "ꯑꯥꯏꯇꯦꯝ ꯇꯨꯂꯁꯤꯡ꯫",
+      "storage": "ꯗꯣꯀꯨꯃꯦꯟꯇꯁꯤꯡ꯫",
+      "alerts": "ꯑꯦꯂꯔꯇꯁꯤꯡ ꯄꯤꯕꯥ꯫",
+      "migration": "ꯗꯦꯇꯥ ꯃꯥꯏꯒ꯭ꯔꯦꯁꯟ ꯇꯧꯕꯥ꯫"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ꯑꯣꯚꯔꯚꯤꯌꯨ ꯇꯧꯕꯥ꯫",
+        "cash-flow": "ꯀꯦꯁ ꯐ꯭ꯂꯣ ꯇꯧꯕꯥ꯫",
+        "tax-calendar": "ꯇꯦꯛꯁ ꯀꯦꯂꯦꯟꯗꯔꯗꯥ ꯂꯩ꯫"
+      },
+      "sales": {
+        "quotations": "ꯀꯣꯇꯦꯁꯅꯁꯤꯡ ꯄꯤꯕꯥ꯫",
+        "proforma-invoices": "ꯄꯤ.ꯑꯥꯏ",
+        "sales-invoices": "ꯃꯃꯜ ꯌꯎꯕ ꯆꯦ",
+        "delivery-challans": "ꯗꯦꯂꯤꯕꯔꯤ ꯆꯂꯟ꯫",
+        "receipts": "ꯆꯦꯅꯤꯡ",
+        "invoice-desk": "ꯏꯅꯚꯣꯏꯁ ꯗꯦꯁ꯭ꯛ ꯂꯩ꯫"
+      },
+      "receivables": {
+        "money-in-center": "ꯃꯅꯤ ꯏꯟ ꯁꯦꯟꯇꯔꯗꯥ ꯂꯩ꯫",
+        "receivables": "ꯔꯤꯁꯤꯕꯦꯕꯂꯁꯤꯡ꯫",
+        "payments-received": "ꯄꯦꯃꯦꯟꯇꯁꯤꯡ ꯐꯪꯂꯦ꯫",
+        "overdue-collections": "ꯀꯂꯦꯛꯁꯅꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯔꯤꯃꯥꯏꯟꯗꯔꯁꯤꯡ꯫",
+        "credit-notes": "ꯀ꯭ꯔꯦꯗꯤꯠ ꯅꯣꯠꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯔꯤꯐꯟꯗꯁꯤꯡ꯫",
+        "sales-returns": "ꯁꯦꯂꯁ ꯔꯤꯇꯔꯅꯁꯤꯡ꯫",
+        "customer-statements": "ꯀꯁ꯭ꯇꯃꯔ ꯁ꯭ꯇꯦꯇꯃꯦꯟꯇꯁꯤꯡ꯫",
+        "payment-links": "ꯄꯦꯃꯦꯟꯇ ꯂꯤꯉ꯭ꯀꯁꯤꯡ꯫"
+      },
+      "procurement": {
+        "purchase-center": "ꯄꯔꯆꯦꯖ ꯁꯦꯟꯇꯔꯗꯥ ꯂꯩ꯫",
+        "purchase-orders": "ꯄꯔꯆꯦꯖ ꯑꯣꯔꯗꯔꯁꯤꯡ ꯄꯤꯕꯥ꯫",
+        "goods-receipt": "ꯒꯨꯗꯁ ꯔꯤꯁꯤꯠ ꯇꯧꯕꯥ꯫",
+        "purchase-invoices": "ꯄꯔꯆꯦꯖ ꯏꯅꯚꯣꯏꯁꯁꯤꯡ꯫",
+        "payment-out": "ꯄꯦꯃꯦꯟꯇꯁꯤꯡ ꯇꯧꯕꯥ꯫",
+        "returns-debit-notes": "ꯔꯤꯇꯔꯅꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯗꯦꯕꯤꯠ ꯅꯣꯇꯁꯤꯡ꯫",
+        "bill-approvals": "ꯕꯤꯜ ꯑꯦꯞꯔꯨꯕꯦꯜ ꯇꯧꯕꯥ꯫"
+      },
+      "payables": {
+        "bills": "ꯄꯦ ꯁꯦꯟꯇꯔꯗꯥ ꯂꯩꯕꯥ꯫",
+        "payments": "ꯁꯞꯂꯥꯏꯌꯔ ꯄꯦꯃꯦꯟꯇꯁꯤꯡ꯫",
+        "workforce": "ꯋꯥꯔꯀꯐꯣꯔꯁ꯫",
+        "adjustments": "ꯑꯦꯗꯖꯁ꯭ꯇꯃꯦꯟꯇꯁꯤꯡ꯫",
+        "bank-release": "ꯕꯦꯉ꯭ꯛ ꯔꯤꯂꯤꯖ ꯇꯧꯕꯥ꯫"
+      },
+      "cashbank": {
+        "bank-accounts": "ꯑꯩꯒꯤ ꯑꯦꯀꯥꯎꯟꯇꯁꯤꯡ꯫",
+        "reconciliation": "ꯃꯦꯆ ꯇ꯭ꯔꯥꯟꯖꯦꯛꯁꯅꯁꯤꯡ꯫",
+        "cash-petty": "ꯄꯦꯇꯤ ꯀꯦꯁ꯫",
+        "contra": "ꯑꯦꯀꯥꯎꯟꯇꯁꯤꯡꯒꯤ ꯃꯔꯛꯇꯥ꯫",
+        "cheque-register": "ꯆꯦꯛ ꯇꯧꯕꯥ꯫",
+        "foreign-currency": "ꯐꯣꯔꯦꯟ ꯀꯔꯔꯦꯟꯁꯤꯒꯤ ꯃꯇꯥꯡꯗꯥ ꯋꯥꯐꯝ ꯊꯃꯈꯤ꯫",
+        "bank-feeds": "ꯕꯦꯉ꯭ꯛ ꯐꯤꯗꯁꯤꯡ꯫",
+        "bank-rules": "ꯔꯨꯂꯁ & ꯔꯤꯀꯟꯁꯤꯂꯤꯌꯦꯁꯟ ꯇꯧꯕꯥ꯫"
+      },
+      "expenses": {
+        "expense-center": "ꯆꯥꯗꯤꯡ ꯄꯨꯝꯅꯃꯛ꯫",
+        "categories": "ꯆꯥꯗꯤꯡꯒꯤ ꯃꯈꯂꯁꯤꯡ꯫",
+        "automated-bills": "ꯔꯤꯀꯣꯔꯗ ꯑꯣꯏꯕꯥ ꯆꯥꯗꯤꯡꯁꯤꯡ꯫",
+        "journal-vouchers": "ꯃꯦꯅꯨꯑꯦꯜ ꯑꯦꯟꯠꯔꯤꯁꯤꯡ꯫",
+        "provisions": "ꯑꯦꯛꯔꯨꯌꯦꯂꯁꯤꯡ ꯇꯧꯕꯥ꯫",
+        "write-offs": "ꯔꯥꯏꯠ-ꯑꯣꯐ ꯇꯧꯕꯥ꯫",
+        "period-close": "ꯊꯥ-ꯑꯔꯣꯏꯕꯥ꯫"
+      },
+      "tax": {
+        "gst-returns": "ꯖꯤ.ꯑꯦꯁ.ꯇꯤ.ꯒꯤ ꯐꯥꯏꯂꯤꯡ ꯇꯧꯕꯥ꯫",
+        "gst-filing-wizard": "⚡ ꯐꯥꯏꯜ ꯖꯤ.ꯑꯦꯁ.ꯇꯤ.ꯑꯥꯔ.-꯳ꯕꯤ",
+        "gst-reconciliation": "ꯖꯤ.ꯑꯦꯁ.ꯇꯤ.ꯒꯤ ꯃꯦꯆꯤꯡ ꯇꯧꯕꯥ꯫",
+        "e-invoicing": "ꯏ-ꯏꯅꯚꯣꯏꯁꯁꯤꯡ꯫",
+        "e-way-bills": "ꯏ-ꯋꯦ ꯕꯤꯂꯁꯤꯡ ꯌꯥꯑꯣꯔꯤ꯫",
+        "tds": "ꯇꯤ.ꯗꯤ.ꯑꯦꯁ",
+        "tcs": "ꯇꯤ.ꯁꯤ.ꯑꯦꯁ",
+        "tax-payments": "ꯇꯦꯛꯁ ꯄꯤꯕꯥ꯫",
+        "quarterly-compliance": "ꯀꯝꯞꯂꯥꯏꯑꯦꯟꯁ ꯀꯦꯂꯦꯟꯗꯔ꯫",
+        "ca-access": "ꯁꯤ.ꯑꯦ.ꯒꯤ ꯃꯇꯝ ꯈꯔꯒꯤ ꯑꯣꯏꯕꯥ ꯑꯦꯛꯁꯦꯁ꯫",
+        "gst-from-books": "ꯕꯨꯀꯁꯇꯒꯤ ꯖꯤ.ꯑꯦꯁ.ꯇꯤ"
+      },
+      "reports": {
+        "financial-statements": "ꯐꯥꯏꯅꯥꯟꯁꯤꯑꯦꯜ ꯔꯤꯄꯣꯔꯇꯁꯤꯡ꯫",
+        "books": "ꯇ꯭ꯔꯥꯟꯖꯦꯛꯁꯟ ꯕꯨꯀꯁꯤꯡ꯫",
+        "gst-reports": "ꯖꯤ.ꯑꯦꯁ.ꯇꯤ.ꯒꯤ ꯔꯤꯄꯣꯔꯇꯁꯤꯡ꯫",
+        "ar-ap": "ꯔꯤꯁꯤꯕꯦꯕꯂꯁꯤꯡ ꯕꯅꯥꯝ ꯄꯦꯌꯦꯕꯂꯁꯤꯡ꯫",
+        "profitability": "ꯄ꯭ꯔꯣꯐꯤꯇꯦꯕꯤꯂꯤꯇꯤ ꯂꯩꯕꯥ꯫",
+        "period-comparatives": "ꯆꯍꯤꯒꯤ ꯆꯥꯡꯗꯝꯅꯕꯥ꯫",
+        "budget-vs-actuals": "ꯕꯖꯦꯠ ꯇ꯭ꯔꯦꯀꯔ ꯇꯧꯕꯥ꯫",
+        "cashflow-projection": "ꯀꯦꯁ ꯐꯣꯔꯀꯥꯁ꯭ꯠ ꯇꯧꯕꯥ꯫",
+        "report-builder": "ꯀꯁ꯭ꯇꯝ ꯔꯤꯄꯣꯔꯇꯁꯤꯡ꯫",
+        "general-ledger": "ꯖꯦꯅꯦꯔꯦꯜ ꯂꯦꯖꯔꯒꯤ ꯃꯇꯥꯡꯗꯥ ꯋꯥꯐꯝ ꯊꯃꯈꯤ꯫",
+        "live-financials": "ꯂꯥꯏꯕ ꯐꯥꯏꯅꯥꯟꯁꯤꯑꯦꯂꯁꯤꯡ꯫",
+        "ai-analyst": "ꯑꯦ.ꯑꯥꯏ.ꯒꯤ ꯑꯦꯅꯥꯂꯥꯏꯇꯤꯛ꯫"
+      },
+      "advanced-features": {
+        "overview": "ꯑꯣꯚꯔꯚꯤꯌꯨ ꯇꯧꯕꯥ꯫"
+      },
+      "parties": {
+        "all-parties": "ꯄꯥꯔꯇꯤ ꯄꯨꯝꯅꯃꯛ꯫",
+        "customer-ledgers": "ꯀꯁ꯭ꯇꯃꯔꯁꯤꯡ꯫",
+        "supplier-ledgers": "ꯁꯞꯂꯥꯏꯌꯔꯁꯤꯡ꯫",
+        "shared-ledger": "ꯁꯦꯌꯔ ꯇꯧꯔꯕꯥ ꯂꯦꯖꯔ꯫",
+        "statements": "ꯁ꯭ꯇꯦꯇꯃꯦꯟꯇꯁꯤꯡ꯫",
+        "reminders": "ꯅꯤꯡꯁꯤꯡꯍꯅꯕꯥ꯫",
+        "documents": "ꯄꯥꯔꯇꯤꯒꯤ ꯗꯣꯀꯨꯃꯦꯟꯇꯁꯤꯡ꯫",
+        "portal": "ꯄꯥꯔꯇꯤꯒꯤ ꯄꯣꯔꯇꯦꯜ꯫",
+        "import": "ꯄꯥꯔꯇꯤ ꯏꯝꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫",
+        "duplicate-merge": "ꯗꯨꯞꯂꯤꯀꯦꯠ ꯃꯔꯖ ꯇꯧꯕꯥ꯫",
+        "gap-analysis": "ꯒꯦꯞ ꯑꯦꯅꯥꯂꯥꯏꯁꯤꯁ ꯇꯧꯕꯥ꯫"
+      },
+      "inventory": {
+        "inventory-items": "ꯄꯣꯠꯂꯝꯁꯤꯡ",
+        "godowns": "ꯋꯦꯌꯔꯍꯥꯎꯁꯁꯤꯡ ꯂꯩꯕꯥ꯫",
+        "stock-movement": "ꯁ꯭ꯇꯣꯛ ꯃꯨꯕꯃꯦꯟꯇ ꯇꯧꯕꯥ꯫",
+        "item-pricing": "ꯃꯃꯜ ꯂꯦꯞꯄꯥ꯫",
+        "stock-valuation": "ꯁ꯭ꯇꯣꯛ ꯚꯦꯜꯌꯨꯑꯦꯁꯟ ꯇꯧꯕꯥ꯫",
+        "reorder-alerts": "ꯑꯦꯂꯔꯇꯁꯤꯡ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯑꯣꯔꯗꯔ ꯇꯧꯕꯥ꯫",
+        "batch-serials": "ꯕꯦꯆ ꯑꯃꯁꯨꯡ ꯁꯤꯔꯤꯌꯥꯜ꯫",
+        "barcode-labels": "ꯕꯥꯔꯀꯣꯗ ꯂꯦꯕꯦꯂꯁꯤꯡ꯫",
+        "item-import": "ꯑꯥꯏꯇꯦꯝ ꯏꯝꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫",
+        "gap-analysis": "ꯒꯦꯞ ꯑꯦꯅꯥꯂꯥꯏꯁꯤꯁ ꯇꯧꯕꯥ꯫"
+      },
+      "assets": {
+        "asset-register": "ꯑꯦꯁꯦꯠ ꯂꯤꯁ꯭ꯠ꯫",
+        "depreciation": "ꯗꯤꯞꯔꯦꯁꯟ ꯇꯧꯕꯥ꯫",
+        "disposal-revaluation": "ꯁꯦꯜ ꯅꯠꯔꯒꯥ ꯔꯤꯚꯦꯜꯌꯨ ꯇꯧꯕꯥ꯫"
+      },
+      "masters": {
+        "chart-of-accounts": "ꯑꯦꯀꯥꯎꯟꯇꯁꯤꯡꯒꯤ ꯂꯤꯁ꯭ꯠ꯫",
+        "tax-masters": "ꯇꯦꯛꯁꯀꯤ ꯆꯥꯡ꯫",
+        "cost-centers": "ꯀꯣꯁ꯭ꯠ ꯁꯦꯟꯇꯔꯁꯤꯡ꯫",
+        "voucher-types": "ꯇ꯭ꯔꯥꯟꯖꯦꯛꯁꯟ ꯃꯈꯂꯁꯤꯡ꯫",
+        "opening-balances": "ꯁ꯭ꯇꯥꯔꯇꯤꯡ ꯕꯦꯂꯦꯟꯁꯁꯤꯡ꯫",
+        "currencies": "ꯁꯦꯅꯐꯃꯁꯤꯡ꯫"
+      },
+      "business-tools": {
+        "staff-payroll": "ꯄꯦꯔꯣꯜ ꯄꯤꯕꯥ꯫",
+        "manage-users": "ꯌꯨꯖꯔ ꯑꯦꯛꯁꯦꯁ ꯇꯧꯕꯥ꯫",
+        "online-orders": "ꯑꯣꯅꯂꯥꯏꯟ ꯑꯣꯔꯗꯔ ꯇꯧꯕꯥ꯫",
+        "sms-marketing": "ꯑꯦꯁ.ꯑꯦꯝ.ꯑꯦꯁ.ꯀꯤ ꯃꯥꯔꯀꯦꯇꯤꯡ ꯇꯧꯕꯥ꯫",
+        "accountant-hub": "ꯑꯦꯀꯥꯎꯟꯇꯦꯟꯇꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯁꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫"
+      },
+      "party-tools": {
+        "documents": "ꯄꯥꯔꯇꯤꯒꯤ ꯗꯣꯀꯨꯃꯦꯟꯇꯁꯤꯡ꯫",
+        "portal": "ꯄꯥꯔꯇꯤꯒꯤ ꯄꯣꯔꯇꯦꯜ꯫",
+        "import": "ꯄꯥꯔꯇꯤ ꯏꯝꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫",
+        "duplicate-merge": "ꯗꯨꯞꯂꯤꯀꯦꯠ ꯃꯔꯖ ꯇꯧꯕꯥ꯫",
+        "gap-analysis": "ꯒꯦꯞ ꯑꯦꯅꯥꯂꯥꯏꯁꯤꯁ ꯇꯧꯕꯥ꯫"
+      },
+      "item-tools": {
+        "reorder-alerts": "ꯑꯦꯂꯔꯇꯁꯤꯡ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯑꯣꯔꯗꯔ ꯇꯧꯕꯥ꯫",
+        "batch-serials": "ꯕꯦꯆ ꯑꯃꯁꯨꯡ ꯁꯤꯔꯤꯌꯥꯜ꯫",
+        "barcode-labels": "ꯕꯥꯔꯀꯣꯗ ꯂꯦꯕꯦꯂꯁꯤꯡ꯫",
+        "item-import": "ꯑꯥꯏꯇꯦꯝ ꯏꯝꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫",
+        "gap-analysis": "ꯒꯦꯞ ꯑꯦꯅꯥꯂꯥꯏꯁꯤꯁ ꯇꯧꯕꯥ꯫"
+      },
+      "storage": {
+        "client-storage": "ꯀ꯭ꯂꯥꯏꯑꯦꯟꯇ ꯐꯥꯏꯂꯁꯤꯡ꯫",
+        "unifiedtree-storage": "ꯀ꯭ꯂꯥꯎꯗ ꯁ꯭ꯇꯣꯔꯦꯖ꯫"
+      },
+      "alerts": {
+        "accountant-alerts": "ꯑꯦꯀꯥꯎꯟꯇꯦꯟꯇ ꯑꯦꯂꯔꯇꯁꯤꯡ ꯄꯤꯕꯥ꯫",
+        "compliance-alerts": "ꯀꯝꯞꯂꯥꯏꯑꯦꯟꯁ ꯑꯦꯂꯔꯇꯁꯤꯡ꯫",
+        "cash-risk-alerts": "ꯀꯦꯁ ꯑꯃꯁꯨꯡ ꯔꯤꯁ꯭ꯛ ꯑꯦꯂꯔꯇꯁꯤꯡ꯫",
+        "ca-access": "ꯁꯤ.ꯑꯦ.ꯒꯤ ꯃꯇꯝ ꯈꯔꯒꯤ ꯑꯣꯏꯕꯥ ꯑꯦꯛꯁꯦꯁ꯫"
+      },
+      "migration": {
+        "import": "ꯗꯦꯇꯥ ꯏꯝꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫",
+        "export": "ꯗꯦꯇꯥ ꯑꯦꯛꯁꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫",
+        "history": "ꯏꯝꯄꯣꯔꯇꯀꯤ ꯄꯨꯋꯥꯔꯤ꯫",
+        "tally-import": "ꯇꯥꯂꯤ & ꯖꯣꯍꯣꯗꯒꯤ ꯏꯝꯄꯣꯔꯠ ꯇꯧꯕꯥ꯫"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ꯄꯔꯆꯦꯖꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯄꯦꯃꯦꯟꯇꯁꯤꯡ꯫",
+      "accountingSetup": "ꯑꯦꯀꯥꯎꯟꯇꯤꯡ ꯁꯦꯇꯑꯞ ꯇꯧꯕꯥ꯫",
+      "dataDocuments": "ꯗꯦꯇꯥ ꯑꯃꯁꯨꯡ ꯗꯣꯀꯨꯃꯦꯟꯇꯁꯤꯡ꯫"
+    }
+  },
+  "common": {
+    "save": "ꯑꯍꯣꯡꯕꯁꯤꯡ ꯁꯦꯚ ꯇꯧꯕꯥ꯫",
+    "cancel": "ꯀꯛꯄ",
+    "create": "ꯁꯦꯝꯕ",
+    "edit": "ꯁꯦꯃꯗꯣꯛꯄ",
+    "delete": "ꯃꯨꯊꯠꯄ",
+    "search": "ꯊꯤꯕ",
+    "connect": "ꯁꯝꯅꯕ",
+    "configure": "ꯀꯅꯐꯤꯒꯔ ꯇꯧꯕꯥ꯫",
+    "disconnect": "ꯗꯤꯁꯀꯅꯦꯛꯇ ꯇꯧꯕꯥ꯫",
+    "sync": "ꯍꯧꯖꯤꯛ ꯁꯤꯉ꯭ꯛ ꯇꯧꯕꯤꯌꯨ꯫",
+    "close": "ꯈꯨꯝꯖꯤꯟꯕ",
+    "reset": "ꯗꯤꯐꯣꯜꯇꯁꯤꯡꯗꯥ ꯔꯤꯁꯦꯠ ꯇꯧ꯫",
+    "back": "ꯃꯇꯨꯡ",
+    "continue": "ꯃꯈꯥ ꯆꯠꯊꯕ",
+    "all": "ꯄꯨꯝꯅꯃꯛ",
+    "retry": "ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯍꯣꯠꯅꯧ꯫",
+    "loading": "ꯂꯣꯗ ꯇꯧꯔꯤ...",
+    "resetDemo": "ꯗꯦꯃꯣ ꯗꯦꯇꯥ ꯔꯤꯁꯦꯠ ꯇꯧꯕꯥ꯫"
+  },
+  "shell": {
+    "searchPlaceholder": "ꯀꯔꯤꯒꯨꯝꯕꯥ ꯑꯃꯠꯇꯥ ꯊꯤꯖꯤꯜꯂꯨ...",
+    "settings": "ꯁꯦꯇꯤꯡꯁꯤꯡ꯫",
+    "language": "ꯂꯣꯜ",
+    "role": "ꯊꯧꯗꯥꯡ",
+    "greeting": {
+      "morning": "ꯈꯨꯔꯨꯝꯖꯔꯤ",
+      "afternoon": "ꯈꯨꯔꯨꯝꯖꯔꯤ",
+      "evening": "ꯈꯨꯔꯨꯝꯖꯔ"
+    },
+    "settingsItems": {
+      "company-profile": "ꯀꯝꯄꯦꯅꯤꯒꯤ ꯄ꯭ꯔꯣꯐꯥꯏꯜ꯫",
+      "configuration": "ꯀꯅꯐꯤꯒꯔꯦꯁꯟ ꯇꯧꯕꯥ꯫",
+      "fiscal-periods": "ꯁꯦꯅꯕꯥ ꯆꯍꯤꯒꯤ ꯃꯇꯃꯁꯤꯡ꯫",
+      "roles": "ꯊꯧꯗꯥꯡꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯌꯨꯖꯔꯁꯤꯡ꯫",
+      "integrations": "ꯏꯟꯇꯤꯒ꯭ꯔꯦꯁꯅꯁꯤꯡ꯫",
+      "notifications": "ꯅꯣꯇꯤꯐꯤꯀꯦꯁꯅꯁꯤꯡ ꯄꯤꯕꯥ꯫",
+      "audit-logs": "ꯑꯣꯗꯤꯠ ꯑꯃꯁꯨꯡ ꯂꯣꯒꯁꯤꯡ꯫",
+      "audit-trail": "ꯇꯦꯝꯄꯔ-ꯄ꯭ꯔꯨꯐ ꯑꯣꯗꯤꯠ ꯇ꯭ꯔꯦꯜ꯫",
+      "developer": "ꯗꯤꯕꯦꯂꯄꯔ ꯑꯃꯁꯨꯡ ꯑꯦ.ꯄꯤ.ꯑꯥꯏ"
+    },
+    "translatedLanguages": "ꯍꯟꯗꯣꯀꯄꯥ꯫",
+    "untranslatedLanguages": "ꯍꯟꯗꯣꯀꯄꯥ ꯐꯥꯑꯣꯕꯥ ꯏꯪꯂꯤꯁ꯫"
+  },
+  "status": {
+    "filed": "ꯐꯥꯏꯜ ꯇꯧꯈꯤ꯫",
+    "ready": "ꯐꯥꯏꯜ ꯇꯧꯅꯕꯥ ꯁꯦꯝ ꯁꯥꯔꯦ꯫",
+    "open": "ꯃꯇꯝ ꯍꯥꯡꯗꯣꯀꯄꯥ꯫",
+    "paid": "ꯁꯦꯜ ꯄꯤꯈ꯭ꯔꯦ",
+    "pending": "ꯄꯟꯗꯨꯅ ꯂꯩꯕ",
+    "accepted": "ꯌꯥꯕꯥ ꯉꯃꯈꯤ꯫",
+    "delivered": "ꯄꯤꯈ꯭ꯔꯕ",
+    "rejected": "ꯔꯤꯖꯦꯛꯇ ꯇꯧꯈꯤ꯫",
+    "pdf-sent": "ꯄꯤ.ꯗꯤ.ꯑꯦꯐ.ꯅꯥ ꯊꯥꯔꯀꯈꯤ꯫",
+    "not-sent": "ꯊꯥꯔꯀꯄꯥ ꯅꯠꯇꯦ꯫",
+    "matched": "ꯃꯦꯆ ꯇꯧꯈꯤ꯫",
+    "mismatch": "ꯃꯤꯁꯃꯦꯠ꯫",
+    "missing-supplier": "ꯁꯞꯂꯥꯏꯌꯔꯅꯥ ꯔꯤꯄꯣꯔꯠ ꯇꯧꯈꯤꯗꯦ꯫",
+    "missing-books": "ꯂꯥꯏꯔꯤꯀꯁꯤꯡꯗꯥ ꯌꯥꯑꯣꯗꯕꯥ꯫",
+    "deferred": "ꯊꯦꯡꯊꯈꯤ꯫",
+    "deducted": "ꯂꯧꯊꯣꯀꯈꯤꯕꯥ꯫",
+    "remitted": "ꯔꯤꯃꯤꯠ ꯇꯧꯈ꯭ꯔꯦ꯫",
+    "certified": "ꯁꯔꯇꯤꯐꯥꯏ ꯇꯧꯔꯕꯥ꯫",
+    "to-report": "ꯔꯤꯄꯣꯔꯠ ꯇꯧꯅꯕꯥ꯫",
+    "reported": "ꯔꯤꯄꯣꯔꯠ ꯇꯧꯔꯀꯈꯤ꯫",
+    "accounted": "ꯑꯦꯀꯥꯎꯟꯇ ꯇꯧꯈꯤ꯫",
+    "overdue": "ꯃꯇꯝ ꯂꯣꯏꯔꯕꯥ꯫"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ꯐꯥꯏꯜ ꯇꯧꯅꯕꯥ ꯁꯦꯝ ꯁꯥꯔꯦ꯫",
+      "liabilityDue": "ꯂꯥꯏꯑꯦꯕꯤꯂꯤꯇꯤ ꯄꯤꯒꯗꯕꯥ꯫",
+      "paidThisYear": "ꯆꯍꯤ ꯑꯁꯤꯗꯥ ꯄꯦꯃꯦꯟꯇ ꯇꯧꯈꯤ꯫",
+      "nextDeadline": "ꯃꯊꯪꯒꯤ ꯑꯔꯣꯏꯕꯥ ꯃꯇꯝ꯫",
+      "noneOverdue": "ꯃꯇꯝ ꯂꯣꯏꯔꯕꯥ ꯑꯃꯠꯇꯥ ꯂꯩꯇꯦ꯫",
+      "overdue": "{{count}} ꯃꯇꯝ ꯂꯣꯏꯔꯦ꯫"
+    },
+    "filter": {
+      "ready": "ꯐꯥꯏꯜ ꯇꯧꯅꯕꯥ ꯁꯦꯝ ꯁꯥꯔꯦ꯫",
+      "open": "ꯍꯥꯡꯗꯣꯛꯄ",
+      "filed": "ꯐꯥꯏꯜ ꯇꯧꯈꯤ꯫"
+    },
+    "col": {
+      "period": "ꯃꯇꯝ",
+      "authority": "ꯑꯉꯝꯕ ꯃꯤꯑꯣꯏ",
+      "rate": "ꯃꯃꯜ",
+      "due": "ꯑꯋꯥꯠꯄ",
+      "netPayable": "ꯅꯦꯠ ꯄꯦꯃꯦꯟꯇ ꯇꯧꯕꯥ꯫",
+      "status": "ꯊꯥꯛ",
+      "ack": "ꯊꯥꯒꯠꯄꯥ ꯐꯣꯡꯗꯣꯀꯄꯥ꯫"
+    },
+    "file": "ꯀꯔꯤꯒꯨꯝꯕ ꯑꯃꯒꯤ ꯏ ꯄꯥꯎ ꯈꯣꯝꯖꯤꯟꯗꯨꯅ ꯊꯝꯕ",
+    "view": "ꯌꯦꯡꯕ",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "ꯖꯨꯔꯤꯁꯗꯤꯛꯁꯟ ꯂꯣꯗ ꯇꯧꯔꯤ...",
+    "nothingToFile": "ꯔꯤꯇꯔꯟ ꯑꯃꯠꯇꯥ ꯐꯥꯏꯜ ꯇꯧꯕꯥ ꯉꯥꯏꯗ꯭ꯔꯤ — ꯀ꯭ꯂꯣꯖ ꯇꯧꯔꯕꯥ ꯃꯇꯝ ꯄꯨꯝꯅꯃꯛ ꯄꯤꯁꯤꯅꯈ꯭ꯔꯦ꯫",
+    "fileNext": "ꯃꯊꯪꯒꯤ ꯐꯥꯏꯜ: {{name}}",
+    "steps": {
+      "review": "ꯍꯪꯒꯠꯅ ꯌꯦꯡꯕ",
+      "validate": "ꯚꯦꯂꯤꯗꯦꯠ ꯇꯧꯕꯥ꯫",
+      "declare": "ꯂꯥꯎꯊꯣꯀꯄꯥ & ꯄꯤꯁꯤꯅꯕꯥ꯫",
+      "ack": "ꯊꯥꯒꯠꯄꯥ ꯐꯣꯡꯗꯣꯀꯄꯥ꯫"
+    },
+    "runValidation": "ꯚꯦꯂꯤꯗꯦꯁꯟ ꯆꯠꯊꯕꯥ꯫",
+    "validating": "ꯚꯦꯂꯤꯗꯦꯠ ꯇꯧꯔꯤꯕꯥ...",
+    "submit": "{{form}} ꯊꯥꯕꯥ ꯌꯥꯏ꯫",
+    "submitting": "ꯁꯕꯃꯤꯠ ꯇꯧꯔꯤꯕꯥ...",
+    "declaration": "ꯔꯤꯇꯔꯟ ꯑꯁꯤꯗꯥ ꯌꯥꯑꯣꯔꯤꯕꯥ ꯏꯅꯐꯣꯔꯃꯦꯁꯟ ꯑꯁꯤ ꯑꯆꯨꯝꯕꯥ ꯑꯃꯁꯨꯡ ꯃꯄꯨꯡ ꯐꯥꯕꯥ ꯑꯣꯏ ꯍꯥꯌꯅꯥ ꯑꯩꯅꯥ ꯂꯥꯎꯊꯣꯛꯂꯤ, ꯑꯃꯁꯨꯡ ꯃꯁꯤ {{authority}}ꯗꯥ ꯄꯤꯁꯤꯅꯕꯒꯤ ꯑꯣꯊꯣꯔꯥꯏꯖ ꯑꯣꯏꯔꯦ ꯍꯥꯌꯅꯥ ꯑꯩꯅꯥ ꯂꯥꯎꯊꯣꯀꯏ꯫",
+    "netAmount": "ꯅꯦꯠ ꯑꯦꯃꯥꯎꯟꯇ꯫",
+    "submitted": "ꯄꯤꯁꯤꯅꯈ꯭ꯔꯦ꯫",
+    "filedOn": "ꯐꯥꯏꯜ ꯇꯧꯔꯕꯥ ꯃꯇꯨꯡꯗꯥ꯫",
+    "regime": {
+      "authority": "ꯑꯉꯝꯕ ꯃꯤꯑꯣꯏ",
+      "channel": "ꯐꯥꯏꯂꯤꯡ ꯆꯦꯅꯦꯜ꯫",
+      "return": "ꯍꯜꯂꯛꯄ",
+      "due": "ꯑꯋꯥꯠꯄ",
+      "standardRate": "ꯁ꯭ꯇꯦꯟꯗꯔꯗ ꯔꯦꯠ꯫",
+      "threshold": "ꯔꯦꯖꯤꯁ꯭ꯠꯔꯦꯁꯅꯒꯤ ꯊ꯭ꯔꯦꯁꯍꯣꯜꯗ꯫"
+    },
+    "demoNote": "ꯕꯤꯜꯇ-ꯏꯟ ꯃꯣꯛ ꯇꯦꯛꯁ ꯑꯦ.ꯄꯤ.ꯑꯥꯏ.ꯗꯒꯤ ꯗꯦꯃꯣ ꯗꯦꯇꯥ — ꯐꯥꯏꯂꯤꯡ ꯑꯃꯁꯨꯡ ꯄꯦꯃꯦꯟꯇꯁꯤꯡ ꯑꯁꯤ ꯁꯤꯃꯨꯂꯦꯠ ꯇꯧꯏ ꯑꯃꯁꯨꯡ ꯀꯔꯤꯒꯨꯝꯕꯥ ꯑꯃꯠꯇꯥ ꯇꯦꯛꯁ ꯑꯣꯊꯣꯔꯤꯇꯤ ꯑꯃꯗꯥ ꯊꯥꯗꯦ꯫"
+  },
+  "fx": {
+    "title": "ꯐꯣꯔꯦꯟ ꯀꯔꯔꯦꯟꯁꯤꯒꯤ ꯃꯇꯥꯡꯗꯥ ꯋꯥꯐꯝ ꯊꯃꯈꯤ꯫",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "ꯑꯅꯧꯕꯥ ꯑꯦꯐ.ꯑꯦꯛꯁ.ꯏꯅꯚꯣꯏꯁ / ꯕꯤꯜ꯫",
+    "kpi": {
+      "netExposure": "ꯅꯦꯠ ꯑꯦꯐ.ꯑꯦꯛꯁ.ꯀꯤ ꯑꯦꯛꯁꯄꯣꯖꯔ꯫",
+      "openDocs": "{{count}} ꯗꯣꯛꯌꯨꯃꯦꯟꯇꯁꯤꯡ ꯍꯥꯡꯗꯣꯀꯎ꯫",
+      "unrealized": "ꯑꯅꯔꯤꯑꯦꯂꯥꯏꯖ ꯇꯧꯔꯕꯥ ꯒꯦꯏꯟ / ꯂꯣꯁ꯫",
+      "postedSplit": "{{posted}} ꯄꯣꯁ꯭ꯠ ꯇꯧꯈ꯭ꯔꯦ · {{unposted}} ꯍꯧꯖꯤꯛ ꯐꯥꯑꯣꯕꯥ ꯇꯧꯗ꯭ꯔꯤ",
+      "realized": "ꯆꯍꯤ ꯑꯁꯤꯗꯥ ꯔꯤꯑꯦꯂꯥꯏꯖ ꯇꯧꯈꯤ꯫",
+      "lastReval": "ꯑꯔꯣꯏꯕꯥ ꯑꯣꯏꯅꯥ ꯔꯤꯚꯦꯜꯌꯨ ꯇꯧꯕꯥ꯫",
+      "never": "ꯑꯣꯏꯊꯣꯛꯂꯔꯣꯏꯗꯕ",
+      "suggested": "ꯁꯖꯦꯁ꯭ꯠ ꯇꯧꯔꯕꯥ: {{date}}"
+    },
+    "view": {
+      "open": "ꯑꯣꯄꯟ ꯑꯥꯏꯇꯦꯃꯁꯤꯡ꯫",
+      "settled": "ꯁꯦꯇꯜ ꯇꯧꯈꯤ꯫",
+      "revaluation": "ꯊꯥ ꯂꯣꯏꯔꯕꯥ ꯃꯇꯨꯡꯗꯥ ꯔꯤꯚꯦꯜꯌꯨ ꯇꯧꯕꯥ꯫",
+      "journal": "ꯑꯦꯐ.ꯑꯦꯛꯁ.ꯒꯤ ꯖꯔꯅꯦꯜ꯫"
+    },
+    "col": {
+      "document": "ꯆꯦ ꯆꯥꯡ",
+      "type": "ꯃꯈꯜ",
+      "openForeign": "ꯑꯣꯄꯟ (ꯃꯄꯥꯟ ꯂꯩꯕꯥꯛꯀꯤ) .",
+      "bookedNow": "ꯕꯨꯀꯤꯡ ꯇꯧꯈ꯭ꯔꯦ / ꯍꯧꯖꯤꯛ꯫",
+      "valueIn": "{{base}}ꯗꯥ ꯂꯩꯕꯥ ꯚꯦꯜꯌꯨ꯫",
+      "unrealized": "ꯑꯅꯔꯤꯑꯦꯂꯥꯏꯖ ꯇꯧꯔꯕꯥ꯫",
+      "status": "ꯊꯥꯛ",
+      "amount": "ꯁꯦꯟꯐꯝ",
+      "bookedRate": "ꯕꯨꯀꯤꯡ ꯇꯧꯔꯕꯥ ꯔꯦꯠ꯫",
+      "realized": "ꯈꯪꯂꯛꯄ"
+    },
+    "receivable": "ꯔꯤꯁꯤꯕꯦꯕꯜ ꯑꯣꯏꯕꯥ꯫",
+    "payable": "ꯄꯦꯃꯦꯟꯇ ꯇꯧꯒꯗꯕꯥ꯫",
+    "receive": "ꯐꯪꯕ",
+    "pay": "ꯁꯦ ꯄꯤꯕ",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "ꯁꯦꯇꯜ ꯇꯧꯈꯤ꯫",
+      "partial": "ꯄꯥꯔꯠ-ꯁꯦꯇꯜ ꯇꯧꯔꯕꯥ꯫",
+      "open": "ꯍꯥꯡꯗꯣꯛꯄ"
+    },
+    "demoNote": "ꯕꯤꯜꯇ-ꯏꯟ ꯃꯣꯛ ꯑꯦ.ꯄꯤ.ꯑꯥꯏ.ꯗꯒꯤ ꯗꯦꯃꯣ ꯗꯦꯇꯥ — ꯔꯦꯠꯁꯤꯡ ꯑꯁꯤ ꯁꯤꯃꯨꯂꯦꯠ ꯇꯧꯏ, ꯂꯥꯏꯕ ꯃꯥꯔꯀꯦꯠ ꯗꯦꯇꯥ ꯅꯠꯇꯦ꯫"
+  }
+}

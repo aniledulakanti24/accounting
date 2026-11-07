@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Tago-al-Tago",
+      "finance": "Financo",
+      "advanced": "Altnivela"
+    },
+    "mainMenu": "Ĉefa Menuo",
+    "short": {
+      "parties": "Partioj"
+    },
+    "sections": {
+      "dashboard": "Panelo",
+      "sales": "Vendoj",
+      "receivables": "Mono En",
+      "procurement": "Aĉetoj",
+      "payables": "Money Out",
+      "cashbank": "Kontantmono kaj Banko",
+      "expenses": "Elspezoj",
+      "tax": "Imposto",
+      "reports": "Raportoj",
+      "advanced-features": "Altnivelaj Trajtoj",
+      "parties": "Klientoj & Provizantoj",
+      "inventory": "Eroj",
+      "assets": "Fiksaj Aktivoj",
+      "masters": "Agordo & Agordo",
+      "business-tools": "Teamo & Iloj",
+      "party-tools": "Partiaj Iloj",
+      "item-tools": "Item Iloj",
+      "storage": "Dokumentoj",
+      "alerts": "Atentigoj",
+      "migration": "Migrado de datumoj"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Superrigardo",
+        "cash-flow": "Mona Fluo",
+        "tax-calendar": "Imposta Kalendaro"
+      },
+      "sales": {
+        "quotations": "Citaĵoj",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fakturo",
+        "delivery-challans": "Livero Challan",
+        "receipts": "Kvitanco",
+        "invoice-desk": "Fakturo-Skribo"
+      },
+      "receivables": {
+        "money-in-center": "Mono En Centro",
+        "receivables": "Riceveblaj",
+        "payments-received": "Pagoj Ricevitaj",
+        "overdue-collections": "Kolektoj & Rememorigiloj",
+        "credit-notes": "Kreditnotoj kaj Repagoj",
+        "sales-returns": "Vendaj Revenoj",
+        "customer-statements": "Deklaroj de Kliento",
+        "payment-links": "Pagaj Ligiloj"
+      },
+      "procurement": {
+        "purchase-center": "Aĉeta Centro",
+        "purchase-orders": "Aĉetaj Mendoj",
+        "goods-receipt": "Kvitanco de Varoj",
+        "purchase-invoices": "Aĉeto-Fakturoj",
+        "payment-out": "Pagoj Faritaj",
+        "returns-debit-notes": "Revenoj kaj Debetaj Notoj",
+        "bill-approvals": "Bill-Aproboj"
+      },
+      "payables": {
+        "bills": "Paga Centro",
+        "payments": "Pagoj de Provizantoj",
+        "workforce": "Laborforto",
+        "adjustments": "Alĝustigoj",
+        "bank-release": "Banka Liberigo"
+      },
+      "cashbank": {
+        "bank-accounts": "Miaj Kontoj",
+        "reconciliation": "Match Transakcioj",
+        "cash-petty": "Malgranda Kaso",
+        "contra": "Inter Kontoj",
+        "cheque-register": "Ĉekoj",
+        "foreign-currency": "Fremda Monero",
+        "bank-feeds": "Bankaj Fluoj",
+        "bank-rules": "Reguloj kaj Repaciĝo"
+      },
+      "expenses": {
+        "expense-center": "Ĉiuj Elspezoj",
+        "categories": "Spezaj Tipoj",
+        "automated-bills": "Ripetantaj Elspezoj",
+        "journal-vouchers": "Manlibroj",
+        "provisions": "Akvualaĵoj",
+        "write-offs": "Forigo",
+        "period-close": "Monato-Fino"
+      },
+      "tax": {
+        "gst-returns": "GST-Filigado",
+        "gst-filing-wizard": "⚡ Dosiero GSTR-3B",
+        "gst-reconciliation": "GST-Kongruo",
+        "e-invoicing": "E-Fakturoj",
+        "e-way-bills": "E-Vojaj Fakturoj",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Pagu Imposton",
+        "quarterly-compliance": "Konforma Kalendaro",
+        "ca-access": "CA Provizora Aliro",
+        "gst-from-books": "GST de Libroj"
+      },
+      "reports": {
+        "financial-statements": "Financaj Raportoj",
+        "books": "Transakciaj Libroj",
+        "gst-reports": "GST-raportoj",
+        "ar-ap": "Riceveblaj kontraŭ Pagoj",
+        "profitability": "Profito",
+        "period-comparatives": "Jara Komparo",
+        "budget-vs-actuals": "Buĝeta Spurilo",
+        "cashflow-projection": "Mona Prognozo",
+        "report-builder": "Propraj Raportoj",
+        "general-ledger": "Ĉeflibro",
+        "live-financials": "Viva Financoj",
+        "ai-analyst": "AI-Analizisto"
+      },
+      "advanced-features": {
+        "overview": "Superrigardo"
+      },
+      "parties": {
+        "all-parties": "Ĉiuj Partioj",
+        "customer-ledgers": "Klientoj",
+        "supplier-ledgers": "Provizantoj",
+        "shared-ledger": "Komuna Ĉeflibro",
+        "statements": "Deklaroj",
+        "reminders": "Rememorigiloj",
+        "documents": "Partiaj Dokumentoj",
+        "portal": "Partia Portalo",
+        "import": "Partia Importo",
+        "duplicate-merge": "Duobligi Kunfandi",
+        "gap-analysis": "Gap Analizo"
+      },
+      "inventory": {
+        "inventory-items": "Eroj",
+        "godowns": "Stokejoj",
+        "stock-movement": "Akcia Movado",
+        "item-pricing": "Prezoj",
+        "stock-valuation": "Akcia Taksado",
+        "reorder-alerts": "Reordigu Atentigojn",
+        "batch-serials": "Aro & Seria",
+        "barcode-labels": "Strekokodaj Etikedoj",
+        "item-import": "Item Importo",
+        "gap-analysis": "Gap Analizo"
+      },
+      "assets": {
+        "asset-register": "Listo de Valoraĵoj",
+        "depreciation": "Amortizo",
+        "disposal-revaluation": "Vendu aŭ Revalorigi"
+      },
+      "masters": {
+        "chart-of-accounts": "Listo de Kontoj",
+        "tax-masters": "Imposto-Krizoj",
+        "cost-centers": "Kostaj Centroj",
+        "voucher-types": "Transakciaj Tipoj",
+        "opening-balances": "Ekvilibroj",
+        "currencies": "Moneroj"
+      },
+      "business-tools": {
+        "staff-payroll": "Salajro",
+        "manage-users": "Uzanto-Aliro",
+        "online-orders": "Interretaj Mendoj",
+        "sms-marketing": "SMS Merkatado",
+        "accountant-hub": "Kontistoj kaj Subteno"
+      },
+      "party-tools": {
+        "documents": "Partiaj Dokumentoj",
+        "portal": "Partia Portalo",
+        "import": "Partia Importo",
+        "duplicate-merge": "Duobligi Kunfandi",
+        "gap-analysis": "Gap Analizo"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reordigu Atentigojn",
+        "batch-serials": "Aro & Seria",
+        "barcode-labels": "Strekokodaj Etikedoj",
+        "item-import": "Item Importo",
+        "gap-analysis": "Gap Analizo"
+      },
+      "storage": {
+        "client-storage": "Kliento Dosieroj",
+        "unifiedtree-storage": "Nuba Stokado"
+      },
+      "alerts": {
+        "accountant-alerts": "Atentigoj de Kontisto",
+        "compliance-alerts": "Konformaj Atentigoj",
+        "cash-risk-alerts": "Kontantmono kaj Risko-Atentigoj",
+        "ca-access": "CA Provizora Aliro"
+      },
+      "migration": {
+        "import": "Importi Datumojn",
+        "export": "Eksporti Datumojn",
+        "history": "Importi Historion",
+        "tally-import": "Importo de Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Aĉetoj kaj Pagoj",
+      "accountingSetup": "Kontada Agordo",
+      "dataDocuments": "Datumoj kaj Dokumentoj"
+    }
+  },
+  "common": {
+    "save": "Konservu Ŝanĝojn",
+    "cancel": "Nuligi",
+    "create": "Krei",
+    "edit": "Redakti",
+    "delete": "Forigi",
+    "search": "Serĉu",
+    "connect": "Konekti",
+    "configure": "Agordi",
+    "disconnect": "Malkonekti",
+    "sync": "Sinkronigi Nun",
+    "close": "Fermu",
+    "reset": "Restarigi al defaŭltoj",
+    "back": "Reen",
+    "continue": "Daŭrigu",
+    "all": "Ĉiuj",
+    "retry": "Reprovi",
+    "loading": "Ŝargante…",
+    "resetDemo": "Restarigi demo-datumojn"
+  },
+  "shell": {
+    "searchPlaceholder": "Serĉu ion ajn...",
+    "settings": "Agordoj",
+    "language": "Lingvo",
+    "role": "Rolo",
+    "greeting": {
+      "morning": "Bonan matenon",
+      "afternoon": "Bonan posttagmezon",
+      "evening": "Bonan vesperon"
+    },
+    "settingsItems": {
+      "company-profile": "Kompanio Profilo",
+      "configuration": "Agordo",
+      "fiscal-periods": "Fiskaj Periodoj",
+      "roles": "Roloj kaj Uzantoj",
+      "integrations": "Integriĝoj",
+      "notifications": "Sciigoj",
+      "audit-logs": "Revizio & Registroj",
+      "audit-trail": "Kontraŭmanipula Aŭditora Vojo",
+      "developer": "Programisto kaj API"
+    },
+    "translatedLanguages": "Tradukita",
+    "untranslatedLanguages": "la angla ĝis tradukite"
+  },
+  "status": {
+    "filed": "Arkivigita",
+    "ready": "Preta por arkivi",
+    "open": "Periodo malfermita",
+    "paid": "Pagita",
+    "pending": "Pritraktata",
+    "accepted": "Akceptita",
+    "delivered": "Liverita",
+    "rejected": "Malakceptita",
+    "pdf-sent": "PDF sendita",
+    "not-sent": "Ne sendita",
+    "matched": "Kongruis",
+    "mismatch": "Miskongruo",
+    "missing-supplier": "Ne raportita de provizanto",
+    "missing-books": "Mankas en libroj",
+    "deferred": "Prokrastita",
+    "deducted": "Deduktita",
+    "remitted": "Sendita",
+    "certified": "Atestita",
+    "to-report": "Raporti",
+    "reported": "Raportita",
+    "accounted": "Enkalkulita",
+    "overdue": "Malfrua"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Preta por arkivi",
+      "liabilityDue": "Respondeco ŝuldata",
+      "paidThisYear": "Pagita ĉi-jare",
+      "nextDeadline": "Sekva limdato",
+      "noneOverdue": "Neniu malfruis",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Preta por arkivi",
+      "open": "Malfermu",
+      "filed": "Arkivigita"
+    },
+    "col": {
+      "period": "Periodo",
+      "authority": "Aŭtoritato",
+      "rate": "Takso",
+      "due": "Pro",
+      "netPayable": "Rete pagenda",
+      "status": "Statuso",
+      "ack": "Agnosko"
+    },
+    "file": "Dosiero",
+    "view": "Vido",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ŝarĝante jurisdikcion...",
+    "nothingToFile": "Neniuj revenoj atendas esti arkivitaj - ĉiuj fermitaj periodoj estas senditaj.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Recenzo",
+      "validate": "Valigi",
+      "declare": "Deklaru kaj submeti",
+      "ack": "Agnosko"
+    },
+    "runValidation": "Kuru validigon",
+    "validating": "Validigante…",
+    "submit": "Submit {{form}}",
+    "submitting": "Sendante…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Neta kvanto",
+    "submitted": "Submetita",
+    "filedOn": "Enarkivigita sur",
+    "regime": {
+      "authority": "Aŭtoritato",
+      "channel": "Dosierokanalo",
+      "return": "Revenu",
+      "due": "Pro",
+      "standardRate": "Norma tarifo",
+      "threshold": "Registra sojlo"
+    },
+    "demoNote": "Demo-datumoj de la enkonstruita falsa imposta API — dosieroj kaj pagoj estas simulitaj kaj nenio estas sendita al imposta aŭtoritato."
+  },
+  "fx": {
+    "title": "Fremda Monero",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Nova FX-fakturo / fakturo",
+    "kpi": {
+      "netExposure": "Reta FX-ekspozicio",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Nerealigita gajno / perdo",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Realigita ĉi-jare",
+      "lastReval": "Lasta revalorigo",
+      "never": "Neniam",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Malfermu erojn",
+      "settled": "Ekloĝis",
+      "revaluation": "Revalorigo de la fino de la monato",
+      "journal": "FX-ĵurnalo"
+    },
+    "col": {
+      "document": "Dokumento",
+      "type": "Tajpu",
+      "openForeign": "Malferma (fremda)",
+      "bookedNow": "Rezervita / nun",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Nerealigita",
+      "status": "Statuso",
+      "amount": "Kvanto",
+      "bookedRate": "Rezervita tarifo",
+      "realized": "Realigita"
+    },
+    "receivable": "Ricevebla",
+    "payable": "Pagebla",
+    "receive": "Ricevu",
+    "pay": "Pagu",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Ekloĝis",
+      "partial": "Parte aranĝita",
+      "open": "Malfermu"
+    },
+    "demoNote": "Demo-datumoj de la enkonstruita imita API - tarifoj estas simulitaj, ne vivaj merkataj datumoj."
+  }
+}

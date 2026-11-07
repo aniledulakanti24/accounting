@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Siku hadi Siku",
+      "finance": "Fedha",
+      "advanced": "Advanced"
+    },
+    "mainMenu": "Menyu kuu",
+    "short": {
+      "parties": "Vyama"
+    },
+    "sections": {
+      "dashboard": "Dashibodi",
+      "sales": "Mauzo",
+      "receivables": "Pesa Ndani",
+      "procurement": "Ununuzi",
+      "payables": "Pesa nje",
+      "cashbank": "Fedha na Benki",
+      "expenses": "Gharama",
+      "tax": "Kodi",
+      "reports": "Ripoti",
+      "advanced-features": "Vipengele vya Juu",
+      "parties": "Wateja na Wasambazaji",
+      "inventory": "Vipengee",
+      "assets": "Mali Zisizohamishika",
+      "masters": "Kuweka & Configuration",
+      "business-tools": "Timu na Zana",
+      "party-tools": "Zana za Chama",
+      "item-tools": "Zana za Kipengee",
+      "storage": "Nyaraka",
+      "alerts": "Tahadhari",
+      "migration": "Uhamiaji wa Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Muhtasari",
+        "cash-flow": "Mtiririko wa Fedha",
+        "tax-calendar": "Kalenda ya Ushuru"
+      },
+      "sales": {
+        "quotations": "Nukuu",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Ankara",
+        "delivery-challans": "Uwasilishaji Challan",
+        "receipts": "Risiti",
+        "invoice-desk": "Dawati la ankara"
+      },
+      "receivables": {
+        "money-in-center": "Pesa Katika Kituo",
+        "receivables": "Zinazopokelewa",
+        "payments-received": "Malipo Yamepokelewa",
+        "overdue-collections": "Mikusanyiko na Vikumbusho",
+        "credit-notes": "Vidokezo vya Mikopo na Urejeshaji wa Pesa",
+        "sales-returns": "Uuzaji unarudi",
+        "customer-statements": "Taarifa za Wateja",
+        "payment-links": "Viungo vya Malipo"
+      },
+      "procurement": {
+        "purchase-center": "Kituo cha Ununuzi",
+        "purchase-orders": "Maagizo ya Ununuzi",
+        "goods-receipt": "Risiti ya Bidhaa",
+        "purchase-invoices": "Nunua ankara",
+        "payment-out": "Malipo Yamefanywa",
+        "returns-debit-notes": "Vidokezo vya Kurejesha na Debit",
+        "bill-approvals": "Idhini za Bili"
+      },
+      "payables": {
+        "bills": "Kituo cha Malipo",
+        "payments": "Malipo ya Wasambazaji",
+        "workforce": "Nguvu kazi",
+        "adjustments": "Marekebisho",
+        "bank-release": "Kutolewa kwa Benki"
+      },
+      "cashbank": {
+        "bank-accounts": "Akaunti Zangu",
+        "reconciliation": "Miamala ya Kulinganisha",
+        "cash-petty": "Pesa ndogo",
+        "contra": "Kati ya Akaunti",
+        "cheque-register": "Hundi",
+        "foreign-currency": "Sarafu ya Kigeni",
+        "bank-feeds": "Milisho ya Benki",
+        "bank-rules": "Sheria na Upatanisho"
+      },
+      "expenses": {
+        "expense-center": "Gharama Zote",
+        "categories": "Aina za Gharama",
+        "automated-bills": "Gharama za Mara kwa Mara",
+        "journal-vouchers": "Maingizo ya Mwongozo",
+        "provisions": "Mapato",
+        "write-offs": "Kuandika-off",
+        "period-close": "Mwezi-Mwisho"
+      },
+      "tax": {
+        "gst-returns": "Uwasilishaji wa GST",
+        "gst-filing-wizard": "⚡ Faili ya GSTR-3B",
+        "gst-reconciliation": "Ulinganisho wa GST",
+        "e-invoicing": "ankara za kielektroniki",
+        "e-way-bills": "Bili za Njia ya Mtandao",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Lipa Kodi",
+        "quarterly-compliance": "Kalenda ya Kuzingatia",
+        "ca-access": "Ufikiaji wa Muda wa CA",
+        "gst-from-books": "GST kutoka Vitabu"
+      },
+      "reports": {
+        "financial-statements": "Ripoti za Fedha",
+        "books": "Vitabu vya Muamala",
+        "gst-reports": "Ripoti za GST",
+        "ar-ap": "Zinazopokelewa dhidi ya Zinazolipwa",
+        "profitability": "Faida",
+        "period-comparatives": "Ulinganisho wa Mwaka",
+        "budget-vs-actuals": "Mfuatiliaji wa Bajeti",
+        "cashflow-projection": "Utabiri wa Fedha",
+        "report-builder": "Ripoti Maalum",
+        "general-ledger": "Jenerali Leja",
+        "live-financials": "Maisha ya Fedha",
+        "ai-analyst": "Mchambuzi wa AI"
+      },
+      "advanced-features": {
+        "overview": "Muhtasari"
+      },
+      "parties": {
+        "all-parties": "Vyama Vyote",
+        "customer-ledgers": "Wateja",
+        "supplier-ledgers": "Wasambazaji",
+        "shared-ledger": "Leja ya Pamoja",
+        "statements": "Taarifa",
+        "reminders": "Vikumbusho",
+        "documents": "Nyaraka za Chama",
+        "portal": "Tovuti ya Chama",
+        "import": "Uingizaji wa Chama",
+        "duplicate-merge": "Unganisha Rudufu",
+        "gap-analysis": "Uchambuzi wa Pengo"
+      },
+      "inventory": {
+        "inventory-items": "Vipengee",
+        "godowns": "Maghala",
+        "stock-movement": "Mwendo wa Hisa",
+        "item-pricing": "Bei",
+        "stock-valuation": "Uthamini wa Hisa",
+        "reorder-alerts": "Panga Upya Arifa",
+        "batch-serials": "Kundi na Msururu",
+        "barcode-labels": "Lebo za Misimbo Mipau",
+        "item-import": "Ingiza Kipengee",
+        "gap-analysis": "Uchambuzi wa Pengo"
+      },
+      "assets": {
+        "asset-register": "Orodha ya Mali",
+        "depreciation": "Kushuka kwa thamani",
+        "disposal-revaluation": "Uza au Uthamini"
+      },
+      "masters": {
+        "chart-of-accounts": "Orodha ya Akaunti",
+        "tax-masters": "Viwango vya Ushuru",
+        "cost-centers": "Vituo vya Gharama",
+        "voucher-types": "Aina za Muamala",
+        "opening-balances": "Kuanzia Mizani",
+        "currencies": "Sarafu"
+      },
+      "business-tools": {
+        "staff-payroll": "Mishahara",
+        "manage-users": "Ufikiaji wa Mtumiaji",
+        "online-orders": "Maagizo ya Mtandaoni",
+        "sms-marketing": "Uuzaji wa SMS",
+        "accountant-hub": "Wahasibu na Usaidizi"
+      },
+      "party-tools": {
+        "documents": "Nyaraka za Chama",
+        "portal": "Tovuti ya Chama",
+        "import": "Uingizaji wa Chama",
+        "duplicate-merge": "Unganisha Rudufu",
+        "gap-analysis": "Uchambuzi wa Pengo"
+      },
+      "item-tools": {
+        "reorder-alerts": "Panga Upya Arifa",
+        "batch-serials": "Kundi na Msururu",
+        "barcode-labels": "Lebo za Misimbo Mipau",
+        "item-import": "Ingiza Kipengee",
+        "gap-analysis": "Uchambuzi wa Pengo"
+      },
+      "storage": {
+        "client-storage": "Faili za Mteja",
+        "unifiedtree-storage": "Hifadhi ya Wingu"
+      },
+      "alerts": {
+        "accountant-alerts": "Tahadhari za Mhasibu",
+        "compliance-alerts": "Tahadhari za Uzingatiaji",
+        "cash-risk-alerts": "Tahadhari za Pesa na Hatari",
+        "ca-access": "Ufikiaji wa Muda wa CA"
+      },
+      "migration": {
+        "import": "Ingiza Data",
+        "export": "Hamisha Data",
+        "history": "Ingiza Historia",
+        "tally-import": "Ingiza kutoka Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ununuzi na Malipo",
+      "accountingSetup": "Mpangilio wa Uhasibu",
+      "dataDocuments": "Data & Nyaraka"
+    }
+  },
+  "common": {
+    "save": "Hifadhi Mabadiliko",
+    "cancel": "Ghairi",
+    "create": "Unda",
+    "edit": "Hariri",
+    "delete": "Futa",
+    "search": "Tafuta",
+    "connect": "Unganisha",
+    "configure": "Sanidi",
+    "disconnect": "Tenganisha",
+    "sync": "Sawazisha Sasa",
+    "close": "Funga",
+    "reset": "Weka upya kwa Chaguomsingi",
+    "back": "Nyuma",
+    "continue": "Endelea",
+    "all": "Wote",
+    "retry": "Jaribu tena",
+    "loading": "Inapakia...",
+    "resetDemo": "Weka upya data ya onyesho"
+  },
+  "shell": {
+    "searchPlaceholder": "Tafuta chochote...",
+    "settings": "Mipangilio",
+    "language": "Lugha",
+    "role": "Jukumu",
+    "greeting": {
+      "morning": "Habari za asubuhi",
+      "afternoon": "Habari za mchana",
+      "evening": "Habari za jioni"
+    },
+    "settingsItems": {
+      "company-profile": "Wasifu wa Kampuni",
+      "configuration": "Usanidi",
+      "fiscal-periods": "Vipindi vya Fedha",
+      "roles": "Wajibu na Watumiaji",
+      "integrations": "Ushirikiano",
+      "notifications": "Arifa",
+      "audit-logs": "Ukaguzi & Kumbukumbu",
+      "audit-trail": "Njia ya Ukaguzi isiyoharibika",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "Imetafsiriwa",
+    "untranslatedLanguages": "Kiingereza hadi kutafsiriwa"
+  },
+  "status": {
+    "filed": "Imewasilishwa",
+    "ready": "Tayari kuwasilisha",
+    "open": "Kipindi wazi",
+    "paid": "Imelipwa",
+    "pending": "Inasubiri",
+    "accepted": "Imekubaliwa",
+    "delivered": "Imewasilishwa",
+    "rejected": "Imekataliwa",
+    "pdf-sent": "PDF imetumwa",
+    "not-sent": "Haijatumwa",
+    "matched": "Inalingana",
+    "mismatch": "Kutolingana",
+    "missing-supplier": "Haijaripotiwa na mtoa huduma",
+    "missing-books": "Inakosekana katika vitabu",
+    "deferred": "Imeahirishwa",
+    "deducted": "Imekatwa",
+    "remitted": "Imetumwa",
+    "certified": "Imethibitishwa",
+    "to-report": "Kuripoti",
+    "reported": "Imeripotiwa",
+    "accounted": "Imehesabiwa",
+    "overdue": "Imepitwa na wakati"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Tayari kuwasilisha",
+      "liabilityDue": "Dhima inadaiwa",
+      "paidThisYear": "Imelipwa mwaka huu",
+      "nextDeadline": "Tarehe ya mwisho inayofuata",
+      "noneOverdue": "Hakuna iliyochelewa",
+      "overdue": "{{count}} zimechelewa"
+    },
+    "filter": {
+      "ready": "Tayari kuwasilisha",
+      "open": "Fungua",
+      "filed": "Imewasilishwa"
+    },
+    "col": {
+      "period": "Kipindi",
+      "authority": "Mamlaka",
+      "rate": "Kiwango",
+      "due": "Inastahili",
+      "netPayable": "Malipo yote yanalipwa",
+      "status": "Hali",
+      "ack": "Shukrani"
+    },
+    "file": "Faili",
+    "view": "Tazama",
+    "fileForm": "Faili {{form}}",
+    "loadingJurisdiction": "Inapakia mamlaka...",
+    "nothingToFile": "Hakuna marejesho yanayosubiri kuwasilishwa - vipindi vyote vilivyofungwa vinawasilishwa.",
+    "fileNext": "Faili inayofuata: {{name}}",
+    "steps": {
+      "review": "Kagua",
+      "validate": "Thibitisha",
+      "declare": "Tangaza na uwasilishe",
+      "ack": "Shukrani"
+    },
+    "runValidation": "Endesha uthibitishaji",
+    "validating": "Inathibitisha...",
+    "submit": "Wasilisha {{form}}",
+    "submitting": "Inawasilisha...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Kiasi halisi",
+    "submitted": "Imewasilishwa",
+    "filedOn": "Imewashwa",
+    "regime": {
+      "authority": "Mamlaka",
+      "channel": "Inafungua kituo",
+      "return": "Rudi",
+      "due": "Inastahili",
+      "standardRate": "Kiwango cha kawaida",
+      "threshold": "Kiwango cha usajili"
+    },
+    "demoNote": "Data ya onyesho kutoka kwa API ya kodi ya mock iliyojengewa ndani - faili na malipo huigwa na hakuna kitu kinachotumwa kwa mamlaka ya kodi."
+  },
+  "fx": {
+    "title": "Sarafu ya Kigeni",
+    "subtitle": "Sarafu ya msingi {{base}} · viwango elekezi vya soko la kejeli",
+    "newDoc": "Ankara / bili mpya ya FX",
+    "kpi": {
+      "netExposure": "Mfichuo wa jumla wa FX",
+      "openDocs": "Hati {{count}} wazi",
+      "unrealized": "Faida / hasara isiyoweza kufikiwa",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Imetambuliwa mwaka huu",
+      "lastReval": "Tathmini ya mwisho",
+      "never": "Kamwe",
+      "suggested": "Imependekezwa: {{date}}"
+    },
+    "view": {
+      "open": "Fungua vitu",
+      "settled": "Imetulia",
+      "revaluation": "Tathmini ya mwisho wa mwezi",
+      "journal": "Jarida la FX"
+    },
+    "col": {
+      "document": "Hati",
+      "type": "Aina",
+      "openForeign": "Fungua (kigeni)",
+      "bookedNow": "Imehifadhiwa / sasa",
+      "valueIn": "Thamani katika {{base}}",
+      "unrealized": "Haijatekelezwa",
+      "status": "Hali",
+      "amount": "Kiasi",
+      "bookedRate": "Kiwango kilichowekwa",
+      "realized": "Imetambuliwa"
+    },
+    "receivable": "Inaweza kupokelewa",
+    "payable": "Inalipwa",
+    "receive": "Pokea",
+    "pay": "Lipa",
+    "netIn": "Wavu katika {{base}}",
+    "state": {
+      "settled": "Imetulia",
+      "partial": "Sehemu ya kukaa",
+      "open": "Fungua"
+    },
+    "demoNote": "Data ya onyesho kutoka kwa API ya dhihaka iliyojengewa ndani - viwango vinaigwa, si data ya soko la moja kwa moja."
+  }
+}

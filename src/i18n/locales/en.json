@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Day-to-Day",
+      "finance": "Finance",
+      "advanced": "Advanced"
+    },
+    "mainMenu": "Main Menu",
+    "short": {
+      "parties": "Parties"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Sales",
+      "receivables": "Money In",
+      "procurement": "Purchases",
+      "payables": "Money Out",
+      "cashbank": "Cash & Bank",
+      "expenses": "Expenses",
+      "tax": "Tax",
+      "reports": "Reports",
+      "advanced-features": "Advanced Features",
+      "parties": "Customers & Suppliers",
+      "inventory": "Items",
+      "assets": "Fixed Assets",
+      "masters": "Setup & Configuration",
+      "business-tools": "Team & Tools",
+      "party-tools": "Party Tools",
+      "item-tools": "Item Tools",
+      "storage": "Documents",
+      "alerts": "Alerts",
+      "migration": "Data Migration"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Overview",
+        "cash-flow": "Cash Flow",
+        "tax-calendar": "Tax Calendar"
+      },
+      "sales": {
+        "quotations": "Quotations",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Delivery Challan",
+        "receipts": "Receipt",
+        "invoice-desk": "Invoice Desk"
+      },
+      "receivables": {
+        "money-in-center": "Money In Center",
+        "receivables": "Receivables",
+        "payments-received": "Payments Received",
+        "overdue-collections": "Collections & Reminders",
+        "credit-notes": "Credit Notes & Refunds",
+        "sales-returns": "Sales Returns",
+        "customer-statements": "Customer Statements",
+        "payment-links": "Payment Links"
+      },
+      "procurement": {
+        "purchase-center": "Purchase Center",
+        "purchase-orders": "Purchase Orders",
+        "goods-receipt": "Goods Receipt",
+        "purchase-invoices": "Purchase Invoices",
+        "payment-out": "Payments Made",
+        "returns-debit-notes": "Returns & Debit Notes",
+        "bill-approvals": "Bill Approvals"
+      },
+      "payables": {
+        "bills": "Pay Center",
+        "payments": "Supplier Payments",
+        "workforce": "Workforce",
+        "adjustments": "Adjustments",
+        "bank-release": "Bank Release"
+      },
+      "cashbank": {
+        "bank-accounts": "My Accounts",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Petty Cash",
+        "contra": "Between Accounts",
+        "cheque-register": "Cheques",
+        "foreign-currency": "Foreign Currency",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Rules & Reconciliation"
+      },
+      "expenses": {
+        "expense-center": "All Expenses",
+        "categories": "Expense Types",
+        "automated-bills": "Recurring Expenses",
+        "journal-vouchers": "Manual Entries",
+        "provisions": "Accruals",
+        "write-offs": "Write-offs",
+        "period-close": "Month-End"
+      },
+      "tax": {
+        "gst-returns": "GST Filing",
+        "gst-filing-wizard": "⚡ File GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-Invoices",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Pay Tax",
+        "quarterly-compliance": "Compliance Calendar",
+        "ca-access": "CA Temporary Access",
+        "gst-from-books": "GST from Books"
+      },
+      "reports": {
+        "financial-statements": "Financial Reports",
+        "books": "Transaction Books",
+        "gst-reports": "GST Reports",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Profitability",
+        "period-comparatives": "Year Comparison",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Cash Forecast",
+        "report-builder": "Custom Reports",
+        "general-ledger": "General Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Overview"
+      },
+      "parties": {
+        "all-parties": "All Parties",
+        "customer-ledgers": "Customers",
+        "supplier-ledgers": "Suppliers",
+        "shared-ledger": "Shared Ledger",
+        "statements": "Statements",
+        "reminders": "Reminders",
+        "documents": "Party Documents",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "inventory": {
+        "inventory-items": "Items",
+        "godowns": "Warehouses",
+        "stock-movement": "Stock Movement",
+        "item-pricing": "Pricing",
+        "stock-valuation": "Stock Valuation",
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Gap Analysis"
+      },
+      "assets": {
+        "asset-register": "Asset List",
+        "depreciation": "Depreciation",
+        "disposal-revaluation": "Sell or Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Accounts List",
+        "tax-masters": "Tax Rates",
+        "cost-centers": "Cost Centers",
+        "voucher-types": "Transaction Types",
+        "opening-balances": "Starting Balances",
+        "currencies": "Currencies"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll",
+        "manage-users": "User Access",
+        "online-orders": "Online Orders",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Party Documents",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Gap Analysis"
+      },
+      "storage": {
+        "client-storage": "Client Files",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Accountant Alerts",
+        "compliance-alerts": "Compliance Alerts",
+        "cash-risk-alerts": "Cash & Risk Alerts",
+        "ca-access": "CA Temporary Access"
+      },
+      "migration": {
+        "import": "Import Data",
+        "export": "Export Data",
+        "history": "Import History",
+        "tally-import": "Import from Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Purchases & Payments",
+      "accountingSetup": "Accounting Setup",
+      "dataDocuments": "Data & Documents"
+    }
+  },
+  "common": {
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "connect": "Connect",
+    "configure": "Configure",
+    "disconnect": "Disconnect",
+    "sync": "Sync Now",
+    "close": "Close",
+    "reset": "Reset to Defaults",
+    "back": "Back",
+    "continue": "Continue",
+    "all": "All",
+    "retry": "Retry",
+    "loading": "Loading…",
+    "resetDemo": "Reset demo data"
+  },
+  "shell": {
+    "searchPlaceholder": "Search anything…",
+    "settings": "Settings",
+    "language": "Language",
+    "role": "Role",
+    "greeting": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening"
+    },
+    "settingsItems": {
+      "company-profile": "Company Profile",
+      "configuration": "Configuration",
+      "fiscal-periods": "Fiscal Periods",
+      "roles": "Roles & Users",
+      "integrations": "Integrations",
+      "notifications": "Notifications",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "Translated",
+    "untranslatedLanguages": "English until translated"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Ready to file",
+    "open": "Period open",
+    "paid": "Paid",
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "delivered": "Delivered",
+    "rejected": "Rejected",
+    "pdf-sent": "PDF sent",
+    "not-sent": "Not sent",
+    "matched": "Matched",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Not reported by supplier",
+    "missing-books": "Missing in books",
+    "deferred": "Deferred",
+    "deducted": "Deducted",
+    "remitted": "Remitted",
+    "certified": "Certified",
+    "to-report": "To report",
+    "reported": "Reported",
+    "accounted": "Accounted",
+    "overdue": "Overdue"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Ready to file",
+      "liabilityDue": "Liability due",
+      "paidThisYear": "Paid this year",
+      "nextDeadline": "Next deadline",
+      "noneOverdue": "None overdue",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Ready to file",
+      "open": "Open",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "Period",
+      "authority": "Authority",
+      "rate": "Rate",
+      "due": "Due",
+      "netPayable": "Net payable",
+      "status": "Status",
+      "ack": "Acknowledgement"
+    },
+    "file": "File",
+    "view": "View",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Loading jurisdiction…",
+    "nothingToFile": "No returns are waiting to be filed — all closed periods are submitted.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Review",
+      "validate": "Validate",
+      "declare": "Declare & submit",
+      "ack": "Acknowledgement"
+    },
+    "runValidation": "Run validation",
+    "validating": "Validating…",
+    "submit": "Submit {{form}}",
+    "submitting": "Submitting…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Net amount",
+    "submitted": "Submitted",
+    "filedOn": "Filed on",
+    "regime": {
+      "authority": "Authority",
+      "channel": "Filing channel",
+      "return": "Return",
+      "due": "Due",
+      "standardRate": "Standard rate",
+      "threshold": "Registration threshold"
+    },
+    "demoNote": "Demo data from the built-in mock tax API — filings and payments are simulated and nothing is sent to a tax authority."
+  },
+  "fx": {
+    "title": "Foreign Currency",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "New FX invoice / bill",
+    "kpi": {
+      "netExposure": "Net FX exposure",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Unrealized gain / loss",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Realized this year",
+      "lastReval": "Last revaluation",
+      "never": "Never",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Open items",
+      "settled": "Settled",
+      "revaluation": "Month-end revaluation",
+      "journal": "FX journal"
+    },
+    "col": {
+      "document": "Document",
+      "type": "Type",
+      "openForeign": "Open (foreign)",
+      "bookedNow": "Booked / now",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Unrealized",
+      "status": "Status",
+      "amount": "Amount",
+      "bookedRate": "Booked rate",
+      "realized": "Realized"
+    },
+    "receivable": "Receivable",
+    "payable": "Payable",
+    "receive": "Receive",
+    "pay": "Pay",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Settled",
+      "partial": "Part-settled",
+      "open": "Open"
+    },
+    "demoNote": "Demo data from the built-in mock API — rates are simulated, not live market data."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "День у день",
+      "finance": "Фінанси",
+      "advanced": "Просунутий"
+    },
+    "mainMenu": "Головне меню",
+    "short": {
+      "parties": "Вечірки"
+    },
+    "sections": {
+      "dashboard": "Приладова панель",
+      "sales": "Продажі",
+      "receivables": "Гроші в",
+      "procurement": "покупки",
+      "payables": "Money Out",
+      "cashbank": "Готівка та банк",
+      "expenses": "Витрати",
+      "tax": "податок",
+      "reports": "Звіти",
+      "advanced-features": "Розширені функції",
+      "parties": "Клієнти та постачальники",
+      "inventory": "Предмети",
+      "assets": "Основні засоби",
+      "masters": "Встановлення та налаштування",
+      "business-tools": "Команда та інструменти",
+      "party-tools": "Партійні інструменти",
+      "item-tools": "Інструменти предметів",
+      "storage": "Документи",
+      "alerts": "Оповіщення",
+      "migration": "Міграція даних"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Огляд",
+        "cash-flow": "Грошовий потік",
+        "tax-calendar": "Податковий календар"
+      },
+      "sales": {
+        "quotations": "Котирування",
+        "proforma-invoices": "PI",
+        "sales-invoices": "рахунок-фактура",
+        "delivery-challans": "Доставка Challan",
+        "receipts": "розписка",
+        "invoice-desk": "Рахунок-фактура"
+      },
+      "receivables": {
+        "money-in-center": "Гроші в центрі",
+        "receivables": "Дебіторська заборгованість",
+        "payments-received": "Платежі отримані",
+        "overdue-collections": "Колекції та нагадування",
+        "credit-notes": "Кредитні ноти та відшкодування",
+        "sales-returns": "Повернення від продажу",
+        "customer-statements": "Заяви клієнтів",
+        "payment-links": "Платіжні посилання"
+      },
+      "procurement": {
+        "purchase-center": "Центр закупівель",
+        "purchase-orders": "Замовлення на закупівлю",
+        "goods-receipt": "Товарний чек",
+        "purchase-invoices": "Рахунки-фактури",
+        "payment-out": "Здійснені платежі",
+        "returns-debit-notes": "Повернення та дебетові ноти",
+        "bill-approvals": "Схвалення законопроектів"
+      },
+      "payables": {
+        "bills": "Платіжний центр",
+        "payments": "Платежі постачальника",
+        "workforce": "Робоча сила",
+        "adjustments": "коригування",
+        "bank-release": "Реліз банку"
+      },
+      "cashbank": {
+        "bank-accounts": "Мої акаунти",
+        "reconciliation": "Збіг транзакцій",
+        "cash-petty": "Дрібна готівка",
+        "contra": "Між обліковими записами",
+        "cheque-register": "Чеки",
+        "foreign-currency": "Іноземна валюта",
+        "bank-feeds": "Банківські канали",
+        "bank-rules": "Правила та узгодження"
+      },
+      "expenses": {
+        "expense-center": "Усі витрати",
+        "categories": "Види витрат",
+        "automated-bills": "Поточні витрати",
+        "journal-vouchers": "Ручні записи",
+        "provisions": "Нарахування",
+        "write-offs": "Списання",
+        "period-close": "Кінець місяця"
+      },
+      "tax": {
+        "gst-returns": "Подання GST",
+        "gst-filing-wizard": "⚡ Файл GSTR-3B",
+        "gst-reconciliation": "Зіставлення GST",
+        "e-invoicing": "Електронні рахунки-фактури",
+        "e-way-bills": "Електронні накладні",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Платити податок",
+        "quarterly-compliance": "Календар відповідності",
+        "ca-access": "Тимчасовий доступ CA",
+        "gst-from-books": "Податок на товари та послуги з книг"
+      },
+      "reports": {
+        "financial-statements": "Фінансові звіти",
+        "books": "Книги операцій",
+        "gst-reports": "Звіти про податок на товари та послуги",
+        "ar-ap": "Дебіторська заборгованість проти кредиторської",
+        "profitability": "Рентабельність",
+        "period-comparatives": "Рік порівняння",
+        "budget-vs-actuals": "Трекер бюджету",
+        "cashflow-projection": "Прогноз готівки",
+        "report-builder": "Спеціальні звіти",
+        "general-ledger": "Головна книга",
+        "live-financials": "Живі фінанси",
+        "ai-analyst": "Аналітик ШІ"
+      },
+      "advanced-features": {
+        "overview": "Огляд"
+      },
+      "parties": {
+        "all-parties": "Усі сторони",
+        "customer-ledgers": "Клієнти",
+        "supplier-ledgers": "Постачальники",
+        "shared-ledger": "Спільна книга",
+        "statements": "Заяви",
+        "reminders": "Нагадування",
+        "documents": "Партійні документи",
+        "portal": "Партійний портал",
+        "import": "Партійний імпорт",
+        "duplicate-merge": "Злиття дублікатів",
+        "gap-analysis": "Аналіз прогалин"
+      },
+      "inventory": {
+        "inventory-items": "Предмети",
+        "godowns": "Склади",
+        "stock-movement": "Рух акцій",
+        "item-pricing": "Ціноутворення",
+        "stock-valuation": "Оцінка запасів",
+        "reorder-alerts": "Зміна порядку сповіщень",
+        "batch-serials": "Пакетний і серійний",
+        "barcode-labels": "Етикетки зі штрих-кодом",
+        "item-import": "Імпорт предмета",
+        "gap-analysis": "Аналіз прогалин"
+      },
+      "assets": {
+        "asset-register": "Список активів",
+        "depreciation": "Амортизація",
+        "disposal-revaluation": "Продати або переоцінити"
+      },
+      "masters": {
+        "chart-of-accounts": "Список облікових записів",
+        "tax-masters": "Податкові ставки",
+        "cost-centers": "Центри витрат",
+        "voucher-types": "Типи транзакцій",
+        "opening-balances": "Початкові баланси",
+        "currencies": "Валюти"
+      },
+      "business-tools": {
+        "staff-payroll": "Нарахування заробітної плати",
+        "manage-users": "Доступ користувача",
+        "online-orders": "Онлайн замовлення",
+        "sms-marketing": "СМС маркетинг",
+        "accountant-hub": "Бухгалтери та підтримка"
+      },
+      "party-tools": {
+        "documents": "Партійні документи",
+        "portal": "Партійний портал",
+        "import": "Партійний імпорт",
+        "duplicate-merge": "Злиття дублікатів",
+        "gap-analysis": "Аналіз прогалин"
+      },
+      "item-tools": {
+        "reorder-alerts": "Зміна порядку сповіщень",
+        "batch-serials": "Пакетний і серійний",
+        "barcode-labels": "Етикетки зі штрих-кодом",
+        "item-import": "Імпорт предмета",
+        "gap-analysis": "Аналіз прогалин"
+      },
+      "storage": {
+        "client-storage": "Файли клієнта",
+        "unifiedtree-storage": "Хмарне сховище"
+      },
+      "alerts": {
+        "accountant-alerts": "Сповіщення бухгалтера",
+        "compliance-alerts": "Сповіщення про відповідність",
+        "cash-risk-alerts": "Сповіщення про готівку та ризики",
+        "ca-access": "Тимчасовий доступ CA"
+      },
+      "migration": {
+        "import": "Імпорт даних",
+        "export": "Експорт даних",
+        "history": "Історія імпорту",
+        "tally-import": "Імпорт із Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Покупки та платежі",
+      "accountingSetup": "Налаштування бухгалтерського обліку",
+      "dataDocuments": "Дані та документи"
+    }
+  },
+  "common": {
+    "save": "Зберегти зміни",
+    "cancel": "Скасувати",
+    "create": "Створити",
+    "edit": "Редагувати",
+    "delete": "Видалити",
+    "search": "Пошук",
+    "connect": "Підключитися",
+    "configure": "Налаштувати",
+    "disconnect": "Відключити",
+    "sync": "Синхронізувати зараз",
+    "close": "Закрити",
+    "reset": "Скинути до значень за замовчуванням",
+    "back": "Назад",
+    "continue": "Продовжити",
+    "all": "всі",
+    "retry": "Повторіть спробу",
+    "loading": "Завантаження…",
+    "resetDemo": "Скинути демонстраційні дані"
+  },
+  "shell": {
+    "searchPlaceholder": "Шукати будь-що…",
+    "settings": "Налаштування",
+    "language": "Мова",
+    "role": "Роль",
+    "greeting": {
+      "morning": "доброго ранку",
+      "afternoon": "доброго дня",
+      "evening": "добрий вечір"
+    },
+    "settingsItems": {
+      "company-profile": "Профіль компанії",
+      "configuration": "Конфігурація",
+      "fiscal-periods": "Фінансові періоди",
+      "roles": "Ролі та користувачі",
+      "integrations": "Інтеграції",
+      "notifications": "Сповіщення",
+      "audit-logs": "Аудит і журнали",
+      "audit-trail": "Захищений від несправностей аудит",
+      "developer": "Розробник і API"
+    },
+    "translatedLanguages": "Переклав",
+    "untranslatedLanguages": "Англійська до перекладу"
+  },
+  "status": {
+    "filed": "Подано",
+    "ready": "Готовий до подання",
+    "open": "Період відкритий",
+    "paid": "Платний",
+    "pending": "В очікуванні",
+    "accepted": "прийнято",
+    "delivered": "Доставлено",
+    "rejected": "Відхилено",
+    "pdf-sent": "PDF надіслано",
+    "not-sent": "Не відправлено",
+    "matched": "Збіг",
+    "mismatch": "Невідповідність",
+    "missing-supplier": "Не повідомляє постачальник",
+    "missing-books": "Відсутня в книгах",
+    "deferred": "Відкладено",
+    "deducted": "Відраховано",
+    "remitted": "Перераховано",
+    "certified": "Сертифікований",
+    "to-report": "Доповідати",
+    "reported": "Повідомлено",
+    "accounted": "Враховано",
+    "overdue": "Прострочена"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Готовий до подання",
+      "liabilityDue": "Належна відповідальність",
+      "paidThisYear": "Оплачено в цьому році",
+      "nextDeadline": "Наступний термін",
+      "noneOverdue": "Жодного простроченого",
+      "overdue": "{{count}} прострочено"
+    },
+    "filter": {
+      "ready": "Готовий до подання",
+      "open": "ВІДЧИНЕНО",
+      "filed": "Подано"
+    },
+    "col": {
+      "period": "Крапка",
+      "authority": "Авторитет",
+      "rate": "Оцінка",
+      "due": "належний",
+      "netPayable": "Чиста заборгованість",
+      "status": "Статус",
+      "ack": "Подяка"
+    },
+    "file": "Файл",
+    "view": "Переглянути",
+    "fileForm": "Файл {{form}}",
+    "loadingJurisdiction": "Завантаження юрисдикції…",
+    "nothingToFile": "Жодна декларація не очікує на подачу — подано всі закриті періоди.",
+    "fileNext": "Наступний файл: {{name}}",
+    "steps": {
+      "review": "огляд",
+      "validate": "Перевірити",
+      "declare": "Заявіть і подайте",
+      "ack": "Подяка"
+    },
+    "runValidation": "Запустити перевірку",
+    "validating": "Перевірка…",
+    "submit": "Надіслати {{form}}",
+    "submitting": "Подання…",
+    "declaration": "Я заявляю, що інформація в цій декларації є правдивою та повною, і що я маю право надіслати її {{authority}}.",
+    "netAmount": "Сума нетто",
+    "submitted": "Надіслано",
+    "filedOn": "Подано на",
+    "regime": {
+      "authority": "Авторитет",
+      "channel": "Картотечний канал",
+      "return": "Повернення",
+      "due": "належний",
+      "standardRate": "Стандартна ставка",
+      "threshold": "Поріг реєстрації"
+    },
+    "demoNote": "Демонстраційні дані з вбудованого імітаційного податкового API — декларації та платежі імітуються, і нічого не надсилається до податкового органу."
+  },
+  "fx": {
+    "title": "Іноземна валюта",
+    "subtitle": "Базова валюта {{base}} · орієнтовні фіктивні ринкові курси",
+    "newDoc": "Новий FX рахунок-фактура / рахунок",
+    "kpi": {
+      "netExposure": "Чиста експозиція FX",
+      "openDocs": "{{count}} відкритих документів",
+      "unrealized": "Нереалізований прибуток/збиток",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Реалізовано в цьому році",
+      "lastReval": "Остання переоцінка",
+      "never": "Ніколи",
+      "suggested": "Запропоновано: {{date}}"
+    },
+    "view": {
+      "open": "Відкриті елементи",
+      "settled": "Оселилися",
+      "revaluation": "Переоцінка на кінець місяця",
+      "journal": "Журнал FX"
+    },
+    "col": {
+      "document": "документ",
+      "type": "Тип",
+      "openForeign": "Відкритий (іноземний)",
+      "bookedNow": "Заброньовано / зараз",
+      "valueIn": "Значення в {{base}}",
+      "unrealized": "Нереалізований",
+      "status": "Статус",
+      "amount": "Сума",
+      "bookedRate": "Замовлена ​​ціна",
+      "realized": "Реалізовано"
+    },
+    "receivable": "дебіторська заборгованість",
+    "payable": "Підлягає оплаті",
+    "receive": "Отримати",
+    "pay": "платити",
+    "netIn": "Нетто в {{base}}",
+    "state": {
+      "settled": "Оселилися",
+      "partial": "Частково заселений",
+      "open": "ВІДЧИНЕНО"
+    },
+    "demoNote": "Демонстраційні дані з вбудованого макету API — ставки моделюються, а не живі ринкові дані."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ghjornu à ghjornu",
+      "finance": "Finanza",
+      "advanced": "Avanzatu"
+    },
+    "mainMenu": "Menu principale",
+    "short": {
+      "parties": "Partiti"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Vendite",
+      "receivables": "Money In",
+      "procurement": "Acquisti",
+      "payables": "Money Out",
+      "cashbank": "Cash & Bank",
+      "expenses": "Spese",
+      "tax": "Tassa",
+      "reports": "Rapporti",
+      "advanced-features": "Funzioni Avanzate",
+      "parties": "Clienti è Fornitori",
+      "inventory": "Articuli",
+      "assets": "Assi fissi",
+      "masters": "Setup & Configuration",
+      "business-tools": "Squadra è Strumenti",
+      "party-tools": "Strumenti di partitu",
+      "item-tools": "Strumenti di l'articulu",
+      "storage": "Ducumenti",
+      "alerts": "Alerts",
+      "migration": "Migrazione di dati"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Panoramica",
+        "cash-flow": "Flussu di cassa",
+        "tax-calendar": "Calendario fiscale"
+      },
+      "sales": {
+        "quotations": "Citazioni",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fattura",
+        "delivery-challans": "Consegna Challan",
+        "receipts": "Ricevuta",
+        "invoice-desk": "Desk di fattura"
+      },
+      "receivables": {
+        "money-in-center": "Soldi in u centru",
+        "receivables": "Receivables",
+        "payments-received": "Pagamenti Ricevuti",
+        "overdue-collections": "Cullizzioni è ricordi",
+        "credit-notes": "Note di creditu è ​​rimborsi",
+        "sales-returns": "Ritorni di vendita",
+        "customer-statements": "Dichjarazioni di u Cliente",
+        "payment-links": "Ligami di pagamentu"
+      },
+      "procurement": {
+        "purchase-center": "Centru di compra",
+        "purchase-orders": "Ordini di compra",
+        "goods-receipt": "Ricevuta di merchenzie",
+        "purchase-invoices": "Fattura di compra",
+        "payment-out": "Pagamenti fatti",
+        "returns-debit-notes": "Ritorni è note di debitu",
+        "bill-approvals": "Approvazioni di Bill"
+      },
+      "payables": {
+        "bills": "Centru di pagamentu",
+        "payments": "Pagamenti di i fornitori",
+        "workforce": "Forza di travagliu",
+        "adjustments": "Aghjustamenti",
+        "bank-release": "Liberazione bancaria"
+      },
+      "cashbank": {
+        "bank-accounts": "I mo cunti",
+        "reconciliation": "Match Transacciones",
+        "cash-petty": "Petty Cash",
+        "contra": "Trà cunti",
+        "cheque-register": "Cuntrolli",
+        "foreign-currency": "valuta straniera",
+        "bank-feeds": "Feeds Bank",
+        "bank-rules": "Regoli è cunciliazione"
+      },
+      "expenses": {
+        "expense-center": "Tutte e spese",
+        "categories": "Tipi di spesa",
+        "automated-bills": "Spese recurrenti",
+        "journal-vouchers": "Entrate manuali",
+        "provisions": "Accruals",
+        "write-offs": "Scritture",
+        "period-close": "Fine di u mese"
+      },
+      "tax": {
+        "gst-returns": "Filling GST",
+        "gst-filing-wizard": "⚡ File GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-facture",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Pay Tax",
+        "quarterly-compliance": "Calendario di cumplimentu",
+        "ca-access": "CA Accessu Pruvisoriu",
+        "gst-from-books": "GST da Libri"
+      },
+      "reports": {
+        "financial-statements": "Rapporti finanziarii",
+        "books": "Libri di transazzione",
+        "gst-reports": "Rapporti GST",
+        "ar-ap": "Receivables versus Payables",
+        "profitability": "A prufittuità",
+        "period-comparatives": "Paragone di l'annu",
+        "budget-vs-actuals": "Tracker di u budgetu",
+        "cashflow-projection": "Previsione di Cash",
+        "report-builder": "Rapporti persunalizati",
+        "general-ledger": "Contabilità generale",
+        "live-financials": "Live Financials",
+        "ai-analyst": "Analista AI"
+      },
+      "advanced-features": {
+        "overview": "Panoramica"
+      },
+      "parties": {
+        "all-parties": "Tutti i partiti",
+        "customer-ledgers": "Clienti",
+        "supplier-ledgers": "Fornitori",
+        "shared-ledger": "Ledger spartutu",
+        "statements": "Dichjarazioni",
+        "reminders": "Ricordi",
+        "documents": "Documenti di partitu",
+        "portal": "Portale di partiti",
+        "import": "Importazione di partiti",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "inventory": {
+        "inventory-items": "Articuli",
+        "godowns": "Magazzini",
+        "stock-movement": "Movimentu di l'Azzioni",
+        "item-pricing": "Pricing",
+        "stock-valuation": "A valutazione di l'azzioni",
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Etichette di codice a barre",
+        "item-import": "Articulu importatu",
+        "gap-analysis": "Gap Analysis"
+      },
+      "assets": {
+        "asset-register": "Lista di Asset",
+        "depreciation": "Depreciation",
+        "disposal-revaluation": "Vendi o Rivalutà"
+      },
+      "masters": {
+        "chart-of-accounts": "Lista di cunti",
+        "tax-masters": "Tassi d'impositu",
+        "cost-centers": "Centri di costu",
+        "voucher-types": "Tipi di transazzione",
+        "opening-balances": "Bilanci di partenza",
+        "currencies": "Currencies"
+      },
+      "business-tools": {
+        "staff-payroll": "Paga",
+        "manage-users": "Accessu d'utilizatori",
+        "online-orders": "Ordini in linea",
+        "sms-marketing": "Marketing SMS",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Documenti di partitu",
+        "portal": "Portale di partiti",
+        "import": "Importazione di partitu",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Etichette di codice a barre",
+        "item-import": "Articulu importatu",
+        "gap-analysis": "Gap Analysis"
+      },
+      "storage": {
+        "client-storage": "File Clienti",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Avvisi di Accountant",
+        "compliance-alerts": "Avvisi di Conformità",
+        "cash-risk-alerts": "Cash & Risk Alerts",
+        "ca-access": "CA Accessu Pruvisoriu"
+      },
+      "migration": {
+        "import": "Import Data",
+        "export": "Esporta dati",
+        "history": "Storia d'importazione",
+        "tally-import": "Importazione da Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Acquisti è Pagamenti",
+      "accountingSetup": "Configurazione di cuntabilità",
+      "dataDocuments": "Dati è documenti"
+    }
+  },
+  "common": {
+    "save": "Salvà i cambiamenti",
+    "cancel": "Cancella",
+    "create": "Crià",
+    "edit": "Edit",
+    "delete": "Sguassà",
+    "search": "Ricerca",
+    "connect": "Cunnette",
+    "configure": "Configurate",
+    "disconnect": "Disconnect",
+    "sync": "Sincronizza avà",
+    "close": "Chiudi",
+    "reset": "Ripristina à i Defaults",
+    "back": "Torna",
+    "continue": "Cuntinuà",
+    "all": "Tuttu",
+    "retry": "Riprova",
+    "loading": "Caricamentu…",
+    "resetDemo": "Resettate i dati demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Cerca qualcosa...",
+    "settings": "Settings",
+    "language": "Lingua",
+    "role": "Role",
+    "greeting": {
+      "morning": "Bonghjornu",
+      "afternoon": "Bonghjornu",
+      "evening": "Bona sera"
+    },
+    "settingsItems": {
+      "company-profile": "Profilu di a cumpagnia",
+      "configuration": "Cunfigurazione",
+      "fiscal-periods": "Periodi fiscali",
+      "roles": "Roles & Users",
+      "integrations": "Integrazioni",
+      "notifications": "Notificazioni",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Audit Trail a prova di manomissione",
+      "developer": "Sviluppatore & API"
+    },
+    "translatedLanguages": "Traduttu",
+    "untranslatedLanguages": "Inglese finu à traduzzione"
+  },
+  "status": {
+    "filed": "Archivatu",
+    "ready": "Pronta à u schedariu",
+    "open": "Periodu apertu",
+    "paid": "Pagatu",
+    "pending": "In attesa",
+    "accepted": "Acceptatu",
+    "delivered": "Cunsegnatu",
+    "rejected": "Rifiutata",
+    "pdf-sent": "PDF mandatu",
+    "not-sent": "Ùn mandatu micca",
+    "matched": "Incontratu",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Ùn hè micca signalatu da u fornitore",
+    "missing-books": "Manca in i libri",
+    "deferred": "Differita",
+    "deducted": "Deduttu",
+    "remitted": "Rimessa",
+    "certified": "Certificatu",
+    "to-report": "Per rapportà",
+    "reported": "Reportatu",
+    "accounted": "Cuntatu",
+    "overdue": "Ritardata"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Pronta à u schedariu",
+      "liabilityDue": "Responsabilità dovuta",
+      "paidThisYear": "Pagatu questu annu",
+      "nextDeadline": "Prossima scadenza",
+      "noneOverdue": "Nisunu in ritardo",
+      "overdue": "{{count}} in ritardo"
+    },
+    "filter": {
+      "ready": "Pronta à u schedariu",
+      "open": "Apertu",
+      "filed": "Archivatu"
+    },
+    "col": {
+      "period": "Periodu",
+      "authority": "Auturità",
+      "rate": "Rate",
+      "due": "Duvuta",
+      "netPayable": "Net à pagà",
+      "status": "Status",
+      "ack": "Ricunniscenza"
+    },
+    "file": "File",
+    "view": "Vede",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Caricamentu di a giurisdizione…",
+    "nothingToFile": "Nisun rimborsu ùn aspetta per esse presentatu - tutti i periodi chjusi sò sottumessi.",
+    "fileNext": "File dopu: {{name}}",
+    "steps": {
+      "review": "Rivista",
+      "validate": "Validate",
+      "declare": "Dichjarà è sottumette",
+      "ack": "Ricunniscenza"
+    },
+    "runValidation": "Eseguite a validazione",
+    "validating": "Validazione…",
+    "submit": "Mandate {{form}}",
+    "submitting": "Invio…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Quantità netta",
+    "submitted": "Inviatu",
+    "filedOn": "Archivatu nantu",
+    "regime": {
+      "authority": "Auturità",
+      "channel": "Canale di archiviazione",
+      "return": "Ritorna",
+      "due": "Duvuta",
+      "standardRate": "Tariffa standard",
+      "threshold": "U sogliu di iscrizzione"
+    },
+    "demoNote": "Dati Demo da l'API di tassa simulata integrata - i schedarii è i pagamenti sò simulati è nunda hè mandatu à una autorità fiscale."
+  },
+  "fx": {
+    "title": "valuta straniera",
+    "subtitle": "Valuta di basa {{base}} · tassi indicativi di u mercatu simulatu",
+    "newDoc": "Nova fattura / fattura FX",
+    "kpi": {
+      "netExposure": "Esposizione netta FX",
+      "openDocs": "{{count}} ducumenti aperti",
+      "unrealized": "Guadagno / perdita micca realizatu",
+      "postedSplit": "{{posted}} publicatu · {{unposted}} micca ancu",
+      "realized": "Realizatu questu annu",
+      "lastReval": "Ultima rivalutazione",
+      "never": "Mai",
+      "suggested": "Cunsigliu: {{date}}"
+    },
+    "view": {
+      "open": "Articuli aperti",
+      "settled": "Settled",
+      "revaluation": "Rivaluazione di a fine di u mese",
+      "journal": "Journal FX"
+    },
+    "col": {
+      "document": "Documentu",
+      "type": "Tipu",
+      "openForeign": "Apertu (stranieru)",
+      "bookedNow": "Riservatu / avà",
+      "valueIn": "Valore in {{base}}",
+      "unrealized": "Unrealized",
+      "status": "Status",
+      "amount": "A quantità",
+      "bookedRate": "Tariffa riservata",
+      "realized": "Realizatu"
+    },
+    "receivable": "Receivable",
+    "payable": "Pagabile",
+    "receive": "Riceve",
+    "pay": "Paga",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Settled",
+      "partial": "Parzialmente stabilitu",
+      "open": "Apertu"
+    },
+    "demoNote": "Dati Demo da l'API simulata integrata - i tassi sò simulati, micca i dati di u mercatu in diretta."
+  }
+}

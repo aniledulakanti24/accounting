@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "일상",
+      "finance": "재원",
+      "advanced": "고급의"
+    },
+    "mainMenu": "메인 메뉴",
+    "short": {
+      "parties": "당사자"
+    },
+    "sections": {
+      "dashboard": "계기반",
+      "sales": "매상",
+      "receivables": "돈이 들어오다",
+      "procurement": "구매",
+      "payables": "돈 나가기",
+      "cashbank": "현금 및 은행",
+      "expenses": "경비",
+      "tax": "세",
+      "reports": "보고서",
+      "advanced-features": "고급 기능",
+      "parties": "고객 및 공급업체",
+      "inventory": "품목",
+      "assets": "고정자산",
+      "masters": "설정 및 구성",
+      "business-tools": "팀 및 도구",
+      "party-tools": "파티 도구",
+      "item-tools": "아이템 도구",
+      "storage": "서류",
+      "alerts": "경고",
+      "migration": "데이터 마이그레이션"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "개요",
+        "cash-flow": "현금흐름",
+        "tax-calendar": "세금 달력"
+      },
+      "sales": {
+        "quotations": "인용문",
+        "proforma-invoices": "PI",
+        "sales-invoices": "송장",
+        "delivery-challans": "배달 찰란",
+        "receipts": "영수증",
+        "invoice-desk": "인보이스 데스크"
+      },
+      "receivables": {
+        "money-in-center": "머니 인 센터",
+        "receivables": "채권",
+        "payments-received": "지불금 수령",
+        "overdue-collections": "컬렉션 및 알림",
+        "credit-notes": "신용 메모 및 환불",
+        "sales-returns": "판매 반품",
+        "customer-statements": "고객 진술",
+        "payment-links": "결제 링크"
+      },
+      "procurement": {
+        "purchase-center": "구매센터",
+        "purchase-orders": "구매 주문",
+        "goods-receipt": "물품 수령",
+        "purchase-invoices": "구매 송장",
+        "payment-out": "결제 완료",
+        "returns-debit-notes": "반품 및 차변 메모",
+        "bill-approvals": "청구서 승인"
+      },
+      "payables": {
+        "bills": "결제 센터",
+        "payments": "공급자 지불",
+        "workforce": "인력",
+        "adjustments": "조정",
+        "bank-release": "은행 출금"
+      },
+      "cashbank": {
+        "bank-accounts": "내 계정",
+        "reconciliation": "거래 일치",
+        "cash-petty": "용돈",
+        "contra": "계정 간",
+        "cheque-register": "체크 무늬",
+        "foreign-currency": "외화 보유",
+        "bank-feeds": "은행 피드",
+        "bank-rules": "규칙 및 조정"
+      },
+      "expenses": {
+        "expense-center": "모든 비용",
+        "categories": "비용 유형",
+        "automated-bills": "반복 비용",
+        "journal-vouchers": "수동 입력",
+        "provisions": "발생액",
+        "write-offs": "상각",
+        "period-close": "월말"
+      },
+      "tax": {
+        "gst-returns": "GST 신고",
+        "gst-filing-wizard": "⚡ 파일 GSTR-3B",
+        "gst-reconciliation": "GST 매칭",
+        "e-invoicing": "전자송장",
+        "e-way-bills": "전자 청구서",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "세금 납부",
+        "quarterly-compliance": "규정 준수 캘린더",
+        "ca-access": "CA 임시 액세스",
+        "gst-from-books": "도서의 GST"
+      },
+      "reports": {
+        "financial-statements": "재무 보고서",
+        "books": "거래 장부",
+        "gst-reports": "GST 보고서",
+        "ar-ap": "미수금과 지불금",
+        "profitability": "수익성",
+        "period-comparatives": "연도 비교",
+        "budget-vs-actuals": "예산 추적기",
+        "cashflow-projection": "현금 예측",
+        "report-builder": "맞춤 보고서",
+        "general-ledger": "총계정원장",
+        "live-financials": "실시간 금융",
+        "ai-analyst": "AI 분석가"
+      },
+      "advanced-features": {
+        "overview": "개요"
+      },
+      "parties": {
+        "all-parties": "모든 당사자",
+        "customer-ledgers": "고객",
+        "supplier-ledgers": "공급자",
+        "shared-ledger": "공유 원장",
+        "statements": "진술",
+        "reminders": "알림",
+        "documents": "파티 문서",
+        "portal": "파티 포털",
+        "import": "파티 가져오기",
+        "duplicate-merge": "중복 병합",
+        "gap-analysis": "격차 분석"
+      },
+      "inventory": {
+        "inventory-items": "품목",
+        "godowns": "창고",
+        "stock-movement": "재고 이동",
+        "item-pricing": "가격",
+        "stock-valuation": "주식평가",
+        "reorder-alerts": "알림 재정렬",
+        "batch-serials": "배치 및 시리얼",
+        "barcode-labels": "바코드 라벨",
+        "item-import": "아이템 수입",
+        "gap-analysis": "격차 분석"
+      },
+      "assets": {
+        "asset-register": "자산 목록",
+        "depreciation": "감가 상각",
+        "disposal-revaluation": "판매 또는 재평가"
+      },
+      "masters": {
+        "chart-of-accounts": "계정 목록",
+        "tax-masters": "세율",
+        "cost-centers": "비용 센터",
+        "voucher-types": "거래 유형",
+        "opening-balances": "시작 잔액",
+        "currencies": "통화"
+      },
+      "business-tools": {
+        "staff-payroll": "급여",
+        "manage-users": "사용자 액세스",
+        "online-orders": "온라인 주문",
+        "sms-marketing": "SMS 마케팅",
+        "accountant-hub": "회계사 및 지원"
+      },
+      "party-tools": {
+        "documents": "파티 문서",
+        "portal": "파티 포털",
+        "import": "파티 가져오기",
+        "duplicate-merge": "중복 병합",
+        "gap-analysis": "격차 분석"
+      },
+      "item-tools": {
+        "reorder-alerts": "알림 재정렬",
+        "batch-serials": "배치 및 시리얼",
+        "barcode-labels": "바코드 라벨",
+        "item-import": "아이템 수입",
+        "gap-analysis": "격차 분석"
+      },
+      "storage": {
+        "client-storage": "클라이언트 파일",
+        "unifiedtree-storage": "클라우드 스토리지"
+      },
+      "alerts": {
+        "accountant-alerts": "회계사 경고",
+        "compliance-alerts": "규정 준수 경고",
+        "cash-risk-alerts": "현금 및 위험 경고",
+        "ca-access": "CA 임시 액세스"
+      },
+      "migration": {
+        "import": "데이터 가져오기",
+        "export": "데이터 내보내기",
+        "history": "수입 내역",
+        "tally-import": "Tally & Zoho에서 가져오기"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "구매 및 결제",
+      "accountingSetup": "회계 설정",
+      "dataDocuments": "데이터 및 문서"
+    }
+  },
+  "common": {
+    "save": "변경 사항 저장",
+    "cancel": "취소",
+    "create": "만들다",
+    "edit": "편집하다",
+    "delete": "삭제",
+    "search": "찾다",
+    "connect": "연결하다",
+    "configure": "구성",
+    "disconnect": "연결 끊기",
+    "sync": "지금 동기화",
+    "close": "닫다",
+    "reset": "기본값으로 재설정",
+    "back": "뒤쪽에",
+    "continue": "계속하다",
+    "all": "모두",
+    "retry": "다시 해 보다",
+    "loading": "로드 중…",
+    "resetDemo": "데모 데이터 재설정"
+  },
+  "shell": {
+    "searchPlaceholder": "무엇이든 검색하세요…",
+    "settings": "설정",
+    "language": "언어",
+    "role": "역할",
+    "greeting": {
+      "morning": "좋은 아침이에요",
+      "afternoon": "좋은 오후에요",
+      "evening": "좋은 저녁이에요"
+    },
+    "settingsItems": {
+      "company-profile": "회사 프로필",
+      "configuration": "구성",
+      "fiscal-periods": "회계기간",
+      "roles": "역할 및 사용자",
+      "integrations": "통합",
+      "notifications": "알림",
+      "audit-logs": "감사 및 로그",
+      "audit-trail": "변조 방지 감사 추적",
+      "developer": "개발자 및 API"
+    },
+    "translatedLanguages": "번역됨",
+    "untranslatedLanguages": "번역되기 전까지 영어"
+  },
+  "status": {
+    "filed": "더럽히는",
+    "ready": "제출 준비 완료",
+    "open": "기간 오픈",
+    "paid": "유급의",
+    "pending": "보류 중",
+    "accepted": "수락됨",
+    "delivered": "배달됨",
+    "rejected": "거부됨",
+    "pdf-sent": "PDF 전송됨",
+    "not-sent": "전송되지 않음",
+    "matched": "일치함",
+    "mismatch": "불일치",
+    "missing-supplier": "공급업체에서 보고하지 않음",
+    "missing-books": "책에서 누락됨",
+    "deferred": "연기됨",
+    "deducted": "공제됨",
+    "remitted": "면제됨",
+    "certified": "인증됨",
+    "to-report": "보고하려면",
+    "reported": "신고됨",
+    "accounted": "회계",
+    "overdue": "연체"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "제출 준비 완료",
+      "liabilityDue": "지불해야 할 책임",
+      "paidThisYear": "올해 지급",
+      "nextDeadline": "다음 마감일",
+      "noneOverdue": "연체 없음",
+      "overdue": "{{count}} 연체"
+    },
+    "filter": {
+      "ready": "제출 준비 완료",
+      "open": "열려 있는",
+      "filed": "더럽히는"
+    },
+    "col": {
+      "period": "기간",
+      "authority": "권한",
+      "rate": "비율",
+      "due": "로 인한",
+      "netPayable": "순지급금",
+      "status": "상태",
+      "ack": "승인"
+    },
+    "file": "파일",
+    "view": "보다",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "관할권 로드 중…",
+    "nothingToFile": "제출 대기 중인 반품이 없습니다. 마감된 기간이 모두 제출되었습니다.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "검토",
+      "validate": "검증",
+      "declare": "선언 및 제출",
+      "ack": "승인"
+    },
+    "runValidation": "유효성 검사 실행",
+    "validating": "검증 중…",
+    "submit": "Submit {{form}}",
+    "submitting": "제출 중…",
+    "declaration": "나는 이 보고서의 정보가 사실이고 완전하며 이를 {{authority}}에 제출할 권한이 있음을 선언합니다.",
+    "netAmount": "정",
+    "submitted": "제출된",
+    "filedOn": "출원일",
+    "regime": {
+      "authority": "권한",
+      "channel": "제출 채널",
+      "return": "반품",
+      "due": "로 인한",
+      "standardRate": "표준요금",
+      "threshold": "등록 기준"
+    },
+    "demoNote": "내장된 모의 세금 API의 데모 데이터 — 신고 및 납부가 시뮬레이션되며 세무 당국에 아무 것도 전송되지 않습니다."
+  },
+  "fx": {
+    "title": "외화 보유",
+    "subtitle": "기본 통화 {{base}} · 모의 시장 환율 표시",
+    "newDoc": "신규 FX 송장/청구서",
+    "kpi": {
+      "netExposure": "순 FX 노출",
+      "openDocs": "{{count}}개의 열린 문서",
+      "unrealized": "미실현 손익",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "올해 실현",
+      "lastReval": "마지막 재평가",
+      "never": "절대",
+      "suggested": "제안 날짜: {{date}}"
+    },
+    "view": {
+      "open": "항목 열기",
+      "settled": "안정된",
+      "revaluation": "월말 재평가",
+      "journal": "FX 저널"
+    },
+    "col": {
+      "document": "문서",
+      "type": "유형",
+      "openForeign": "개방형(외국인)",
+      "bookedNow": "예약됨 / 현재",
+      "valueIn": "{{base}}의 값",
+      "unrealized": "미실현",
+      "status": "상태",
+      "amount": "양",
+      "bookedRate": "예약 요금",
+      "realized": "실현됨"
+    },
+    "receivable": "받을 수 있는",
+    "payable": "지불 가능",
+    "receive": "받다",
+    "pay": "지불하다",
+    "netIn": "{{base}}의 순",
+    "state": {
+      "settled": "안정된",
+      "partial": "부분적으로 해결됨",
+      "open": "열려 있는"
+    },
+    "demoNote": "내장된 모의 API의 데모 데이터 - 실시간 시장 데이터가 아닌 환율을 시뮬레이션합니다."
+  }
+}

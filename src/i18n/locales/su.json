@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Dinten ka dinten",
+      "finance": "Keuangan",
+      "advanced": "Maju"
+    },
+    "mainMenu": "Menu Utama",
+    "short": {
+      "parties": "Pihak"
+    },
+    "sections": {
+      "dashboard": "Dasbor",
+      "sales": "Penjualan",
+      "receivables": "Duit Dina",
+      "procurement": "Beuli",
+      "payables": "Duit Kaluar",
+      "cashbank": "Kas & Bank",
+      "expenses": "Beban",
+      "tax": "Pajeg",
+      "reports": "Laporan",
+      "advanced-features": "Fitur canggih",
+      "parties": "Konsumén & Panyadia",
+      "inventory": "Barang",
+      "assets": "Aset Maneuh",
+      "masters": "Setup & Konfigurasi",
+      "business-tools": "Tim & Alat",
+      "party-tools": "Parabot Partéi",
+      "item-tools": "Item Pakakas",
+      "storage": "Dokumén",
+      "alerts": "Siaga",
+      "migration": "Migrasi Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Tinjauan",
+        "cash-flow": "Aliran kas",
+        "tax-calendar": "Kalénder Pajeg"
+      },
+      "sales": {
+        "quotations": "cutatan",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Pangiriman Challan",
+        "receipts": "resi",
+        "invoice-desk": "Meja Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Duit Dina Center",
+        "receivables": "Piutang",
+        "payments-received": "Pangmayaran Ditampi",
+        "overdue-collections": "Koléksi & Panginget",
+        "credit-notes": "Catetan Kiridit & Ngabalikeun duit",
+        "sales-returns": "Ngabalikeun Penjualan",
+        "customer-statements": "Pernyataan konsumén",
+        "payment-links": "Tumbu pamayaran"
+      },
+      "procurement": {
+        "purchase-center": "Puseur beuli",
+        "purchase-orders": "Pesenan Meuli",
+        "goods-receipt": "Kuitansi Barang",
+        "purchase-invoices": "Invoice Beuli",
+        "payment-out": "Pangmayaran Dijieun",
+        "returns-debit-notes": "Ngabalikeun & Catetan Debit",
+        "bill-approvals": "Bill Approvals"
+      },
+      "payables": {
+        "bills": "Puseur mayar",
+        "payments": "Pamayaran Panyadia",
+        "workforce": "tanaga gawé",
+        "adjustments": "Pangaluyuan",
+        "bank-release": "Kaluaran Bank"
+      },
+      "cashbank": {
+        "bank-accounts": "Rekening abdi",
+        "reconciliation": "Transaksi cocog",
+        "cash-petty": "Kas leutik",
+        "contra": "Antara Akun",
+        "cheque-register": "Cék",
+        "foreign-currency": "Mata Uang Asing",
+        "bank-feeds": "Eupan Bank",
+        "bank-rules": "Aturan & Rekonsiliasi"
+      },
+      "expenses": {
+        "expense-center": "Kabéh Expenses",
+        "categories": "Jenis Biaya",
+        "automated-bills": "Expenses ngulang",
+        "journal-vouchers": "Éntri Manual",
+        "provisions": "Akrual",
+        "write-offs": "Nuliskeun",
+        "period-close": "Bulan-Ahir"
+      },
+      "tax": {
+        "gst-returns": "Filing GST",
+        "gst-filing-wizard": "⚡ File GSTR-3B",
+        "gst-reconciliation": "GST cocog",
+        "e-invoicing": "E-Invoice",
+        "e-way-bills": "Tagihan E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bayar Pajak",
+        "quarterly-compliance": "Kalender minuhan",
+        "ca-access": "CA Aksés Samentara",
+        "gst-from-books": "GST tina Buku"
+      },
+      "reports": {
+        "financial-statements": "Laporan Keuangan",
+        "books": "Buku Transaksi",
+        "gst-reports": "Laporan GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Profitability",
+        "period-comparatives": "Taun Babandingan",
+        "budget-vs-actuals": "Anggaran Tracker",
+        "cashflow-projection": "Ramalan Kas",
+        "report-builder": "Laporan Adat",
+        "general-ledger": "Buku Kas Umum",
+        "live-financials": "Hirup Keuangan",
+        "ai-analyst": "Analis AI"
+      },
+      "advanced-features": {
+        "overview": "Tinjauan"
+      },
+      "parties": {
+        "all-parties": "Sadaya Pihak",
+        "customer-ledgers": "Palanggan",
+        "supplier-ledgers": "Panyadia",
+        "shared-ledger": "Dibagikeun Ledger",
+        "statements": "Pernyataan",
+        "reminders": "Pangéling-ngéling",
+        "documents": "Dokumén Partéi",
+        "portal": "Portal Partéi",
+        "import": "Partéi Impor",
+        "duplicate-merge": "Ngagabung duplikat",
+        "gap-analysis": "Analisis Gap"
+      },
+      "inventory": {
+        "inventory-items": "Barang",
+        "godowns": "Gudang-gudang",
+        "stock-movement": "Gerakan Saham",
+        "item-pricing": "hargaan",
+        "stock-valuation": "Pangajen Saham",
+        "reorder-alerts": "Susun deui Tanda",
+        "batch-serials": "Angkatan & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Barang Impor",
+        "gap-analysis": "Analisis Gap"
+      },
+      "assets": {
+        "asset-register": "Daptar Aset",
+        "depreciation": "Panyusutan",
+        "disposal-revaluation": "Ngajual atanapi Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Daptar Akun",
+        "tax-masters": "Tarif Pajeg",
+        "cost-centers": "Puseur ongkos",
+        "voucher-types": "Jinis Transaksi",
+        "opening-balances": "Mimiti Balances",
+        "currencies": "Mata uang"
+      },
+      "business-tools": {
+        "staff-payroll": "Gajih",
+        "manage-users": "Aksés pamaké",
+        "online-orders": "Pesenan Online",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Akuntan & Rojongan"
+      },
+      "party-tools": {
+        "documents": "Dokumén Partéi",
+        "portal": "Portal Partéi",
+        "import": "Partéi Impor",
+        "duplicate-merge": "Ngagabung duplikat",
+        "gap-analysis": "Analisis Gap"
+      },
+      "item-tools": {
+        "reorder-alerts": "Susun deui Tanda",
+        "batch-serials": "Angkatan & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Barang Impor",
+        "gap-analysis": "Analisis Gap"
+      },
+      "storage": {
+        "client-storage": "Payil klien",
+        "unifiedtree-storage": "Panyimpenan awan"
+      },
+      "alerts": {
+        "accountant-alerts": "Akuntan Siaga",
+        "compliance-alerts": "Tanda minuhan",
+        "cash-risk-alerts": "Kas & Résiko Siaga",
+        "ca-access": "CA Aksés Samentara"
+      },
+      "migration": {
+        "import": "Impor Data",
+        "export": "Ékspor Data",
+        "history": "Impor Sajarah",
+        "tally-import": "Impor ti Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Meuli & pangmayaran",
+      "accountingSetup": "Setup Akunting",
+      "dataDocuments": "Data & Dokumén"
+    }
+  },
+  "common": {
+    "save": "Simpen Parobahan",
+    "cancel": "Ngabolaykeun",
+    "create": "Nyiptakeun",
+    "edit": "Édit",
+    "delete": "Hapus",
+    "search": "Pilarian",
+    "connect": "Nyambung",
+    "configure": "Konpigurasikeun",
+    "disconnect": "Pegatkeun sambungan",
+    "sync": "Singkronkeun Ayeuna",
+    "close": "Tutup",
+    "reset": "Reset ka Defaults",
+    "back": "Balik deui",
+    "continue": "Teraskeun",
+    "all": "Sadayana",
+    "retry": "Coba deui",
+    "loading": "Ngamuat…",
+    "resetDemo": "Reset data demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Pilarian naon waé…",
+    "settings": "Setélan",
+    "language": "Basa",
+    "role": "Peran",
+    "greeting": {
+      "morning": "Wilujeng énjing",
+      "afternoon": "Wilujeng sonten",
+      "evening": "Wilujeng sonten"
+    },
+    "settingsItems": {
+      "company-profile": "Profil Perusahaan",
+      "configuration": "Konfigurasi",
+      "fiscal-periods": "Periode Fiskal",
+      "roles": "Kalungguhan & Pamaké",
+      "integrations": "Integrasi",
+      "notifications": "Bewara",
+      "audit-logs": "Audit & Log",
+      "audit-trail": "Tamper-buktina Inok Trail",
+      "developer": "Pamekar & API"
+    },
+    "translatedLanguages": "Ditarjamahkeun",
+    "untranslatedLanguages": "Inggris dugi ditarjamahkeun"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Siap ngajukeun",
+    "open": "Periode dibuka",
+    "paid": "Dibayar",
+    "pending": "Ditunggu",
+    "accepted": "Ditarima",
+    "delivered": "Dihaturkeun",
+    "rejected": "Ditampik",
+    "pdf-sent": "PDF dikirim",
+    "not-sent": "Teu dikirim",
+    "matched": "Dicocogkeun",
+    "mismatch": "Teu cocog",
+    "missing-supplier": "Teu dilaporkeun ku supplier",
+    "missing-books": "Leungit dina buku",
+    "deferred": "Ditunda",
+    "deducted": "Dikurangan",
+    "remitted": "Dikintunkeun",
+    "certified": "Disertipikasi",
+    "to-report": "Pikeun ngalaporkeun",
+    "reported": "Kacaritakeun",
+    "accounted": "Ditanggung",
+    "overdue": "Kaliwat"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Siap ngajukeun",
+      "liabilityDue": "Tanggung jawab",
+      "paidThisYear": "Dibayar taun ieu",
+      "nextDeadline": "Deadline salajengna",
+      "noneOverdue": "Euweuh nu telat",
+      "overdue": "{{count}} telat"
+    },
+    "filter": {
+      "ready": "Siap ngajukeun",
+      "open": "Buka",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "jaman",
+      "authority": "Wewenang",
+      "rate": "Ongkoh",
+      "due": "alatan",
+      "netPayable": "Hutang net",
+      "status": "Status",
+      "ack": "Pangakuan"
+    },
+    "file": "File",
+    "view": "Témbongkeun",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ngamuat yurisdiksi…",
+    "nothingToFile": "Henteu aya pamulangan anu ngantosan dikintunkeun - sadaya waktos katutup dikintunkeun.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Tinjauan",
+      "validate": "Validasi",
+      "declare": "Nyatakeun & ngalebetkeun",
+      "ack": "Pangakuan"
+    },
+    "runValidation": "Ngajalankeun validasi",
+    "validating": "Ngavalidasi…",
+    "submit": "Submit {{form}}",
+    "submitting": "Ngirimkeun…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Jumlah net",
+    "submitted": "Dikintunkeun",
+    "filedOn": "Filed dina",
+    "regime": {
+      "authority": "Wewenang",
+      "channel": "Saluran filing",
+      "return": "Balik deui",
+      "due": "alatan",
+      "standardRate": "Laju standar",
+      "threshold": "bangbarung pendaptaran"
+    },
+    "demoNote": "Data demo tina API pajeg bohongan diwangun - filing sareng pamayaran disimulasi sareng teu aya anu dikirim ka otoritas pajeg."
+  },
+  "fx": {
+    "title": "Mata Uang Asing",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Invoice FX anyar / tagihan",
+    "kpi": {
+      "netExposure": "paparan FX net",
+      "openDocs": "{{count}} muka dokumén",
+      "unrealized": "Keuntungan / karugian anu teu direalisasikeun",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Realisasi taun ieu",
+      "lastReval": "revaluation panungtungan",
+      "never": "moal pernah",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Buka item",
+      "settled": "Mapan",
+      "revaluation": "revaluasi ahir bulan",
+      "journal": "Jurnal FX"
+    },
+    "col": {
+      "document": "Dokumén",
+      "type": "Tipe",
+      "openForeign": "Buka (asing)",
+      "bookedNow": "Dipesen / ayeuna",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Teu sadar",
+      "status": "Status",
+      "amount": "Jumlah",
+      "bookedRate": "Laju dipesen",
+      "realized": "Disadarkeun"
+    },
+    "receivable": "Receivable",
+    "payable": "Hutang",
+    "receive": "Narima",
+    "pay": "Bayar",
+    "netIn": "Net dina {{base}}",
+    "state": {
+      "settled": "Mapan",
+      "partial": "Bagéan-netep",
+      "open": "Buka"
+    },
+    "demoNote": "Data demo tina API bohongan anu diwangun - ongkos disimulasikeun, sanés data pasar langsung."
+  }
+}

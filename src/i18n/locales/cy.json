@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Dydd-i-Dydd",
+      "finance": "Cyllid",
+      "advanced": "Uwch"
+    },
+    "mainMenu": "Prif Ddewislen",
+    "short": {
+      "parties": "Partïon"
+    },
+    "sections": {
+      "dashboard": "Dangosfwrdd",
+      "sales": "Gwerthiant",
+      "receivables": "Arian Mewn",
+      "procurement": "Pryniannau",
+      "payables": "Arian Allan",
+      "cashbank": "Arian Parod a Banc",
+      "expenses": "Treuliau",
+      "tax": "Treth",
+      "reports": "Adroddiadau",
+      "advanced-features": "Nodweddion Uwch",
+      "parties": "Cwsmeriaid a Chyflenwyr",
+      "inventory": "Eitemau",
+      "assets": "Asedau Sefydlog",
+      "masters": "Gosod a Ffurfweddu",
+      "business-tools": "Tîm ac Offer",
+      "party-tools": "Offer Parti",
+      "item-tools": "Offer Eitem",
+      "storage": "Dogfennau",
+      "alerts": "Rhybuddion",
+      "migration": "Mudo Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Trosolwg",
+        "cash-flow": "Llif Arian",
+        "tax-calendar": "Calendr Treth"
+      },
+      "sales": {
+        "quotations": "Dyfyniadau",
+        "proforma-invoices": "DP",
+        "sales-invoices": "Anfoneb",
+        "delivery-challans": "Challan danfon",
+        "receipts": "Derbynneb",
+        "invoice-desk": "Desg Anfoneb"
+      },
+      "receivables": {
+        "money-in-center": "Arian yn y Ganolfan",
+        "receivables": "Symiau derbyniadwy",
+        "payments-received": "Taliadau a Dderbyniwyd",
+        "overdue-collections": "Casgliadau ac Atgofion",
+        "credit-notes": "Nodiadau Credyd ac Ad-daliadau",
+        "sales-returns": "Dychweliadau Gwerthiant",
+        "customer-statements": "Datganiadau Cwsmeriaid",
+        "payment-links": "Dolenni Talu"
+      },
+      "procurement": {
+        "purchase-center": "Canolfan Brynu",
+        "purchase-orders": "Archebion Prynu",
+        "goods-receipt": "Derbynneb Nwyddau",
+        "purchase-invoices": "Anfonebau Prynu",
+        "payment-out": "Taliadau a Wnaed",
+        "returns-debit-notes": "Dychwelyd a Nodiadau Debyd",
+        "bill-approvals": "Cymeradwyaeth Bil"
+      },
+      "payables": {
+        "bills": "Canolfan Dalu",
+        "payments": "Taliadau Cyflenwr",
+        "workforce": "Gweithlu",
+        "adjustments": "Addasiadau",
+        "bank-release": "Datganiad Banc"
+      },
+      "cashbank": {
+        "bank-accounts": "Fy Nghyfrifon",
+        "reconciliation": "Trafodion Paru",
+        "cash-petty": "Arian Mân",
+        "contra": "Rhwng Cyfrifon",
+        "cheque-register": "Sieciau",
+        "foreign-currency": "Arian Tramor",
+        "bank-feeds": "Porthiannau Banc",
+        "bank-rules": "Rheolau a Chymod"
+      },
+      "expenses": {
+        "expense-center": "Pob Treuliau",
+        "categories": "Mathau o Dreuliau",
+        "automated-bills": "Treuliau Cylchol",
+        "journal-vouchers": "Cofnodion Llaw",
+        "provisions": "Croniadau",
+        "write-offs": "Dileadau",
+        "period-close": "Mis-Diwedd"
+      },
+      "tax": {
+        "gst-returns": "Ffeilio GST",
+        "gst-filing-wizard": "⚡ Ffeil GSTR-3B",
+        "gst-reconciliation": "GST Paru",
+        "e-invoicing": "E-Anfonebau",
+        "e-way-bills": "Biliau E-Ffordd",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Talu Treth",
+        "quarterly-compliance": "Calendr Cydymffurfiaeth",
+        "ca-access": "CA Mynediad Dros Dro",
+        "gst-from-books": "GST o Lyfrau"
+      },
+      "reports": {
+        "financial-statements": "Adroddiadau Ariannol",
+        "books": "Llyfrau Trafodion",
+        "gst-reports": "Adroddiadau GST",
+        "ar-ap": "Symiau derbyniadwy yn erbyn Symiau Taladwy",
+        "profitability": "Proffidioldeb",
+        "period-comparatives": "Cymhariaeth Blwyddyn",
+        "budget-vs-actuals": "Traciwr Cyllideb",
+        "cashflow-projection": "Rhagolwg Arian Parod",
+        "report-builder": "Adroddiadau Custom",
+        "general-ledger": "Cyfriflyfr Cyffredinol",
+        "live-financials": "Ariannol Byw",
+        "ai-analyst": "Dadansoddwr AI"
+      },
+      "advanced-features": {
+        "overview": "Trosolwg"
+      },
+      "parties": {
+        "all-parties": "Pob Parti",
+        "customer-ledgers": "Cwsmeriaid",
+        "supplier-ledgers": "Cyflenwyr",
+        "shared-ledger": "Cyfriflyfr a Rennir",
+        "statements": "Datganiadau",
+        "reminders": "Atgofion",
+        "documents": "Dogfennau Parti",
+        "portal": "Porth Parti",
+        "import": "Mewnforio Parti",
+        "duplicate-merge": "Cyfuno Dyblyg",
+        "gap-analysis": "Dadansoddiad Bwlch"
+      },
+      "inventory": {
+        "inventory-items": "Eitemau",
+        "godowns": "Warysau",
+        "stock-movement": "Symudiad Stoc",
+        "item-pricing": "Prisio",
+        "stock-valuation": "Prisiad Stoc",
+        "reorder-alerts": "Rhybuddion Ail-archebu",
+        "batch-serials": "Swp a Chyfres",
+        "barcode-labels": "Labeli cod bar",
+        "item-import": "Mewnforio Eitem",
+        "gap-analysis": "Dadansoddiad Bwlch"
+      },
+      "assets": {
+        "asset-register": "Rhestr Asedau",
+        "depreciation": "Dibrisiant",
+        "disposal-revaluation": "Gwerthu neu Ailbrisio"
+      },
+      "masters": {
+        "chart-of-accounts": "Rhestr Cyfrifon",
+        "tax-masters": "Cyfraddau Treth",
+        "cost-centers": "Canolfannau Cost",
+        "voucher-types": "Mathau o Drafodion",
+        "opening-balances": "Balansau Cychwynnol",
+        "currencies": "Arian cyfred"
+      },
+      "business-tools": {
+        "staff-payroll": "Cyflogres",
+        "manage-users": "Mynediad Defnyddiwr",
+        "online-orders": "Archebion Ar-lein",
+        "sms-marketing": "Marchnata SMS",
+        "accountant-hub": "Cyfrifwyr a Chefnogaeth"
+      },
+      "party-tools": {
+        "documents": "Dogfennau Parti",
+        "portal": "Porth Parti",
+        "import": "Mewnforio Parti",
+        "duplicate-merge": "Cyfuno Dyblyg",
+        "gap-analysis": "Dadansoddiad Bwlch"
+      },
+      "item-tools": {
+        "reorder-alerts": "Rhybuddion Ail-archebu",
+        "batch-serials": "Swp a Chyfres",
+        "barcode-labels": "Labeli cod bar",
+        "item-import": "Mewnforio Eitem",
+        "gap-analysis": "Dadansoddiad Bwlch"
+      },
+      "storage": {
+        "client-storage": "Ffeiliau Cleient",
+        "unifiedtree-storage": "Storio Cwmwl"
+      },
+      "alerts": {
+        "accountant-alerts": "Rhybuddion Cyfrifydd",
+        "compliance-alerts": "Rhybuddion Cydymffurfiaeth",
+        "cash-risk-alerts": "Rhybuddion Arian Parod a Risg",
+        "ca-access": "CA Mynediad Dros Dro"
+      },
+      "migration": {
+        "import": "Mewnforio Data",
+        "export": "Data Allforio",
+        "history": "Hanes Mewnforio",
+        "tally-import": "Mewnforio o Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Pryniannau a Thaliadau",
+      "accountingSetup": "Gosod Cyfrifon",
+      "dataDocuments": "Data a Dogfennau"
+    }
+  },
+  "common": {
+    "save": "Cadw Newidiadau",
+    "cancel": "Canslo",
+    "create": "Creu",
+    "edit": "Golygu",
+    "delete": "Dileu",
+    "search": "Chwiliwch",
+    "connect": "Cyswllt",
+    "configure": "Ffurfweddu",
+    "disconnect": "Datgysylltu",
+    "sync": "Cysoni Nawr",
+    "close": "Cau",
+    "reset": "Ailosod i'r Rhagosodiadau",
+    "back": "Yn ol",
+    "continue": "Parhau",
+    "all": "Pawb",
+    "retry": "Ceisiwch eto",
+    "loading": "Wrthi'n llwytho…",
+    "resetDemo": "Ailosod data demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Chwiliwch unrhyw beth…",
+    "settings": "Gosodiadau",
+    "language": "Iaith",
+    "role": "Rôl",
+    "greeting": {
+      "morning": "Bore da",
+      "afternoon": "Prynhawn da",
+      "evening": "Noswaith dda"
+    },
+    "settingsItems": {
+      "company-profile": "Proffil Cwmni",
+      "configuration": "Cyfluniad",
+      "fiscal-periods": "Cyfnodau Cyllidol",
+      "roles": "Rolau a Defnyddwyr",
+      "integrations": "Integreiddiadau",
+      "notifications": "Hysbysiadau",
+      "audit-logs": "Archwilio a Logiau",
+      "audit-trail": "Llwybr Archwilio atal ymyrraeth",
+      "developer": "Datblygwr & API"
+    },
+    "translatedLanguages": "Cyfieithwyd",
+    "untranslatedLanguages": "Saesneg nes ei gyfieithu"
+  },
+  "status": {
+    "filed": "Wedi'i ffeilio",
+    "ready": "Yn barod i ffeilio",
+    "open": "Cyfnod agored",
+    "paid": "Talwyd",
+    "pending": "Arfaeth",
+    "accepted": "Derbyniwyd",
+    "delivered": "Wedi'i gyflwyno",
+    "rejected": "Gwrthodwyd",
+    "pdf-sent": "Anfonwyd PDF",
+    "not-sent": "Heb ei anfon",
+    "matched": "Cyfateb",
+    "mismatch": "Camgymhariaeth",
+    "missing-supplier": "Heb ei adrodd gan y cyflenwr",
+    "missing-books": "Ar goll mewn llyfrau",
+    "deferred": "Gohiriedig",
+    "deducted": "Wedi'i dynnu",
+    "remitted": "Remitted",
+    "certified": "Ardystiedig",
+    "to-report": "I adrodd",
+    "reported": "Adroddwyd",
+    "accounted": "Cyfrifwyd",
+    "overdue": "Hwyr"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Yn barod i ffeilio",
+      "liabilityDue": "Atebolrwydd dyledus",
+      "paidThisYear": "Talwyd eleni",
+      "nextDeadline": "Dyddiad cau nesaf",
+      "noneOverdue": "Dim yn hwyr",
+      "overdue": "{{count}} hwyr"
+    },
+    "filter": {
+      "ready": "Yn barod i ffeilio",
+      "open": "Agored",
+      "filed": "Wedi'i ffeilio"
+    },
+    "col": {
+      "period": "Cyfnod",
+      "authority": "Awdurdod",
+      "rate": "Cyfradd",
+      "due": "Yn ddyledus",
+      "netPayable": "Taladwy net",
+      "status": "Statws",
+      "ack": "Cydnabyddiaeth"
+    },
+    "file": "Ffeil",
+    "view": "Golwg",
+    "fileForm": "Ffeil {{form}}",
+    "loadingJurisdiction": "Wrthi'n llwytho awdurdodaeth…",
+    "nothingToFile": "Nid oes unrhyw ddatganiadau yn aros i gael eu ffeilio - mae pob cyfnod caeedig yn cael ei gyflwyno.",
+    "fileNext": "Ffeil nesaf: {{name}}",
+    "steps": {
+      "review": "Adolygu",
+      "validate": "Dilysu",
+      "declare": "Datgan a chyflwyno",
+      "ack": "Cydnabyddiaeth"
+    },
+    "runValidation": "Rhedeg dilysu",
+    "validating": "Wrthi'n dilysu…",
+    "submit": "Cyflwyno {{form}}",
+    "submitting": "Wrthi'n cyflwyno…",
+    "declaration": "Rwy'n datgan bod y wybodaeth yn y datganiad hwn yn wir ac yn gyflawn, a bod gennyf awdurdod i'w chyflwyno i {{authority}}.",
+    "netAmount": "Swm net",
+    "submitted": "Cyflwynwyd",
+    "filedOn": "Wedi'i ffeilio ymlaen",
+    "regime": {
+      "authority": "Awdurdod",
+      "channel": "Sianel ffeilio",
+      "return": "Dychwelyd",
+      "due": "Yn ddyledus",
+      "standardRate": "Cyfradd safonol",
+      "threshold": "Trothwy cofrestru"
+    },
+    "demoNote": "Data demo o'r API treth ffug adeiledig - efelychir ffeilio a thaliadau ac nid oes dim yn cael ei anfon at awdurdod treth."
+  },
+  "fx": {
+    "title": "Arian Tramor",
+    "subtitle": "Arian cyfred sylfaenol {{base}} · cyfraddau marchnad ffug dangosol",
+    "newDoc": "Anfoneb / bil FX newydd",
+    "kpi": {
+      "netExposure": "Amlygiad FX net",
+      "openDocs": "{{count}} dogfen agored",
+      "unrealized": "Enillion / colled heb eu gwireddu",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Wedi'i sylweddoli eleni",
+      "lastReval": "Ailbrisiad diwethaf",
+      "never": "Byth",
+      "suggested": "Awgrymir: {{date}}"
+    },
+    "view": {
+      "open": "Agor eitemau",
+      "settled": "Wedi setlo",
+      "revaluation": "Ailbrisiad diwedd mis",
+      "journal": "Cyfnodolyn FX"
+    },
+    "col": {
+      "document": "Dogfen",
+      "type": "Math",
+      "openForeign": "Agored (tramor)",
+      "bookedNow": "Wedi archebu / nawr",
+      "valueIn": "Gwerth yn {{base}}",
+      "unrealized": "Heb ei wireddu",
+      "status": "Statws",
+      "amount": "Swm",
+      "bookedRate": "Cyfradd a archebwyd",
+      "realized": "Wedi sylweddoli"
+    },
+    "receivable": "Derbyniadwy",
+    "payable": "Taladwy",
+    "receive": "Derbyn",
+    "pay": "Talu",
+    "netIn": "Rhwydo yn {{base}}",
+    "state": {
+      "settled": "Wedi setlo",
+      "partial": "Rhan-sefydlog",
+      "open": "Agored"
+    },
+    "demoNote": "Data demo o'r API ffug adeiledig - mae cyfraddau'n cael eu hefelychu, nid data marchnad byw."
+  }
+}

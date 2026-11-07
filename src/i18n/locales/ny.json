@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Tsiku ndi tsiku",
+      "finance": "Zachuma",
+      "advanced": "Zapamwamba"
+    },
+    "mainMenu": "Main Menyu",
+    "short": {
+      "parties": "Maphwando"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Zogulitsa",
+      "receivables": "Money In",
+      "procurement": "Zogula",
+      "payables": "Ndalama Zakunja",
+      "cashbank": "Cash & Bank",
+      "expenses": "Ndalama",
+      "tax": "Msonkho",
+      "reports": "Malipoti",
+      "advanced-features": "Zapamwamba Mbali",
+      "parties": "Makasitomala & Suppliers",
+      "inventory": "Zinthu",
+      "assets": "Katundu Wokhazikika",
+      "masters": "Kukhazikitsa & Kusintha",
+      "business-tools": "Gulu & Zida",
+      "party-tools": "Zida Zaphwando",
+      "item-tools": "Zinthu Zida",
+      "storage": "Zolemba",
+      "alerts": "Zidziwitso",
+      "migration": "Kusamuka kwa Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Mwachidule",
+        "cash-flow": "Malowedwe andalama",
+        "tax-calendar": "Kalendala ya Misonkho"
+      },
+      "sales": {
+        "quotations": "Zolemba",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Kutumiza Challan",
+        "receipts": "Chiphaso",
+        "invoice-desk": "Desk ya Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Money In Center",
+        "receivables": "Zolandila",
+        "payments-received": "Malipiro Alandilidwa",
+        "overdue-collections": "Zosonkhanitsa & Zikumbutso",
+        "credit-notes": "Ndemanga za Ngongole & Kubweza",
+        "sales-returns": "Kubweza Zogulitsa",
+        "customer-statements": "Ndemanga za Makasitomala",
+        "payment-links": "Malipiro Maulalo"
+      },
+      "procurement": {
+        "purchase-center": "Purchase Center",
+        "purchase-orders": "Gulani Malamulo",
+        "goods-receipt": "Chiphaso cha Katundu",
+        "purchase-invoices": "Gulani ma invoice",
+        "payment-out": "Malipiro Apangidwa",
+        "returns-debit-notes": "Zobweza & Ndemanga za Debit",
+        "bill-approvals": "Kuvomereza kwa Bill"
+      },
+      "payables": {
+        "bills": "Pay Center",
+        "payments": "Malipiro a Supplier",
+        "workforce": "Ogwira ntchito",
+        "adjustments": "Zosintha",
+        "bank-release": "Kutulutsidwa kwa Banki"
+      },
+      "cashbank": {
+        "bank-accounts": "Maakaunti Anga",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Petty Cash",
+        "contra": "Pakati pa Akaunti",
+        "cheque-register": "Macheke",
+        "foreign-currency": "Ndalama Zakunja",
+        "bank-feeds": "Zakudya Zaku Banki",
+        "bank-rules": "Malamulo & Kuyanjanitsa"
+      },
+      "expenses": {
+        "expense-center": "Ndalama Zonse",
+        "categories": "Mitundu ya Ndalama",
+        "automated-bills": "Ndalama Zobwerezedwa",
+        "journal-vouchers": "Zolemba pamanja",
+        "provisions": "Zowonjezera",
+        "write-offs": "Zolemba",
+        "period-close": "Mwezi-Kutha"
+      },
+      "tax": {
+        "gst-returns": "Chithunzi cha GST",
+        "gst-filing-wizard": "⚡ Fayilo ya GSTR-3B",
+        "gst-reconciliation": "Kusinthana kwa GST",
+        "e-invoicing": "E-ma invoice",
+        "e-way-bills": "Malipiro a E-Way",
+        "tds": "TDS",
+        "tcs": "Mtengo wa TCS",
+        "tax-payments": "Lipirani Msonkho",
+        "quarterly-compliance": "Kalendala Yotsatira",
+        "ca-access": "CA Kufikira Kwakanthawi",
+        "gst-from-books": "GST kuchokera ku Mabuku"
+      },
+      "reports": {
+        "financial-statements": "Malipoti azachuma",
+        "books": "Mabuku a Transaction",
+        "gst-reports": "Malipoti a GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Phindu",
+        "period-comparatives": "Kuyerekeza Chaka",
+        "budget-vs-actuals": "Bajeti Tracker",
+        "cashflow-projection": "Zoneneratu za Cash",
+        "report-builder": "Malipoti Amakonda",
+        "general-ledger": "General Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Mwachidule"
+      },
+      "parties": {
+        "all-parties": "Maphwando Onse",
+        "customer-ledgers": "Makasitomala",
+        "supplier-ledgers": "Othandizira",
+        "shared-ledger": "Shared Ledger",
+        "statements": "Ndemanga",
+        "reminders": "Zikumbutso",
+        "documents": "Zolemba Zachipani",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate kuphatikiza",
+        "gap-analysis": "Gap Analysis"
+      },
+      "inventory": {
+        "inventory-items": "Zinthu",
+        "godowns": "Malo osungira",
+        "stock-movement": "Stock Movement",
+        "item-pricing": "Mitengo",
+        "stock-valuation": "Stock Valuation",
+        "reorder-alerts": "Konzaninso Zidziwitso",
+        "batch-serials": "Gulu & Seri",
+        "barcode-labels": "Zolemba za Barcode",
+        "item-import": "Kulowetsa Zinthu",
+        "gap-analysis": "Gap Analysis"
+      },
+      "assets": {
+        "asset-register": "Mndandanda wa Katundu",
+        "depreciation": "Kutsika mtengo",
+        "disposal-revaluation": "Gulitsani kapena Kuonjezera Mtengo"
+      },
+      "masters": {
+        "chart-of-accounts": "Mndandanda wa Akaunti",
+        "tax-masters": "Mitengo ya Misonkho",
+        "cost-centers": "Malo Ofunika",
+        "voucher-types": "Mitundu Yamalonda",
+        "opening-balances": "Kuyambira Mabalance",
+        "currencies": "Ndalama"
+      },
+      "business-tools": {
+        "staff-payroll": "Malipiro",
+        "manage-users": "Kugwiritsa Ntchito",
+        "online-orders": "Maoda Paintaneti",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Zolemba Zachipani",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate kuphatikiza",
+        "gap-analysis": "Gap Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Konzaninso Zidziwitso",
+        "batch-serials": "Gulu & Seri",
+        "barcode-labels": "Zolemba za Barcode",
+        "item-import": "Kulowetsa Zinthu",
+        "gap-analysis": "Gap Analysis"
+      },
+      "storage": {
+        "client-storage": "Makasitomala owona",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Zidziwitso za Accountant",
+        "compliance-alerts": "Zidziwitso Zakutsata",
+        "cash-risk-alerts": "Zochenjeza za Ndalama ndi Zowopsa",
+        "ca-access": "CA Kufikira Kwakanthawi"
+      },
+      "migration": {
+        "import": "Lowetsani Deta",
+        "export": "Tumizani Deta",
+        "history": "Mbiri Yakale",
+        "tally-import": "Lowetsani kuchokera ku Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Zogula & Malipiro",
+      "accountingSetup": "Kupanga Akaunti",
+      "dataDocuments": "Deta & Zolemba"
+    }
+  },
+  "common": {
+    "save": "Sungani Zosintha",
+    "cancel": "Letsani",
+    "create": "Pangani",
+    "edit": "Sinthani",
+    "delete": "Chotsani",
+    "search": "Sakani",
+    "connect": "Lumikizani",
+    "configure": "Konzani",
+    "disconnect": "Lumikizani",
+    "sync": "Lunzanitsa Tsopano",
+    "close": "Tsekani",
+    "reset": "Bwezerani ku Zosasintha",
+    "back": "Kubwerera",
+    "continue": "Pitirizani",
+    "all": "Zonse",
+    "retry": "Yesaninso",
+    "loading": "Tikutsegula...",
+    "resetDemo": "Bwezeretsani deta yowonetsera"
+  },
+  "shell": {
+    "searchPlaceholder": "Sakani chilichonse…",
+    "settings": "Zokonda",
+    "language": "Chiyankhulo",
+    "role": "Udindo",
+    "greeting": {
+      "morning": "M'mawa wabwino",
+      "afternoon": "Masana abwino",
+      "evening": "Madzulo abwino"
+    },
+    "settingsItems": {
+      "company-profile": "Mbiri Yakampani",
+      "configuration": "Kusintha",
+      "fiscal-periods": "Nthawi Zachuma",
+      "roles": "Maudindo & Ogwiritsa Ntchito",
+      "integrations": "Kuphatikiza",
+      "notifications": "Zidziwitso",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Wopanga & API"
+    },
+    "translatedLanguages": "Kumasuliridwa",
+    "untranslatedLanguages": "Chingerezi mpaka kumasulira"
+  },
+  "status": {
+    "filed": "Yafayilo",
+    "ready": "Takonzeka kufayilo",
+    "open": "Nthawi yotsegulidwa",
+    "paid": "Zolipidwa",
+    "pending": "Ikuyembekezera",
+    "accepted": "Adalandiridwa",
+    "delivered": "Zaperekedwa",
+    "rejected": "Wakanidwa",
+    "pdf-sent": "PDF yatumizidwa",
+    "not-sent": "Osatumizidwa",
+    "matched": "Zofanana",
+    "mismatch": "Zosagwirizana",
+    "missing-supplier": "Sananenedwe ndi ogulitsa",
+    "missing-books": "Zosowa m'mabuku",
+    "deferred": "Yachedwetsedwa",
+    "deducted": "Adachotsedwa",
+    "remitted": "Zachotsedwa",
+    "certified": "Wotsimikizika",
+    "to-report": "Kupereka lipoti",
+    "reported": "Adanenedwa",
+    "accounted": "Nkhani",
+    "overdue": "Zachedwa"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Takonzeka kufayilo",
+      "liabilityDue": "Zoyenera kuchita",
+      "paidThisYear": "Analipira chaka chino",
+      "nextDeadline": "Tsiku lomaliza lotsatira",
+      "noneOverdue": "Palibe mochedwa",
+      "overdue": "{{count}} yachedwa"
+    },
+    "filter": {
+      "ready": "Takonzeka kufayilo",
+      "open": "Tsegulani",
+      "filed": "Yafayilo"
+    },
+    "col": {
+      "period": "Nthawi",
+      "authority": "Ulamuliro",
+      "rate": "Mtengo",
+      "due": "Chifukwa",
+      "netPayable": "Ndalama zolipirira",
+      "status": "Mkhalidwe",
+      "ack": "Kuyamikira"
+    },
+    "file": "Fayilo",
+    "view": "Onani",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Tikutsegula malo...",
+    "nothingToFile": "Palibe zobweza zomwe zikuyembekezeredwa kutumizidwa - nthawi zonse zotsekedwa zimatumizidwa.",
+    "fileNext": "Fayilo lotsatira: {{name}}",
+    "steps": {
+      "review": "Ndemanga",
+      "validate": "Tsimikizirani",
+      "declare": "Nenani & perekani",
+      "ack": "Kuyamikira"
+    },
+    "runValidation": "Thamangani kutsimikizira",
+    "validating": "Kutsimikizira…",
+    "submit": "Submit {{form}}",
+    "submitting": "Kutumiza...",
+    "declaration": "Ndikulengeza kuti zomwe zili m'bukuli ndi zoona komanso zonse, ndipo ndaloledwa kuzipereka ku {{authority}}.",
+    "netAmount": "Ndalama zonse",
+    "submitted": "Zatumizidwa",
+    "filedOn": "Yasungidwa",
+    "regime": {
+      "authority": "Ulamuliro",
+      "channel": "Kulemba kanjira",
+      "return": "Bwererani",
+      "due": "Chifukwa",
+      "standardRate": "Mtengo wokhazikika",
+      "threshold": "Mlingo wolembetsa"
+    },
+    "demoNote": "Demo Demo kuchokera ku API yamisonkho yomangidwa - zolembera ndi zolipira zimayerekezedwa ndipo palibe chomwe chimatumizidwa kwa olamulira amisonkho."
+  },
+  "fx": {
+    "title": "Ndalama Zakunja",
+    "subtitle": "Ndalama zoyambira {{base}} · zowonetsa pamsika",
+    "newDoc": "New FX invoice / bilu",
+    "kpi": {
+      "netExposure": "Kuwonekera kwa Net FX",
+      "openDocs": "{{count}} zikalata zotsegula",
+      "unrealized": "Kupeza / kutayika kosatheka",
+      "postedSplit": "{{posted}} adayika · {{unposted}} palibe",
+      "realized": "Anazindikira chaka chino",
+      "lastReval": "Kuwerengera komaliza",
+      "never": "Ayi",
+      "suggested": "Zomwe mungakonde: {{date}}"
+    },
+    "view": {
+      "open": "Tsegulani zinthu",
+      "settled": "Wakhazikika",
+      "revaluation": "Kuwerengera kumapeto kwa mwezi",
+      "journal": "FX magazini"
+    },
+    "col": {
+      "document": "Chikalata",
+      "type": "Mtundu",
+      "openForeign": "Tsegulani (zachilendo)",
+      "bookedNow": "Yasungidwa / pano",
+      "valueIn": "Mtengo mu {{base}}",
+      "unrealized": "Zosazindikirika",
+      "status": "Mkhalidwe",
+      "amount": "Ndalama",
+      "bookedRate": "Mtengo wosungitsidwa",
+      "realized": "Kuzindikira"
+    },
+    "receivable": "Zovomerezeka",
+    "payable": "Zolipira",
+    "receive": "Landirani",
+    "pay": "Lipirani",
+    "netIn": "Ukonde mu {{base}}",
+    "state": {
+      "settled": "Wakhazikika",
+      "partial": "Gawo lokhazikika",
+      "open": "Tsegulani"
+    },
+    "demoNote": "Demo data kuchokera ku mock-in mock API - mitengo imayerekezedwa, osati msika wamoyo."
+  }
+}

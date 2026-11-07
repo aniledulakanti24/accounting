@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Gbesiagbe",
+      "finance": "Ga zazã",
+      "advanced": "De ŋgɔ"
+    },
+    "mainMenu": "Menu Gãtɔ",
+    "short": {
+      "parties": "Ƒuƒoƒowo"
+    },
+    "sections": {
+      "dashboard": "Dashboard ƒe ʋuƒo",
+      "sales": "Nudzadzra",
+      "receivables": "Ga Le",
+      "procurement": "Nuƒleƒewo",
+      "payables": "Ga Dodo",
+      "cashbank": "Ga & Gadzraɖoƒe",
+      "expenses": "Gagbegblẽ",
+      "tax": "Adzɔxexe",
+      "reports": "Nyatakakawo",
+      "advanced-features": "Nɔnɔme Deŋgɔwo",
+      "parties": "Asitsalawo & Nudzralawo",
+      "inventory": "Nuwo",
+      "assets": "Nunɔamesi Siwo Mekpɔa Nu O",
+      "masters": "Ðoɖowɔwɔ & Ðoɖowɔwɔ",
+      "business-tools": "Team & Dɔwɔnuwo",
+      "party-tools": "Dɔwɔnu siwo wozãna le kplɔ̃ɖoƒea",
+      "item-tools": "Nuwo ƒe Dɔwɔnuwo",
+      "storage": "Nuŋlɔɖiwo",
+      "alerts": "Nuxlɔ̃amewo",
+      "migration": "Nyatakakawo ƒe Ʋuʋu"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Kpɔɖeŋu bliboa",
+        "cash-flow": "Ga si Wozãna",
+        "tax-calendar": "Adzɔxexe ƒe Ɣletigbalẽ"
+      },
+      "sales": {
+        "quotations": "Nyayɔyɔwo",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Febugbalẽ",
+        "delivery-challans": "Challan si tsɔa nuawo yinae",
+        "receipts": "Fexegbalẽ",
+        "invoice-desk": "Adzɔxexe ƒe Dɔwɔƒe"
+      },
+      "receivables": {
+        "money-in-center": "Ga Le Titina",
+        "receivables": "Nusiwo woaxɔ",
+        "payments-received": "Fexexe Siwo Woxɔ",
+        "overdue-collections": "Nuƒoƒoƒu & Ŋkuɖodzinyawo",
+        "credit-notes": "Gaxɔgbalẽviwo & Gagbugbɔɖoɖowo",
+        "sales-returns": "Nudzadzra ƒe Trɔtrɔwo",
+        "customer-statements": "Asitsalawo ƒe Nyatakakawo",
+        "payment-links": "Fexexe ƒe Kadodowo"
+      },
+      "procurement": {
+        "purchase-center": "Nuƒleƒe ƒe Dɔwɔƒe",
+        "purchase-orders": "Nuƒleƒe ƒe Sededewo",
+        "goods-receipt": "Adzɔnuwo ƒe Xɔxɔ",
+        "purchase-invoices": "Ƒle ƒe Adzɔxegbalẽviwo",
+        "payment-out": "Fexexe Siwo Woxe",
+        "returns-debit-notes": "Trɔtrɔ & Debit Notes",
+        "bill-approvals": "Bill ƒe Dadaɖeanyi"
+      },
+      "payables": {
+        "bills": "Fexexe ƒe Dɔwɔƒe",
+        "payments": "Nudzralawo ƒe Fexexe",
+        "workforce": "Dɔwɔlawo ƒe ŋusẽ",
+        "adjustments": "Asitɔtrɔwo",
+        "bank-release": "Gadzraɖoƒe ƒe Asiɖeɖe le Nu Ŋu"
+      },
+      "cashbank": {
+        "bank-accounts": "Nye Akɔntabubuwo",
+        "reconciliation": "Tsɔ Asitsatsa Siwo Sɔ Kple Wo Nɔewo",
+        "cash-petty": "Ga Suesuewo",
+        "contra": "Le Akɔntabubuwo Dome",
+        "cheque-register": "Checks",
+        "foreign-currency": "Dutatɔwo ƒe Ga",
+        "bank-feeds": "Gadzraɖoƒe ƒe Nuɖuɖuwo",
+        "bank-rules": "Sewo & Dzadzraɖo"
+      },
+      "expenses": {
+        "expense-center": "Gazazãwo Katã",
+        "categories": "Gazazã Ƒomeviwo",
+        "automated-bills": "Gazazã siwo Yia Eme",
+        "journal-vouchers": "Asiŋɔŋlɔ ƒe Nyawo",
+        "provisions": "Nusiwo woƒo ƒu",
+        "write-offs": "Nusiwo woŋlɔna ɖa",
+        "period-close": "Ɣleti-Nuwuwu"
+      },
+      "tax": {
+        "gst-returns": "GST ƒe Nyatakakawo Xɔxɔ",
+        "gst-filing-wizard": "⚡ Faɛl GSTR-3B",
+        "gst-reconciliation": "GST ƒe Sɔsɔ",
+        "e-invoicing": "E-Adzɔxegbalẽviwo",
+        "e-way-bills": "E-Way ƒe Sewo",
+        "tds": "TDS ƒe agbalẽ",
+        "tcs": "TCS",
+        "tax-payments": "Xe Adzɔ",
+        "quarterly-compliance": "Sedziwɔwɔ ƒe Ɣletigbalẽ",
+        "ca-access": "CA Ɣeyiɣi kpui aɖe ƒe Mɔɖeɖe",
+        "gst-from-books": "GST tso Agbalẽwo me"
+      },
+      "reports": {
+        "financial-statements": "Ganyawo Ŋuti Nyatakakawo",
+        "books": "Asitsatsa Ŋuti Agbalẽwo",
+        "gst-reports": "GST ƒe Nyatakakawo",
+        "ar-ap": "Nusiwo Woaxɔ vs Nusiwo Woaxe",
+        "profitability": "Viɖekpɔkpɔ",
+        "period-comparatives": "Ƒe Siwo Wotsɔ Sɔ Kple Wo Nɔewo",
+        "budget-vs-actuals": "Gazazã Ŋuti Mɔfiame",
+        "cashflow-projection": "Ganyawo Ŋuti Nyagblɔɖi",
+        "report-builder": "Nyatakaka Siwo Wowɔ Ðe Ðoɖo Nu",
+        "general-ledger": "Agbalẽ Gãwo ƒe Agbalẽ",
+        "live-financials": "Ganyawo Ŋuti Nyatakaka Siwo Le Agbe",
+        "ai-analyst": "AI Numekula"
+      },
+      "advanced-features": {
+        "overview": "Kpɔɖeŋu bliboa"
+      },
+      "parties": {
+        "all-parties": "Akpa eveawo katã",
+        "customer-ledgers": "Asitsalawo",
+        "supplier-ledgers": "Nudzralawo",
+        "shared-ledger": "Ledger si Woama",
+        "statements": "Nyagbɔgblɔwo",
+        "reminders": "Ŋkuɖodzinyawo",
+        "documents": "Akpadzikpɔha ƒe Nuŋlɔɖiwo",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge (Tɔka Ðekae).",
+        "gap-analysis": "Dodokpɔwo Ŋuti Numekuku"
+      },
+      "inventory": {
+        "inventory-items": "Nuwo",
+        "godowns": "Nudzraɖoƒewo",
+        "stock-movement": "Stock ƒe Ʋuʋu",
+        "item-pricing": "Ga home si woaxe",
+        "stock-valuation": "Adzɔnuwo ƒe Asixɔxɔ dede Adzɔnuwo Ŋu",
+        "reorder-alerts": "Gbugbɔ Ðoɖo Nuxlɔ̃amewo",
+        "batch-serials": "Batch & Serial ƒe ƒuƒoƒo",
+        "barcode-labels": "Barcode ƒe Ŋkɔwo",
+        "item-import": "Nusiwo Wotsɔ Va Duta",
+        "gap-analysis": "Dodokpɔwo Ŋuti Numekuku"
+      },
+      "assets": {
+        "asset-register": "Nuwo ƒe Ŋkɔwo ƒe Ŋkɔwo",
+        "depreciation": "Asixɔxɔ ƒe ɖiɖi",
+        "disposal-revaluation": "Dzra alo Gbugbɔ de asixɔxɔe"
+      },
+      "masters": {
+        "chart-of-accounts": "Akɔntabubuwo ƒe Ŋkɔwo",
+        "tax-masters": "Adzɔxexe ƒe Agbɔsɔsɔme",
+        "cost-centers": "Gazazã Ŋuti Dɔwɔƒewo",
+        "voucher-types": "Asitsatsa Ƒomeviwo",
+        "opening-balances": "Dzesidede Dadaɖeanyiwo",
+        "currencies": "Gawo"
+      },
+      "business-tools": {
+        "staff-payroll": "Fetu ƒe xexlẽdzesiwo",
+        "manage-users": "Zãla ƒe Mɔɖeɖe",
+        "online-orders": "Nudɔdɔwo le Internet Dzi",
+        "sms-marketing": "SMS Asitsatsa",
+        "accountant-hub": "Akɔntanyala & Kpekpeɖeŋunana"
+      },
+      "party-tools": {
+        "documents": "Akpadzikpɔha ƒe Nuŋlɔɖiwo",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge (Tɔka Ðekae).",
+        "gap-analysis": "Dodokpɔwo Ŋuti Numekuku"
+      },
+      "item-tools": {
+        "reorder-alerts": "Gbugbɔ Ðoɖo Nuxlɔ̃amewo",
+        "batch-serials": "Batch & Serial ƒe ƒuƒoƒo",
+        "barcode-labels": "Barcode ƒe Ŋkɔwo",
+        "item-import": "Nusiwo Wotsɔ Va Duta",
+        "gap-analysis": "Dodokpɔwo Ŋuti Numekuku"
+      },
+      "storage": {
+        "client-storage": "Asitsalawo ƒe Faɛlwo",
+        "unifiedtree-storage": "Alilikpo me Nudzraɖoƒe"
+      },
+      "alerts": {
+        "accountant-alerts": "Akɔntanyala ƒe Nuxlɔ̃amewo",
+        "compliance-alerts": "Nuxlɔ̃ame Siwo Ku Ðe Sedziwɔwɔ Ŋu",
+        "cash-risk-alerts": "Ga & Afɔku Ŋuti Nuxlɔ̃amewo",
+        "ca-access": "CA Ɣeyiɣi kpui aɖe ƒe Mɔɖeɖe"
+      },
+      "migration": {
+        "import": "Nyatakakawo Tsɔtsɔ Va Duta",
+        "export": "Nyatakakawo Ðoɖo Ðe Duta",
+        "history": "Nusiwo Wotsɔ Va Duta ƒe Ŋutinya",
+        "tally-import": "Tsɔe tso Tally & Zoho gbɔ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Nuƒle & Fexexe",
+      "accountingSetup": "Akɔntabubu ƒe Ðoɖowɔwɔ",
+      "dataDocuments": "Nyatakakawo & Nuŋlɔɖiwo"
+    }
+  },
+  "common": {
+    "save": "Dzra Tɔtrɔwo Ðo",
+    "cancel": "Te fli ɖe eme",
+    "create": "Wᴐ",
+    "edit": "Wɔ tɔtrɔ",
+    "delete": "Ɖe ɖa",
+    "search": "Di",
+    "connect": "Doka",
+    "configure": "Ðoɖowɔwɔ ɖe eŋu",
+    "disconnect": "Ðe kadodoa ɖa",
+    "sync": "Sync Fifia",
+    "close": "Tu",
+    "reset": "Gbugbɔ ɖoe ɖe Defaults dzi",
+    "back": "Megbe",
+    "continue": "Yi edzi",
+    "all": "Katã",
+    "retry": "Gadze agbagba ake",
+    "loading": "Wole agba tsɔm...",
+    "resetDemo": "Gbugbɔ ɖo demo data la ɖe ɖoɖo nu"
+  },
+  "shell": {
+    "searchPlaceholder": "Di nusianu...",
+    "settings": "Ðoɖowo",
+    "language": "Gbegbᴐgblᴐ",
+    "role": "Wɔƒe",
+    "greeting": {
+      "morning": "Ŋdi",
+      "afternoon": "Ŋdᴐ",
+      "evening": "Fiɛ̃"
+    },
+    "settingsItems": {
+      "company-profile": "Dɔwɔƒea ƒe Nyatakaka",
+      "configuration": "Ðoɖowɔwɔ",
+      "fiscal-periods": "Ganyawo ƒe Ɣeyiɣiwo",
+      "roles": "Dɔwo & Zãlawo",
+      "integrations": "Nuwɔwɔ ɖekae",
+      "notifications": "Nyatakakawo",
+      "audit-logs": "Dɔdzikpɔkpɔ & Nuŋlɔɖiwo",
+      "audit-trail": "Akɔntabubu Mɔ si dzi womate ŋu atrɔ asi le o",
+      "developer": "Dɔwɔla & API"
+    },
+    "translatedLanguages": "Woɖe egɔme",
+    "untranslatedLanguages": "Eŋlisigbe vaseɖe esime woaɖe egɔme"
+  },
+  "status": {
+    "filed": "Wotsɔe yi ʋɔnui",
+    "ready": "Dzra ɖo be yeatsɔe ade agbalẽ me",
+    "open": "Ɣeyiɣia ʋu",
+    "paid": "Xe fe",
+    "pending": "Le lalam",
+    "accepted": "Wolɔ̃ ɖe edzi",
+    "delivered": "Woɖee",
+    "rejected": "Wogbee",
+    "pdf-sent": "PDF si woɖo ɖa",
+    "not-sent": "Womeɖoe ɖa o",
+    "matched": "Wosɔ kple wo nɔewo",
+    "mismatch": "Masɔmasɔ",
+    "missing-supplier": "Menye nudzralae ka nya tae o",
+    "missing-books": "Bu le agbalẽwo me",
+    "deferred": "Wohe ɖe megbe",
+    "deducted": "Woɖea ga le eme",
+    "remitted": "Woɖe asi le eŋu",
+    "certified": "Woɖo kpe edzi",
+    "to-report": "Be woaka nya ta",
+    "reported": "Woka nya ta le eŋu",
+    "accounted": "Wobu akɔnta le eŋu",
+    "overdue": "Ɣeyiɣia gbɔ eme"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Dzra ɖo be yeatsɔe ade agbalẽ me",
+      "liabilityDue": "Agbanɔamedzi si wòle be woaxe",
+      "paidThisYear": "Woxe fe nɛ le ƒe sia me",
+      "nextDeadline": "Ɣeyiɣi mamlɛtɔ si kplɔe ɖo",
+      "noneOverdue": "Ðeke metsi megbe o",
+      "overdue": "{{count}} ƒe ɣeyiɣia tsi megbe"
+    },
+    "filter": {
+      "ready": "Dzra ɖo be yeatsɔe ade agbalẽ me",
+      "open": "Ʋu",
+      "filed": "Wotsɔe yi ʋɔnui"
+    },
+    "col": {
+      "period": "Ɣeyiɣi",
+      "authority": "Ŋusẽ",
+      "rate": "Asixᴐxᴐ",
+      "due": "Si li",
+      "netPayable": "Net si woaxe",
+      "status": "Ɖoƒe",
+      "ack": "Lɔlɔ̃ ɖe edzi"
+    },
+    "file": "Agbalẽ",
+    "view": "Kpᴐ",
+    "fileForm": "Faɛl {{form}} .",
+    "loadingJurisdiction": "Loading ʋɔnudrɔ̃ƒe ƒe ŋusẽ...",
+    "nothingToFile": "Womele lalam be woatsɔ agbalẽvi aɖeke ana o — wotsɔa ɣeyiɣi siwo katã wotu la ɖona ɖa.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Dzro eme",
+      "validate": "Tsɔe da asi ɖe edzi",
+      "declare": "Ðe gbeƒã & tsɔe ɖo ɖa",
+      "ack": "Lɔlɔ̃ ɖe edzi"
+    },
+    "runValidation": "Ƒu du ƒe kpeɖodzinana",
+    "validating": "Validating...",
+    "submit": "Ðo {{form}} ɖa.",
+    "submitting": "Wole eɖoɖom ɖe...",
+    "declaration": "Meɖe gbeƒãe be nyatakaka siwo le agbalẽvi sia me la nye nyateƒe eye wole blibo, eye be woɖe mɔ nam be matsɔ wo ana {{authority}}.",
+    "netAmount": "Ga home ŋutɔŋutɔ",
+    "submitted": "Wotsɔe ɖo ɖa",
+    "filedOn": "Wotsɔe de agbalẽ me le",
+    "regime": {
+      "authority": "Ŋusẽ",
+      "channel": "Filing ƒe mɔnu",
+      "return": "Trᴐ gbᴐ",
+      "due": "Si li",
+      "standardRate": "Standard rate",
+      "threshold": "Ŋkɔ ŋɔŋlɔ ƒe dzidzenu"
+    },
+    "demoNote": "Demo data tso mock tax API si wotu ɖe eme — wowɔa agbalẽwo kple fexexe ƒe kpɔɖeŋu eye womeɖoa naneke ɖe adzɔxeha aɖeke o."
+  },
+  "fx": {
+    "title": "Dutatɔwo ƒe Ga",
+    "subtitle": "Base ga {{base}} · fia mock asi ƒe agbɔsɔsɔme",
+    "newDoc": "FX ƒe adzɔxegbalẽvi / fetu yeye",
+    "kpi": {
+      "netExposure": "Net FX ƒe ɖeɖefia",
+      "openDocs": "{{count}} ʋu nuŋlɔɖiwo",
+      "unrealized": "Viɖe / nusiwo bu si womekpɔ dze sii o",
+      "postedSplit": "{{posted}} posted · {{unposted}} meɖoe haɖe o",
+      "realized": "Wokpɔe dze sii le ƒe sia me",
+      "lastReval": "Asixɔxɔ yeye ƒe asixɔxɔ mamlɛtɔ",
+      "never": "Gbɛɖɛ",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Ʋu nuawo",
+      "settled": "Woɖoe anyi",
+      "revaluation": "Ɣletia ƒe nuwuwu ƒe asixɔxɔ yeye",
+      "journal": "FX ƒe magazine"
+    },
+    "col": {
+      "document": "Agbalẽ",
+      "type": "Ƒomevi",
+      "openForeign": "Ʋuʋu (duta) .",
+      "bookedNow": "Woŋlɔ agbalẽ / fifia",
+      "valueIn": "Asixɔxɔ le {{base}} me.",
+      "unrealized": "Womekpɔe dze sii o",
+      "status": "Ɖoƒe",
+      "amount": "Home",
+      "bookedRate": "Woŋlɔ agbalẽ ƒe fetu",
+      "realized": "De dzesi"
+    },
+    "receivable": "Nusiwo woaxɔ",
+    "payable": "Woxea fe na ame",
+    "receive": "Xᴐ",
+    "pay": "Xe fe",
+    "netIn": "Net le {{base}} me.",
+    "state": {
+      "settled": "Woɖoe anyi",
+      "partial": "Woɖoe le akpa aɖe me",
+      "open": "Ʋu"
+    },
+    "demoNote": "Demo nyatakakawo tso mock API si wotu ɖe eme — wowɔa asiwo ƒe kpɔɖeŋu, ke menye asi ŋuti nyatakaka siwo le agbe o."
+  }
+}

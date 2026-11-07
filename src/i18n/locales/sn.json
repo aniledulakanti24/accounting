@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Zuva Nezuva",
+      "finance": "Finance",
+      "advanced": "Advanced"
+    },
+    "mainMenu": "Main Menu",
+    "short": {
+      "parties": "Mapato"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Sales",
+      "receivables": "Money In",
+      "procurement": "Purchases",
+      "payables": "Money Out",
+      "cashbank": "Cash & Bank",
+      "expenses": "Expenses",
+      "tax": "Mutero",
+      "reports": "Reports",
+      "advanced-features": "Advanced Features",
+      "parties": "Vatengi & Vatengesi",
+      "inventory": "Items",
+      "assets": "Fixed Assets",
+      "masters": "Setup & Configuration",
+      "business-tools": "Chikwata & Zvishandiso",
+      "party-tools": "Party Tools",
+      "item-tools": "Item Tools",
+      "storage": "Zvinyorwa",
+      "alerts": "Alerts",
+      "migration": "Data Migration"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Overview",
+        "cash-flow": "Kuyerera Kwemari",
+        "tax-calendar": "Mutero Karenda"
+      },
+      "sales": {
+        "quotations": "Zvinyorwa",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Delivery Challan",
+        "receipts": "Receipt",
+        "invoice-desk": "Invoice Desk"
+      },
+      "receivables": {
+        "money-in-center": "Money In Center",
+        "receivables": "Zvinogamuchirwa",
+        "payments-received": "Payments Yagamuchirwa",
+        "overdue-collections": "Kuunganidzwa & Zviyeuchidzo",
+        "credit-notes": "Chikwereti Notes & Refunds",
+        "sales-returns": "Sales Returns",
+        "customer-statements": "Customer Statements",
+        "payment-links": "Payment Links"
+      },
+      "procurement": {
+        "purchase-center": "Purchase Center",
+        "purchase-orders": "Purchase Orders",
+        "goods-receipt": "Receipt Yezvinhu",
+        "purchase-invoices": "Purchase Invoice",
+        "payment-out": "Payments Yakaitwa",
+        "returns-debit-notes": "Returns & Debit Notes",
+        "bill-approvals": "Bvunzurudzo dzeBill"
+      },
+      "payables": {
+        "bills": "Pay Center",
+        "payments": "Supplier Payments",
+        "workforce": "Vashandi",
+        "adjustments": "Kugadziridza",
+        "bank-release": "Bank Release"
+      },
+      "cashbank": {
+        "bank-accounts": "Maakaundi angu",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Petty Cash",
+        "contra": "Between Accounts",
+        "cheque-register": "Checks",
+        "foreign-currency": "Mari Yekune dzimwe nyika",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Mitemo & Kuyananisa"
+      },
+      "expenses": {
+        "expense-center": "All Expenses",
+        "categories": "Mari Yemhando",
+        "automated-bills": "Mari Inodzokororwa",
+        "journal-vouchers": "Manual Entries",
+        "provisions": "Accruals",
+        "write-offs": "Kunyora-kubva",
+        "period-close": "Mwedzi-Kupera"
+      },
+      "tax": {
+        "gst-returns": "Kunyora GST",
+        "gst-filing-wizard": "⚡ Faira GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-invoice",
+        "e-way-bills": "E-Nzira Mabhiri",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bhadhara Mutero",
+        "quarterly-compliance": "Karenda Yekutevedzera",
+        "ca-access": "CA Kwenguva Yekuwana",
+        "gst-from-books": "GST kubva kuMabhuku"
+      },
+      "reports": {
+        "financial-statements": "Financial Reports",
+        "books": "Transaction Books",
+        "gst-reports": "GST Reports",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Profitability",
+        "period-comparatives": "Gore Kuenzanisa",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Cash Forecast",
+        "report-builder": "Custom Reports",
+        "general-ledger": "General Ledger",
+        "live-financials": "Rarama Mari",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Overview"
+      },
+      "parties": {
+        "all-parties": "Mapato ose",
+        "customer-ledgers": "Vatengi",
+        "supplier-ledgers": "Suppliers",
+        "shared-ledger": "Shared Ledger",
+        "statements": "Mashoko",
+        "reminders": "Zviyeuchidzo",
+        "documents": "Party Documents",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "inventory": {
+        "inventory-items": "Items",
+        "godowns": "Matura",
+        "stock-movement": "Stock Movement",
+        "item-pricing": "Pricing",
+        "stock-valuation": "Stock Valuation",
+        "reorder-alerts": "Rodhazve Alerts",
+        "batch-serials": "Batch & Seri",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Gap Analysis"
+      },
+      "assets": {
+        "asset-register": "Asset List",
+        "depreciation": "Kuderera",
+        "disposal-revaluation": "Tengesa kana Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Accounts List",
+        "tax-masters": "Mitero Yemitero",
+        "cost-centers": "Cost Centers",
+        "voucher-types": "Transaction Types",
+        "opening-balances": "Kutanga Balances",
+        "currencies": "Currencies"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll",
+        "manage-users": "User Access",
+        "online-orders": "Online Orders",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Party Documents",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Rodhazve Alerts",
+        "batch-serials": "Batch & Seri",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Item Import",
+        "gap-analysis": "Gap Analysis"
+      },
+      "storage": {
+        "client-storage": "Client Files",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Accountant Alerts",
+        "compliance-alerts": "Zviziviso zvekuteerera",
+        "cash-risk-alerts": "Mari & Njodzi Yengozi",
+        "ca-access": "CA Kwenguva Yekuwana"
+      },
+      "migration": {
+        "import": "Import Data",
+        "export": "Export Data",
+        "history": "Import History",
+        "tally-import": "Ngenisa kubva kuTally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Kutenga & Kubhadhara",
+      "accountingSetup": "Accounting Setup",
+      "dataDocuments": "Data & Zvinyorwa"
+    }
+  },
+  "common": {
+    "save": "Chengetedza Kuchinja",
+    "cancel": "Cancel",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "connect": "Connect",
+    "configure": "Configure",
+    "disconnect": "Dimbura",
+    "sync": "Sync Now",
+    "close": "Close",
+    "reset": "Dzorera kune Defaults",
+    "back": "Back",
+    "continue": "Enderera mberi",
+    "all": "Zvose",
+    "retry": "Edza zvakare",
+    "loading": "Loading...",
+    "resetDemo": "Reset demo data"
+  },
+  "shell": {
+    "searchPlaceholder": "Tsvaga chero chinhu...",
+    "settings": "Settings",
+    "language": "Mutauro",
+    "role": "Basa",
+    "greeting": {
+      "morning": "Mangwanani akanaka",
+      "afternoon": "Masikati akanaka",
+      "evening": "Manheru akanaka"
+    },
+    "settingsItems": {
+      "company-profile": "Profile yekambani",
+      "configuration": "Configuration",
+      "fiscal-periods": "Fiscal Perios",
+      "roles": "Mabasa & Vashandisi",
+      "integrations": "Integrations",
+      "notifications": "Notifications",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "Yakashandurwa",
+    "untranslatedLanguages": "Shona kusvika yadudzirwa"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Wagadzirira kufaira",
+    "open": "Period yakazaruka",
+    "paid": "Yakabhadharwa",
+    "pending": "Pending",
+    "accepted": "Kugamuchirwa",
+    "delivered": "Delivered",
+    "rejected": "Rambwa",
+    "pdf-sent": "PDF yakatumirwa",
+    "not-sent": "Haina kutumirwa",
+    "matched": "Yakafanana",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Haina kutaurwa nemutengesi",
+    "missing-books": "Kushaikwa mumabhuku",
+    "deferred": "Deferred",
+    "deducted": "Deducted",
+    "remitted": "Remitted",
+    "certified": "Certified",
+    "to-report": "To report",
+    "reported": "Zvataurwa",
+    "accounted": "Accounted",
+    "overdue": "Zvanonoka"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Wagadzirira kufaira",
+      "liabilityDue": "Mhosva yakafanira",
+      "paidThisYear": "Yakabhadharwa gore rino",
+      "nextDeadline": "Nguva yekupedzisira inotevera",
+      "noneOverdue": "Hapana chakanonoka",
+      "overdue": "{{count}} yanonoka"
+    },
+    "filter": {
+      "ready": "Wagadzirira kufaira",
+      "open": "Vhura",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "Period",
+      "authority": "Chiremera",
+      "rate": "Rate",
+      "due": "Zvakakodzera",
+      "netPayable": "Net inobhadharwa",
+      "status": "Status",
+      "ack": "Kutenda"
+    },
+    "file": "File",
+    "view": "View",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Kurodha nzvimbo yekutonga...",
+    "nothingToFile": "Hapana zvidzoreso zvakamirira kuiswa - nguva dzese dzakavharwa dzinoendeswa.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Ongorora",
+      "validate": "Validate",
+      "declare": "Declare & endesa",
+      "ack": "Kutenda"
+    },
+    "runValidation": "Mhanya kusimbiswa",
+    "validating": "Kusimbisa…",
+    "submit": "Submit {{form}}",
+    "submitting": "Kutumira...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Net amount",
+    "submitted": "Submitted",
+    "filedOn": "Yakafayerwa",
+    "regime": {
+      "authority": "Chiremera",
+      "channel": "Kuisa chiteshi",
+      "return": "Dzoka",
+      "due": "Zvakakodzera",
+      "standardRate": "Standard rate",
+      "threshold": "Chikumbaridzo chekunyoresa"
+    },
+    "demoNote": "Demo data kubva kune yakavakirwa-mukati mock mutero API - mafirita uye mubhadharo anoteedzerwa uye hapana chinotumirwa kune mutero chiremera."
+  },
+  "fx": {
+    "title": "Mari Yekune dzimwe nyika",
+    "subtitle": "Chekutanga mari {{base}} · indicative mock market rates",
+    "newDoc": "Nyowani FX invoice / bhiri",
+    "kpi": {
+      "netExposure": "Net FX kuratidzwa",
+      "openDocs": "{{count}} vhura magwaro",
+      "unrealized": "Kusawanikwa kuwana / kurasikirwa",
+      "postedSplit": "{{posted}} zvakatumirwa · {{unposted}} handiti",
+      "realized": "Zvakaitika gore rino",
+      "lastReval": "Last revaluation",
+      "never": "Never",
+      "suggested": "Zvinokurudzirwa: {{date}}"
+    },
+    "view": {
+      "open": "Vhura zvinhu",
+      "settled": "Settled",
+      "revaluation": "Mwedzi-kupera revaluation",
+      "journal": "FX jenari"
+    },
+    "col": {
+      "document": "Gwaro",
+      "type": "Type",
+      "openForeign": "Vhura (kunze)",
+      "bookedNow": "Booked / ikozvino",
+      "valueIn": "Kukosha mu {{base}}",
+      "unrealized": "Unrealized",
+      "status": "Status",
+      "amount": "Mari",
+      "bookedRate": "Booked rate",
+      "realized": "Realized"
+    },
+    "receivable": "Receivable",
+    "payable": "Payable",
+    "receive": "Gamuchira",
+    "pay": "Pay",
+    "netIn": "Mambure mu {{base}}",
+    "state": {
+      "settled": "Settled",
+      "partial": "Chikamu-chakagadziriswa",
+      "open": "Vhura"
+    },
+    "demoNote": "Demo data kubva kune yakavakirwa-mukati mock API - mitengo inoteedzerwa, kwete yemusika data."
+  }
+}

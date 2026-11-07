@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Sehari-hari",
+      "finance": "Keuangan",
+      "advanced": "Canggih"
+    },
+    "mainMenu": "Menu Utama",
+    "short": {
+      "parties": "Pesta"
+    },
+    "sections": {
+      "dashboard": "Dasbor",
+      "sales": "Penjualan",
+      "receivables": "Uang Masuk",
+      "procurement": "Pembelian",
+      "payables": "Uang Keluar",
+      "cashbank": "Uang Tunai & Bank",
+      "expenses": "Pengeluaran",
+      "tax": "Pajak",
+      "reports": "Laporan",
+      "advanced-features": "Fitur Lanjutan",
+      "parties": "Pelanggan & Pemasok",
+      "inventory": "Barang",
+      "assets": "Aset Tetap",
+      "masters": "Pengaturan & Konfigurasi",
+      "business-tools": "Tim & Alat",
+      "party-tools": "Alat Pesta",
+      "item-tools": "Alat Barang",
+      "storage": "Dokumen",
+      "alerts": "Peringatan",
+      "migration": "Migrasi Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ringkasan",
+        "cash-flow": "Arus Kas",
+        "tax-calendar": "Kalender Pajak"
+      },
+      "sales": {
+        "quotations": "Kutipan",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Faktur",
+        "delivery-challans": "Pengiriman Challan",
+        "receipts": "Kuitansi",
+        "invoice-desk": "Meja Faktur"
+      },
+      "receivables": {
+        "money-in-center": "Uang Di Pusat",
+        "receivables": "Piutang",
+        "payments-received": "Pembayaran Diterima",
+        "overdue-collections": "Koleksi & Pengingat",
+        "credit-notes": "Catatan Kredit & Pengembalian Dana",
+        "sales-returns": "Retur Penjualan",
+        "customer-statements": "Pernyataan Pelanggan",
+        "payment-links": "Tautan Pembayaran"
+      },
+      "procurement": {
+        "purchase-center": "Pusat Pembelian",
+        "purchase-orders": "Pesanan Pembelian",
+        "goods-receipt": "Penerimaan barang",
+        "purchase-invoices": "Faktur Pembelian",
+        "payment-out": "Pembayaran Telah Dilakukan",
+        "returns-debit-notes": "Catatan Pengembalian & Debit",
+        "bill-approvals": "Persetujuan RUU"
+      },
+      "payables": {
+        "bills": "Pusat Pembayaran",
+        "payments": "Pembayaran Pemasok",
+        "workforce": "Tenaga Kerja",
+        "adjustments": "Penyesuaian",
+        "bank-release": "Rilis Bank"
+      },
+      "cashbank": {
+        "bank-accounts": "Akun Saya",
+        "reconciliation": "Transaksi Pertandingan",
+        "cash-petty": "Kas Kecil",
+        "contra": "Antar Akun",
+        "cheque-register": "Cek",
+        "foreign-currency": "Mata Uang Asing",
+        "bank-feeds": "Umpan Bank",
+        "bank-rules": "Aturan & Rekonsiliasi"
+      },
+      "expenses": {
+        "expense-center": "Semua Biaya",
+        "categories": "Jenis Biaya",
+        "automated-bills": "Biaya Berulang",
+        "journal-vouchers": "Entri Manual",
+        "provisions": "Akrual",
+        "write-offs": "Penghapusan",
+        "period-close": "Akhir Bulan"
+      },
+      "tax": {
+        "gst-returns": "Pengajuan GST",
+        "gst-filing-wizard": "⚡ Berkas GSTR-3B",
+        "gst-reconciliation": "Pencocokan GST",
+        "e-invoicing": "E-Faktur",
+        "e-way-bills": "Tagihan E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bayar Pajak",
+        "quarterly-compliance": "Kalender Kepatuhan",
+        "ca-access": "Akses Sementara CA",
+        "gst-from-books": "GST dari Buku"
+      },
+      "reports": {
+        "financial-statements": "Laporan Keuangan",
+        "books": "Buku Transaksi",
+        "gst-reports": "Laporan GST",
+        "ar-ap": "Piutang vs Hutang",
+        "profitability": "Profitabilitas",
+        "period-comparatives": "Perbandingan Tahun",
+        "budget-vs-actuals": "Pelacak Anggaran",
+        "cashflow-projection": "Perkiraan Uang Tunai",
+        "report-builder": "Laporan Khusus",
+        "general-ledger": "Jurnal umum",
+        "live-financials": "Keuangan Langsung",
+        "ai-analyst": "Analis AI"
+      },
+      "advanced-features": {
+        "overview": "Ringkasan"
+      },
+      "parties": {
+        "all-parties": "Semua pihak",
+        "customer-ledgers": "Pelanggan",
+        "supplier-ledgers": "Pemasok",
+        "shared-ledger": "Buku Besar Bersama",
+        "statements": "Pernyataan",
+        "reminders": "Pengingat",
+        "documents": "Dokumen Partai",
+        "portal": "Portal Pesta",
+        "import": "Impor Partai",
+        "duplicate-merge": "Penggabungan Duplikat",
+        "gap-analysis": "Analisis Kesenjangan"
+      },
+      "inventory": {
+        "inventory-items": "Barang",
+        "godowns": "Gudang",
+        "stock-movement": "Pergerakan Saham",
+        "item-pricing": "Harga",
+        "stock-valuation": "Penilaian Saham",
+        "reorder-alerts": "Susun Ulang Peringatan",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Label Kode Batang",
+        "item-import": "Impor Barang",
+        "gap-analysis": "Analisis Kesenjangan"
+      },
+      "assets": {
+        "asset-register": "Daftar Aset",
+        "depreciation": "Depresiasi",
+        "disposal-revaluation": "Jual atau Revaluasi"
+      },
+      "masters": {
+        "chart-of-accounts": "Daftar Akun",
+        "tax-masters": "Tarif Pajak",
+        "cost-centers": "Pusat Biaya",
+        "voucher-types": "Jenis Transaksi",
+        "opening-balances": "Saldo Awal",
+        "currencies": "Mata uang"
+      },
+      "business-tools": {
+        "staff-payroll": "Daftar gaji",
+        "manage-users": "Akses Pengguna",
+        "online-orders": "Pesanan Daring",
+        "sms-marketing": "Pemasaran SMS",
+        "accountant-hub": "Akuntan & Dukungan"
+      },
+      "party-tools": {
+        "documents": "Dokumen Partai",
+        "portal": "Portal Pesta",
+        "import": "Impor Partai",
+        "duplicate-merge": "Penggabungan Duplikat",
+        "gap-analysis": "Analisis Kesenjangan"
+      },
+      "item-tools": {
+        "reorder-alerts": "Susun Ulang Peringatan",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Label Kode Batang",
+        "item-import": "Impor Barang",
+        "gap-analysis": "Analisis Kesenjangan"
+      },
+      "storage": {
+        "client-storage": "File Klien",
+        "unifiedtree-storage": "Penyimpanan Awan"
+      },
+      "alerts": {
+        "accountant-alerts": "Peringatan Akuntan",
+        "compliance-alerts": "Peringatan Kepatuhan",
+        "cash-risk-alerts": "Peringatan Uang Tunai & Risiko",
+        "ca-access": "Akses Sementara CA"
+      },
+      "migration": {
+        "import": "Impor Data",
+        "export": "Ekspor Data",
+        "history": "Impor Riwayat",
+        "tally-import": "Impor dari Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Pembelian & Pembayaran",
+      "accountingSetup": "Pengaturan Akuntansi",
+      "dataDocuments": "Data & Dokumen"
+    }
+  },
+  "common": {
+    "save": "Simpan Perubahan",
+    "cancel": "Membatalkan",
+    "create": "Membuat",
+    "edit": "Sunting",
+    "delete": "Menghapus",
+    "search": "Mencari",
+    "connect": "Menghubungkan",
+    "configure": "Konfigurasikan",
+    "disconnect": "Memutuskan",
+    "sync": "Sinkronkan Sekarang",
+    "close": "Menutup",
+    "reset": "Atur Ulang ke Default",
+    "back": "Kembali",
+    "continue": "Melanjutkan",
+    "all": "Semua",
+    "retry": "Mencoba kembali",
+    "loading": "Memuat…",
+    "resetDemo": "Setel ulang data demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Telusuri apa saja…",
+    "settings": "Pengaturan",
+    "language": "Bahasa",
+    "role": "Peran",
+    "greeting": {
+      "morning": "Selamat pagi",
+      "afternoon": "Selamat siang",
+      "evening": "Selamat malam"
+    },
+    "settingsItems": {
+      "company-profile": "Profil Perusahaan",
+      "configuration": "Konfigurasi",
+      "fiscal-periods": "Periode Fiskal",
+      "roles": "Peran & Pengguna",
+      "integrations": "Integrasi",
+      "notifications": "Pemberitahuan",
+      "audit-logs": "Audit & Log",
+      "audit-trail": "Jejak Audit anti kerusakan",
+      "developer": "Pengembang & API"
+    },
+    "translatedLanguages": "Diterjemahkan",
+    "untranslatedLanguages": "Bahasa Inggris sampai diterjemahkan"
+  },
+  "status": {
+    "filed": "Diarsipkan",
+    "ready": "Siap untuk mengajukan",
+    "open": "Periode terbuka",
+    "paid": "Dibayar",
+    "pending": "Tertunda",
+    "accepted": "Diterima",
+    "delivered": "Terkirim",
+    "rejected": "Ditolak",
+    "pdf-sent": "PDF terkirim",
+    "not-sent": "Tidak terkirim",
+    "matched": "Cocok",
+    "mismatch": "Ketidakcocokan",
+    "missing-supplier": "Tidak dilaporkan oleh pemasok",
+    "missing-books": "Hilang di buku",
+    "deferred": "Ditunda",
+    "deducted": "Dikurangi",
+    "remitted": "Dikirimkan",
+    "certified": "Bersertifikat",
+    "to-report": "Untuk melaporkan",
+    "reported": "Dilaporkan",
+    "accounted": "Diperhitungkan",
+    "overdue": "Terlambat"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Siap untuk mengajukan",
+      "liabilityDue": "Kewajiban jatuh tempo",
+      "paidThisYear": "Dibayar tahun ini",
+      "nextDeadline": "Batas waktu berikutnya",
+      "noneOverdue": "Tidak ada yang terlambat",
+      "overdue": "{{count}} terlambat"
+    },
+    "filter": {
+      "ready": "Siap untuk mengajukan",
+      "open": "Membuka",
+      "filed": "Diarsipkan"
+    },
+    "col": {
+      "period": "Periode",
+      "authority": "Otoritas",
+      "rate": "Kecepatan",
+      "due": "Jatuh tempo",
+      "netPayable": "Hutang bersih",
+      "status": "Status",
+      "ack": "Pengakuan"
+    },
+    "file": "Mengajukan",
+    "view": "Melihat",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Memuat yurisdiksi…",
+    "nothingToFile": "Tidak ada pengembalian yang menunggu untuk diajukan — semua periode tertutup telah diserahkan.",
+    "fileNext": "File berikutnya: {{name}}",
+    "steps": {
+      "review": "Tinjauan",
+      "validate": "Mengesahkan",
+      "declare": "Deklarasikan & kirimkan",
+      "ack": "Pengakuan"
+    },
+    "runValidation": "Jalankan validasi",
+    "validating": "Memvalidasi…",
+    "submit": "Submit {{form}}",
+    "submitting": "Mengirimkan…",
+    "declaration": "Saya menyatakan bahwa informasi dalam pengembalian ini adalah benar dan lengkap, dan saya berwenang untuk menyerahkannya kepada {{authority}}.",
+    "netAmount": "Jumlah bersih",
+    "submitted": "Dikirim",
+    "filedOn": "Diarsipkan",
+    "regime": {
+      "authority": "Otoritas",
+      "channel": "Saluran pengarsipan",
+      "return": "Kembali",
+      "due": "Jatuh tempo",
+      "standardRate": "Tarif standar",
+      "threshold": "Ambang pendaftaran"
+    },
+    "demoNote": "Data demo dari API pajak tiruan bawaan — pengajuan dan pembayaran disimulasikan dan tidak ada yang dikirim ke otoritas pajak."
+  },
+  "fx": {
+    "title": "Mata Uang Asing",
+    "subtitle": "Mata uang dasar {{base}} · indikatif nilai tukar pasar tiruan",
+    "newDoc": "Faktur/tagihan FX baru",
+    "kpi": {
+      "netExposure": "Eksposur FX bersih",
+      "openDocs": "{{count}} dokumen terbuka",
+      "unrealized": "Keuntungan/kerugian yang belum direalisasi",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Realisasi pada tahun ini",
+      "lastReval": "Revaluasi terakhir",
+      "never": "Tidak pernah",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Buka item",
+      "settled": "Mapan",
+      "revaluation": "Revaluasi akhir bulan",
+      "journal": "Jurnal FX"
+    },
+    "col": {
+      "document": "Dokumen",
+      "type": "Jenis",
+      "openForeign": "Terbuka (asing)",
+      "bookedNow": "Dipesan / sekarang",
+      "valueIn": "Nilai dalam {{base}}",
+      "unrealized": "Belum terealisasi",
+      "status": "Status",
+      "amount": "Jumlah",
+      "bookedRate": "Tarif yang dipesan",
+      "realized": "Diwujudkan"
+    },
+    "receivable": "Piutang",
+    "payable": "Hutang",
+    "receive": "Menerima",
+    "pay": "Membayar",
+    "netIn": "Bersih di {{base}}",
+    "state": {
+      "settled": "Mapan",
+      "partial": "Sebagian diselesaikan",
+      "open": "Membuka"
+    },
+    "demoNote": "Data demo dari API tiruan bawaan — tarif disimulasikan, bukan data pasar langsung."
+  }
+}

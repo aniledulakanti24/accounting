@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Her gün",
+      "finance": "Maliýe",
+      "advanced": "Ösen"
+    },
+    "mainMenu": "Esasy menýu",
+    "short": {
+      "parties": "Taraplar"
+    },
+    "sections": {
+      "dashboard": "Dolandyryş paneli",
+      "sales": "Satyş",
+      "receivables": "Pul",
+      "procurement": "Satyn almalar",
+      "payables": "Pul gutar",
+      "cashbank": "Nagt we bank",
+      "expenses": "Çykdajylar",
+      "tax": "Salgyt",
+      "reports": "Hasabat",
+      "advanced-features": "Giňişleýin aýratynlyklar",
+      "parties": "Müşderiler we üpjün edijiler",
+      "inventory": "Harytlar",
+      "assets": "Esasy serişdeler",
+      "masters": "Gurnama we konfigurasiýa",
+      "business-tools": "Topar we gurallar",
+      "party-tools": "Partiýa gurallary",
+      "item-tools": "Haryt gurallary",
+      "storage": "Resminamalar",
+      "alerts": "Duýduryşlar",
+      "migration": "Maglumatlaryň göçürilmegi"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Gysgaça syn",
+        "cash-flow": "Nagt pul akymy",
+        "tax-calendar": "Salgyt senenamasy"
+      },
+      "sales": {
+        "quotations": "Sitatlar",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Hasap-faktura",
+        "delivery-challans": "Eltip bermek",
+        "receipts": "Kwitansiýa",
+        "invoice-desk": "Hasap-faktura stoly"
+      },
+      "receivables": {
+        "money-in-center": "Merkezdäki pul",
+        "receivables": "Algylar",
+        "payments-received": "Tölegler",
+        "overdue-collections": "Kolleksiýalar we ýatlatmalar",
+        "credit-notes": "Karz bellikleri we yzyna gaýtarmalar",
+        "sales-returns": "Satyş netijeleri",
+        "customer-statements": "Müşderi beýannamalary",
+        "payment-links": "Töleg baglanyşyklary"
+      },
+      "procurement": {
+        "purchase-center": "Satyn alyş merkezi",
+        "purchase-orders": "Sargytlary satyn almak",
+        "goods-receipt": "Harytlaryň kwitansiýasy",
+        "purchase-invoices": "Hasap-faktura satyn almak",
+        "payment-out": "Tölegler",
+        "returns-debit-notes": "Girdejiler we debet bellikleri",
+        "bill-approvals": "Taslama tassyklamalary"
+      },
+      "payables": {
+        "bills": "Töleg merkezi",
+        "payments": "Üpjün edijiniň tölegleri",
+        "workforce": "Işçi güýji",
+        "adjustments": "Düzedişler",
+        "bank-release": "Bank çykarylyşy"
+      },
+      "cashbank": {
+        "bank-accounts": "Hasaplarym",
+        "reconciliation": "Geleşik amallary",
+        "cash-petty": "Ujypsyzja pul",
+        "contra": "Hasaplaryň arasynda",
+        "cheque-register": "Çekler",
+        "foreign-currency": "Daşary ýurt walýutasy",
+        "bank-feeds": "Bank iýmitleri",
+        "bank-rules": "Düzgünler we barlyşyk"
+      },
+      "expenses": {
+        "expense-center": "Allhli çykdajylar",
+        "categories": "Çykdajylaryň görnüşleri",
+        "automated-bills": "Urrygy-ýygydan çykdajylar",
+        "journal-vouchers": "El bilen ýazgylar",
+        "provisions": "Hasaplar",
+        "write-offs": "-Azgylar",
+        "period-close": "Aýyň soňy"
+      },
+      "tax": {
+        "gst-returns": "GST tabşyrmak",
+        "gst-filing-wizard": "G GSTR-3B faýly",
+        "gst-reconciliation": "GST deňeşdirmesi",
+        "e-invoicing": "Elektron hasap-fakturalar",
+        "e-way-bills": "Elektron ýol tölegleri",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Salgyt töläň",
+        "quarterly-compliance": "Ylalaşyk senenamasy",
+        "ca-access": "CA Wagtlaýyn giriş",
+        "gst-from-books": "Kitaplardan GST"
+      },
+      "reports": {
+        "financial-statements": "Maliýe hasabatlary",
+        "books": "Geleşik kitaplary",
+        "gst-reports": "GST hasabatlary",
+        "ar-ap": "Algylar we bergiler",
+        "profitability": "Girdeji",
+        "period-comparatives": "Comparyl deňeşdirmesi",
+        "budget-vs-actuals": "Býudjet yzarlaýjy",
+        "cashflow-projection": "Nagt çaklamasy",
+        "report-builder": "Omörite hasabatlar",
+        "general-ledger": "General Ledger",
+        "live-financials": "Göni maliýe",
+        "ai-analyst": "AI analitigi"
+      },
+      "advanced-features": {
+        "overview": "Gysgaça syn"
+      },
+      "parties": {
+        "all-parties": "Allhli Taraplar",
+        "customer-ledgers": "Müşderiler",
+        "supplier-ledgers": "Üpjün edijiler",
+        "shared-ledger": "Paýlaşylan ýazgy",
+        "statements": "Beýannamalar",
+        "reminders": "Inderatlatmalar",
+        "documents": "Partiýa resminamalary",
+        "portal": "Partiýa portaly",
+        "import": "Partiýa importy",
+        "duplicate-merge": "Birleşdirmek",
+        "gap-analysis": "Gap derňewi"
+      },
+      "inventory": {
+        "inventory-items": "Harytlar",
+        "godowns": "Ammarlar",
+        "stock-movement": "Bir Stocka hereketi",
+        "item-pricing": "Bahalar",
+        "stock-valuation": "Bir Stockanyň bahasy",
+        "reorder-alerts": "Duýduryşlary tertipleşdirmek",
+        "batch-serials": "Topar we seriýa",
+        "barcode-labels": "Ştrih-kod bellikleri",
+        "item-import": "Harytlary import etmek",
+        "gap-analysis": "Gap derňewi"
+      },
+      "assets": {
+        "asset-register": "Aktiwleriň sanawy",
+        "depreciation": "Amortizasiýa",
+        "disposal-revaluation": "Satmak ýa-da baha bermek"
+      },
+      "masters": {
+        "chart-of-accounts": "Hasaplaryň sanawy",
+        "tax-masters": "Salgyt stawkalary",
+        "cost-centers": "Çykdajy merkezleri",
+        "voucher-types": "Geleşik görnüşleri",
+        "opening-balances": "Balanslary başlamak",
+        "currencies": "Walýuta"
+      },
+      "business-tools": {
+        "staff-payroll": "Aýlyk haklary",
+        "manage-users": "Ulanyjylara giriş",
+        "online-orders": "Onlaýn sargytlar",
+        "sms-marketing": "SMS marketing",
+        "accountant-hub": "Hasapçylar we goldaw"
+      },
+      "party-tools": {
+        "documents": "Partiýa resminamalary",
+        "portal": "Partiýa portaly",
+        "import": "Partiýa importy",
+        "duplicate-merge": "Birleşdirmek",
+        "gap-analysis": "Gap derňewi"
+      },
+      "item-tools": {
+        "reorder-alerts": "Duýduryşlary tertipleşdirmek",
+        "batch-serials": "Topar we seriýa",
+        "barcode-labels": "Ştrih-kod bellikleri",
+        "item-import": "Harytlary import etmek",
+        "gap-analysis": "Gap derňewi"
+      },
+      "storage": {
+        "client-storage": "Müşderi faýllary",
+        "unifiedtree-storage": "Bulut ammary"
+      },
+      "alerts": {
+        "accountant-alerts": "Hasapçy duýduryşlary",
+        "compliance-alerts": "Ygtyýarlylyk duýduryşlary",
+        "cash-risk-alerts": "Nagt we töwekgelçilik duýduryşlary",
+        "ca-access": "CA Wagtlaýyn giriş"
+      },
+      "migration": {
+        "import": "Maglumatlary import ediň",
+        "export": "Maglumatlary eksport ediň",
+        "history": "Taryhy import ediň",
+        "tally-import": "Tally & Zoho-dan import"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Satyn almalar we tölegler",
+      "accountingSetup": "Hasaplaşyk gurnama",
+      "dataDocuments": "Maglumatlar we resminamalar"
+    }
+  },
+  "common": {
+    "save": "Üýtgeşmeleri ýazdyryň",
+    "cancel": "Elatyr",
+    "create": "Dörediň",
+    "edit": "Redaktirläň",
+    "delete": "Öçür",
+    "search": "Gözlemek",
+    "connect": "Birikdiriň",
+    "configure": "Sazlamak",
+    "disconnect": "Aýyr",
+    "sync": "Indi sinhronlaň",
+    "close": ".Akyn",
+    "reset": "Bellenen ýere gaýtaryň",
+    "back": "Yzyna",
+    "continue": "Dowam et",
+    "all": "Hemmesi",
+    "retry": "Gaýtadan synanyşyň",
+    "loading": "Adingüklenýär…",
+    "resetDemo": "Demo maglumatlary täzeden düzmek"
+  },
+  "shell": {
+    "searchPlaceholder": "Islän zadyňyzy gözläň ...",
+    "settings": "Sazlamalar",
+    "language": "Dil",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Ertiriňiz haýyrly bolsun!",
+      "afternoon": "Günüňiz haýyrly bolsun!",
+      "evening": "Agşamyňyz haýyrly bolsun!"
+    },
+    "settingsItems": {
+      "company-profile": "Kompaniýanyň tertibi",
+      "configuration": "Sazlama",
+      "fiscal-periods": "Maliýe döwürleri",
+      "roles": "Rollar we ulanyjylar",
+      "integrations": "Integrasiýa",
+      "notifications": "Duýduryşlar",
+      "audit-logs": "Gözegçilik we ýazgylar",
+      "audit-trail": "Tamperden goraýan audit ýoly",
+      "developer": "Öndüriji & API"
+    },
+    "translatedLanguages": "Terjime edildi",
+    "untranslatedLanguages": "Terjime edilýänçä iňlis dili"
+  },
+  "status": {
+    "filed": "Faýl",
+    "ready": "Faýl bermäge taýýar",
+    "open": "Döwür açyk",
+    "paid": "Tölegli",
+    "pending": "Garaşylýar",
+    "accepted": "Kabul edildi",
+    "delivered": "Gowşuryldy",
+    "rejected": "Ret edildi",
+    "pdf-sent": "PDF iberildi",
+    "not-sent": "Iberilmedi",
+    "matched": "Gabat geldi",
+    "mismatch": "Gabat gelmezlik",
+    "missing-supplier": "Üpjün ediji tarapyndan habar berilmeýär",
+    "missing-books": "Kitaplarda ýitirim",
+    "deferred": "Gijikdirildi",
+    "deducted": "Aýyryldy",
+    "remitted": "Iberildi",
+    "certified": "Kepilnama",
+    "to-report": "Hasabat bermek",
+    "reported": "Habar berildi",
+    "accounted": "Hasap",
+    "overdue": "Wagtyň geçmegi"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Faýl bermäge taýýar",
+      "liabilityDue": "Jogapkärçilik",
+      "paidThisYear": "Şu ýyl tölegli",
+      "nextDeadline": "Indiki möhlet",
+      "noneOverdue": "Hiç biri gijä galmady",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Faýl bermäge taýýar",
+      "open": "Aç",
+      "filed": "Faýl"
+    },
+    "col": {
+      "period": "Döwür",
+      "authority": "Häkimiýet",
+      "rate": "Baha",
+      "due": "Berilmeli",
+      "netPayable": "Arassa tölenmeli",
+      "status": ".Agdaý",
+      "ack": "Minnetdarlyk"
+    },
+    "file": "Faýl",
+    "view": "Gör",
+    "fileForm": "Faýl {{form}}",
+    "loadingJurisdiction": "Urisurisdiksiýa ýüklenýär…",
+    "nothingToFile": "Hiç hili resminama tabşyrylmagyna garaşmaýar - ähli ýapyk döwürler tabşyrylýar.",
+    "fileNext": "Indiki faýl: {{name}}",
+    "steps": {
+      "review": "Syn",
+      "validate": "Barlamak",
+      "declare": "Deklarasiýa we tabşyr",
+      "ack": "Minnetdarlyk"
+    },
+    "runValidation": "Barlamagy işlediň",
+    "validating": "Barlamak…",
+    "submit": "Submit {{form}}",
+    "submitting": "Ibermek ...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Arassa mukdary",
+    "submitted": "Iberildi",
+    "filedOn": "Filed",
+    "regime": {
+      "authority": "Häkimiýet",
+      "channel": "Kanal",
+      "return": "Yzyna dolan",
+      "due": "Berilmeli",
+      "standardRate": "Standart nyrh",
+      "threshold": "Hasaba alyş bosagasy"
+    },
+    "demoNote": "Gurlan mock salgyt API-den demo maglumatlary - resminamalar we tölegler simulasiýa edilýär we salgyt gullugyna hiç zat iberilmeýär."
+  },
+  "fx": {
+    "title": "Daşary ýurt walýutasy",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Täze FX hasap-faktura",
+    "kpi": {
+      "netExposure": "Net FX täsiri",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Düşünmedik girdeji / ýitgi",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Şu ýyl amala aşyryldy",
+      "lastReval": "Soňky gaýtadan baha bermek",
+      "never": "Hiç haçan",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Açyk zatlar",
+      "settled": "Oturyldy",
+      "revaluation": "Aýyň ahyrynda gaýtadan baha bermek",
+      "journal": "FX journalurnaly"
+    },
+    "col": {
+      "document": "Resminama",
+      "type": "Görnüşi",
+      "openForeign": "Açyk (daşary ýurt)",
+      "bookedNow": "Bellenen / häzir",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Düşünmedik",
+      "status": ".Agdaý",
+      "amount": "Mukdary",
+      "bookedRate": "Bellenen nyrh",
+      "realized": "Erine ýetirildi"
+    },
+    "receivable": "Aljak",
+    "payable": "Tölenmeli",
+    "receive": "Al",
+    "pay": "Töleg",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Oturyldy",
+      "partial": "Bölekleýin çözüldi",
+      "open": "Aç"
+    },
+    "demoNote": "Gurlan mock API-den demo maglumatlary - nyrhlar janly bazar maglumatlary däl-de, simulirlenendir."
+  }
+}

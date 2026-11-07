@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Lá go Lá",
+      "finance": "Airgeadais",
+      "advanced": "Casta"
+    },
+    "mainMenu": "Príomh-Roghchlár",
+    "short": {
+      "parties": "Páirtithe"
+    },
+    "sections": {
+      "dashboard": "Deais",
+      "sales": "Díolacháin",
+      "receivables": "Airgead I",
+      "procurement": "Ceannacháin",
+      "payables": "Airgead Amach",
+      "cashbank": "Airgead Tirim & Banc",
+      "expenses": "Costais",
+      "tax": "Cáin",
+      "reports": "Tuarascálacha",
+      "advanced-features": "Gnéithe Casta",
+      "parties": "Custaiméirí & Soláthraithe",
+      "inventory": "Míreanna",
+      "assets": "Sócmhainní Seasta",
+      "masters": "Socrú & Cumraíocht",
+      "business-tools": "Foireann & Uirlisí",
+      "party-tools": "Uirlisí Cóisir",
+      "item-tools": "Uirlisí Mír",
+      "storage": "Doiciméid",
+      "alerts": "Foláirimh",
+      "migration": "Imirce Sonraí"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Forbhreathnú",
+        "cash-flow": "Sreabhadh Airgid",
+        "tax-calendar": "Féilire Cánach"
+      },
+      "sales": {
+        "quotations": "Athfhriotail",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Sonrasc",
+        "delivery-challans": "Seachadadh Challan",
+        "receipts": "Admháil",
+        "invoice-desk": "Deasc Sonraisc"
+      },
+      "receivables": {
+        "money-in-center": "Airgid In Ionad",
+        "receivables": "Infhaighte",
+        "payments-received": "Íocaíochtaí Faighte",
+        "overdue-collections": "Bailiúcháin & Meabhrúcháin",
+        "credit-notes": "Nótaí Creidmheasa & Aisíocaíochtaí",
+        "sales-returns": "Tuairisceáin Díolacháin",
+        "customer-statements": "Ráitis Chustaiméirí",
+        "payment-links": "Naisc Íocaíochta"
+      },
+      "procurement": {
+        "purchase-center": "Ionad Ceannaigh",
+        "purchase-orders": "Orduithe Ceannaigh",
+        "goods-receipt": "Admháil Earraí",
+        "purchase-invoices": "Sonraisc Cheannaigh",
+        "payment-out": "Íocaíochtaí Déanta",
+        "returns-debit-notes": "Tuairisceáin & Nótaí Dochair",
+        "bill-approvals": "Ceaduithe Bille"
+      },
+      "payables": {
+        "bills": "Ionad Pá",
+        "payments": "Íocaíochtaí Soláthraí",
+        "workforce": "Lucht Oibre",
+        "adjustments": "Coigeartuithe",
+        "bank-release": "Eisiúint Bainc"
+      },
+      "cashbank": {
+        "bank-accounts": "Mo Chuntais",
+        "reconciliation": "Idirbhearta Meaitseáil",
+        "cash-petty": "Mion airgead",
+        "contra": "Idir Chuntais",
+        "cheque-register": "Seiceálacha",
+        "foreign-currency": "Airgeadra Coigríche",
+        "bank-feeds": "Fothaí Bainc",
+        "bank-rules": "Rialacha & Athmhuintearas"
+      },
+      "expenses": {
+        "expense-center": "Gach Costais",
+        "categories": "Cineálacha Costais",
+        "automated-bills": "Costais Athfhillteacha",
+        "journal-vouchers": "Iontrálacha Láimhe",
+        "provisions": "Fabhruithe",
+        "write-offs": "Díscríobh",
+        "period-close": "Mí-Deireadh"
+      },
+      "tax": {
+        "gst-returns": "Comhdú GST",
+        "gst-filing-wizard": "⚡ Comhad GSTR-3B",
+        "gst-reconciliation": "GST Meaitseáil",
+        "e-invoicing": "R-Sonraisc",
+        "e-way-bills": "Billí Ríomhbhealaigh",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Cáin a íoc",
+        "quarterly-compliance": "Féilire Comhlíonta",
+        "ca-access": "CA Rochtain Shealadach",
+        "gst-from-books": "GST ó Leabhair"
+      },
+      "reports": {
+        "financial-statements": "Tuarascálacha Airgeadais",
+        "books": "Leabhair Idirbheart",
+        "gst-reports": "Tuarascálacha GST",
+        "ar-ap": "Infhaighte vs Iníoctha",
+        "profitability": "Brabúsacht",
+        "period-comparatives": "Comparáid Bliana",
+        "budget-vs-actuals": "Rianaire Buiséid",
+        "cashflow-projection": "Réamhaisnéis Airgid",
+        "report-builder": "Tuarascálacha Saincheaptha",
+        "general-ledger": "Mórleabhar Ginearálta",
+        "live-financials": "Airgeadais beo",
+        "ai-analyst": "Anailísí AI"
+      },
+      "advanced-features": {
+        "overview": "Forbhreathnú"
+      },
+      "parties": {
+        "all-parties": "Gach Páirtí",
+        "customer-ledgers": "Custaiméirí",
+        "supplier-ledgers": "Soláthraithe",
+        "shared-ledger": "Mórleabhar Roinnte",
+        "statements": "Ráitis",
+        "reminders": "Meabhrúcháin",
+        "documents": "Doiciméid Pháirtí",
+        "portal": "Tairseach Cóisir",
+        "import": "Iompórtáil Páirtí",
+        "duplicate-merge": "Cumasc Dúblach",
+        "gap-analysis": "Anailís Bearnaí"
+      },
+      "inventory": {
+        "inventory-items": "Míreanna",
+        "godowns": "Stórais",
+        "stock-movement": "Gluaiseacht Stoc",
+        "item-pricing": "Praghsáil",
+        "stock-valuation": "Luacháil Stoc",
+        "reorder-alerts": "Foláirimh a Athordú",
+        "batch-serials": "Baisc & Srathach",
+        "barcode-labels": "Lipéid Barcode",
+        "item-import": "Iompórtáil Mír",
+        "gap-analysis": "Anailís Bearnaí"
+      },
+      "assets": {
+        "asset-register": "Liosta Sócmhainní",
+        "depreciation": "Dímheas",
+        "disposal-revaluation": "Díol nó Athluacháil"
+      },
+      "masters": {
+        "chart-of-accounts": "Liosta Cuntas",
+        "tax-masters": "Rátaí Cánach",
+        "cost-centers": "Ionaid Costas",
+        "voucher-types": "Cineálacha Idirbheart",
+        "opening-balances": "Iarmhéideanna Tosaigh",
+        "currencies": "Airgeadraí"
+      },
+      "business-tools": {
+        "staff-payroll": "Párolla",
+        "manage-users": "Rochtain Úsáideoir",
+        "online-orders": "Orduithe Ar Líne",
+        "sms-marketing": "Margaíocht SMS",
+        "accountant-hub": "Cuntasóirí & Tacaíocht"
+      },
+      "party-tools": {
+        "documents": "Doiciméid Pháirtí",
+        "portal": "Tairseach Cóisir",
+        "import": "Iompórtáil Páirtí",
+        "duplicate-merge": "Cumasc Dúblach",
+        "gap-analysis": "Anailís Bearnaí"
+      },
+      "item-tools": {
+        "reorder-alerts": "Foláirimh a Athordú",
+        "batch-serials": "Baisc & Srathach",
+        "barcode-labels": "Lipéid Barcode",
+        "item-import": "Iompórtáil Mír",
+        "gap-analysis": "Anailís Bearnaí"
+      },
+      "storage": {
+        "client-storage": "Comhaid Chliaint",
+        "unifiedtree-storage": "Stóráil Scamall"
+      },
+      "alerts": {
+        "accountant-alerts": "Foláirimh Chuntasóra",
+        "compliance-alerts": "Foláirimh Chomhlíonta",
+        "cash-risk-alerts": "Foláirimh Airgid & Riosca",
+        "ca-access": "CA Rochtain Shealadach"
+      },
+      "migration": {
+        "import": "Iompórtáil Sonraí",
+        "export": "Sonraí Easpórtála",
+        "history": "Stair Iompórtála",
+        "tally-import": "Iompórtáil ó Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ceannacháin & Íocaíochtaí",
+      "accountingSetup": "Socrú Cuntasaíochta",
+      "dataDocuments": "Sonraí & Doiciméid"
+    }
+  },
+  "common": {
+    "save": "Sábháil Athruithe",
+    "cancel": "Cealaigh",
+    "create": "Cruthaigh",
+    "edit": "Cuir in eagar",
+    "delete": "Scrios",
+    "search": "Cuardach",
+    "connect": "Ceangail",
+    "configure": "Cumraigh",
+    "disconnect": "Dícheangail",
+    "sync": "Sioncrónaigh Anois",
+    "close": "Dún",
+    "reset": "Athshocraigh go Réamhshocruithe",
+    "back": "Ar ais",
+    "continue": "Lean ort",
+    "all": "Gach",
+    "retry": "Bain triail eile as",
+    "loading": "Á lódáil…",
+    "resetDemo": "Athshocraigh sonraí taispeána"
+  },
+  "shell": {
+    "searchPlaceholder": "Cuardaigh rud ar bith…",
+    "settings": "Socruithe",
+    "language": "Teanga",
+    "role": "Ról",
+    "greeting": {
+      "morning": "Maidin mhaith",
+      "afternoon": "Dea-tráthnóna",
+      "evening": "Dea-tráthnóna"
+    },
+    "settingsItems": {
+      "company-profile": "Próifíl na Cuideachta",
+      "configuration": "Cumraíocht",
+      "fiscal-periods": "Tréimhsí Fioscacha",
+      "roles": "Róil & Úsáideoirí",
+      "integrations": "Comhtháthaithe",
+      "notifications": "Fógraí",
+      "audit-logs": "Iniúchadh & Logchomhaid",
+      "audit-trail": "Conair Iniúchta tamper-proof",
+      "developer": "Forbróir & API"
+    },
+    "translatedLanguages": "Aistrithe",
+    "untranslatedLanguages": "Béarla go dtí go n-aistrítear é"
+  },
+  "status": {
+    "filed": "Comhdaithe",
+    "ready": "Réidh le comhdú",
+    "open": "Tréimhse oscailte",
+    "paid": "Íoctha",
+    "pending": "Ar feitheamh",
+    "accepted": "Glactar leis",
+    "delivered": "Seachadadh",
+    "rejected": "Diúltaithe",
+    "pdf-sent": "Seoladh PDF",
+    "not-sent": "Gan sheoladh",
+    "matched": "Meaitseáladh",
+    "mismatch": "Mímheaitseáil",
+    "missing-supplier": "Níor thuairiscigh an soláthraí",
+    "missing-books": "Ar iarraidh i leabhair",
+    "deferred": "iarchurtha",
+    "deducted": "asbhainte",
+    "remitted": "Curtha ar aghaidh",
+    "certified": "Deimhnithe",
+    "to-report": "Chun tuairisc a thabhairt",
+    "reported": "Tuairiscíodh",
+    "accounted": "Cuntas",
+    "overdue": "thar téarma"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Réidh le comhdú",
+      "liabilityDue": "Dliteanas dlite",
+      "paidThisYear": "Íoctha i mbliana",
+      "nextDeadline": "An chéad spriocdháta eile",
+      "noneOverdue": "Níl aon cheann thar téarma",
+      "overdue": "{{count}} thar téarma"
+    },
+    "filter": {
+      "ready": "Réidh le comhdú",
+      "open": "Oscail",
+      "filed": "Comhdaithe"
+    },
+    "col": {
+      "period": "Tréimhse",
+      "authority": "Údarás",
+      "rate": "Ráta",
+      "due": "Dlite",
+      "netPayable": "Glan iníoctha",
+      "status": "Stádas",
+      "ack": "Admháil"
+    },
+    "file": "Comhad",
+    "view": "Amharc",
+    "fileForm": "Comhad {{form}}",
+    "loadingJurisdiction": "Dlínse á lódáil…",
+    "nothingToFile": "Níl aon tuairisceán ag fanacht le comhdú - cuirtear na tréimhsí dúnta ar fad isteach.",
+    "fileNext": "Comhad seo chugainn: {{name}}",
+    "steps": {
+      "review": "Léirmheas",
+      "validate": "Bailíochtaigh",
+      "declare": "Dearbhaigh & cuir isteach",
+      "ack": "Admháil"
+    },
+    "runValidation": "Rith bailíochtú",
+    "validating": "Á bhailíochtú…",
+    "submit": "Cuir isteach {{form}}",
+    "submitting": "Á chur isteach…",
+    "declaration": "Dearbhaím go bhfuil an fhaisnéis sa tuairisceán seo fíor agus iomlán, agus go bhfuil mé údaraithe chun é a chur faoi bhráid {{authority}}.",
+    "netAmount": "Glanmhéid",
+    "submitted": "Arna chur isteach",
+    "filedOn": "Comhdaithe ar",
+    "regime": {
+      "authority": "Údarás",
+      "channel": "Cainéal comhdaithe",
+      "return": "Fill ar ais",
+      "due": "Dlite",
+      "standardRate": "Ráta caighdeánach",
+      "threshold": "Tairseach clárúcháin"
+    },
+    "demoNote": "Sonraí taispeána ón API cánach bréige ionsuite — déantar comhduithe agus íocaíochtaí a insamhladh agus ní sheoltar aon rud chuig údarás cánach."
+  },
+  "fx": {
+    "title": "Airgeadra Coigríche",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Sonrasc / bille FX nua",
+    "kpi": {
+      "netExposure": "Nochtadh glan FX",
+      "openDocs": "{{count}} doiciméad oscailte",
+      "unrealized": "Gnóthachan/caillteanas neamhréadaithe",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Tuigeadh i mbliana",
+      "lastReval": "Athluacháil dheireanach",
+      "never": "Riamh",
+      "suggested": "Molta: {{date}}"
+    },
+    "view": {
+      "open": "Míreanna oscailte",
+      "settled": "Socraíodh",
+      "revaluation": "Athluacháil dheireadh na míosa",
+      "journal": "Iris FX"
+    },
+    "col": {
+      "document": "Doiciméad",
+      "type": "Cineál",
+      "openForeign": "Oscailte (eachtrannach)",
+      "bookedNow": "Curtha in áirithe / anois",
+      "valueIn": "Luach i {{base}}",
+      "unrealized": "Neamhréadaithe",
+      "status": "Stádas",
+      "amount": "Méid",
+      "bookedRate": "Ráta curtha in áirithe",
+      "realized": "Thuig"
+    },
+    "receivable": "Infhaighte",
+    "payable": "Iníoctha",
+    "receive": "Faigh",
+    "pay": "Íoc",
+    "netIn": "Glan i {{base}}",
+    "state": {
+      "settled": "Socraíodh",
+      "partial": "Páirt-socraithe",
+      "open": "Oscail"
+    },
+    "demoNote": "Sonraí taispeána ón API bréige ionsuite - insamhladh rátaí, ní sonraí margaidh beo."
+  }
+}

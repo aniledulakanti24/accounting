@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ڏينهن جو ڏينهن",
+      "finance": "فنانس",
+      "advanced": "ترقي يافته"
+    },
+    "mainMenu": "مکيه فهرست",
+    "short": {
+      "parties": "پارٽيون"
+    },
+    "sections": {
+      "dashboard": "ڊيش بورڊ",
+      "sales": "وڪرو",
+      "receivables": "پئسا اندر",
+      "procurement": "خريداريون",
+      "payables": "پئسا ٻاهر",
+      "cashbank": "نقد ۽ بئنڪ",
+      "expenses": "خرچ",
+      "tax": "ٽيڪس",
+      "reports": "رپورٽون",
+      "advanced-features": "ترقي يافته خاصيتون",
+      "parties": "ڪسٽمر ۽ سپلائرز",
+      "inventory": "شيون",
+      "assets": "مقرر اثاثا",
+      "masters": "سيٽ اپ ۽ ترتيب",
+      "business-tools": "ٽيم ۽ اوزار",
+      "party-tools": "پارٽي جا اوزار",
+      "item-tools": "شيون اوزار",
+      "storage": "دستاويز",
+      "alerts": "خبرداري",
+      "migration": "ڊيٽا جي منتقلي"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "اوسر",
+        "cash-flow": "ڪيش فلو",
+        "tax-calendar": "ٽيڪس ڪئلينڊر"
+      },
+      "sales": {
+        "quotations": "حوالا",
+        "proforma-invoices": "پي آءِ",
+        "sales-invoices": "انوائس",
+        "delivery-challans": "ترسيل چالان",
+        "receipts": "رسيد",
+        "invoice-desk": "انوائس ڊيسڪ"
+      },
+      "receivables": {
+        "money-in-center": "سينٽر ۾ پئسا",
+        "receivables": "وصولي",
+        "payments-received": "ادائگيون وصول ڪيون ويون",
+        "overdue-collections": "مجموعا ۽ ياد ڏياريندڙ",
+        "credit-notes": "ڪريڊٽ نوٽس ۽ واپسي",
+        "sales-returns": "وڪرو واپسي",
+        "customer-statements": "ڪسٽمر بيان",
+        "payment-links": "ادائگي جون لنڪس"
+      },
+      "procurement": {
+        "purchase-center": "خريداري مرڪز",
+        "purchase-orders": "خريداري جا آرڊر",
+        "goods-receipt": "سامان جي رسيد",
+        "purchase-invoices": "انوائس خريد ڪريو",
+        "payment-out": "ادائگيون ڪيون",
+        "returns-debit-notes": "واپسي ۽ ڊيبٽ نوٽس",
+        "bill-approvals": "بل جي منظوري"
+      },
+      "payables": {
+        "bills": "ادا سينٽر",
+        "payments": "فراهم ڪندڙ ادائگي",
+        "workforce": "ڪم ڪار",
+        "adjustments": "ترتيبون",
+        "bank-release": "بئنڪ ڇڏڻ"
+      },
+      "cashbank": {
+        "bank-accounts": "منهنجا اڪائونٽس",
+        "reconciliation": "ملندڙ ٽرانزيڪشن",
+        "cash-petty": "ننڍو نقد",
+        "contra": "اڪائونٽس جي وچ ۾",
+        "cheque-register": "چيڪ",
+        "foreign-currency": "پرڏيهي ڪرنسي",
+        "bank-feeds": "بئنڪ فيڊ",
+        "bank-rules": "ضابطا ۽ مصالحت"
+      },
+      "expenses": {
+        "expense-center": "سڀ خرچ",
+        "categories": "خرچن جا قسم",
+        "automated-bills": "بار بار خرچ",
+        "journal-vouchers": "دستي داخلا",
+        "provisions": "آمدني",
+        "write-offs": "لِکَڻُ",
+        "period-close": "مهيني جي پڇاڙي"
+      },
+      "tax": {
+        "gst-returns": "GST فائلنگ",
+        "gst-filing-wizard": "⚡ فائل GSTR-3B",
+        "gst-reconciliation": "GST ملائڻ",
+        "e-invoicing": "اي انوائس",
+        "e-way-bills": "اي-وائي بلز",
+        "tds": "ٽي ڊي ايس",
+        "tcs": "TCS",
+        "tax-payments": "ادا ٽيڪس",
+        "quarterly-compliance": "تعميل ڪئلينڊر",
+        "ca-access": "CA عارضي رسائي",
+        "gst-from-books": "ڪتابن مان GST"
+      },
+      "reports": {
+        "financial-statements": "مالياتي رپورٽون",
+        "books": "ٽرانزيڪشن ڪتاب",
+        "gst-reports": "GST رپورٽون",
+        "ar-ap": "قابل وصول بمقابلہ ادائگي",
+        "profitability": "منافعو",
+        "period-comparatives": "سال جو مقابلو",
+        "budget-vs-actuals": "بجيٽ ٽريڪٽر",
+        "cashflow-projection": "نقد جي اڳڪٿي",
+        "report-builder": "ڪسٽم رپورٽون",
+        "general-ledger": "جنرل ليجر",
+        "live-financials": "لائيو ماليات",
+        "ai-analyst": "AI تجزيه نگار"
+      },
+      "advanced-features": {
+        "overview": "اوسر"
+      },
+      "parties": {
+        "all-parties": "سڀ پارٽيون",
+        "customer-ledgers": "گراهڪ",
+        "supplier-ledgers": "فراهم ڪندڙ",
+        "shared-ledger": "گڏيل ليجر",
+        "statements": "بيان",
+        "reminders": "ياد ڏياريندڙ",
+        "documents": "پارٽي دستاويز",
+        "portal": "پارٽي پورٽل",
+        "import": "پارٽي درآمد",
+        "duplicate-merge": "ضم ٿيڻ جو نقل",
+        "gap-analysis": "گپ جو تجزيو"
+      },
+      "inventory": {
+        "inventory-items": "شيون",
+        "godowns": "گودام",
+        "stock-movement": "اسٽاڪ جي تحريڪ",
+        "item-pricing": "قيمت ڏيڻ",
+        "stock-valuation": "اسٽاڪ جي قيمت",
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "بيچ ۽ سيريز",
+        "barcode-labels": "بارڪوڊ ليبلز",
+        "item-import": "شين جي درآمد",
+        "gap-analysis": "گپ جو تجزيو"
+      },
+      "assets": {
+        "asset-register": "اثاثن جي فهرست",
+        "depreciation": "بيهارڻ",
+        "disposal-revaluation": "وڪڻڻ يا ٻيهر قدر"
+      },
+      "masters": {
+        "chart-of-accounts": "اڪائونٽس لسٽ",
+        "tax-masters": "ٽيڪس جي شرح",
+        "cost-centers": "خرچ مرڪز",
+        "voucher-types": "ٽرانزيڪشن جا قسم",
+        "opening-balances": "شروعاتي بيلنس",
+        "currencies": "ڪرنسي"
+      },
+      "business-tools": {
+        "staff-payroll": "پگهار",
+        "manage-users": "استعمال ڪندڙ جي رسائي",
+        "online-orders": "آن لائين آرڊر",
+        "sms-marketing": "ايس ايم ايس مارڪيٽنگ",
+        "accountant-hub": "اڪائونٽنٽ ۽ سپورٽ"
+      },
+      "party-tools": {
+        "documents": "پارٽي دستاويز",
+        "portal": "پارٽي پورٽل",
+        "import": "پارٽي درآمد",
+        "duplicate-merge": "ضم ٿيڻ جو نقل",
+        "gap-analysis": "گپ جو تجزيو"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder Alerts",
+        "batch-serials": "بيچ ۽ سيريز",
+        "barcode-labels": "بارڪوڊ ليبلز",
+        "item-import": "شين جي درآمد",
+        "gap-analysis": "گپ جو تجزيو"
+      },
+      "storage": {
+        "client-storage": "ڪلائنٽ فائلون",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "اڪائونٽنٽ الرٽ",
+        "compliance-alerts": "تعميل الارٽس",
+        "cash-risk-alerts": "نقد ۽ خطرن جي خبرداري",
+        "ca-access": "CA عارضي رسائي"
+      },
+      "migration": {
+        "import": "ڊيٽا درآمد ڪريو",
+        "export": "ڊيٽا برآمد ڪريو",
+        "history": "درآمد جي تاريخ",
+        "tally-import": "Tally ۽ Zoho کان درآمد ڪريو"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "خريداري ۽ ادائگيون",
+      "accountingSetup": "اڪائونٽنگ سيٽ اپ",
+      "dataDocuments": "ڊيٽا ۽ دستاويز"
+    }
+  },
+  "common": {
+    "save": "تبديليون محفوظ ڪريو",
+    "cancel": "منسوخ ڪريو",
+    "create": "ٺاهيو",
+    "edit": "ترميم ڪريو",
+    "delete": "حذف ڪريو",
+    "search": "ڳولا",
+    "connect": "ڳنڍڻ",
+    "configure": "ترتيب ڏيو",
+    "disconnect": "ڌار ٿيڻ",
+    "sync": "ھاڻي هم وقت سازي ڪريو",
+    "close": "بند",
+    "reset": "Defaults ڏانهن ري سيٽ ڪريو",
+    "back": "پوئتي",
+    "continue": "جاري رکو",
+    "all": "سڀ",
+    "retry": "ٻيهر ڪوشش ڪريو",
+    "loading": "لوڊ ٿي رهيو آهي…",
+    "resetDemo": "ڊيمو ڊيٽا ري سيٽ ڪريو"
+  },
+  "shell": {
+    "searchPlaceholder": "ڪجھ به ڳولهيو ...",
+    "settings": "سيٽنگون",
+    "language": "ٻولي",
+    "role": "ڪردار",
+    "greeting": {
+      "morning": "صبح جو سلام",
+      "afternoon": "منجهند جو سلام",
+      "evening": "شام جو سلام"
+    },
+    "settingsItems": {
+      "company-profile": "ڪمپني پروفائل",
+      "configuration": "ٺاھ جوڙ",
+      "fiscal-periods": "مالي دور",
+      "roles": "ڪردار ۽ استعمال ڪندڙ",
+      "integrations": "انضمام",
+      "notifications": "نوٽيفڪيشن",
+      "audit-logs": "آڊٽ ۽ لاگ",
+      "audit-trail": "ٽمپر پروف آڊٽ پيچرو",
+      "developer": "ڊولپر ۽ API"
+    },
+    "translatedLanguages": "ترجمو ٿيل",
+    "untranslatedLanguages": "ترجمي تائين انگريزي"
+  },
+  "status": {
+    "filed": "داخل ٿيل",
+    "ready": "فائل ڪرڻ لاء تيار",
+    "open": "کليل مدت",
+    "paid": "ادا",
+    "pending": "باقي رهيو",
+    "accepted": "قبول ڪيو",
+    "delivered": "پهچايو ويو",
+    "rejected": "رد ٿيل",
+    "pdf-sent": "PDF موڪلي وئي",
+    "not-sent": "نه موڪليو ويو",
+    "matched": "ملائي",
+    "mismatch": "بي ترتيب",
+    "missing-supplier": "فراهم ڪندڙ طرفان رپورٽ نه ڪئي وئي آهي",
+    "missing-books": "ڪتابن ۾ گم",
+    "deferred": "ملتوي",
+    "deducted": "ڪٽيل",
+    "remitted": "موڪليل",
+    "certified": "تصديق ٿيل",
+    "to-report": "رپورٽ ڪرڻ",
+    "reported": "رپورٽ ڪيو",
+    "accounted": "حسابي",
+    "overdue": "اوورڊيو"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "فائل ڪرڻ لاء تيار",
+      "liabilityDue": "واجب الادا",
+      "paidThisYear": "هن سال ادا ڪيو",
+      "nextDeadline": "ايندڙ آخري تاريخ",
+      "noneOverdue": "ڪا به دير نه ڪئي وئي",
+      "overdue": "{{count}} ختم ٿي ويو"
+    },
+    "filter": {
+      "ready": "فائل ڪرڻ لاء تيار",
+      "open": "کليل",
+      "filed": "داخل ٿيل"
+    },
+    "col": {
+      "period": "عرصو",
+      "authority": "اٿارٽي",
+      "rate": "شرح",
+      "due": "سبب",
+      "netPayable": "خالص ادائگي",
+      "status": "حيثيت",
+      "ack": "اقرار"
+    },
+    "file": "فائل",
+    "view": "ڏيک",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "لوڊشيڊنگ جا اختيار...",
+    "nothingToFile": "ڪابه واپسي فائل ٿيڻ جي انتظار ۾ نه آهن - سڀ بند ٿيل دور جمع ڪيا ويا آهن.",
+    "fileNext": "اڳيون فائل: {{name}}",
+    "steps": {
+      "review": "جائزو",
+      "validate": "تصديق ڪريو",
+      "declare": "بيان ڪريو ۽ جمع ڪريو",
+      "ack": "اقرار"
+    },
+    "runValidation": "هلائڻ جي تصديق",
+    "validating": "تصديق ڪري رهيو آهي…",
+    "submit": "Submit {{form}}",
+    "submitting": "جمع ڪرايو پيو وڃي…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "خالص رقم",
+    "submitted": "جمع ٿيل",
+    "filedOn": "تي داخل ڪيو ويو",
+    "regime": {
+      "authority": "اٿارٽي",
+      "channel": "فائلنگ چينل",
+      "return": "واپسي",
+      "due": "سبب",
+      "standardRate": "معياري شرح",
+      "threshold": "رجسٽريشن جي حد"
+    },
+    "demoNote": "بلٽ ان موڪ ٽيڪس API مان ڊيمو ڊيٽا - فائلنگ ۽ ادائيگيون ٺهيل آهن ۽ ٽيڪس اٿارٽي ڏانهن ڪجھ به نه موڪليو ويو آهي."
+  },
+  "fx": {
+    "title": "پرڏيهي ڪرنسي",
+    "subtitle": "بنيادي ڪرنسي {{base}} · اشارو ٺٺولي مارڪيٽ جي شرح",
+    "newDoc": "نئون FX انوائس / بل",
+    "kpi": {
+      "netExposure": "Net FX نمائش",
+      "openDocs": "{{count}} کليل دستاويز",
+      "unrealized": "غير حقيقي فائدو/ نقصان",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "هن سال محسوس ڪيو",
+      "lastReval": "آخري جائزو",
+      "never": "ڪڏهن به نه",
+      "suggested": "تجويز ڪيل: {{date}}"
+    },
+    "view": {
+      "open": "کليل شيون",
+      "settled": "آباد ٿيل",
+      "revaluation": "مهيني جي آخر ۾ جائزو",
+      "journal": "FX جرنل"
+    },
+    "col": {
+      "document": "دستاويز",
+      "type": "قسم",
+      "openForeign": "کليل (پرڏيهي)",
+      "bookedNow": "بک ٿيل / ھاڻي",
+      "valueIn": "قدر ۾ {{base}}",
+      "unrealized": "غير حقيقي",
+      "status": "حيثيت",
+      "amount": "رقم",
+      "bookedRate": "بک ٿيل شرح",
+      "realized": "احساس ٿيو"
+    },
+    "receivable": "قابل وصول",
+    "payable": "قابل ادا",
+    "receive": "وصول ڪرڻ",
+    "pay": "ادا",
+    "netIn": "نيٽ ۾ {{base}}",
+    "state": {
+      "settled": "آباد ٿيل",
+      "partial": "جزوي آبادي",
+      "open": "کليل"
+    },
+    "demoNote": "بلٽ ان موڪ API مان ڊيمو ڊيٽا - قيمتون ٺهيل آهن، نه لائيو مارڪيٽ ڊيٽا."
+  }
+}

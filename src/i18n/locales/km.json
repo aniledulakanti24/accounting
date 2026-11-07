@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ពីមួយថ្ងៃទៅមួយថ្ងៃ",
+      "finance": "ហិរញ្ញវត្ថុ",
+      "advanced": "កម្រិតខ្ពស់"
+    },
+    "mainMenu": "ម៉ឺនុយមេ",
+    "short": {
+      "parties": "ភាគី"
+    },
+    "sections": {
+      "dashboard": "ផ្ទាំងគ្រប់គ្រង",
+      "sales": "ការលក់",
+      "receivables": "លុយចូល",
+      "procurement": "ការទិញ",
+      "payables": "លុយចេញ",
+      "cashbank": "សាច់ប្រាក់ និងធនាគារ",
+      "expenses": "ការចំណាយ",
+      "tax": "ពន្ធ",
+      "reports": "របាយការណ៍",
+      "advanced-features": "លក្ខណៈពិសេសកម្រិតខ្ពស់",
+      "parties": "អតិថិជន និងអ្នកផ្គត់ផ្គង់",
+      "inventory": "ធាតុ",
+      "assets": "ទ្រព្យសកម្មថេរ",
+      "masters": "រៀបចំ និងកំណត់រចនាសម្ព័ន្ធ",
+      "business-tools": "ក្រុម និងឧបករណ៍",
+      "party-tools": "ឧបករណ៍ពិធីជប់លៀង",
+      "item-tools": "ឧបករណ៍ធាតុ",
+      "storage": "ឯកសារ",
+      "alerts": "ការជូនដំណឹង",
+      "migration": "ការផ្ទេរទិន្នន័យ"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ទិដ្ឋភាពទូទៅ",
+        "cash-flow": "លំហូរសាច់ប្រាក់",
+        "tax-calendar": "ប្រតិទិនពន្ធ"
+      },
+      "sales": {
+        "quotations": "សម្រង់",
+        "proforma-invoices": "ភី",
+        "sales-invoices": "វិក្កយបត្រ",
+        "delivery-challans": "ការដឹកជញ្ជូន Challan",
+        "receipts": "បង្កាន់ដៃ",
+        "invoice-desk": "តុវិក័យប័ត្រ"
+      },
+      "receivables": {
+        "money-in-center": "ប្រាក់នៅក្នុងមជ្ឈមណ្ឌល",
+        "receivables": "អ្នកទទួល",
+        "payments-received": "ការទូទាត់បានទទួល",
+        "overdue-collections": "ការប្រមូល និងការរំលឹក",
+        "credit-notes": "កំណត់ចំណាំឥណទាន និងការសងប្រាក់វិញ។",
+        "sales-returns": "ការលក់ត្រឡប់មកវិញ",
+        "customer-statements": "សេចក្តីថ្លែងការណ៍របស់អតិថិជន",
+        "payment-links": "តំណភ្ជាប់ការទូទាត់"
+      },
+      "procurement": {
+        "purchase-center": "មជ្ឈមណ្ឌលទិញ",
+        "purchase-orders": "បញ្ជាទិញ",
+        "goods-receipt": "បង្កាន់ដៃទំនិញ",
+        "purchase-invoices": "ទិញវិក្កយបត្រ",
+        "payment-out": "ការទូទាត់ត្រូវបានធ្វើឡើង",
+        "returns-debit-notes": "ការសងត្រលប់ និងកំណត់ចំណាំឥណពន្ធ",
+        "bill-approvals": "ការអនុម័តវិក័យប័ត្រ"
+      },
+      "payables": {
+        "bills": "មជ្ឈមណ្ឌលបង់ប្រាក់",
+        "payments": "ការទូទាត់របស់អ្នកផ្គត់ផ្គង់",
+        "workforce": "កម្លាំងពលកម្ម",
+        "adjustments": "ការកែតម្រូវ",
+        "bank-release": "ការចេញផ្សាយរបស់ធនាគារ"
+      },
+      "cashbank": {
+        "bank-accounts": "គណនីរបស់ខ្ញុំ",
+        "reconciliation": "ប្រតិបត្តិការផ្គូផ្គង",
+        "cash-petty": "សាច់ប្រាក់តូច",
+        "contra": "រវាងគណនី",
+        "cheque-register": "ពិនិត្យ",
+        "foreign-currency": "រូបិយប័ណ្ណបរទេស",
+        "bank-feeds": "មតិព័ត៌មានធនាគារ",
+        "bank-rules": "ច្បាប់ និងការផ្សះផ្សា"
+      },
+      "expenses": {
+        "expense-center": "ការចំណាយទាំងអស់។",
+        "categories": "ប្រភេទនៃការចំណាយ",
+        "automated-bills": "ការចំណាយបន្ត",
+        "journal-vouchers": "ការបញ្ចូលដោយដៃ",
+        "provisions": "ប្រាក់បញ្ញើ",
+        "write-offs": "ការដកប្រាក់",
+        "period-close": "ចុងខែ"
+      },
+      "tax": {
+        "gst-returns": "ឯកសារ GST",
+        "gst-filing-wizard": "⚡ ឯកសារ GSTR-3B",
+        "gst-reconciliation": "ការផ្គូផ្គង GST",
+        "e-invoicing": "វិក័យប័ត្រអេឡិចត្រូនិច",
+        "e-way-bills": "វិក័យប័ត្រអេឡិចត្រូនិច",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "បង់ពន្ធ",
+        "quarterly-compliance": "ប្រតិទិនអនុលោមភាព",
+        "ca-access": "ការចូលប្រើបណ្តោះអាសន្ន CA",
+        "gst-from-books": "GST ពីសៀវភៅ"
+      },
+      "reports": {
+        "financial-statements": "របាយការណ៍ហិរញ្ញវត្ថុ",
+        "books": "សៀវភៅប្រតិបត្តិការ",
+        "gst-reports": "របាយការណ៍ GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "ប្រាក់ចំណេញ",
+        "period-comparatives": "ការប្រៀបធៀបឆ្នាំ",
+        "budget-vs-actuals": "កម្មវិធីតាមដានថវិកា",
+        "cashflow-projection": "ការព្យាករណ៍សាច់ប្រាក់",
+        "report-builder": "របាយការណ៍ផ្ទាល់ខ្លួន",
+        "general-ledger": "សៀវភៅកត់ត្រាទូទៅ",
+        "live-financials": "ហិរញ្ញវត្ថុផ្ទាល់",
+        "ai-analyst": "អ្នកវិភាគ AI"
+      },
+      "advanced-features": {
+        "overview": "ទិដ្ឋភាពទូទៅ"
+      },
+      "parties": {
+        "all-parties": "ភាគីទាំងអស់។",
+        "customer-ledgers": "អតិថិជន",
+        "supplier-ledgers": "អ្នកផ្គត់ផ្គង់",
+        "shared-ledger": "សៀវភៅកត់ត្រាចែករំលែក",
+        "statements": "សេចក្តីថ្លែងការណ៍",
+        "reminders": "ការរំលឹក",
+        "documents": "ឯកសារគណបក្ស",
+        "portal": "វិបផតថលគណបក្ស",
+        "import": "ភាគីនាំចូល",
+        "duplicate-merge": "ស្ទួនបញ្ចូលគ្នា",
+        "gap-analysis": "ការវិភាគគម្លាត"
+      },
+      "inventory": {
+        "inventory-items": "ធាតុ",
+        "godowns": "ឃ្លាំង",
+        "stock-movement": "ចលនាភាគហ៊ុន",
+        "item-pricing": "តម្លៃ",
+        "stock-valuation": "ការវាយតម្លៃភាគហ៊ុន",
+        "reorder-alerts": "តម្រៀបការជូនដំណឹងឡើងវិញ",
+        "batch-serials": "បាច់ & សៀរៀល",
+        "barcode-labels": "ស្លាកបាកូដ",
+        "item-import": "ធាតុនាំចូល",
+        "gap-analysis": "ការវិភាគគម្លាត"
+      },
+      "assets": {
+        "asset-register": "បញ្ជីទ្រព្យសកម្ម",
+        "depreciation": "រំលោះ",
+        "disposal-revaluation": "លក់​ឬ​វាយ​តម្លៃ"
+      },
+      "masters": {
+        "chart-of-accounts": "បញ្ជីគណនី",
+        "tax-masters": "អត្រាពន្ធ",
+        "cost-centers": "មជ្ឈមណ្ឌលចំណាយ",
+        "voucher-types": "ប្រភេទប្រតិបត្តិការ",
+        "opening-balances": "សមតុល្យចាប់ផ្តើម",
+        "currencies": "រូបិយប័ណ្ណ"
+      },
+      "business-tools": {
+        "staff-payroll": "ប្រាក់បៀវត្សរ៍",
+        "manage-users": "ការចូលប្រើអ្នកប្រើប្រាស់",
+        "online-orders": "ការបញ្ជាទិញតាមអ៊ីនធឺណិត",
+        "sms-marketing": "ទីផ្សារសារ SMS",
+        "accountant-hub": "គណនេយ្យករ និងជំនួយ"
+      },
+      "party-tools": {
+        "documents": "ឯកសារគណបក្ស",
+        "portal": "វិបផតថលគណបក្ស",
+        "import": "ភាគីនាំចូល",
+        "duplicate-merge": "ស្ទួនបញ្ចូលគ្នា",
+        "gap-analysis": "ការវិភាគគម្លាត"
+      },
+      "item-tools": {
+        "reorder-alerts": "តម្រៀបការជូនដំណឹងឡើងវិញ",
+        "batch-serials": "បាច់ & សៀរៀល",
+        "barcode-labels": "ស្លាកបាកូដ",
+        "item-import": "ធាតុនាំចូល",
+        "gap-analysis": "ការវិភាគគម្លាត"
+      },
+      "storage": {
+        "client-storage": "ឯកសារអតិថិជន",
+        "unifiedtree-storage": "ឃ្លាំងផ្ទុកពពក"
+      },
+      "alerts": {
+        "accountant-alerts": "ការដាស់តឿនគណនេយ្យករ",
+        "compliance-alerts": "ការជូនដំណឹងអំពីការអនុលោម",
+        "cash-risk-alerts": "ការជូនដំណឹងអំពីសាច់ប្រាក់ និងហានិភ័យ",
+        "ca-access": "ការចូលប្រើបណ្តោះអាសន្ន CA"
+      },
+      "migration": {
+        "import": "នាំចូលទិន្នន័យ",
+        "export": "នាំចេញទិន្នន័យ",
+        "history": "ប្រវត្តិនាំចូល",
+        "tally-import": "នាំចូលពី Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ការទិញ និងការទូទាត់",
+      "accountingSetup": "ការរៀបចំគណនេយ្យ",
+      "dataDocuments": "ទិន្នន័យ និងឯកសារ"
+    }
+  },
+  "common": {
+    "save": "រក្សាទុកការផ្លាស់ប្តូរ",
+    "cancel": "បោះបង់",
+    "create": "បង្កើត",
+    "edit": "កែសម្រួល",
+    "delete": "លុប",
+    "search": "ស្វែងរក",
+    "connect": "ភ្ជាប់",
+    "configure": "កំណត់រចនាសម្ព័ន្ធ",
+    "disconnect": "ផ្តាច់",
+    "sync": "ធ្វើសមកាលកម្មឥឡូវនេះ",
+    "close": "បិទ",
+    "reset": "កំណត់ឡើងវិញទៅលំនាំដើម",
+    "back": "ត្រឡប់មកវិញ",
+    "continue": "បន្ត",
+    "all": "ទាំងអស់។",
+    "retry": "ព្យាយាមម្តងទៀត",
+    "loading": "កំពុង​ផ្ទុក...",
+    "resetDemo": "កំណត់ទិន្នន័យសាកល្បងឡើងវិញ"
+  },
+  "shell": {
+    "searchPlaceholder": "ស្វែងរកអ្វីក៏បាន…",
+    "settings": "ការកំណត់",
+    "language": "ភាសា",
+    "role": "តួនាទី",
+    "greeting": {
+      "morning": "អរុណសួស្តី",
+      "afternoon": "អរុណសួស្តី",
+      "evening": "រាត្រីសួស្តី"
+    },
+    "settingsItems": {
+      "company-profile": "ប្រវត្តិរូបក្រុមហ៊ុន",
+      "configuration": "ការកំណត់រចនាសម្ព័ន្ធ",
+      "fiscal-periods": "រយៈពេលសារពើពន្ធ",
+      "roles": "តួនាទី និងអ្នកប្រើប្រាស់",
+      "integrations": "សមាហរណកម្ម",
+      "notifications": "ការជូនដំណឹង",
+      "audit-logs": "សវនកម្ម និងកំណត់ហេតុ",
+      "audit-trail": "ផ្លូវសវនកម្មដែលមានភស្តុតាងរំខាន",
+      "developer": "អ្នកអភិវឌ្ឍន៍ & API"
+    },
+    "translatedLanguages": "បកប្រែ",
+    "untranslatedLanguages": "ភាសាអង់គ្លេសរហូតដល់ការបកប្រែ"
+  },
+  "status": {
+    "filed": "បានដាក់ឯកសារ",
+    "ready": "រួចរាល់ក្នុងការដាក់ឯកសារ",
+    "open": "រយៈពេលបើក",
+    "paid": "បង់",
+    "pending": "កំពុងរង់ចាំ",
+    "accepted": "ទទួលយក",
+    "delivered": "ចែកចាយ",
+    "rejected": "ច្រានចោល",
+    "pdf-sent": "PDF ត្រូវបានផ្ញើ",
+    "not-sent": "មិនបានផ្ញើ",
+    "matched": "ផ្គូផ្គង",
+    "mismatch": "មិនត្រូវគ្នា។",
+    "missing-supplier": "មិនត្រូវបានរាយការណ៍ដោយអ្នកផ្គត់ផ្គង់ទេ។",
+    "missing-books": "បាត់ក្នុងសៀវភៅ",
+    "deferred": "ពន្យាពេល",
+    "deducted": "កាត់",
+    "remitted": "ផ្ញើឡើងវិញ",
+    "certified": "បញ្ជាក់",
+    "to-report": "ដើម្បីរាយការណ៍",
+    "reported": "រាយការណ៍",
+    "accounted": "គណនេយ្យ",
+    "overdue": "ហួសកាលកំណត់"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "រួចរាល់ក្នុងការដាក់ឯកសារ",
+      "liabilityDue": "ការទទួលខុសត្រូវដល់ពេលកំណត់",
+      "paidThisYear": "បានបង់នៅឆ្នាំនេះ។",
+      "nextDeadline": "ថ្ងៃផុតកំណត់បន្ទាប់",
+      "noneOverdue": "គ្មានការហួសកាលកំណត់ទេ។",
+      "overdue": "{{count}} ហួសកំណត់"
+    },
+    "filter": {
+      "ready": "រួចរាល់ក្នុងការដាក់ឯកសារ",
+      "open": "បើក",
+      "filed": "បានដាក់ឯកសារ"
+    },
+    "col": {
+      "period": "រយៈពេល",
+      "authority": "អាជ្ញាធរ",
+      "rate": "អត្រា",
+      "due": "ដល់កំណត់",
+      "netPayable": "បង់សុទ្ធ",
+      "status": "ស្ថានភាព",
+      "ack": "ការទទួលស្គាល់"
+    },
+    "file": "ឯកសារ",
+    "view": "មើល",
+    "fileForm": "ឯកសារ {{form}}",
+    "loadingJurisdiction": "កំពុង​ផ្ទុក​យុត្តាធិការ...",
+    "nothingToFile": "គ្មាន​ការ​ត្រឡប់​មក​វិញ​ត្រូវ​បាន​រង់ចាំ​ដើម្បី​ត្រូវ​បាន​ដាក់​ពាក្យ — រយៈពេល​បិទ​ទាំង​អស់​ត្រូវ​បាន​ដាក់​ជូន​។",
+    "fileNext": "ឯកសារបន្ទាប់៖ {{name}}",
+    "steps": {
+      "review": "ពិនិត្យ",
+      "validate": "ធ្វើឱ្យមានសុពលភាព",
+      "declare": "ប្រកាស & ដាក់ស្នើ",
+      "ack": "ការទទួលស្គាល់"
+    },
+    "runValidation": "ដំណើរការសុពលភាព",
+    "validating": "កំពុង​មាន​សុពលភាព...",
+    "submit": "ដាក់ស្នើ {{form}}",
+    "submitting": "កំពុងបញ្ជូន...",
+    "declaration": "ខ្ញុំសូមប្រកាសថាព័ត៌មាននៅក្នុងការត្រឡប់មកវិញនេះគឺពិត និងពេញលេញ ហើយថាខ្ញុំត្រូវបានអនុញ្ញាតឱ្យបញ្ជូនវាទៅ {{authority}}។",
+    "netAmount": "ចំនួនទឹកប្រាក់សុទ្ធ",
+    "submitted": "បានដាក់ស្នើ",
+    "filedOn": "បានដាក់នៅលើ",
+    "regime": {
+      "authority": "អាជ្ញាធរ",
+      "channel": "ឆានែលដាក់ឯកសារ",
+      "return": "ត្រឡប់មកវិញ",
+      "due": "ដល់កំណត់",
+      "standardRate": "អត្រាស្តង់ដារ",
+      "threshold": "កម្រិតនៃការចុះឈ្មោះ"
+    },
+    "demoNote": "ទិន្នន័យសាកល្បងពី API ពន្ធអាករដែលភ្ជាប់មកជាមួយ — ឯកសារ និងការទូទាត់ត្រូវបានក្លែងធ្វើ ហើយគ្មានអ្វីត្រូវបានបញ្ជូនទៅអាជ្ញាធរពន្ធដារទេ។"
+  },
+  "fx": {
+    "title": "រូបិយប័ណ្ណបរទេស",
+    "subtitle": "រូបិយប័ណ្ណមូលដ្ឋាន {{base}} · បង្ហាញពីអត្រាទីផ្សារក្លែងក្លាយ",
+    "newDoc": "វិក្កយបត្រ FX ថ្មី។",
+    "kpi": {
+      "netExposure": "ការប៉ះពាល់ FX សុទ្ធ",
+      "openDocs": "{{count}} ឯកសារបើក",
+      "unrealized": "ចំណេញ/ខាត ដែលមិនបានដឹង",
+      "postedSplit": "{{posted}} បាន​បង្ហោះ · {{unposted}} មិន​ទាន់​មាន",
+      "realized": "បាន​ដឹង​នៅ​ឆ្នាំ​នេះ​",
+      "lastReval": "ការវាយតម្លៃចុងក្រោយ",
+      "never": "មិនដែល",
+      "suggested": "បានណែនាំ៖ {{date}}"
+    },
+    "view": {
+      "open": "បើកធាតុ",
+      "settled": "បានតាំងទីលំនៅ",
+      "revaluation": "ការវាយតម្លៃចុងខែ",
+      "journal": "ទិនានុប្បវត្តិ FX"
+    },
+    "col": {
+      "document": "ឯកសារ",
+      "type": "ប្រភេទ",
+      "openForeign": "បើក (បរទេស)",
+      "bookedNow": "បានកក់ / ឥឡូវនេះ",
+      "valueIn": "តម្លៃនៅក្នុង {{base}}",
+      "unrealized": "មិន​បាន​ដឹង",
+      "status": "ស្ថានភាព",
+      "amount": "ចំនួនទឹកប្រាក់",
+      "bookedRate": "អត្រាការកក់",
+      "realized": "យល់"
+    },
+    "receivable": "ទទួល",
+    "payable": "បង់រំលោះ",
+    "receive": "ទទួល",
+    "pay": "បង់",
+    "netIn": "សុទ្ធនៅក្នុង {{base}}",
+    "state": {
+      "settled": "បានតាំងទីលំនៅ",
+      "partial": "ដោះស្រាយដោយផ្នែក",
+      "open": "បើក"
+    },
+    "demoNote": "ទិន្នន័យសាកល្បងពី API ក្លែងក្លាយដែលភ្ជាប់មកជាមួយ — អត្រាត្រូវបានក្លែងធ្វើ មិនមែនទិន្នន័យទីផ្សារផ្ទាល់ទេ។"
+  }
+}

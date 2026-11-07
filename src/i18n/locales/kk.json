@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Күннен-күнге",
+      "finance": "Қаржы",
+      "advanced": "Жетілдірілген"
+    },
+    "mainMenu": "Негізгі мәзір",
+    "short": {
+      "parties": "Тараптар"
+    },
+    "sections": {
+      "dashboard": "Бақылау тақтасы",
+      "sales": "Сатылымдар",
+      "receivables": "Ақша кірісі",
+      "procurement": "Сатып алулар",
+      "payables": "Ақша шығару",
+      "cashbank": "Қолма-қол ақша және банк",
+      "expenses": "Шығындар",
+      "tax": "Салық",
+      "reports": "Есептер",
+      "advanced-features": "Қосымша мүмкіндіктер",
+      "parties": "Тұтынушылар мен жеткізушілер",
+      "inventory": "Элементтер",
+      "assets": "Негізгі құралдар",
+      "masters": "Орнату және конфигурациялау",
+      "business-tools": "Топ және құралдар",
+      "party-tools": "Партия құралдары",
+      "item-tools": "Элемент құралдары",
+      "storage": "Құжаттар",
+      "alerts": "Ескертулер",
+      "migration": "Деректерді тасымалдау"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Шолу",
+        "cash-flow": "Ақша ағыны",
+        "tax-calendar": "Салық күнтізбесі"
+      },
+      "sales": {
+        "quotations": "Дәйексөздер",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Шот-фактура",
+        "delivery-challans": "Challan жеткізу",
+        "receipts": "Түбіртек",
+        "invoice-desk": "Шот-фактуралар үстелі"
+      },
+      "receivables": {
+        "money-in-center": "Орталықтағы ақша",
+        "receivables": "Дебиторлық берешек",
+        "payments-received": "Алынған төлемдер",
+        "overdue-collections": "Жинақтар мен еске салғыштар",
+        "credit-notes": "Несиелік жазбалар және қайтарулар",
+        "sales-returns": "Сату қайтарымы",
+        "customer-statements": "Тұтынушы мәлімдемелері",
+        "payment-links": "Төлем сілтемелері"
+      },
+      "procurement": {
+        "purchase-center": "Сатып алу орталығы",
+        "purchase-orders": "Сатып алу тапсырыстары",
+        "goods-receipt": "Тауар түбіртегі",
+        "purchase-invoices": "Сатып алу шоттары",
+        "payment-out": "Төлемдер жасалды",
+        "returns-debit-notes": "Қайтару және дебет жазбалары",
+        "bill-approvals": "Вексельдерді бекіту"
+      },
+      "payables": {
+        "bills": "Төлем орталығы",
+        "payments": "Жеткізушінің төлемдері",
+        "workforce": "Жұмыс күші",
+        "adjustments": "Түзетулер",
+        "bank-release": "Банктік релиз"
+      },
+      "cashbank": {
+        "bank-accounts": "Менің тіркелгілерім",
+        "reconciliation": "Транзакцияларды сәйкестендіру",
+        "cash-petty": "Ұсақ қолма-қол ақша",
+        "contra": "Есептік жазбалар арасында",
+        "cheque-register": "Тексерулер",
+        "foreign-currency": "Шетел валютасы",
+        "bank-feeds": "Банк арналары",
+        "bank-rules": "Ережелер және келісу"
+      },
+      "expenses": {
+        "expense-center": "Барлық шығындар",
+        "categories": "Шығын түрлері",
+        "automated-bills": "Қайталанатын шығындар",
+        "journal-vouchers": "Қолмен енгізулер",
+        "provisions": "Есептеу",
+        "write-offs": "Есептен шығару",
+        "period-close": "Айдың соңы"
+      },
+      "tax": {
+        "gst-returns": "GST тапсыру",
+        "gst-filing-wizard": "⚡ GSTR-3B файлы",
+        "gst-reconciliation": "GST сәйкестігі",
+        "e-invoicing": "Электрондық шот-фактуралар",
+        "e-way-bills": "Электрондық жол шоттары",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Салық төлеу",
+        "quarterly-compliance": "Сәйкестік күнтізбесі",
+        "ca-access": "CA уақытша қол жеткізу",
+        "gst-from-books": "Кітаптардан алынған GST"
+      },
+      "reports": {
+        "financial-statements": "Қаржылық есептер",
+        "books": "Транзакция кітаптары",
+        "gst-reports": "GST есептері",
+        "ar-ap": "Дебиторлық және кредиторлық берешек",
+        "profitability": "Табыстылық",
+        "period-comparatives": "Жылды салыстыру",
+        "budget-vs-actuals": "Бюджетті бақылау құралы",
+        "cashflow-projection": "Қолма-қол ақшаны болжау",
+        "report-builder": "Теңшелетін есептер",
+        "general-ledger": "Бас кітап",
+        "live-financials": "Тікелей қаржы",
+        "ai-analyst": "AI талдаушысы"
+      },
+      "advanced-features": {
+        "overview": "Шолу"
+      },
+      "parties": {
+        "all-parties": "Барлық Тараптар",
+        "customer-ledgers": "Тұтынушылар",
+        "supplier-ledgers": "Жабдықтаушылар",
+        "shared-ledger": "Ортақ кітап",
+        "statements": "Мәлімдеме",
+        "reminders": "Еске салғыштар",
+        "documents": "Партиялық құжаттар",
+        "portal": "Партия порталы",
+        "import": "Партия импорты",
+        "duplicate-merge": "Көшірме біріктіру",
+        "gap-analysis": "Аралықты талдау"
+      },
+      "inventory": {
+        "inventory-items": "Элементтер",
+        "godowns": "Қоймалар",
+        "stock-movement": "Қор қозғалысы",
+        "item-pricing": "Баға белгілеу",
+        "stock-valuation": "Акцияларды бағалау",
+        "reorder-alerts": "Ескертулердің ретін өзгерту",
+        "batch-serials": "Топтамалық және сериялық",
+        "barcode-labels": "Штрих-код белгілері",
+        "item-import": "Элементті импорттау",
+        "gap-analysis": "Аралықты талдау"
+      },
+      "assets": {
+        "asset-register": "Активтер тізімі",
+        "depreciation": "Амортизация",
+        "disposal-revaluation": "Сату немесе қайта бағалау"
+      },
+      "masters": {
+        "chart-of-accounts": "Есептік жазбалар тізімі",
+        "tax-masters": "Салық ставкалары",
+        "cost-centers": "Шығын орталықтары",
+        "voucher-types": "Транзакция түрлері",
+        "opening-balances": "Бастапқы баланстар",
+        "currencies": "Валюталар"
+      },
+      "business-tools": {
+        "staff-payroll": "Жалақы",
+        "manage-users": "Пайдаланушы қатынасы",
+        "online-orders": "Онлайн тапсырыстар",
+        "sms-marketing": "SMS маркетингі",
+        "accountant-hub": "Бухгалтерлер және қолдау"
+      },
+      "party-tools": {
+        "documents": "Партиялық құжаттар",
+        "portal": "Партия порталы",
+        "import": "Партия импорты",
+        "duplicate-merge": "Көшірме біріктіру",
+        "gap-analysis": "Аралықты талдау"
+      },
+      "item-tools": {
+        "reorder-alerts": "Ескертулердің ретін өзгерту",
+        "batch-serials": "Топтамалық және сериялық",
+        "barcode-labels": "Штрих-код белгілері",
+        "item-import": "Элементті импорттау",
+        "gap-analysis": "Аралықты талдау"
+      },
+      "storage": {
+        "client-storage": "Клиент файлдары",
+        "unifiedtree-storage": "Бұлтты сақтау"
+      },
+      "alerts": {
+        "accountant-alerts": "Бухгалтер туралы ескертулер",
+        "compliance-alerts": "Сәйкестік туралы ескертулер",
+        "cash-risk-alerts": "Қолма-қол ақша және тәуекел туралы ескертулер",
+        "ca-access": "CA уақытша қол жеткізу"
+      },
+      "migration": {
+        "import": "Деректерді импорттау",
+        "export": "Деректерді экспорттау",
+        "history": "Импорттау тарихы",
+        "tally-import": "Tally және Zoho-дан импорттау"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Сатып алулар және төлемдер",
+      "accountingSetup": "Бухгалтерлік есепті орнату",
+      "dataDocuments": "Деректер және құжаттар"
+    }
+  },
+  "common": {
+    "save": "Өзгерістерді сақтау",
+    "cancel": "Болдырмау",
+    "create": "Жасау",
+    "edit": "Өңдеу",
+    "delete": "Жою",
+    "search": "Іздеу",
+    "connect": "Қосылу",
+    "configure": "Конфигурациялау",
+    "disconnect": "Ажырату",
+    "sync": "Қазір синхрондау",
+    "close": "Жабу",
+    "reset": "Әдепкіге қайта орнату",
+    "back": "Артқа",
+    "continue": "Жалғастыру",
+    "all": "Барлығы",
+    "retry": "Қайталап көріңіз",
+    "loading": "Жүктелуде…",
+    "resetDemo": "Демо деректерін қалпына келтіріңіз"
+  },
+  "shell": {
+    "searchPlaceholder": "Кез келген нәрсені іздеу…",
+    "settings": "Параметрлер",
+    "language": "Тіл",
+    "role": "Рөл",
+    "greeting": {
+      "morning": "Қайырлы таң",
+      "afternoon": "Қайырлы күн",
+      "evening": "Қайырлы кеш"
+    },
+    "settingsItems": {
+      "company-profile": "Компания профилі",
+      "configuration": "Конфигурация",
+      "fiscal-periods": "Қаржылық кезеңдер",
+      "roles": "Рөлдер мен пайдаланушылар",
+      "integrations": "Интеграциялар",
+      "notifications": "Хабарландырулар",
+      "audit-logs": "Аудит және журналдар",
+      "audit-trail": "Бұзушылыққа қарсы аудит ізі",
+      "developer": "Әзірлеуші ​​және API"
+    },
+    "translatedLanguages": "Аударылған",
+    "untranslatedLanguages": "Ағылшын тілі аударылғанға дейін"
+  },
+  "status": {
+    "filed": "Өткізілген",
+    "ready": "Файл беруге дайын",
+    "open": "Ашық кезең",
+    "paid": "Ақылы",
+    "pending": "Күтуде",
+    "accepted": "Қабылданды",
+    "delivered": "жеткізілді",
+    "rejected": "Қабылданбады",
+    "pdf-sent": "PDF жіберілді",
+    "not-sent": "Жіберілмеген",
+    "matched": "Сәйкес келді",
+    "mismatch": "Сәйкессіздік",
+    "missing-supplier": "Жеткізуші хабарлаған жоқ",
+    "missing-books": "Кітаптарда жоқ",
+    "deferred": "Кейінге қалдырылды",
+    "deducted": "Шегерілген",
+    "remitted": "Жіберілді",
+    "certified": "Сертификатталған",
+    "to-report": "Есеп беру үшін",
+    "reported": "Хабарланды",
+    "accounted": "Есепке алынған",
+    "overdue": "Мерзімі өткен"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Файл беруге дайын",
+      "liabilityDue": "Жауапкершілік",
+      "paidThisYear": "Биыл төленді",
+      "nextDeadline": "Келесі мерзім",
+      "noneOverdue": "Ешқайсысы кешіктірілмеген",
+      "overdue": "{{count}} мерзімі өткен"
+    },
+    "filter": {
+      "ready": "Файл беруге дайын",
+      "open": "Ашық",
+      "filed": "Өткізілген"
+    },
+    "col": {
+      "period": "Кезең",
+      "authority": "Билік",
+      "rate": "Бағалау",
+      "due": "Мерзімі",
+      "netPayable": "Таза төленетін қарыз",
+      "status": "Күй",
+      "ack": "Мақұлдау"
+    },
+    "file": "Файл",
+    "view": "Көру",
+    "fileForm": "Файл {{form}}",
+    "loadingJurisdiction": "Юрисдикция жүктелуде…",
+    "nothingToFile": "Ешқандай декларация тапсыруды күтпейді — барлық жабық кезеңдер жіберіледі.",
+    "fileNext": "Келесі файл: {{name}}",
+    "steps": {
+      "review": "Қарау",
+      "validate": "Тексеру",
+      "declare": "Мәлімдеу және жіберу",
+      "ack": "Мақұлдау"
+    },
+    "runValidation": "Тексеруді іске қосыңыз",
+    "validating": "Тексерілуде…",
+    "submit": "{{form}} жіберу",
+    "submitting": "Жіберілуде…",
+    "declaration": "Мен осы мәлімдемедегі ақпараттың дұрыс және толық екенін және оны {{authority}} органына жіберуге рұқсатым бар екенін мәлімдеймін.",
+    "netAmount": "Таза сома",
+    "submitted": "Жіберілді",
+    "filedOn": "Құйылған күні",
+    "regime": {
+      "authority": "Билік",
+      "channel": "Құжатты толтыру арнасы",
+      "return": "Қайту",
+      "due": "Мерзімі",
+      "standardRate": "Стандартты мөлшерлеме",
+      "threshold": "Тіркеу шегі"
+    },
+    "demoNote": "Кірістірілген жалған салық API-сының демо деректері — өтініштер мен төлемдер имитацияланады және салық органына ештеңе жіберілмейді."
+  },
+  "fx": {
+    "title": "Шетел валютасы",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Жаңа валюталық шот-фактура/шот",
+    "kpi": {
+      "netExposure": "Таза FX экспозициясы",
+      "openDocs": "{{count}} ашық құжат",
+      "unrealized": "Іске асырылмаған пайда/шығын",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Биыл жүзеге асты",
+      "lastReval": "Соңғы қайта бағалау",
+      "never": "Ешқашан",
+      "suggested": "Ұсынылған: {{date}}"
+    },
+    "view": {
+      "open": "Ашық элементтер",
+      "settled": "Орнықты",
+      "revaluation": "Айдың соңындағы қайта бағалау",
+      "journal": "FX журналы"
+    },
+    "col": {
+      "document": "Құжат",
+      "type": "Түр",
+      "openForeign": "Ашық (шетелдік)",
+      "bookedNow": "Брондау / қазір",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Іске асырылмаған",
+      "status": "Күй",
+      "amount": "Сома",
+      "bookedRate": "Брондау мөлшерлемесі",
+      "realized": "Іске асырылды"
+    },
+    "receivable": "Дебиторлық қарыз",
+    "payable": "Төленетін",
+    "receive": "Қабылдау",
+    "pay": "Төлеу",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Орнықты",
+      "partial": "Жартылай қоныстанған",
+      "open": "Ашық"
+    },
+    "demoNote": "Кірістірілген жалған API демо деректері — тарифтер нақты нарық деректері емес, модельденеді."
+  }
+}

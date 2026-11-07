@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Buli lunaku",
+      "finance": "Ensimbi",
+      "advanced": "Okweyongerako"
+    },
+    "mainMenu": "Menyu Enkulu",
+    "short": {
+      "parties": "Ebibiina"
+    },
+    "sections": {
+      "dashboard": "Daasiboodi",
+      "sales": "Okutunda",
+      "receivables": "Ssente Mu",
+      "procurement": "Okugula ebintu",
+      "payables": "Ssente zifulumye",
+      "cashbank": "Ssente Enkalu & Bbanka",
+      "expenses": "Eby'ensaasaanya",
+      "tax": "Omusolo",
+      "reports": "Alipoota",
+      "advanced-features": "Ebintu eby’omulembe",
+      "parties": "Bakasitoma & Abagaba ebintu",
+      "inventory": "Ebintu",
+      "assets": "Eby’obugagga Ebitakyukakyuka",
+      "masters": "Okuteekawo & Okusengeka",
+      "business-tools": "Ttiimu & Ebikozesebwa",
+      "party-tools": "Ebikozesebwa mu mbaga",
+      "item-tools": "Ebikozesebwa mu Ebintu",
+      "storage": "Ebiwandiiko",
+      "alerts": "Okulabula",
+      "migration": "Okusenguka kwa Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Okutwalira awamu",
+        "cash-flow": "Entambula y’ensimbi",
+        "tax-calendar": "Kalenda y'omusolo"
+      },
+      "sales": {
+        "quotations": "Ebijuliziddwa",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Yinivoyisi",
+        "delivery-challans": "Okutuusa ebintu Challan",
+        "receipts": "Lisiiti",
+        "invoice-desk": "Emmeeza ya Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Ssente Mu Center",
+        "receivables": "Ebirina okusasulwa",
+        "payments-received": "Ensasula Efunibwa",
+        "overdue-collections": "Ebikung'aanya & Ebijjukizo",
+        "credit-notes": "Ebiwandiiko by'Ebbanja & Okuddizibwa",
+        "sales-returns": "Ebiddizibwa mu kutunda",
+        "customer-statements": "Ebiwandiiko bya Bakasitoma",
+        "payment-links": "Enkolagana y'okusasula"
+      },
+      "procurement": {
+        "purchase-center": "Ekifo ky’okugula ebintu",
+        "purchase-orders": "Ebiragiro by’okugula",
+        "goods-receipt": "Lisiiti y'ebyamaguzi",
+        "purchase-invoices": "Invoice z’okugula",
+        "payment-out": "Ensasula Ekoleddwa",
+        "returns-debit-notes": "Ebiwandiiko Ebiddizibwa & Okusasula",
+        "bill-approvals": "Okuyisa Ebbago ly’Ebbago"
+      },
+      "payables": {
+        "bills": "Ekifo ky'okusasula",
+        "payments": "Ensasula y’abagaba ebintu",
+        "workforce": "Abakozi",
+        "adjustments": "Ennongoosereza",
+        "bank-release": "Okuyimbulwa mu Bbanka"
+      },
+      "cashbank": {
+        "bank-accounts": "Akawunti Zange",
+        "reconciliation": "Enkolagana y’okukwatagana",
+        "cash-petty": "Ensimbi Entonotono",
+        "contra": "Wakati wa Akawunti",
+        "cheque-register": "Okukebera",
+        "foreign-currency": "Ssente z’ebweru w’eggwanga",
+        "bank-feeds": "Emmere ya Bbanka",
+        "bank-rules": "Amateeka & Okutabagana"
+      },
+      "expenses": {
+        "expense-center": "Ensaasaanya Yonna",
+        "categories": "Ebika by’Ensaasaanya",
+        "automated-bills": "Ensaasaanya Eziddirira",
+        "journal-vouchers": "Ebiyingizibwa mu ngalo",
+        "provisions": "Ebikung’aanyiziddwa",
+        "write-offs": "Ebiwandiiko ebiggyibwako",
+        "period-close": "Omwezi-Okuggwaako"
+      },
+      "tax": {
+        "gst-returns": "Okuwandiika omusolo gwa GST",
+        "gst-filing-wizard": "⚡ Fayiro ya GSTR-3B",
+        "gst-reconciliation": "Okukwatagana ne GST",
+        "e-invoicing": "E-Invoices ez’oku yintaneeti",
+        "e-way-bills": "Ebbago ly’etteeka lya E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Sasula Omusolo",
+        "quarterly-compliance": "Kalenda y’okugoberera amateeka",
+        "ca-access": "CA Okuyingira okw’ekiseera",
+        "gst-from-books": "GST okuva mu Bitabo"
+      },
+      "reports": {
+        "financial-statements": "Alipoota z’ebyensimbi",
+        "books": "Ebitabo by’okutunda ebintu",
+        "gst-reports": "Alipoota za GST",
+        "ar-ap": "Ebirina okusasulwa vs Ebirina okusasulwa",
+        "profitability": "Okukola amagoba",
+        "period-comparatives": "Okugeraageranya Emyaka",
+        "budget-vs-actuals": "Omulondozi w’embalirira",
+        "cashflow-projection": "Okuteebereza Ssente Enkalu",
+        "report-builder": "Lipoota z’Ensimbi",
+        "general-ledger": "Ekitabo ekinene (General Ledger).",
+        "live-financials": "Live Ebyensimbi",
+        "ai-analyst": "Omukenkufu wa AI"
+      },
+      "advanced-features": {
+        "overview": "Okutwalira awamu"
+      },
+      "parties": {
+        "all-parties": "Enjuyi zonna",
+        "customer-ledgers": "Bakasitoma",
+        "supplier-ledgers": "Abagaba ebintu",
+        "shared-ledger": "Ledger egabanyizibwamu",
+        "statements": "Ebigambo ebifulumiziddwa",
+        "reminders": "Ebijjukizo",
+        "documents": "Ebiwandiiko by’Ekibiina",
+        "portal": "Omukutu gw'Ekibiina",
+        "import": "Okuyingiza ebibiina mu ggwanga",
+        "duplicate-merge": "Okugatta Okukoppa",
+        "gap-analysis": "Okwekenenya Ebituli"
+      },
+      "inventory": {
+        "inventory-items": "Ebintu",
+        "godowns": "Sitoowa",
+        "stock-movement": "Entambula ya Stock",
+        "item-pricing": "Emiwendo gy’ebintu",
+        "stock-valuation": "Okugereka omuwendo gwa sitoowa",
+        "reorder-alerts": "Okuddamu okutegeka okulabula",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Ebiwandiiko bya Barcode",
+        "item-import": "Okuyingiza ebintu mu ggwanga",
+        "gap-analysis": "Okwekenenya Ebituli"
+      },
+      "assets": {
+        "asset-register": "Olukalala lw’eby’obugagga",
+        "depreciation": "Okukendeera kw’omuwendo",
+        "disposal-revaluation": "Tunda oba Revale"
+      },
+      "masters": {
+        "chart-of-accounts": "Olukalala lwa Akawunti",
+        "tax-masters": "Emiwendo gy’omusolo",
+        "cost-centers": "Ebifo ebikola ku nsaasaanya",
+        "voucher-types": "Ebika by’Enkolagana",
+        "opening-balances": "Bbalansi z’okutandika",
+        "currencies": "Ssente z’ensimbi"
+      },
+      "business-tools": {
+        "staff-payroll": "Olukalala lw’omusaala",
+        "manage-users": "Okuyingira kw'Abakozesa",
+        "online-orders": "Okulagira ku yintaneeti",
+        "sms-marketing": "Okutunda obubaka ku SMS",
+        "accountant-hub": "Ababalirizi b'ebitabo & Obuwagizi"
+      },
+      "party-tools": {
+        "documents": "Ebiwandiiko by’Ekibiina",
+        "portal": "Omukutu gw'Ekibiina",
+        "import": "Okuyingiza ebibiina mu ggwanga",
+        "duplicate-merge": "Okugatta Okukoppa",
+        "gap-analysis": "Okwekenenya Ebituli"
+      },
+      "item-tools": {
+        "reorder-alerts": "Okuddamu okutegeka okulabula",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Ebiwandiiko bya Barcode",
+        "item-import": "Okuyingiza ebintu mu ggwanga",
+        "gap-analysis": "Okwekenenya Ebituli"
+      },
+      "storage": {
+        "client-storage": "Fayiro za Kasitoma",
+        "unifiedtree-storage": "Okutereka mu kire"
+      },
+      "alerts": {
+        "accountant-alerts": "Okulabula kw'omubalirizi w'ebitabo",
+        "compliance-alerts": "Okulabula ku kugoberera amateeka",
+        "cash-risk-alerts": "Okulabula ku ssente enkalu n’akabi",
+        "ca-access": "CA Okuyingira okw’ekiseera"
+      },
+      "migration": {
+        "import": "Okuyingiza Data mu ggwanga",
+        "export": "Okufulumya Data ebweru w’eggwanga",
+        "history": "Ebyafaayo by’okuyingiza ebintu mu ggwanga",
+        "tally-import": "Okuyingiza okuva mu Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Okugula & Okusasula",
+      "accountingSetup": "Enteekateeka y’okubala ebitabo",
+      "dataDocuments": "Data & Ebiwandiiko"
+    }
+  },
+  "common": {
+    "save": "Teeka Enkyukakyuka",
+    "cancel": "okusazaamu",
+    "create": "Okutonda",
+    "edit": "Okugolola",
+    "delete": "Okusiimuula",
+    "search": "Okunoonya",
+    "connect": "Okukwatagana",
+    "configure": "Okutegeka",
+    "disconnect": "Ggyako omukutu",
+    "sync": "Sync Kati",
+    "close": "Okuggalawo",
+    "reset": "Ddamu ku Defaults",
+    "back": "Mabega",
+    "continue": "Eeyongera",
+    "all": "Onna",
+    "retry": "Ddamu gezaako",
+    "loading": "Okutikka...",
+    "resetDemo": "Okuzzaawo data ya demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Noonya ekintu kyonna...",
+    "settings": "Enteekateeka",
+    "language": "Olulimi",
+    "role": "Omugaso",
+    "greeting": {
+      "morning": "Wasuze otya",
+      "afternoon": "Osiibye otya",
+      "evening": "Osiibye otya"
+    },
+    "settingsItems": {
+      "company-profile": "Ebikwata ku Kkampuni",
+      "configuration": "Okusengeka",
+      "fiscal-periods": "Ebiseera by’Ensimbi",
+      "roles": "Emirimu & Abakozesa",
+      "integrations": "Okugatta ebintu",
+      "notifications": "Ebimanyisibwa",
+      "audit-logs": "Okubala ebitabo & Ebiwandiiko",
+      "audit-trail": "Omutindo gw’okubala ebitabo ogutayinza kukyusibwakyusibwa",
+      "developer": "Omukugu mu kukola & API"
+    },
+    "translatedLanguages": "Kivvuunuddwa",
+    "untranslatedLanguages": "Oluganda okutuusa lwe luvvuunuddwa"
+  },
+  "status": {
+    "filed": "Yawaayiddwa",
+    "ready": "Mwetegefu okuteeka fayiro",
+    "open": "Ekiseera kiggule",
+    "paid": "Okusasula",
+    "pending": "Tekinagwa",
+    "accepted": "Kikkirizibwa",
+    "delivered": "Okutuusa",
+    "rejected": "Agaaniddwa",
+    "pdf-sent": "PDF eweerezeddwa",
+    "not-sent": "Tebasindikiddwa",
+    "matched": "Ekwatagana",
+    "mismatch": "Obutakwatagana",
+    "missing-supplier": "Tekitegeezeddwa mugabi",
+    "missing-books": "Okubula mu bitabo",
+    "deferred": "Eyongezeddwayo",
+    "deducted": "Okuggyibwako",
+    "remitted": "Eweereddwayo",
+    "certified": "Ekakasiddwa",
+    "to-report": "Okukola lipoota",
+    "reported": "Yaloopeddwa",
+    "accounted": "Okubala ebitabo",
+    "overdue": "Kisusse ekiseera"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Mwetegefu okuteeka fayiro",
+      "liabilityDue": "Obuvunaanyizibwa obulina okusasulwa",
+      "paidThisYear": "Yasasulwa omwaka guno",
+      "nextDeadline": "Nsalesale addako",
+      "noneOverdue": "Tewali n’emu eyiseewo",
+      "overdue": "{{count}} kiyiseewo"
+    },
+    "filter": {
+      "ready": "Mwetegefu okuteeka fayiro",
+      "open": "Okuggula",
+      "filed": "Yawaayiddwa"
+    },
+    "col": {
+      "period": "Ekiseera",
+      "authority": "Obuyinza",
+      "rate": "Omuwendo",
+      "due": "Ebbanja",
+      "netPayable": "Net esasulwa",
+      "status": "Ennyimirira",
+      "ack": "Okwebaza"
+    },
+    "file": "Fayilo",
+    "view": "Endowooza",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Okutikka obuyinza...",
+    "nothingToFile": "Tewali returns zilinze kuteekebwa mu fayiro — ebiseera byonna ebiggaddwa biweebwayo.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Okwekkaanya",
+      "validate": "Okukakasa",
+      "declare": "Langirira & okuleeta",
+      "ack": "Okwebaza"
+    },
+    "runValidation": "Duka okukakasa",
+    "validating": "Okukakasa...",
+    "submit": "Submit {{form}}",
+    "submitting": "Okuwaayo...",
+    "declaration": "Ntegeeza nti amawulire agali mu kuddamu kuno matuufu era majjuvu, era nti nkkirizibwa okugawaayo eri {{authority}}.",
+    "netAmount": "Omuwendo omutuufu",
+    "submitted": "Eweereddwayo",
+    "filedOn": "Yafulumiziddwa ku...",
+    "regime": {
+      "authority": "Obuyinza",
+      "channel": "Omukutu gw'okuteeka fayiro",
+      "return": "Okukomawo",
+      "due": "Ebbanja",
+      "standardRate": "Omuwendo gwa mutindo",
+      "threshold": "Omusingi gw’okwewandiisa"
+    },
+    "demoNote": "Demo data okuva mu mock tax API ezimbiddwamu — fayiro n’okusasula bikoppa era tewali kintu kyonna kisindikibwa mu kitongole kya musolo."
+  },
+  "fx": {
+    "title": "Ssente z’ebweru w’eggwanga",
+    "subtitle": "Ssente ya base {{base}} · emiwendo gy'akatale egy'okukoppa egy'okulaga",
+    "newDoc": "Invoice / bill empya eya FX",
+    "kpi": {
+      "netExposure": "Okubikkulwa kwa Net FX",
+      "openDocs": "{{count}} ggulawo ebiwandiiko",
+      "unrealized": "Amagoba / okufiirwa okutategeerekeka",
+      "postedSplit": "{{posted}} posted · {{unposted}} tannaba kuteekebwako",
+      "realized": "Yategeerekese omwaka guno",
+      "lastReval": "Okuddamu omuwendo ogusembayo",
+      "never": "Obutasoboka",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Ggulawo ebintu",
+      "settled": "Basenga",
+      "revaluation": "Okuddamu omuwendo gw’ebintu ku nkomerero y’omwezi",
+      "journal": "Ekitabo kya FX"
+    },
+    "col": {
+      "document": "Ekiwandiiko",
+      "type": "Okuwandiika",
+      "openForeign": "Kiggule (eky’ebweru) .",
+      "bookedNow": "Booked / kati",
+      "valueIn": "Omuwendo mu {{base}}",
+      "unrealized": "Ebitategeerekese",
+      "status": "Ennyimirira",
+      "amount": "Omuwendo",
+      "bookedRate": "Omuwendo gwa booked",
+      "realized": "Okukizuula"
+    },
+    "receivable": "Ebisasulwa",
+    "payable": "Okusasulwa",
+    "receive": "Okufuna",
+    "pay": "Sasula",
+    "netIn": "Akatimba mu {{base}}",
+    "state": {
+      "settled": "Basenga",
+      "partial": "Ekitundu-settled",
+      "open": "Okuggula"
+    },
+    "demoNote": "Demo data okuva mu mock API ezimbiddwamu — emiwendo gikoppa, so si data ya katale butereevu."
+  }
+}

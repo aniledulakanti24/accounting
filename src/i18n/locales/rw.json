@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Umunsi ku wundi",
+      "finance": "Imari",
+      "advanced": "Yateye imbere"
+    },
+    "mainMenu": "Ibikuru bikuru",
+    "short": {
+      "parties": "Amashyaka"
+    },
+    "sections": {
+      "dashboard": "Ikibaho",
+      "sales": "Kugurisha",
+      "receivables": "Amafaranga Muri",
+      "procurement": "Kugura",
+      "payables": "Amafaranga",
+      "cashbank": "Amafaranga & Banki",
+      "expenses": "Amafaranga yakoreshejwe",
+      "tax": "Umusoro",
+      "reports": "Raporo",
+      "advanced-features": "Ibiranga iterambere",
+      "parties": "Abakiriya & Abatanga isoko",
+      "inventory": "Ibintu",
+      "assets": "Umutungo utimukanwa",
+      "masters": "Gushiraho & Iboneza",
+      "business-tools": "Ikipe & Ibikoresho",
+      "party-tools": "Ibikoresho by'Ishyaka",
+      "item-tools": "Ibikoresho",
+      "storage": "Inyandiko",
+      "alerts": "Imenyesha",
+      "migration": "Kwimuka kwamakuru"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Incamake",
+        "cash-flow": "Amafaranga atemba",
+        "tax-calendar": "Kalendari yimisoro"
+      },
+      "sales": {
+        "quotations": "Amagambo",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Inyemezabuguzi",
+        "delivery-challans": "Gutanga Ikibazo",
+        "receipts": "Inyemezabwishyu",
+        "invoice-desk": "Inyemezabuguzi"
+      },
+      "receivables": {
+        "money-in-center": "Amafaranga Muri Centre",
+        "receivables": "Amafaranga yakirwa",
+        "payments-received": "Amafaranga yakiriwe",
+        "overdue-collections": "Ibyegeranyo & Kwibutsa",
+        "credit-notes": "Inyandiko y'inguzanyo & Gusubizwa",
+        "sales-returns": "Kugurisha",
+        "customer-statements": "Amatangazo y'abakiriya",
+        "payment-links": "Ihuza ryo Kwishura"
+      },
+      "procurement": {
+        "purchase-center": "Ikigo cyubuguzi",
+        "purchase-orders": "Kugura Amabwiriza",
+        "goods-receipt": "Inyemezabwishyu y'ibicuruzwa",
+        "purchase-invoices": "Kugura inyemezabuguzi",
+        "payment-out": "Amafaranga yishyuwe",
+        "returns-debit-notes": "Garuka & Inyandiko",
+        "bill-approvals": "Iyemezwa ry'umushinga"
+      },
+      "payables": {
+        "bills": "Ikigo cyo Kwishura",
+        "payments": "Kwishura ibicuruzwa",
+        "workforce": "Abakozi",
+        "adjustments": "Guhindura",
+        "bank-release": "Irekurwa rya Banki"
+      },
+      "cashbank": {
+        "bank-accounts": "Konti zanjye",
+        "reconciliation": "Guhuza Ibikorwa",
+        "cash-petty": "Amafaranga make",
+        "contra": "Hagati ya Konti",
+        "cheque-register": "Kugenzura",
+        "foreign-currency": "Ifaranga ry'amahanga",
+        "bank-feeds": "Kugaburira Banki",
+        "bank-rules": "Amategeko & Ubwiyunge"
+      },
+      "expenses": {
+        "expense-center": "Amafaranga yose yakoreshejwe",
+        "categories": "Ubwoko bw'ikoreshwa",
+        "automated-bills": "Amafaranga asubiramo",
+        "journal-vouchers": "Intoki",
+        "provisions": "Ibihe",
+        "write-offs": "Kwandika",
+        "period-close": "Ukwezi-Impera"
+      },
+      "tax": {
+        "gst-returns": "GST Gutanga",
+        "gst-filing-wizard": "⚡ Dosiye GSTR-3B",
+        "gst-reconciliation": "Guhuza GST",
+        "e-invoicing": "Inyemezabuguzi",
+        "e-way-bills": "Imishinga yo kwishyura",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Kwishura Umusoro",
+        "quarterly-compliance": "Ingengabihe",
+        "ca-access": "CA Kubona by'agateganyo",
+        "gst-from-books": "GST yo mu bitabo"
+      },
+      "reports": {
+        "financial-statements": "Raporo y’imari",
+        "books": "Ibitabo byubucuruzi",
+        "gst-reports": "Raporo ya GST",
+        "ar-ap": "Amafaranga yakirwa vs yishyurwa",
+        "profitability": "Inyungu",
+        "period-comparatives": "Kugereranya Umwaka",
+        "budget-vs-actuals": "Ingengo yimari",
+        "cashflow-projection": "Amafaranga ateganijwe",
+        "report-builder": "Raporo Yumukiriya",
+        "general-ledger": "Igitabo rusange",
+        "live-financials": "Amafaranga Yubuzima",
+        "ai-analyst": "Isesengura rya AI"
+      },
+      "advanced-features": {
+        "overview": "Incamake"
+      },
+      "parties": {
+        "all-parties": "Amashyaka yose",
+        "customer-ledgers": "Abakiriya",
+        "supplier-ledgers": "Abatanga isoko",
+        "shared-ledger": "Igitabo gisangiwe",
+        "statements": "Amatangazo",
+        "reminders": "Kwibutsa",
+        "documents": "Inyandiko z'Ishyaka",
+        "portal": "Urubuga rw'Ishyaka",
+        "import": "Ibicuruzwa bitumizwa mu mahanga",
+        "duplicate-merge": "Kwigana",
+        "gap-analysis": "Isesengura ry'Icyuho"
+      },
+      "inventory": {
+        "inventory-items": "Ibintu",
+        "godowns": "Ububiko",
+        "stock-movement": "Kwimuka",
+        "item-pricing": "Igiciro",
+        "stock-valuation": "Agaciro k'imigabane",
+        "reorder-alerts": "Kumenyesha amakuru",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Ibirango bya barcode",
+        "item-import": "Ibintu bitumizwa mu mahanga",
+        "gap-analysis": "Isesengura ry'Icyuho"
+      },
+      "assets": {
+        "asset-register": "Urutonde rwumutungo",
+        "depreciation": "Guta agaciro",
+        "disposal-revaluation": "Kugurisha cyangwa Gusubiramo"
+      },
+      "masters": {
+        "chart-of-accounts": "Urutonde rwa Konti",
+        "tax-masters": "Igipimo cy'Imisoro",
+        "cost-centers": "Ibiciro",
+        "voucher-types": "Ubwoko bw'Ubucuruzi",
+        "opening-balances": "Gutangira Kuringaniza",
+        "currencies": "Amafaranga"
+      },
+      "business-tools": {
+        "staff-payroll": "Umushahara",
+        "manage-users": "Abakoresha",
+        "online-orders": "Amabwiriza yo kumurongo",
+        "sms-marketing": "Kwamamaza ubutumwa bugufi",
+        "accountant-hub": "Abacungamari & Inkunga"
+      },
+      "party-tools": {
+        "documents": "Inyandiko z'Ishyaka",
+        "portal": "Urubuga rw'Ishyaka",
+        "import": "Ibicuruzwa bitumizwa mu mahanga",
+        "duplicate-merge": "Kwigana",
+        "gap-analysis": "Isesengura ry'Icyuho"
+      },
+      "item-tools": {
+        "reorder-alerts": "Kumenyesha amakuru",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Ibirango bya barcode",
+        "item-import": "Ibintu bitumizwa mu mahanga",
+        "gap-analysis": "Isesengura ry'Icyuho"
+      },
+      "storage": {
+        "client-storage": "Amadosiye y'abakiriya",
+        "unifiedtree-storage": "Ububiko"
+      },
+      "alerts": {
+        "accountant-alerts": "Umucungamari",
+        "compliance-alerts": "Imenyesha ryubahirizwa",
+        "cash-risk-alerts": "Amafaranga & Impanuka",
+        "ca-access": "CA Kubona by'agateganyo"
+      },
+      "migration": {
+        "import": "Kuzana amakuru",
+        "export": "Kohereza amakuru",
+        "history": "Kuzana Amateka",
+        "tally-import": "Kuzana muri Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Kugura & Kwishura",
+      "accountingSetup": "Gushiraho Ibaruramari",
+      "dataDocuments": "Ibyatanzwe & Inyandiko"
+    }
+  },
+  "common": {
+    "save": "Bika Impinduka",
+    "cancel": "Kureka",
+    "create": "Kurema",
+    "edit": "Hindura",
+    "delete": "Siba",
+    "search": "Shakisha",
+    "connect": "Ihuze",
+    "configure": "Hindura",
+    "disconnect": "Guhagarika",
+    "sync": "Gereranya nonaha",
+    "close": "Funga",
+    "reset": "Ongera usubiremo",
+    "back": "Inyuma",
+    "continue": "Komeza",
+    "all": "Byose",
+    "retry": "Ongera ugerageze",
+    "loading": "Kuremera…",
+    "resetDemo": "Ongera usubize amakuru yerekana"
+  },
+  "shell": {
+    "searchPlaceholder": "Shakisha ikintu cyose…",
+    "settings": "Igenamiterere",
+    "language": "Ururimi",
+    "role": "Uruhare",
+    "greeting": {
+      "morning": "Mwaramutse!",
+      "afternoon": "Mwaramutse",
+      "evening": "Umugoroba mwiza"
+    },
+    "settingsItems": {
+      "company-profile": "Umwirondoro w'isosiyete",
+      "configuration": "Iboneza",
+      "fiscal-periods": "Ibihe by'Imari",
+      "roles": "Inshingano & Abakoresha",
+      "integrations": "Kwishyira hamwe",
+      "notifications": "Kumenyesha",
+      "audit-logs": "Kugenzura & Logs",
+      "audit-trail": "Inzira y'ubugenzuzi",
+      "developer": "Umushinga & API"
+    },
+    "translatedLanguages": "Byahinduwe",
+    "untranslatedLanguages": "Icyongereza kugeza gihinduwe"
+  },
+  "status": {
+    "filed": "Filed",
+    "ready": "Witegure gutanga dosiye",
+    "open": "Igihe kirakinguye",
+    "paid": "Yishyuwe",
+    "pending": "Bitegereje",
+    "accepted": "Byemewe",
+    "delivered": "Yatanzwe",
+    "rejected": "Yanze",
+    "pdf-sent": "PDF yoherejwe",
+    "not-sent": "Ntabwo yoherejwe",
+    "matched": "Bihuye",
+    "mismatch": "Kudahuza",
+    "missing-supplier": "Ntabwo byatangajwe nuwabitanze",
+    "missing-books": "Kubura mu bitabo",
+    "deferred": "Gutinza",
+    "deducted": "Yakuweho",
+    "remitted": "Yakuweho",
+    "certified": "Icyemezo",
+    "to-report": "Gutanga raporo",
+    "reported": "Raporo",
+    "accounted": "Kubara",
+    "overdue": "Igihe kirenze"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Witegure gutanga dosiye",
+      "liabilityDue": "Inshingano igomba",
+      "paidThisYear": "Yishyuwe uyu mwaka",
+      "nextDeadline": "Igihe ntarengwa gikurikira",
+      "noneOverdue": "Nta n'umwe warengeje igihe",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Witegure gutanga dosiye",
+      "open": "Fungura",
+      "filed": "Filed"
+    },
+    "col": {
+      "period": "Ikiringo",
+      "authority": "Ubuyobozi",
+      "rate": "Igipimo",
+      "due": "Kubera",
+      "netPayable": "Net yishyurwa",
+      "status": "Imiterere",
+      "ack": "Gushimira"
+    },
+    "file": "Idosiye",
+    "view": "Reba",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ububasha bwo gupakira…",
+    "nothingToFile": "Nta garuka ategereje gutangwa - ibihe byose byafunzwe byatanzwe.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Isubiramo",
+      "validate": "Kwemeza",
+      "declare": "Tangaza kandi utange",
+      "ack": "Gushimira"
+    },
+    "runValidation": "Koresha kwemeza",
+    "validating": "Kwemeza…",
+    "submit": "Tanga {{form}}",
+    "submitting": "Kohereza…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Umubare wuzuye",
+    "submitted": "Yatanzwe",
+    "filedOn": "Filed on",
+    "regime": {
+      "authority": "Ubuyobozi",
+      "channel": "Umuyoboro",
+      "return": "Garuka",
+      "due": "Kubera",
+      "standardRate": "Igipimo gisanzwe",
+      "threshold": "Urutonde rwo kwiyandikisha"
+    },
+    "demoNote": "Imibare yerekana kuva mumisoro yubatswe mo API - dosiye no kwishyura byigana kandi ntakintu cyoherejwe mubuyobozi bwimisoro."
+  },
+  "fx": {
+    "title": "Ifaranga ry'amahanga",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Inyemezabuguzi nshya ya FX / fagitire",
+    "kpi": {
+      "netExposure": "Net FX",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Inyungu / igihombo kidashoboka",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Byagaragaye muri uyu mwaka",
+      "lastReval": "Isubiramo rya nyuma",
+      "never": "Nta na rimwe",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Fungura ibintu",
+      "settled": "Byakemuwe",
+      "revaluation": "Ukwezi kurangira",
+      "journal": "Ikinyamakuru FX"
+    },
+    "col": {
+      "document": "Inyandiko",
+      "type": "Andika",
+      "openForeign": "Fungura (mumahanga)",
+      "bookedNow": "Byanditswe / ubu",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Ntibishoboka",
+      "status": "Imiterere",
+      "amount": "Umubare",
+      "bookedRate": "Igipimo cyateganijwe",
+      "realized": "Byagaragaye"
+    },
+    "receivable": "Kwakirwa",
+    "payable": "Yishyuwe",
+    "receive": "Akira",
+    "pay": "Kwishura",
+    "netIn": "Net muri {{base}}",
+    "state": {
+      "settled": "Byakemuwe",
+      "partial": "Igice-cyakemuwe",
+      "open": "Fungura"
+    },
+    "demoNote": "Kwerekana amakuru kuva muri mock API yubatswe - ibiciro birigana, ntabwo ari amakuru yisoko nzima."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Nitin a ni",
+      "finance": "Sum lam",
+      "advanced": "Pek lawk"
+    },
+    "mainMenu": "Main Menu ah a awm",
+    "short": {
+      "parties": "Party hrang hrangte"
+    },
+    "sections": {
+      "dashboard": "Dashboard a ni",
+      "sales": "Sales a ni",
+      "receivables": "Pawisa In",
+      "procurement": "Thil lei tur a awm",
+      "payables": "Sum Out a ni",
+      "cashbank": "Cash & Bank hmanga thil tih a ni",
+      "expenses": "Hmaralna",
+      "tax": "Tax lak a ni",
+      "reports": "Report hrang hrang a awm",
+      "advanced-features": "Advanced Features a awm bawk",
+      "parties": "Customer & Supplier te tan a ni",
+      "inventory": "Thil",
+      "assets": "Fixed Assets te pawh a awm",
+      "masters": "Setup & Configuration hrang hrang a awm bawk",
+      "business-tools": "Team & Hmanrua te",
+      "party-tools": "Party hmanrua te",
+      "item-tools": "Item Hmanraw hman tur",
+      "storage": "Document hrang hrang a awm",
+      "alerts": "Alerts a awm",
+      "migration": "Data Migration a ni"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "A tlangpuiin",
+        "cash-flow": "Cash Flow a ni",
+        "tax-calendar": "Tax Calendar a ni"
+      },
+      "sales": {
+        "quotations": "Quotation hrang hrang",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Bungraw man inziakna",
+        "delivery-challans": "Delivery Challan a ni",
+        "receipts": "Dawng",
+        "invoice-desk": "Invoice Desk a ni"
+      },
+      "receivables": {
+        "money-in-center": "Sum In Center ah a awm",
+        "receivables": "Receivables te pawh a awm",
+        "payments-received": "Pawisa pek tawhte",
+        "overdue-collections": "Collections & Hriat nawn tirna",
+        "credit-notes": "Credit Notes leh Refund te pawh a awm bawk",
+        "sales-returns": "Sales Returns te chu a rawn lang leh ta",
+        "customer-statements": "Customer te thusawi",
+        "payment-links": "Pawisa pekna Link te"
+      },
+      "procurement": {
+        "purchase-center": "Leina hmunpui a ni",
+        "purchase-orders": "Purchase Order te pawh a awm",
+        "goods-receipt": "Bungrua Receipt a ni",
+        "purchase-invoices": "Invoice lei theihna tur",
+        "payment-out": "Pawisa pek chhuah a ni",
+        "returns-debit-notes": "Return leh Debit Note te a awm bawk",
+        "bill-approvals": "Bill pawmpuina te"
+      },
+      "payables": {
+        "bills": "Pay Center a ni",
+        "payments": "Supplier te pawisa pek dan",
+        "workforce": "Hnathawktute",
+        "adjustments": "Insiamremna te",
+        "bank-release": "Bank atanga chhuah a ni"
+      },
+      "cashbank": {
+        "bank-accounts": "Ka Accounts te chu",
+        "reconciliation": "Match Transaction hrang hrang te",
+        "cash-petty": "Petty Cash a ni",
+        "contra": "Account hrang hrang inkarah",
+        "cheque-register": "Check a ni",
+        "foreign-currency": "Ramdang Pawisa a ni",
+        "bank-feeds": "Bank Feeds te pawh a awm",
+        "bank-rules": "Rules & Inremna siam"
+      },
+      "expenses": {
+        "expense-center": "Sum hman zawng zawng",
+        "categories": "Sum hmanna chi hrang hrang",
+        "automated-bills": "Recurring Expenses te chu a ni",
+        "journal-vouchers": "Manual Entry te pawh a awm",
+        "provisions": "Accrual a awm thin",
+        "write-offs": "Write-off te pawh a awm",
+        "period-close": "Thla-Thawp"
+      },
+      "tax": {
+        "gst-returns": "GST Filing a ni",
+        "gst-filing-wizard": "⚡ File GSTR-3B ah dah rawh",
+        "gst-reconciliation": "GST matching a ni",
+        "e-invoicing": "E-Invoice te a awm bawk",
+        "e-way-bills": "E-Way Bills te pawh a awm",
+        "tds": "TDS a ni",
+        "tcs": "TCS a ni",
+        "tax-payments": "Tax pe rawh",
+        "quarterly-compliance": "Dan zawm dan Calendar",
+        "ca-access": "CA Hun eng emaw chen atana hman theih",
+        "gst-from-books": "Lehkhabu atanga GST lak a ni"
+      },
+      "reports": {
+        "financial-statements": "Sum leh pai report te",
+        "books": "Transaction Books te pawh a awm",
+        "gst-reports": "GST Report hrang hrangte",
+        "ar-ap": "Receivables vs Payables te a ni",
+        "profitability": "Hlawkna a awm",
+        "period-comparatives": "Kum tehkhin dan",
+        "budget-vs-actuals": "Budget Tracker a ni",
+        "cashflow-projection": "Cash Forecast a ni",
+        "report-builder": "Custom Reports te pawh a awm",
+        "general-ledger": "General Ledger a ni",
+        "live-financials": "Live Financials a ni",
+        "ai-analyst": "AI Analyst a ni"
+      },
+      "advanced-features": {
+        "overview": "A tlangpuiin"
+      },
+      "parties": {
+        "all-parties": "Party zawng zawng",
+        "customer-ledgers": "Customer te tan chuan",
+        "supplier-ledgers": "Supplier te an ni",
+        "shared-ledger": "Ledger insem a ni",
+        "statements": "Thusawi te",
+        "reminders": "Hriat nawn tirna",
+        "documents": "Party Document hrang hrang",
+        "portal": "Party Portal ah a awm a",
+        "import": "Party lakluh a ni",
+        "duplicate-merge": "Duplicate Merge tih a ni",
+        "gap-analysis": "Gap thlirletna (Gap Analysis) a ni"
+      },
+      "inventory": {
+        "inventory-items": "Thil",
+        "godowns": "Warehouse hrang hrangah te",
+        "stock-movement": "Stock Movement a ni",
+        "item-pricing": "Hman man tur",
+        "stock-valuation": "Stock Valuation a ni",
+        "reorder-alerts": "Alerts te chu reorder leh rawh",
+        "batch-serials": "Batch & Serial hmanga siam a ni",
+        "barcode-labels": "Barcode Label te a awm bawk",
+        "item-import": "Item Import a ni",
+        "gap-analysis": "Gap thlirletna (Gap Analysis) a ni"
+      },
+      "assets": {
+        "asset-register": "Asset List a ni",
+        "depreciation": "Depreciation a ni",
+        "disposal-revaluation": "Sell ​​emaw Revalue emaw a ni thei"
+      },
+      "masters": {
+        "chart-of-accounts": "Accounts List a awm bawk",
+        "tax-masters": "Tax Rate pek dan tur",
+        "cost-centers": "Cost Center hrang hrangah a awm",
+        "voucher-types": "Transaction chi hrang hrang",
+        "opening-balances": "Balances bul tanna tur",
+        "currencies": "Pawisa te"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll tih a ni",
+        "manage-users": "User Access a ni",
+        "online-orders": "Online-a Order siam theih a ni",
+        "sms-marketing": "SMS hmanga sumdawnna a ni",
+        "accountant-hub": "Accountant & Support te pawh a awm bawk"
+      },
+      "party-tools": {
+        "documents": "Party Document hrang hrang",
+        "portal": "Party Portal ah a awm a",
+        "import": "Party lakluh a ni",
+        "duplicate-merge": "Duplicate Merge tih a ni",
+        "gap-analysis": "Gap thlirletna (Gap Analysis) a ni"
+      },
+      "item-tools": {
+        "reorder-alerts": "Alerts te chu reorder leh rawh",
+        "batch-serials": "Batch & Serial hmanga siam a ni",
+        "barcode-labels": "Barcode Label te a awm bawk",
+        "item-import": "Item Import a ni",
+        "gap-analysis": "Gap thlirletna (Gap Analysis) a ni"
+      },
+      "storage": {
+        "client-storage": "Client Files te pawh a awm",
+        "unifiedtree-storage": "Cloud Storage a ni"
+      },
+      "alerts": {
+        "accountant-alerts": "Accountant te hriattirna",
+        "compliance-alerts": "Thu zawm dan tur hriattirna",
+        "cash-risk-alerts": "Cash & Risk te hriattirna pek a ni",
+        "ca-access": "CA Hun eng emaw chen atana hman theih"
+      },
+      "migration": {
+        "import": "Data import rawh",
+        "export": "Data Export theih a ni",
+        "history": "Import History a ni",
+        "tally-import": "Tally & Zoho atanga lakluh a ni"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Leina & Pawisa pek dan",
+      "accountingSetup": "Accounting Setup a ni",
+      "dataDocuments": "Data & Document hrang hrang a awm bawk"
+    }
+  },
+  "common": {
+    "save": "Save Changes te chu",
+    "cancel": "Titawp",
+    "create": "Siam",
+    "edit": "Siamtha",
+    "delete": "Ti reh",
+    "search": "Zawng",
+    "connect": "Zawm",
+    "configure": "Configure rawh",
+    "disconnect": "Disconnect rawh",
+    "sync": "Tunah hian Sync rawh",
+    "close": "Khar",
+    "reset": "Defaults ah reset leh rawh",
+    "back": "Hnung",
+    "continue": "Chhunzawm",
+    "all": "Zavai",
+    "retry": "Ti leh rawh",
+    "loading": "Loading a ni...",
+    "resetDemo": "Demo data chu reset rawh"
+  },
+  "shell": {
+    "searchPlaceholder": "Eng thil pawh zawng rawh...",
+    "settings": "Settings te pawh a awm",
+    "language": "Tawng",
+    "role": "Chanvo",
+    "greeting": {
+      "morning": "Tukchhuah nuam le",
+      "afternoon": "Chawhnulam chibai",
+      "evening": "Tlailam chibai"
+    },
+    "settingsItems": {
+      "company-profile": "Company Profile chungchang",
+      "configuration": "Configuration a awm bawk",
+      "fiscal-periods": "Fiscal Period hrang hrang",
+      "roles": "Roles & User te a ni",
+      "integrations": "Integrations te pawh a awm",
+      "notifications": "Hriattirna te",
+      "audit-logs": "Audit & Logs te pawh a awm",
+      "audit-trail": "Tamper-proof Audit Trail a awm bawk",
+      "developer": "Developer & API te an ni"
+    },
+    "translatedLanguages": "Lehlin a ni",
+    "untranslatedLanguages": "English atanga lehlin hma loh chuan"
+  },
+  "status": {
+    "filed": "Filed a ni",
+    "ready": "File turin a inpeih tawh",
+    "open": "Period hawn a ni",
+    "paid": "Petlak",
+    "pending": "Hmabak",
+    "accepted": "A pawm a ni",
+    "delivered": "Bungrua hlan",
+    "rejected": "Hnawl a ni",
+    "pdf-sent": "PDF a thawn a ni",
+    "not-sent": "A thawn lo",
+    "matched": "A inmil hle",
+    "mismatch": "A inmil lo",
+    "missing-supplier": "Supplier-in a report lo",
+    "missing-books": "Lehkhabuah a bo",
+    "deferred": "Deferred a ni",
+    "deducted": "Deducted a ni",
+    "remitted": "Remit a ni tawh",
+    "certified": "Certified a ni",
+    "to-report": "Report turin",
+    "reported": "Report a ni",
+    "accounted": "Accounted a ni",
+    "overdue": "Overdue a ni tawh"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "File turin a inpeih tawh",
+      "liabilityDue": "Liability a awm tur a ni",
+      "paidThisYear": "Kumin hian pawisa pek a ni",
+      "nextDeadline": "Hun tiam lo awm tur",
+      "noneOverdue": "Tumah overdue a awm lo",
+      "overdue": "{{count}} a hun tawh"
+    },
+    "filter": {
+      "ready": "File turin a inpeih tawh",
+      "open": "Hawng",
+      "filed": "Filed a ni"
+    },
+    "col": {
+      "period": "Hunbi",
+      "authority": "Thuneitu",
+      "rate": "Man",
+      "due": "Hun",
+      "netPayable": "Net pek tur a ni",
+      "status": "Nihna",
+      "ack": "Lawmthu sawina"
+    },
+    "file": "Lehkha pawimawh",
+    "view": "Thlir",
+    "fileForm": "File {{form}} tih a ni.",
+    "loadingJurisdiction": "Loading jurisdiction a awm mek...",
+    "nothingToFile": "Return file nghah a ni lo — closed period zawng zawng submit vek a ni.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Ennawn",
+      "validate": "Validate rawh",
+      "declare": "Thupuan & thehluh tur a ni",
+      "ack": "Lawmthu sawina"
+    },
+    "runValidation": "Validation kalpui rawh",
+    "validating": "Validating a nih chuan...",
+    "submit": "{{form}} thehluh tur a ni.",
+    "submitting": "Submit lai hian...",
+    "declaration": "He return-a thu awmte hi a dik leh famkim tih ka puang a, {{authority}} hnenah thehluh phalna ka nei tih ka puang bawk.",
+    "netAmount": "Net amount a ni",
+    "submitted": "Submit a ni",
+    "filedOn": "Filed on a ni",
+    "regime": {
+      "authority": "Thuneitu",
+      "channel": "Filing channel a ni",
+      "return": "Kirlet",
+      "due": "Hun",
+      "standardRate": "Standard rate a ni",
+      "threshold": "Registration threshold a ni"
+    },
+    "demoNote": "Built-in mock tax API atanga demo data — filings leh payment te chu simulated a ni a, tax authority hnenah engmah thawn a ni lo."
+  },
+  "fx": {
+    "title": "Ramdang Pawisa a ni",
+    "subtitle": "Base currency {{base}} · mock market rates tarlanna a ni",
+    "newDoc": "FX invoice / bill thar a awm",
+    "kpi": {
+      "netExposure": "Net FX exposure a ni",
+      "openDocs": "{{count}} documents hawng rawh",
+      "unrealized": "Hlawkna / hlohna tihhlawhtlin loh",
+      "postedSplit": "{{posted}} posted · {{unposted}} a la ni lo",
+      "realized": "Kumin hian a takin a thleng ta",
+      "lastReval": "Revaluation hnuhnung ber",
+      "never": "Ngai lo",
+      "suggested": "A rawtna chu: {{date}}"
+    },
+    "view": {
+      "open": "Thil awmte hawng rawh",
+      "settled": "Settled a ni",
+      "revaluation": "Thla tawp lama revaluation",
+      "journal": "FX journal a ni"
+    },
+    "col": {
+      "document": "Lehkha pawimawh",
+      "type": "Lampang",
+      "openForeign": "Open (ram dang) .",
+      "bookedNow": "Booked / tunah hian",
+      "valueIn": "{{base}} ah hlutna a awm.",
+      "unrealized": "A hriat loh",
+      "status": "Nihna",
+      "amount": "Belhkhawm",
+      "bookedRate": "Booked rate a ni",
+      "realized": "Hrechhuak"
+    },
+    "receivable": "Receivable a ni",
+    "payable": "Pawisa pek tur a ni",
+    "receive": "Dawng",
+    "pay": "Pe",
+    "netIn": "{{base}} ah net a awm.",
+    "state": {
+      "settled": "Settled a ni",
+      "partial": "Part-settled a ni",
+      "open": "Hawng"
+    },
+    "demoNote": "Built-in mock API atanga demo data — rates hi simulated a ni a, live market data a ni lo."
+  }
+}

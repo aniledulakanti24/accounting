@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Dag till dag",
+      "finance": "Finansiera",
+      "advanced": "Avancerad"
+    },
+    "mainMenu": "Huvudmeny",
+    "short": {
+      "parties": "Fester"
+    },
+    "sections": {
+      "dashboard": "Instrumentbräda",
+      "sales": "Försäljning",
+      "receivables": "Pengar in",
+      "procurement": "Inköp",
+      "payables": "Pengar ut",
+      "cashbank": "Kontanter & Bank",
+      "expenses": "Utgifter",
+      "tax": "Beskatta",
+      "reports": "Rapporter",
+      "advanced-features": "Avancerade funktioner",
+      "parties": "Kunder & Leverantörer",
+      "inventory": "Föremål",
+      "assets": "Anläggningstillgångar",
+      "masters": "Inställningar och konfiguration",
+      "business-tools": "Team & Verktyg",
+      "party-tools": "Festverktyg",
+      "item-tools": "Objekt Verktyg",
+      "storage": "Dokument",
+      "alerts": "Varningar",
+      "migration": "Datamigrering"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Översikt",
+        "cash-flow": "Kassaflöde",
+        "tax-calendar": "Skattekalender"
+      },
+      "sales": {
+        "quotations": "Citat",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Faktura",
+        "delivery-challans": "Leverans Challan",
+        "receipts": "Mottagande",
+        "invoice-desk": "Fakturadisk"
+      },
+      "receivables": {
+        "money-in-center": "Pengar i centrum",
+        "receivables": "Fordringar",
+        "payments-received": "Mottagna betalningar",
+        "overdue-collections": "Samlingar och påminnelser",
+        "credit-notes": "Kreditnotor och återbetalningar",
+        "sales-returns": "Försäljningsretur",
+        "customer-statements": "Kundutlåtanden",
+        "payment-links": "Betalningslänkar"
+      },
+      "procurement": {
+        "purchase-center": "Köpcentrum",
+        "purchase-orders": "Inköpsorder",
+        "goods-receipt": "Varumottagning",
+        "purchase-invoices": "Inköpsfakturor",
+        "payment-out": "Gjorda betalningar",
+        "returns-debit-notes": "Returer & Debetsedlar",
+        "bill-approvals": "Billgodkännanden"
+      },
+      "payables": {
+        "bills": "Betalcenter",
+        "payments": "Leverantörsbetalningar",
+        "workforce": "Arbetskraft",
+        "adjustments": "Justeringar",
+        "bank-release": "Bankfrigivning"
+      },
+      "cashbank": {
+        "bank-accounts": "Mina konton",
+        "reconciliation": "Matcha transaktioner",
+        "cash-petty": "Småpengar",
+        "contra": "Mellan konton",
+        "cheque-register": "Checkar",
+        "foreign-currency": "Utländsk valuta",
+        "bank-feeds": "Bankflöden",
+        "bank-rules": "Regler & avstämning"
+      },
+      "expenses": {
+        "expense-center": "Alla utgifter",
+        "categories": "Utgiftstyper",
+        "automated-bills": "Återkommande utgifter",
+        "journal-vouchers": "Manuella inmatningar",
+        "provisions": "Periodiseringar",
+        "write-offs": "Avskrivningar",
+        "period-close": "Månadsslut"
+      },
+      "tax": {
+        "gst-returns": "GST-arkivering",
+        "gst-filing-wizard": "⚡ Fil GSTR-3B",
+        "gst-reconciliation": "GST-matchning",
+        "e-invoicing": "E-fakturor",
+        "e-way-bills": "E-vägsräkningar",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Betala skatt",
+        "quarterly-compliance": "Efterlevnadskalender",
+        "ca-access": "CA Temporary Access",
+        "gst-from-books": "GST från Books"
+      },
+      "reports": {
+        "financial-statements": "Finansiella rapporter",
+        "books": "Transaktionsböcker",
+        "gst-reports": "GST-rapporter",
+        "ar-ap": "Fordringar vs skulder",
+        "profitability": "Lönsamhet",
+        "period-comparatives": "Årsjämförelse",
+        "budget-vs-actuals": "Budgetspårare",
+        "cashflow-projection": "Kontantprognos",
+        "report-builder": "Anpassade rapporter",
+        "general-ledger": "Huvudbok",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI-analytiker"
+      },
+      "advanced-features": {
+        "overview": "Översikt"
+      },
+      "parties": {
+        "all-parties": "Alla parter",
+        "customer-ledgers": "Kunder",
+        "supplier-ledgers": "Leverantörer",
+        "shared-ledger": "Delad reskontra",
+        "statements": "Uttalanden",
+        "reminders": "Påminnelser",
+        "documents": "Partidokument",
+        "portal": "Festportal",
+        "import": "Parti import",
+        "duplicate-merge": "Duplicera sammanfogning",
+        "gap-analysis": "Gapanalys"
+      },
+      "inventory": {
+        "inventory-items": "Föremål",
+        "godowns": "Lager",
+        "stock-movement": "Aktierörelse",
+        "item-pricing": "Prissättning",
+        "stock-valuation": "Aktievärdering",
+        "reorder-alerts": "Ordna om varningar",
+        "batch-serials": "Batch & seriell",
+        "barcode-labels": "Streckkodsetiketter",
+        "item-import": "Artikelimport",
+        "gap-analysis": "Gapanalys"
+      },
+      "assets": {
+        "asset-register": "Tillgångslista",
+        "depreciation": "Avskrivning",
+        "disposal-revaluation": "Sälj eller värdera om"
+      },
+      "masters": {
+        "chart-of-accounts": "Kontolista",
+        "tax-masters": "Skattesatser",
+        "cost-centers": "Kostnadsställen",
+        "voucher-types": "Transaktionstyper",
+        "opening-balances": "Startsaldo",
+        "currencies": "Valutor"
+      },
+      "business-tools": {
+        "staff-payroll": "Löner",
+        "manage-users": "Användaråtkomst",
+        "online-orders": "Onlinebeställningar",
+        "sms-marketing": "SMS marknadsföring",
+        "accountant-hub": "Revisorer & Support"
+      },
+      "party-tools": {
+        "documents": "Partidokument",
+        "portal": "Festportal",
+        "import": "Parti import",
+        "duplicate-merge": "Duplicera sammanfogning",
+        "gap-analysis": "Gapanalys"
+      },
+      "item-tools": {
+        "reorder-alerts": "Ordna om varningar",
+        "batch-serials": "Batch & seriell",
+        "barcode-labels": "Streckkodsetiketter",
+        "item-import": "Artikelimport",
+        "gap-analysis": "Gapanalys"
+      },
+      "storage": {
+        "client-storage": "Klientfiler",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Revisorvarningar",
+        "compliance-alerts": "Efterlevnadsvarningar",
+        "cash-risk-alerts": "Cash & Risk Alerts",
+        "ca-access": "CA Temporary Access"
+      },
+      "migration": {
+        "import": "Importera data",
+        "export": "Exportera data",
+        "history": "Importhistorik",
+        "tally-import": "Importera från Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Köp & betalningar",
+      "accountingSetup": "Bokföringsinställningar",
+      "dataDocuments": "Data & Dokument"
+    }
+  },
+  "common": {
+    "save": "Spara ändringar",
+    "cancel": "Avboka",
+    "create": "Skapa",
+    "edit": "Redigera",
+    "delete": "Radera",
+    "search": "Söka",
+    "connect": "Ansluta",
+    "configure": "Konfigurera",
+    "disconnect": "Koppla från",
+    "sync": "Synkronisera nu",
+    "close": "Nära",
+    "reset": "Återställ till standardvärden",
+    "back": "Tillbaka",
+    "continue": "Fortsätta",
+    "all": "Alla",
+    "retry": "Försöka igen",
+    "loading": "Belastning…",
+    "resetDemo": "Återställ demodata"
+  },
+  "shell": {
+    "searchPlaceholder": "Sök vad som helst...",
+    "settings": "Inställningar",
+    "language": "Språk",
+    "role": "Roll",
+    "greeting": {
+      "morning": "God morgon",
+      "afternoon": "God eftermiddag",
+      "evening": "God afton"
+    },
+    "settingsItems": {
+      "company-profile": "Företagsprofil",
+      "configuration": "Konfiguration",
+      "fiscal-periods": "Räkenskapsperioder",
+      "roles": "Roller & användare",
+      "integrations": "Integrationer",
+      "notifications": "Aviseringar",
+      "audit-logs": "Revision & Loggar",
+      "audit-trail": "Åtgärdssäkert revisionsspår",
+      "developer": "Utvecklare & API"
+    },
+    "translatedLanguages": "Översatt",
+    "untranslatedLanguages": "engelska tills den översatts"
+  },
+  "status": {
+    "filed": "Arkiverad",
+    "ready": "Klar att arkivera",
+    "open": "Period öppen",
+    "paid": "Betalt",
+    "pending": "I avvaktan på",
+    "accepted": "Accepterad",
+    "delivered": "Levereras",
+    "rejected": "Avvisad",
+    "pdf-sent": "PDF skickas",
+    "not-sent": "Ej skickat",
+    "matched": "Matchat",
+    "mismatch": "Missmatch",
+    "missing-supplier": "Ej rapporterad av leverantör",
+    "missing-books": "Saknas i böcker",
+    "deferred": "Uppskjuten",
+    "deducted": "Avdraget",
+    "remitted": "Remitterad",
+    "certified": "Auktoriserad",
+    "to-report": "Att rapportera",
+    "reported": "Rapporterad",
+    "accounted": "Redovisad",
+    "overdue": "Försenad"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Klar att arkivera",
+      "liabilityDue": "Ansvar förfallen",
+      "paidThisYear": "Betalt i år",
+      "nextDeadline": "Nästa deadline",
+      "noneOverdue": "Ingen försenad",
+      "overdue": "{{count}} försenade"
+    },
+    "filter": {
+      "ready": "Klar att arkivera",
+      "open": "Öppna",
+      "filed": "Arkiverad"
+    },
+    "col": {
+      "period": "Period",
+      "authority": "Myndighet",
+      "rate": "Hastighet",
+      "due": "Förfaller",
+      "netPayable": "Nettobetalning",
+      "status": "Status",
+      "ack": "Bekräftelse"
+    },
+    "file": "Fil",
+    "view": "Se",
+    "fileForm": "Fil {{form}}",
+    "loadingJurisdiction": "Laddar jurisdiktion...",
+    "nothingToFile": "Inga deklarationer väntar på att lämnas in – alla stängda perioder är inlämnade.",
+    "fileNext": "Fil nästa: {{name}}",
+    "steps": {
+      "review": "Recension",
+      "validate": "Bekräfta",
+      "declare": "Deklarera & skicka",
+      "ack": "Bekräftelse"
+    },
+    "runValidation": "Kör validering",
+    "validating": "Validerar...",
+    "submit": "Skicka {{form}}",
+    "submitting": "Skickar in...",
+    "declaration": "Jag försäkrar att informationen i denna retur är sann och fullständig och att jag är behörig att skicka in den till {{authority}}.",
+    "netAmount": "Nettobelopp",
+    "submitted": "Inlämnad",
+    "filedOn": "Arkiverad på",
+    "regime": {
+      "authority": "Myndighet",
+      "channel": "Arkiveringskanal",
+      "return": "Återvända",
+      "due": "Förfaller",
+      "standardRate": "Standardpris",
+      "threshold": "Registreringströskel"
+    },
+    "demoNote": "Demodata från det inbyggda mock skatte-API - anmälningar och betalningar simuleras och ingenting skickas till en skattemyndighet."
+  },
+  "fx": {
+    "title": "Utländsk valuta",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Ny FX-faktura / räkning",
+    "kpi": {
+      "netExposure": "Netto FX-exponering",
+      "openDocs": "{{count}} öppna dokument",
+      "unrealized": "Orealiserad vinst/förlust",
+      "postedSplit": "{{posted}} postade · {{unposted}} inte än",
+      "realized": "Insåg i år",
+      "lastReval": "Senaste omvärderingen",
+      "never": "Aldrig",
+      "suggested": "Föreslagna: {{date}}"
+    },
+    "view": {
+      "open": "Öppna objekt",
+      "settled": "Fast",
+      "revaluation": "Omvärdering vid månadsskiftet",
+      "journal": "FX journal"
+    },
+    "col": {
+      "document": "Dokumentera",
+      "type": "Typ",
+      "openForeign": "Öppen (utländsk)",
+      "bookedNow": "Bokad / nu",
+      "valueIn": "Värde i {{base}}",
+      "unrealized": "Oförverkligad",
+      "status": "Status",
+      "amount": "Belopp",
+      "bookedRate": "Bokat pris",
+      "realized": "Insåg"
+    },
+    "receivable": "Fordran",
+    "payable": "Betalbar",
+    "receive": "Få",
+    "pay": "Betala",
+    "netIn": "Netto i {{base}}",
+    "state": {
+      "settled": "Fast",
+      "partial": "Delvis avgjort",
+      "open": "Öppna"
+    },
+    "demoNote": "Demodata från det inbyggda mock-APIet – priserna är simulerade, inte livemarknadsdata."
+  }
+}

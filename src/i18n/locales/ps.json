@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ورځ په ورځ",
+      "finance": "مالیه",
+      "advanced": "پرمختللی"
+    },
+    "mainMenu": "اصلي مینو",
+    "short": {
+      "parties": "ګوندونه"
+    },
+    "sections": {
+      "dashboard": "ډشبورډ",
+      "sales": "خرڅلاو",
+      "receivables": "پیسې دننه",
+      "procurement": "پیرودونه",
+      "payables": "پیسې بهر",
+      "cashbank": "نغدي او بانک",
+      "expenses": "لګښتونه",
+      "tax": "مالیه",
+      "reports": "راپورونه",
+      "advanced-features": "پرمختللي ځانګړتیاوې",
+      "parties": "پیرودونکي او عرضه کوونکي",
+      "inventory": "توکي",
+      "assets": "ثابتې شتمنۍ",
+      "masters": "ترتیب او ترتیب",
+      "business-tools": "ټیم او وسایل",
+      "party-tools": "د ګوند وسیلې",
+      "item-tools": "د توکو وسیلې",
+      "storage": "اسناد",
+      "alerts": "خبرتیاوې",
+      "migration": "د معلوماتو مهاجرت"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "کتنه",
+        "cash-flow": "د نغدو پیسو جریان",
+        "tax-calendar": "د مالیاتو کیلنڈر"
+      },
+      "sales": {
+        "quotations": "اقتباسات",
+        "proforma-invoices": "PI",
+        "sales-invoices": "رسید",
+        "delivery-challans": "د تحویلي چالان",
+        "receipts": "رسید",
+        "invoice-desk": "د رسید میز"
+      },
+      "receivables": {
+        "money-in-center": "په مرکز کې پیسې",
+        "receivables": "د ترلاسه کولو وړ",
+        "payments-received": "تادیات ترلاسه شوي",
+        "overdue-collections": "راټولونه او یادونه",
+        "credit-notes": "د کریډیټ یادښتونه او بیرته ستنیدنه",
+        "sales-returns": "د پلور بیرته راګرځیدل",
+        "customer-statements": "د پیرودونکي بیانات",
+        "payment-links": "د تادیاتو لینکونه"
+      },
+      "procurement": {
+        "purchase-center": "د پیرود مرکز",
+        "purchase-orders": "د پیرود امرونه",
+        "goods-receipt": "د توکو رسید",
+        "purchase-invoices": "د پیرود رسیدونه",
+        "payment-out": "تادیات شوي",
+        "returns-debit-notes": "د بیرته راستنیدو او ډیبیټ یادښتونه",
+        "bill-approvals": "د بل تصویب"
+      },
+      "payables": {
+        "bills": "د پیسو مرکز",
+        "payments": "د عرضه کوونکي تادیات",
+        "workforce": "کاري ځواک",
+        "adjustments": "سمونونه",
+        "bank-release": "د بانک خوشې کول"
+      },
+      "cashbank": {
+        "bank-accounts": "زما حسابونه",
+        "reconciliation": "د راکړې ورکړې لوبه",
+        "cash-petty": "وړه نغدي",
+        "contra": "د حسابونو ترمنځ",
+        "cheque-register": "چک کوي",
+        "foreign-currency": "بهرنۍ اسعارو",
+        "bank-feeds": "د بانک فیډونه",
+        "bank-rules": "قواعد او پخلاینه"
+      },
+      "expenses": {
+        "expense-center": "ټول لګښتونه",
+        "categories": "د لګښت ډولونه",
+        "automated-bills": "تکراري لګښتونه",
+        "journal-vouchers": "لاسي لیکنې",
+        "provisions": "عايدات",
+        "write-offs": "د لیکلو بندونه",
+        "period-close": "میاشت - پای"
+      },
+      "tax": {
+        "gst-returns": "د GST دوسیه کول",
+        "gst-filing-wizard": "⚡ دوتنه GSTR-3B",
+        "gst-reconciliation": "د GST سمون",
+        "e-invoicing": "بریښنایی رسیدونه",
+        "e-way-bills": "E-Way بلونه",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "مالیه ورکړئ",
+        "quarterly-compliance": "د موافقت کیلنڈر",
+        "ca-access": "CA لنډمهاله لاسرسی",
+        "gst-from-books": "د کتابونو څخه GST"
+      },
+      "reports": {
+        "financial-statements": "مالي راپورونه",
+        "books": "د راکړې ورکړې کتابونه",
+        "gst-reports": "د GST راپورونه",
+        "ar-ap": "د ترلاسه کولو وړ او د تادیاتو وړ",
+        "profitability": "ګټورتوب",
+        "period-comparatives": "د کال پرتله کول",
+        "budget-vs-actuals": "د بودیجې تعقیبونکی",
+        "cashflow-projection": "د نغدو پیسو وړاندوینه",
+        "report-builder": "ګمرک راپورونه",
+        "general-ledger": "جنرال لیجر",
+        "live-financials": "ژوندۍ مالي",
+        "ai-analyst": "د AI شنونکی"
+      },
+      "advanced-features": {
+        "overview": "کتنه"
+      },
+      "parties": {
+        "all-parties": "ټول ګوندونه",
+        "customer-ledgers": "پیرودونکي",
+        "supplier-ledgers": "عرضه کوونکي",
+        "shared-ledger": "شریک شوی لیجر",
+        "statements": "بیانونه",
+        "reminders": "یادونه",
+        "documents": "د ګوند اسناد",
+        "portal": "د ګوند پورټل",
+        "import": "د ګوند واردول",
+        "duplicate-merge": "دوه اړخیزه یوځای کول",
+        "gap-analysis": "د تشې تحلیل"
+      },
+      "inventory": {
+        "inventory-items": "توکي",
+        "godowns": "ګودامونه",
+        "stock-movement": "د ذخیره حرکت",
+        "item-pricing": "نرخونه",
+        "stock-valuation": "د سټاک ارزښت",
+        "reorder-alerts": "خبرتیاوې بیا تنظیم کړئ",
+        "batch-serials": "بست او سریال",
+        "barcode-labels": "د بارکوډ لیبلونه",
+        "item-import": "د توکو واردول",
+        "gap-analysis": "د تشې تحلیل"
+      },
+      "assets": {
+        "asset-register": "د شتمنیو لیست",
+        "depreciation": "استخراج",
+        "disposal-revaluation": "وپلورئ او بیا ارزښت ورکړئ"
+      },
+      "masters": {
+        "chart-of-accounts": "د حسابونو لیست",
+        "tax-masters": "د مالیاتو نرخونه",
+        "cost-centers": "د لګښت مرکزونه",
+        "voucher-types": "د راکړې ورکړې ډولونه",
+        "opening-balances": "د پیل بیلانس",
+        "currencies": "اسعارو"
+      },
+      "business-tools": {
+        "staff-payroll": "معاش",
+        "manage-users": "د کارن لاسرسی",
+        "online-orders": "آنلاین امرونه",
+        "sms-marketing": "د ایس ایم ایس بازار موندنه",
+        "accountant-hub": "محاسبین او ملاتړ"
+      },
+      "party-tools": {
+        "documents": "د ګوند اسناد",
+        "portal": "د ګوند پورټل",
+        "import": "د ګوند واردول",
+        "duplicate-merge": "دوه اړخیزه یوځای کول",
+        "gap-analysis": "د تشې تحلیل"
+      },
+      "item-tools": {
+        "reorder-alerts": "خبرتیاوې بیا تنظیم کړئ",
+        "batch-serials": "بست او سریال",
+        "barcode-labels": "د بارکوډ لیبلونه",
+        "item-import": "د توکو واردول",
+        "gap-analysis": "د تشې تحلیل"
+      },
+      "storage": {
+        "client-storage": "د پیرودونکي فایلونه",
+        "unifiedtree-storage": "د کلاوډ ذخیره"
+      },
+      "alerts": {
+        "accountant-alerts": "د محاسبې خبرتیاوې",
+        "compliance-alerts": "د اطاعت خبرتیاوې",
+        "cash-risk-alerts": "د پیسو او خطر خبرتیاوې",
+        "ca-access": "CA لنډمهاله لاسرسی"
+      },
+      "migration": {
+        "import": "ډیټا وارد کړئ",
+        "export": "ډیټا صادر کړئ",
+        "history": "د وارداتو تاریخ",
+        "tally-import": "له Tally او Zoho څخه وارد کړئ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "پیرود او تادیات",
+      "accountingSetup": "د محاسبې تنظیم کول",
+      "dataDocuments": "ډاټا او اسناد"
+    }
+  },
+  "common": {
+    "save": "بدلونونه خوندي کړئ",
+    "cancel": "لغوه کړئ",
+    "create": "جوړ کړئ",
+    "edit": "سمون",
+    "delete": "ړنګول",
+    "search": "لټون",
+    "connect": "نښلول",
+    "configure": "ترتیب کړئ",
+    "disconnect": "منحل کول",
+    "sync": "همدا اوس همغږي کړئ",
+    "close": "تړل",
+    "reset": "ډیفالټ ته بیا تنظیم کړئ",
+    "back": "شاته",
+    "continue": "ادامه ورکړئ",
+    "all": "ټول",
+    "retry": "بیا هڅه وکړئ",
+    "loading": "بار کول…",
+    "resetDemo": "د ډیمو ډیټا بیا تنظیم کړئ"
+  },
+  "shell": {
+    "searchPlaceholder": "هر څه وپلټئ…",
+    "settings": "ترتیبات",
+    "language": "ژبه",
+    "role": "رول",
+    "greeting": {
+      "morning": "سهار مو پخیر",
+      "afternoon": "بعد له غرمه مو پخیر",
+      "evening": "ماښام مو پخیر"
+    },
+    "settingsItems": {
+      "company-profile": "د شرکت پروفایل",
+      "configuration": "ترتیب",
+      "fiscal-periods": "مالي دورې",
+      "roles": "رولونه او کاروونکي",
+      "integrations": "ادغامونه",
+      "notifications": "خبرتیاوې",
+      "audit-logs": "پلټنې او ننوتل",
+      "audit-trail": "د لاسوهنې ضد پلټنې لاره",
+      "developer": "پرمخ وړونکی او API"
+    },
+    "translatedLanguages": "ژباړه",
+    "untranslatedLanguages": "انګلیسي تر ژباړې پورې"
+  },
+  "status": {
+    "filed": "دوسیه شوې",
+    "ready": "د فایل کولو لپاره چمتو دی",
+    "open": "دوره پرانیستل شوه",
+    "paid": "ورکړې",
+    "pending": "پاتې",
+    "accepted": "ومنل شو",
+    "delivered": "سپارل شوی",
+    "rejected": "رد کړل",
+    "pdf-sent": "PDF لیږل شوی",
+    "not-sent": "نه لیږل شوی",
+    "matched": "ملتيا وکړه",
+    "mismatch": "بې توپیره",
+    "missing-supplier": "د عرضه کوونکي لخوا راپور شوی نه دی",
+    "missing-books": "په کتابونو کې ورک دی",
+    "deferred": "ځنډول شوی",
+    "deducted": "تخریب شوی",
+    "remitted": "رالیږل شوی",
+    "certified": "تصدیق شوی",
+    "to-report": "راپور ورکول",
+    "reported": "راپور ورکړ",
+    "accounted": "حساب شوی",
+    "overdue": "ډیر وخت"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "د فایل کولو لپاره چمتو دی",
+      "liabilityDue": "واجب الادا",
+      "paidThisYear": "سږکال تادیه شوي",
+      "nextDeadline": "راتلونکی ضرب الاجل",
+      "noneOverdue": "هیڅ وخت تیر شوی",
+      "overdue": "{{count}} وخت تېر شوی"
+    },
+    "filter": {
+      "ready": "د فایل کولو لپاره چمتو دی",
+      "open": "خلاص",
+      "filed": "دوسیه شوې"
+    },
+    "col": {
+      "period": "دوره",
+      "authority": "واک",
+      "rate": "نرخ",
+      "due": "له امله",
+      "netPayable": "خالص تادیه کیږي",
+      "status": "حالت",
+      "ack": "اعتراف"
+    },
+    "file": "دوتنه",
+    "view": "لید",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "د واک ساحه پورته کول…",
+    "nothingToFile": "هیڅ بیرته ستنیدو ته انتظار نه کیږي - ټولې تړل شوې مودې سپارل شوي.",
+    "fileNext": "بله دوتنه: {{name}}",
+    "steps": {
+      "review": "بیاکتنه",
+      "validate": "تایید کړئ",
+      "declare": "اعلان او سپارل",
+      "ack": "اعتراف"
+    },
+    "runValidation": "د تایید چلول",
+    "validating": "تاییدول…",
+    "submit": "Submit {{form}}",
+    "submitting": "سپارل…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "خالص مقدار",
+    "submitted": "سپارل شوی",
+    "filedOn": "په دوسیه کې",
+    "regime": {
+      "authority": "واک",
+      "channel": "د ډکولو چینل",
+      "return": "بیرته راګرځي",
+      "due": "له امله",
+      "standardRate": "معیاري نرخ",
+      "threshold": "د راجستریشن حد"
+    },
+    "demoNote": "د جوړ شوي موک ټیکس API څخه ډیمو ډیټا - فایلونه او تادیات سمول شوي او هیڅ شی د مالیې واک ته نه لیږل کیږي."
+  },
+  "fx": {
+    "title": "بهرنۍ اسعارو",
+    "subtitle": "د اساسی اسعارو {{base}} · د بازاری نرخونو شاخص",
+    "newDoc": "نوی FX رسید / بل",
+    "kpi": {
+      "netExposure": "د خالص FX افشا کول",
+      "openDocs": "{{count}} خلاص اسناد",
+      "unrealized": "غیر واقعي ګټه / زیان",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "سږکال پوه شو",
+      "lastReval": "وروستی بیا ارزونه",
+      "never": "هیڅکله نه",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "توکي خلاص کړئ",
+      "settled": "آباد شوی",
+      "revaluation": "د میاشتې پای بیا ارزونه",
+      "journal": "د FX ژورنال"
+    },
+    "col": {
+      "document": "سند",
+      "type": "ډول",
+      "openForeign": "خلاص (بهرنی)",
+      "bookedNow": "بک شوی / اوس",
+      "valueIn": "په {{base}} کې ارزښت",
+      "unrealized": "بې احساسه",
+      "status": "حالت",
+      "amount": "مقدار",
+      "bookedRate": "بک شوي نرخ",
+      "realized": "احساس شو"
+    },
+    "receivable": "د ترلاسه کولو وړ",
+    "payable": "د ورکړې وړ",
+    "receive": "ترلاسه کول",
+    "pay": "تادیه",
+    "netIn": "په {{base}} کې خالص",
+    "state": {
+      "settled": "آباد شوی",
+      "partial": "برخه جوړه شوې",
+      "open": "خلاص"
+    },
+    "demoNote": "د جوړ شوي موک API څخه ډیمو ډیټا - نرخونه سمول شوي ، نه د ژوندي بازار ډیټا."
+  }
+}

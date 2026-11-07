@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Өдөр бүр",
+      "finance": "Санхүү",
+      "advanced": "Дэвшилтэт"
+    },
+    "mainMenu": "Үндсэн цэс",
+    "short": {
+      "parties": "Намууд"
+    },
+    "sections": {
+      "dashboard": "Хяналтын самбар",
+      "sales": "Борлуулалт",
+      "receivables": "Мөнгө оруулах",
+      "procurement": "Худалдан авалт",
+      "payables": "Мөнгө гарна",
+      "cashbank": "Бэлэн мөнгө ба банк",
+      "expenses": "Зардал",
+      "tax": "Татвар",
+      "reports": "Тайлангууд",
+      "advanced-features": "Нарийвчилсан шинж чанарууд",
+      "parties": "Хэрэглэгч ба ханган нийлүүлэгчид",
+      "inventory": "Эд зүйлс",
+      "assets": "Үндсэн хөрөнгө",
+      "masters": "Тохиргоо ба тохиргоо",
+      "business-tools": "Баг ба хэрэгсэл",
+      "party-tools": "Үдэшлэгийн хэрэгсэл",
+      "item-tools": "Зүйлийн хэрэгсэл",
+      "storage": "Баримт бичиг",
+      "alerts": "Анхааруулга",
+      "migration": "Өгөгдлийн шилжилт"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Тойм",
+        "cash-flow": "Мөнгөн гүйлгээ",
+        "tax-calendar": "Татварын хуанли"
+      },
+      "sales": {
+        "quotations": "Ишлэл",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Нэхэмжлэх",
+        "delivery-challans": "Чаллан хүргэлт",
+        "receipts": "Баримт",
+        "invoice-desk": "Нэхэмжлэхийн ширээ"
+      },
+      "receivables": {
+        "money-in-center": "Мөнгө төв",
+        "receivables": "Авлага",
+        "payments-received": "Төлбөр хүлээн авсан",
+        "overdue-collections": "Цуглуулга ба Сануулагч",
+        "credit-notes": "Зээлийн тэмдэглэл ба буцаан олголт",
+        "sales-returns": "Борлуулалтын өгөөж",
+        "customer-statements": "Хэрэглэгчийн мэдэгдэл",
+        "payment-links": "Төлбөрийн холбоосууд"
+      },
+      "procurement": {
+        "purchase-center": "Худалдан авах төв",
+        "purchase-orders": "Худалдан авах захиалга",
+        "goods-receipt": "Барааны баримт",
+        "purchase-invoices": "Худалдан авалтын нэхэмжлэх",
+        "payment-out": "Төлбөр хийсэн",
+        "returns-debit-notes": "Буцаах ба дебит тэмдэглэл",
+        "bill-approvals": "Билл батлах"
+      },
+      "payables": {
+        "bills": "Төлбөрийн төв",
+        "payments": "Нийлүүлэгчийн төлбөр",
+        "workforce": "Ажиллах хүч",
+        "adjustments": "Тохируулга",
+        "bank-release": "Банкны чөлөөлөх"
+      },
+      "cashbank": {
+        "bank-accounts": "Миний дансууд",
+        "reconciliation": "Тохирох гүйлгээ",
+        "cash-petty": "Жижиг мөнгө",
+        "contra": "Дансны хооронд",
+        "cheque-register": "Шалгалтууд",
+        "foreign-currency": "Гадаад валют",
+        "bank-feeds": "Банкны мэдээлэл",
+        "bank-rules": "Дүрэм ба эвлэрэл"
+      },
+      "expenses": {
+        "expense-center": "Бүх зардал",
+        "categories": "Зардлын төрлүүд",
+        "automated-bills": "Тогтмол зардал",
+        "journal-vouchers": "Гарын авлагын оруулгууд",
+        "provisions": "Хуримтлал",
+        "write-offs": "Бүртгэлээс хасах",
+        "period-close": "Сарын төгсгөл"
+      },
+      "tax": {
+        "gst-returns": "GST мэдүүлэг",
+        "gst-filing-wizard": "⚡ Файл GSTR-3B",
+        "gst-reconciliation": "GST тохирох",
+        "e-invoicing": "Цахим нэхэмжлэх",
+        "e-way-bills": "Цахим замын тооцоо",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Татвар төлөх",
+        "quarterly-compliance": "Дагаж мөрдөх хуанли",
+        "ca-access": "CA түр зуурын хандалт",
+        "gst-from-books": "Номын GST"
+      },
+      "reports": {
+        "financial-statements": "Санхүүгийн тайлан",
+        "books": "Гүйлгээний номууд",
+        "gst-reports": "GST тайлан",
+        "ar-ap": "Авлага ба өглөг",
+        "profitability": "Ашигтай байдал",
+        "period-comparatives": "Жилийн харьцуулалт",
+        "budget-vs-actuals": "Төсөв хянагч",
+        "cashflow-projection": "Бэлэн мөнгөний урьдчилсан мэдээ",
+        "report-builder": "Захиалгат тайлан",
+        "general-ledger": "Ерөнхий дэвтэр",
+        "live-financials": "Амьд санхүү",
+        "ai-analyst": "AI шинжээч"
+      },
+      "advanced-features": {
+        "overview": "Тойм"
+      },
+      "parties": {
+        "all-parties": "Бүх намууд",
+        "customer-ledgers": "Үйлчлүүлэгчид",
+        "supplier-ledgers": "Нийлүүлэгчид",
+        "shared-ledger": "Хуваалцсан дэвтэр",
+        "statements": "Мэдэгдэл",
+        "reminders": "Сануулга",
+        "documents": "Намын баримт бичиг",
+        "portal": "Намын портал",
+        "import": "Намын импорт",
+        "duplicate-merge": "Давхардсан нэгтгэх",
+        "gap-analysis": "Цоорхойн шинжилгээ"
+      },
+      "inventory": {
+        "inventory-items": "Эд зүйлс",
+        "godowns": "Агуулахууд",
+        "stock-movement": "Хувьцааны хөдөлгөөн",
+        "item-pricing": "Үнэ тогтоох",
+        "stock-valuation": "Хувьцааны үнэлгээ",
+        "reorder-alerts": "Сэрэмжлүүлэгийг дахин эрэмбэлэх",
+        "batch-serials": "Багц ба цуврал",
+        "barcode-labels": "Бар код шошго",
+        "item-import": "Зүйл импорт",
+        "gap-analysis": "Цоорхойн шинжилгээ"
+      },
+      "assets": {
+        "asset-register": "Эд хөрөнгийн жагсаалт",
+        "depreciation": "Элэгдэл",
+        "disposal-revaluation": "Зарах эсвэл дахин үнэлэх"
+      },
+      "masters": {
+        "chart-of-accounts": "Бүртгэлийн жагсаалт",
+        "tax-masters": "Татварын хувь хэмжээ",
+        "cost-centers": "Зардлын төвүүд",
+        "voucher-types": "Гүйлгээний төрлүүд",
+        "opening-balances": "Эхлэлийн үлдэгдэл",
+        "currencies": "Валютууд"
+      },
+      "business-tools": {
+        "staff-payroll": "Цалин",
+        "manage-users": "Хэрэглэгчийн хандалт",
+        "online-orders": "Онлайн захиалга",
+        "sms-marketing": "SMS маркетинг",
+        "accountant-hub": "Нягтлан бодогч, дэмжлэг"
+      },
+      "party-tools": {
+        "documents": "Намын баримт бичиг",
+        "portal": "Намын портал",
+        "import": "Намын импорт",
+        "duplicate-merge": "Давхардсан нэгтгэх",
+        "gap-analysis": "Цоорхойн шинжилгээ"
+      },
+      "item-tools": {
+        "reorder-alerts": "Сэрэмжлүүлэгийг дахин эрэмбэлэх",
+        "batch-serials": "Багц ба цуврал",
+        "barcode-labels": "Бар код шошго",
+        "item-import": "Зүйл импорт",
+        "gap-analysis": "Цоорхойн шинжилгээ"
+      },
+      "storage": {
+        "client-storage": "Үйлчлүүлэгч файлууд",
+        "unifiedtree-storage": "Үүл хадгалах сан"
+      },
+      "alerts": {
+        "accountant-alerts": "Нягтлан бодогчийн анхааруулга",
+        "compliance-alerts": "Дагаж мөрдөх анхааруулга",
+        "cash-risk-alerts": "Бэлэн мөнгө ба эрсдэлийн сэрэмжлүүлэг",
+        "ca-access": "CA түр зуурын хандалт"
+      },
+      "migration": {
+        "import": "Мэдээлэл импортлох",
+        "export": "Өгөгдлийг экспортлох",
+        "history": "Импортын түүх",
+        "tally-import": "Tally & Zoho-ээс импортлох"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Худалдан авалт ба төлбөр",
+      "accountingSetup": "Нягтлан бодох бүртгэлийн тохиргоо",
+      "dataDocuments": "Өгөгдөл ба баримт бичиг"
+    }
+  },
+  "common": {
+    "save": "Өөрчлөлтүүдийг хадгалах",
+    "cancel": "Цуцлах",
+    "create": "Үүсгэх",
+    "edit": "Засварлах",
+    "delete": "Устгах",
+    "search": "Хайх",
+    "connect": "Холбох",
+    "configure": "Тохируулах",
+    "disconnect": "Салга",
+    "sync": "Одоо синк хийх",
+    "close": "Хаах",
+    "reset": "Өгөгдмөл рүү дахин тохируулна уу",
+    "back": "Буцах",
+    "continue": "Үргэлжлүүлэх",
+    "all": "Бүгд",
+    "retry": "Дахин оролдоно уу",
+    "loading": "Ачааж байна…",
+    "resetDemo": "Демо өгөгдлийг дахин тохируулах"
+  },
+  "shell": {
+    "searchPlaceholder": "Юу ч хайх...",
+    "settings": "Тохиргоо",
+    "language": "Хэл",
+    "role": "Үүрэг",
+    "greeting": {
+      "morning": "Өглөөний мэнд",
+      "afternoon": "Өдрийн мэнд",
+      "evening": "Оройн мэнд"
+    },
+    "settingsItems": {
+      "company-profile": "Компанийн танилцуулга",
+      "configuration": "Тохиргоо",
+      "fiscal-periods": "Төсвийн үеүүд",
+      "roles": "Үүрэг ба хэрэглэгчид",
+      "integrations": "Интеграци",
+      "notifications": "Мэдэгдэл",
+      "audit-logs": "Аудит ба бүртгэл",
+      "audit-trail": "Хөндлөнгөөс хамгаалах аудитын мөр",
+      "developer": "Хөгжүүлэгч ба API"
+    },
+    "translatedLanguages": "Орчуулсан",
+    "untranslatedLanguages": "Орчуулах хүртэл англи хэл"
+  },
+  "status": {
+    "filed": "Бүртгүүлсэн",
+    "ready": "Файл оруулахад бэлэн байна",
+    "open": "Нээлттэй хугацаа",
+    "paid": "Төлбөртэй",
+    "pending": "Хүлээгдэж байна",
+    "accepted": "Хүлээн зөвшөөрсөн",
+    "delivered": "Хүргэсэн",
+    "rejected": "Татгалзсан",
+    "pdf-sent": "PDF илгээсэн",
+    "not-sent": "Илгээгээгүй",
+    "matched": "Тохирсон",
+    "mismatch": "Тохиромжгүй",
+    "missing-supplier": "Нийлүүлэгчээс мэдээлээгүй",
+    "missing-books": "Номонд алга",
+    "deferred": "Хойшлогдсон",
+    "deducted": "хасагдсан",
+    "remitted": "Шилжүүлсэн",
+    "certified": "Баталгаажсан",
+    "to-report": "Мэдээлэх",
+    "reported": "Мэдээлсэн",
+    "accounted": "Бүртгэлтэй",
+    "overdue": "Хугацаа хэтэрсэн"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Файл оруулахад бэлэн байна",
+      "liabilityDue": "Хариуцлага хүлээх",
+      "paidThisYear": "Энэ жил төлсөн",
+      "nextDeadline": "Дараагийн эцсийн хугацаа",
+      "noneOverdue": "Хугацаа хэтрээгүй",
+      "overdue": "{{count}} хугацаа хэтэрсэн"
+    },
+    "filter": {
+      "ready": "Файл оруулахад бэлэн байна",
+      "open": "Нээлттэй",
+      "filed": "Бүртгүүлсэн"
+    },
+    "col": {
+      "period": "Хугацаа",
+      "authority": "Эрх мэдэл",
+      "rate": "Үнэлгээ",
+      "due": "Хугацаа нь",
+      "netPayable": "Цэвэр өглөг",
+      "status": "Статус",
+      "ack": "Талархал"
+    },
+    "file": "Файл",
+    "view": "Харах",
+    "fileForm": "Файл {{form}}",
+    "loadingJurisdiction": "Харьяаллыг ачаалж байна...",
+    "nothingToFile": "Ямар ч тайлан гаргахыг хүлээгээгүй - бүх хаалттай хугацааг ирүүлсэн.",
+    "fileNext": "Дараагийн файл: {{name}}",
+    "steps": {
+      "review": "Хяналт",
+      "validate": "Баталгаажуулах",
+      "declare": "Тушааж, илгээнэ үү",
+      "ack": "Талархал"
+    },
+    "runValidation": "Баталгаажуулалтыг ажиллуул",
+    "validating": "Баталгаажуулж байна...",
+    "submit": "{{form}} илгээх",
+    "submitting": "Илгээж байна...",
+    "declaration": "Энэхүү мэдүүлэгт байгаа мэдээлэл нь үнэн бөгөөд бүрэн гэдгийг би {{authority}}-д илгээх эрхтэй гэдгээ мэдэгдэж байна.",
+    "netAmount": "Цэвэр дүн",
+    "submitted": "Илгээсэн",
+    "filedOn": "Бүртгүүлсэн",
+    "regime": {
+      "authority": "Эрх мэдэл",
+      "channel": "Бүртгэлийн суваг",
+      "return": "Буцах",
+      "due": "Хугацаа нь",
+      "standardRate": "Стандарт тариф",
+      "threshold": "Бүртгэлийн босго"
+    },
+    "demoNote": "Суурилуулсан хуурамч татварын API-ийн демо өгөгдөл — мэдүүлэг болон төлбөрийг дуурайлган хийдэг бөгөөд татварын албанд юу ч илгээдэггүй."
+  },
+  "fx": {
+    "title": "Гадаад валют",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Шинэ FX нэхэмжлэх / нэхэмжлэл",
+    "kpi": {
+      "netExposure": "Гадаад валютын цэвэр өртөлт",
+      "openDocs": "{{count}} нээлттэй документ",
+      "unrealized": "Бодит бус ашиг / алдагдал",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Энэ жил хэрэгжсэн",
+      "lastReval": "Сүүлийн дахин үнэлгээ",
+      "never": "Хэзээ ч үгүй",
+      "suggested": "Санал болгосон: {{date}}"
+    },
+    "view": {
+      "open": "Нээлттэй зүйлс",
+      "settled": "Суурин",
+      "revaluation": "Сарын эцсийн дахин үнэлгээ",
+      "journal": "FX сэтгүүл"
+    },
+    "col": {
+      "document": "Баримт бичиг",
+      "type": "Төрөл",
+      "openForeign": "Нээлттэй (гадаадын)",
+      "bookedNow": "Захиалсан / одоо",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Бодит бус",
+      "status": "Статус",
+      "amount": "Дүн",
+      "bookedRate": "Захиалсан ханш",
+      "realized": "Ухаарсан"
+    },
+    "receivable": "Авлага",
+    "payable": "Төлбөртэй",
+    "receive": "Хүлээн авах",
+    "pay": "Төл",
+    "netIn": "{{base}} дахь цэвэр",
+    "state": {
+      "settled": "Суурин",
+      "partial": "Хэсэгчилсэн",
+      "open": "Нээлттэй"
+    },
+    "demoNote": "Суурилуулсан хуурамч API-ийн демо өгөгдөл — ханшийг зах зээлийн шууд өгөгдөл биш харин дуурайлган хийдэг."
+  }
+}

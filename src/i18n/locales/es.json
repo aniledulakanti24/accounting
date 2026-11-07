@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Día a día",
+      "finance": "Finanzas",
+      "advanced": "Avanzado"
+    },
+    "mainMenu": "Menú principal",
+    "short": {
+      "parties": "Terceros"
+    },
+    "sections": {
+      "dashboard": "Panel",
+      "sales": "Ventas",
+      "receivables": "Cobros",
+      "procurement": "Compras",
+      "payables": "Pagos",
+      "cashbank": "Caja y bancos",
+      "expenses": "Gastos",
+      "tax": "Impuestos",
+      "reports": "Informes",
+      "advanced-features": "Funciones avanzadas",
+      "parties": "Clientes y proveedores",
+      "inventory": "Artículos",
+      "assets": "Activos fijos",
+      "masters": "Configuración",
+      "business-tools": "Equipo y herramientas",
+      "party-tools": "Herramientas de terceros",
+      "item-tools": "Herramientas de artículos",
+      "storage": "Documentos",
+      "alerts": "Alertas",
+      "migration": "Migración de datos"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Resumen",
+        "cash-flow": "Flujo de caja",
+        "tax-calendar": "Calendario fiscal"
+      },
+      "sales": {
+        "quotations": "Presupuestos",
+        "proforma-invoices": "Proforma",
+        "sales-invoices": "Factura",
+        "delivery-challans": "Albarán",
+        "receipts": "Recibo",
+        "invoice-desk": "Escritorio de facturas"
+      },
+      "receivables": {
+        "money-in-center": "Centro de cobros",
+        "receivables": "Cuentas por cobrar",
+        "payments-received": "Pagos recibidos",
+        "overdue-collections": "Cobranza y recordatorios",
+        "credit-notes": "Notas de crédito y reembolsos",
+        "sales-returns": "Devoluciones de ventas",
+        "customer-statements": "Estados de cuenta de clientes",
+        "payment-links": "Enlaces de pago"
+      },
+      "procurement": {
+        "purchase-center": "Centro de compras",
+        "purchase-orders": "Órdenes de compra",
+        "goods-receipt": "Recepción de mercancía",
+        "purchase-invoices": "Facturas de compra",
+        "payment-out": "Pagos realizados",
+        "returns-debit-notes": "Devoluciones y notas de débito",
+        "bill-approvals": "Aprobaciones de facturas"
+      },
+      "payables": {
+        "bills": "Centro de pagos",
+        "payments": "Pagos a proveedores",
+        "workforce": "Personal",
+        "adjustments": "Ajustes",
+        "bank-release": "Liberación bancaria"
+      },
+      "cashbank": {
+        "bank-accounts": "Mis cuentas",
+        "reconciliation": "Conciliación",
+        "cash-petty": "Caja chica",
+        "contra": "Entre cuentas",
+        "cheque-register": "Cheques",
+        "foreign-currency": "Moneda extranjera",
+        "bank-feeds": "Feeds bancarios",
+        "bank-rules": "Reglas y reconciliación"
+      },
+      "expenses": {
+        "expense-center": "Todos los gastos",
+        "categories": "Tipos de gasto",
+        "automated-bills": "Gastos recurrentes",
+        "journal-vouchers": "Asientos manuales",
+        "provisions": "Devengos",
+        "write-offs": "Cancelaciones",
+        "period-close": "Cierre mensual"
+      },
+      "tax": {
+        "gst-returns": "Declaraciones GST",
+        "gst-filing-wizard": "⚡ Presentar GSTR-3B",
+        "gst-reconciliation": "Conciliación GST",
+        "e-invoicing": "Facturas electrónicas",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Pagar impuestos",
+        "quarterly-compliance": "Calendario de cumplimiento",
+        "ca-access": "Acceso temporal del contador",
+        "gst-from-books": "GST de libros"
+      },
+      "reports": {
+        "financial-statements": "Estados financieros",
+        "books": "Libros de transacciones",
+        "gst-reports": "Informes GST",
+        "ar-ap": "Por cobrar vs por pagar",
+        "profitability": "Rentabilidad",
+        "period-comparatives": "Comparación anual",
+        "budget-vs-actuals": "Control presupuestario",
+        "cashflow-projection": "Previsión de caja",
+        "report-builder": "Informes personalizados",
+        "general-ledger": "Libro mayor",
+        "live-financials": "Finanzas en vivo",
+        "ai-analyst": "Analista de IA"
+      },
+      "advanced-features": {
+        "overview": "Resumen"
+      },
+      "parties": {
+        "all-parties": "Todos los terceros",
+        "customer-ledgers": "Clientes",
+        "supplier-ledgers": "Proveedores",
+        "shared-ledger": "Cuenta compartida",
+        "statements": "Estados de cuenta",
+        "reminders": "Recordatorios",
+        "documents": "Documentos del partido",
+        "portal": "Portal de fiesta",
+        "import": "Importación de fiesta",
+        "duplicate-merge": "Fusión duplicada",
+        "gap-analysis": "Análisis de brechas"
+      },
+      "inventory": {
+        "inventory-items": "Artículos",
+        "godowns": "Almacenes",
+        "stock-movement": "Movimientos de stock",
+        "item-pricing": "Precios",
+        "stock-valuation": "Valoración de acciones",
+        "reorder-alerts": "Alertas de reorden",
+        "batch-serials": "Lote y serie",
+        "barcode-labels": "Etiquetas de código de barras",
+        "item-import": "Importación de artículos",
+        "gap-analysis": "Análisis de brechas"
+      },
+      "assets": {
+        "asset-register": "Lista de activos",
+        "depreciation": "Depreciación",
+        "disposal-revaluation": "Venta o revalorización"
+      },
+      "masters": {
+        "chart-of-accounts": "Plan de cuentas",
+        "tax-masters": "Tipos impositivos",
+        "cost-centers": "Centros de coste",
+        "voucher-types": "Tipos de transacción",
+        "opening-balances": "Saldos iniciales",
+        "currencies": "Monedas"
+      },
+      "business-tools": {
+        "staff-payroll": "Nómina",
+        "manage-users": "Acceso de usuarios",
+        "online-orders": "Pedidos en línea",
+        "sms-marketing": "Marketing por SMS",
+        "accountant-hub": "Contadores y soporte"
+      },
+      "party-tools": {
+        "documents": "Documentos de terceros",
+        "portal": "Portal de terceros",
+        "import": "Importar terceros",
+        "duplicate-merge": "Fusionar duplicados",
+        "gap-analysis": "Análisis de brechas"
+      },
+      "item-tools": {
+        "reorder-alerts": "Alertas de reposición",
+        "batch-serials": "Lotes y series",
+        "barcode-labels": "Etiquetas de código de barras",
+        "item-import": "Importar artículos",
+        "gap-analysis": "Análisis de brechas"
+      },
+      "storage": {
+        "client-storage": "Archivos de clientes",
+        "unifiedtree-storage": "Almacenamiento en la nube"
+      },
+      "alerts": {
+        "accountant-alerts": "Alertas contables",
+        "compliance-alerts": "Alertas de cumplimiento",
+        "cash-risk-alerts": "Alertas de caja y riesgo",
+        "ca-access": "Acceso temporal del contador"
+      },
+      "migration": {
+        "import": "Importar datos",
+        "export": "Exportar datos",
+        "history": "Historial de importación",
+        "tally-import": "Importar desde Tally y Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Compras y pagos",
+      "accountingSetup": "Configuración de contabilidad",
+      "dataDocuments": "Datos y documentos"
+    }
+  },
+  "common": {
+    "save": "Guardar cambios",
+    "cancel": "Cancelar",
+    "create": "Crear",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "connect": "Conectar",
+    "configure": "Configurar",
+    "disconnect": "Desconectar",
+    "sync": "Sincronizar ahora",
+    "close": "Cerrar",
+    "reset": "Restablecer valores",
+    "back": "Atrás",
+    "continue": "Continuar",
+    "all": "Todo",
+    "retry": "Reintentar",
+    "loading": "Cargando…",
+    "resetDemo": "Restablecer datos de demostración"
+  },
+  "shell": {
+    "searchPlaceholder": "Buscar cualquier cosa…",
+    "settings": "Ajustes",
+    "language": "Idioma",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Buenos días",
+      "afternoon": "Buenas tardes",
+      "evening": "Buenas noches"
+    },
+    "settingsItems": {
+      "company-profile": "Perfil de la empresa",
+      "configuration": "Configuración",
+      "fiscal-periods": "Periodos fiscales",
+      "roles": "Roles y usuarios",
+      "integrations": "Integraciones",
+      "notifications": "Notificaciones",
+      "audit-logs": "Auditoría y registros",
+      "audit-trail": "Registro de auditoría a prueba de manipulaciones",
+      "developer": "Desarrollador y API"
+    },
+    "translatedLanguages": "Traducidos",
+    "untranslatedLanguages": "En inglés hasta que se traduzcan"
+  },
+  "status": {
+    "filed": "Presentada",
+    "ready": "Lista para presentar",
+    "open": "Periodo abierto",
+    "paid": "Pagado",
+    "pending": "Pendiente",
+    "accepted": "Aceptada",
+    "delivered": "Entregada",
+    "rejected": "Rechazada",
+    "pdf-sent": "PDF enviado",
+    "not-sent": "No enviada",
+    "matched": "Conciliada",
+    "mismatch": "Diferencia",
+    "missing-supplier": "No declarada por el proveedor",
+    "missing-books": "Falta en contabilidad",
+    "deferred": "Aplazada",
+    "deducted": "Retenido",
+    "remitted": "Ingresado",
+    "certified": "Certificado",
+    "to-report": "Por declarar",
+    "reported": "Declarado",
+    "accounted": "Contabilizado",
+    "overdue": "Vencido"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Listas para presentar",
+      "liabilityDue": "Importe a pagar",
+      "paidThisYear": "Pagado este año",
+      "nextDeadline": "Próximo plazo",
+      "noneOverdue": "Nada vencido",
+      "overdue": "{{count}} vencidas"
+    },
+    "filter": {
+      "ready": "Listas para presentar",
+      "open": "Abiertas",
+      "filed": "Presentadas"
+    },
+    "col": {
+      "period": "Periodo",
+      "authority": "Autoridad",
+      "rate": "Tipo",
+      "due": "Vencimiento",
+      "netPayable": "Neto a pagar",
+      "status": "Estado",
+      "ack": "Justificante"
+    },
+    "file": "Presentar",
+    "view": "Ver",
+    "fileForm": "Presentar {{form}}",
+    "loadingJurisdiction": "Cargando jurisdicción…",
+    "nothingToFile": "No hay declaraciones pendientes — todos los periodos cerrados están presentados.",
+    "fileNext": "Presentar a continuación: {{name}}",
+    "steps": {
+      "review": "Revisar",
+      "validate": "Validar",
+      "declare": "Declarar y presentar",
+      "ack": "Justificante"
+    },
+    "runValidation": "Ejecutar validación",
+    "validating": "Validando…",
+    "submit": "Presentar {{form}}",
+    "submitting": "Presentando…",
+    "declaration": "Declaro que la información de esta declaración es verdadera y completa, y que estoy autorizado/a para presentarla ante {{authority}}.",
+    "netAmount": "Importe neto",
+    "submitted": "Presentada",
+    "filedOn": "Presentada el",
+    "regime": {
+      "authority": "Autoridad",
+      "channel": "Canal de presentación",
+      "return": "Declaración",
+      "due": "Vencimiento",
+      "standardRate": "Tipo general",
+      "threshold": "Umbral de registro"
+    },
+    "demoNote": "Datos de demostración de la API fiscal simulada — presentaciones y pagos simulados; no se envía nada a ninguna autoridad."
+  },
+  "fx": {
+    "title": "Moneda extranjera",
+    "subtitle": "Moneda base {{base}} · tipos de cambio simulados indicativos",
+    "newDoc": "Nueva factura en divisa",
+    "kpi": {
+      "netExposure": "Exposición neta en divisas",
+      "openDocs": "{{count}} documentos abiertos",
+      "unrealized": "Ganancia / pérdida no realizada",
+      "postedSplit": "{{posted}} contabilizado · {{unposted}} pendiente",
+      "realized": "Realizado este año",
+      "lastReval": "Última revalorización",
+      "never": "Nunca",
+      "suggested": "Sugerida: {{date}}"
+    },
+    "view": {
+      "open": "Partidas abiertas",
+      "settled": "Liquidadas",
+      "revaluation": "Revalorización de fin de mes",
+      "journal": "Diario de diferencias de cambio"
+    },
+    "col": {
+      "document": "Documento",
+      "type": "Tipo",
+      "openForeign": "Abierto (divisa)",
+      "bookedNow": "Tipo registrado / actual",
+      "valueIn": "Valor en {{base}}",
+      "unrealized": "No realizado",
+      "status": "Estado",
+      "amount": "Importe",
+      "bookedRate": "Tipo registrado",
+      "realized": "Realizado"
+    },
+    "receivable": "Por cobrar",
+    "payable": "Por pagar",
+    "receive": "Cobrar",
+    "pay": "Pagar",
+    "netIn": "Neto en {{base}}",
+    "state": {
+      "settled": "Liquidado",
+      "partial": "Liquidado parcialmente",
+      "open": "Abierto"
+    },
+    "demoNote": "Datos de demostración de la API simulada — los tipos son simulados, no datos de mercado en vivo."
+  }
+}

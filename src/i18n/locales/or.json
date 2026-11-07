@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ଦିନକୁ ଦିନ",
+      "finance": "ଅର୍ଥ",
+      "advanced": "ଉନ୍ନତ"
+    },
+    "mainMenu": "ମୁଖ୍ୟ ମେନୁ |",
+    "short": {
+      "parties": "ଦଳଗୁଡିକ"
+    },
+    "sections": {
+      "dashboard": "ଡ୍ୟାସବୋର୍ଡ |",
+      "sales": "ବିକ୍ରୟ",
+      "receivables": "ଟଙ୍କା ଇନ୍",
+      "procurement": "କ୍ରୟ",
+      "payables": "ଟଙ୍କା ଆଉଟ୍",
+      "cashbank": "ନଗଦ ଏବଂ ବ୍ୟାଙ୍କ",
+      "expenses": "ଖର୍ଚ୍ଚ",
+      "tax": "କର",
+      "reports": "ରିପୋର୍ଟଗୁଡିକ",
+      "advanced-features": "ଉନ୍ନତ ବ Features ଶିଷ୍ଟ୍ୟଗୁଡିକ",
+      "parties": "ଗ୍ରାହକ ଏବଂ ଯୋଗାଣକାରୀ |",
+      "inventory": "ଆଇଟମ୍",
+      "assets": "ସ୍ଥିର ସମ୍ପତ୍ତି |",
+      "masters": "ସେଟଅପ୍ ଏବଂ ବିନ୍ୟାସ",
+      "business-tools": "ଦଳ ଏବଂ ଉପକରଣଗୁଡିକ |",
+      "party-tools": "ପାର୍ଟୀ ଉପକରଣଗୁଡିକ |",
+      "item-tools": "ଆଇଟମ୍ ଉପକରଣଗୁଡିକ",
+      "storage": "ଡକ୍ୟୁମେଣ୍ଟ୍ |",
+      "alerts": "ସତର୍କତା",
+      "migration": "ଡାଟା ସ୍ଥାନାନ୍ତରଣ |"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ସମୀକ୍ଷା",
+        "cash-flow": "ନଗଦ ପ୍ରବାହ |",
+        "tax-calendar": "କର କ୍ୟାଲେଣ୍ଡର"
+      },
+      "sales": {
+        "quotations": "ଉଦ୍ଧୃତି",
+        "proforma-invoices": "PI",
+        "sales-invoices": "ଇନଭଏସ୍ |",
+        "delivery-challans": "ବିତରଣ ଚ୍ୟାଲେନ୍ |",
+        "receipts": "ରସିଦ",
+        "invoice-desk": "ଇନଭଏସ୍ ଡେସ୍କ |"
+      },
+      "receivables": {
+        "money-in-center": "କେନ୍ଦ୍ରରେ ଟଙ୍କା",
+        "receivables": "ଗ୍ରହଣଯୋଗ୍ୟ",
+        "payments-received": "ଦେୟ ଗ୍ରହଣ କରାଯାଇଛି",
+        "overdue-collections": "ସଂଗ୍ରହ ଏବଂ ସ୍ମାରକପତ୍ର |",
+        "credit-notes": "କ୍ରେଡିଟ୍ ଟିପ୍ପଣୀ ଏବଂ ଫେରସ୍ତ",
+        "sales-returns": "ବିକ୍ରୟ ଫେରସ୍ତ",
+        "customer-statements": "ଗ୍ରାହକ ବିବୃତ୍ତି",
+        "payment-links": "ଦେୟ ଲିଙ୍କ୍ |"
+      },
+      "procurement": {
+        "purchase-center": "କ୍ରୟ କେନ୍ଦ୍ର |",
+        "purchase-orders": "ଅର୍ଡର କ୍ରୟ କରନ୍ତୁ |",
+        "goods-receipt": "ଦ୍ରବ୍ୟ ରସିଦ",
+        "purchase-invoices": "ଇନଭଏସ୍ କ୍ରୟ କରନ୍ତୁ |",
+        "payment-out": "ଦେୟ ପ୍ରସ୍ତୁତ |",
+        "returns-debit-notes": "ରିଟର୍ନ ଏବଂ ଡେବିଟ୍ ଟିପ୍ପଣୀ |",
+        "bill-approvals": "ବିଲ୍ ଅନୁମୋଦନ |"
+      },
+      "payables": {
+        "bills": "ଦେୟ କେନ୍ଦ୍ର",
+        "payments": "ଯୋଗାଣକାରୀ ଦେୟ",
+        "workforce": "କର୍ମଜୀବୀ",
+        "adjustments": "ସଂଶୋଧନ",
+        "bank-release": "ବ୍ୟାଙ୍କ ରିଲିଜ୍"
+      },
+      "cashbank": {
+        "bank-accounts": "ମୋର ଖାତା",
+        "reconciliation": "କାରବାର କାରବାର",
+        "cash-petty": "କ୍ଷୁଦ୍ର ନଗଦ",
+        "contra": "ଖାତା ମଧ୍ୟରେ",
+        "cheque-register": "ଯା cks ୍ଚ",
+        "foreign-currency": "ବ Foreign ଦେଶିକ ମୁଦ୍ରା",
+        "bank-feeds": "ବ୍ୟାଙ୍କ ଫିଡ୍ |",
+        "bank-rules": "ନିୟମ ଏବଂ ପୁନ on ସମନ୍ୱୟ |"
+      },
+      "expenses": {
+        "expense-center": "ସମସ୍ତ ଖର୍ଚ୍ଚ",
+        "categories": "ଖର୍ଚ୍ଚ ପ୍ରକାର |",
+        "automated-bills": "ବାରମ୍ବାର ଖର୍ଚ୍ଚ",
+        "journal-vouchers": "ମାନୁଆଲ୍ ଏଣ୍ଟ୍ରିଗୁଡିକ |",
+        "provisions": "ଆକ୍ରୁଏଲ୍ |",
+        "write-offs": "ରାଇଟ୍ ଅଫ୍ |",
+        "period-close": "ମାସ-ଶେଷ"
+      },
+      "tax": {
+        "gst-returns": "ଜିଏସ୍ଟି ଫାଇଲ୍",
+        "gst-filing-wizard": "GST GSTR-3B ଫାଇଲ୍ |",
+        "gst-reconciliation": "ଜିଏସ୍ଟି ମେଳଣ |",
+        "e-invoicing": "ଇ-ଇନଭଏସ୍ |",
+        "e-way-bills": "ଇ-ୱେ ବିଲ୍ |",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "ଟ୍ୟାକ୍ସ ଦିଅ |",
+        "quarterly-compliance": "ଅନୁପାଳନ କ୍ୟାଲେଣ୍ଡର |",
+        "ca-access": "CA ଅସ୍ଥାୟୀ ପ୍ରବେଶ |",
+        "gst-from-books": "ପୁସ୍ତକରୁ ଜିଏସ୍ଟି |"
+      },
+      "reports": {
+        "financial-statements": "ଆର୍ଥିକ ରିପୋର୍ଟଗୁଡିକ |",
+        "books": "କାରବାର ପୁସ୍ତକ",
+        "gst-reports": "ଜିଏସ୍ଟି ରିପୋର୍ଟଗୁଡିକ |",
+        "ar-ap": "ଗ୍ରହଣ ଯୋଗ୍ୟ ବନାମ ଦେୟ",
+        "profitability": "ଲାଭ",
+        "period-comparatives": "ବର୍ଷ ତୁଳନା",
+        "budget-vs-actuals": "ବଜେଟ୍ ଟ୍ରାକର୍",
+        "cashflow-projection": "ନଗଦ ପୂର୍ବାନୁମାନ |",
+        "report-builder": "କଷ୍ଟମ୍ ରିପୋର୍ଟଗୁଡିକ |",
+        "general-ledger": "ଜେନେରାଲ୍ ଲେଜର୍ |",
+        "live-financials": "ଜୀବନ୍ତ ଆର୍ଥିକ |",
+        "ai-analyst": "AI ଆନାଲିଷ୍ଟ |"
+      },
+      "advanced-features": {
+        "overview": "ସମୀକ୍ଷା"
+      },
+      "parties": {
+        "all-parties": "ସମସ୍ତ ଦଳ",
+        "customer-ledgers": "ଗ୍ରାହକ",
+        "supplier-ledgers": "ଯୋଗାଣକାରୀ |",
+        "shared-ledger": "ଅଂଶୀଦାର ଲେଜର |",
+        "statements": "ବିବୃତ୍ତି",
+        "reminders": "ସ୍ମାରକପତ୍ର",
+        "documents": "ପାର୍ଟି ଡକ୍ୟୁମେଣ୍ଟ୍ |",
+        "portal": "ପାର୍ଟି ପୋର୍ଟାଲ୍ |",
+        "import": "ପାର୍ଟି ଆମଦାନୀ |",
+        "duplicate-merge": "ନକଲ ମିଶ୍ରଣ |",
+        "gap-analysis": "ଗ୍ୟାପ୍ ଆନାଲିସିସ୍ |"
+      },
+      "inventory": {
+        "inventory-items": "ଆଇଟମ୍",
+        "godowns": "ଗୋଦାମ",
+        "stock-movement": "ଷ୍ଟକ୍ ମୁଭମେଣ୍ଟ |",
+        "item-pricing": "ମୂଲ୍ୟ",
+        "stock-valuation": "ଷ୍ଟକ୍ ମୂଲ୍ୟ",
+        "reorder-alerts": "ରେକର୍ଡ ଆଲର୍ଟ |",
+        "batch-serials": "ବ୍ୟାଚ୍ ଏବଂ କ୍ରମିକ |",
+        "barcode-labels": "ବାରକୋଡ୍ ଲେବଲ୍ |",
+        "item-import": "ଆଇଟମ୍ ଆମଦାନୀ |",
+        "gap-analysis": "ଗ୍ୟାପ୍ ଆନାଲିସିସ୍ |"
+      },
+      "assets": {
+        "asset-register": "ସମ୍ପତ୍ତି ତାଲିକା |",
+        "depreciation": "ଅବନତି",
+        "disposal-revaluation": "ବିକ୍ରୟ କିମ୍ବା ମୂଲ୍ୟାଙ୍କନ |"
+      },
+      "masters": {
+        "chart-of-accounts": "ଖାତା ତାଲିକା |",
+        "tax-masters": "ଟିକସ ହାର",
+        "cost-centers": "ମୂଲ୍ୟ କେନ୍ଦ୍ରଗୁଡିକ |",
+        "voucher-types": "କାରବାର ପ୍ରକାର |",
+        "opening-balances": "ବାଲାନ୍ସ ଆରମ୍ଭ",
+        "currencies": "ମୁଦ୍ରା"
+      },
+      "business-tools": {
+        "staff-payroll": "ଦରମା",
+        "manage-users": "ଉପଯୋଗକର୍ତ୍ତା ପ୍ରବେଶ",
+        "online-orders": "ଅନଲାଇନ୍ ଅର୍ଡର |",
+        "sms-marketing": "SMS ମାର୍କେଟିଂ |",
+        "accountant-hub": "ଆକାଉଣ୍ଟାଣ୍ଟ ଏବଂ ସମର୍ଥନ"
+      },
+      "party-tools": {
+        "documents": "ପାର୍ଟି ଡକ୍ୟୁମେଣ୍ଟ୍ |",
+        "portal": "ପାର୍ଟି ପୋର୍ଟାଲ୍ |",
+        "import": "ପାର୍ଟି ଆମଦାନୀ |",
+        "duplicate-merge": "ନକଲ ମିଶ୍ରଣ |",
+        "gap-analysis": "ଗ୍ୟାପ୍ ଆନାଲିସିସ୍ |"
+      },
+      "item-tools": {
+        "reorder-alerts": "ରେକର୍ଡ ଆଲର୍ଟ |",
+        "batch-serials": "ବ୍ୟାଚ୍ ଏବଂ କ୍ରମିକ |",
+        "barcode-labels": "ବାରକୋଡ୍ ଲେବଲ୍ |",
+        "item-import": "ଆଇଟମ୍ ଆମଦାନୀ |",
+        "gap-analysis": "ଗ୍ୟାପ୍ ଆନାଲିସିସ୍ |"
+      },
+      "storage": {
+        "client-storage": "କ୍ଲାଏଣ୍ଟ ଫାଇଲଗୁଡିକ",
+        "unifiedtree-storage": "କ୍ଲାଉଡ୍ ଷ୍ଟୋରେଜ୍ |"
+      },
+      "alerts": {
+        "accountant-alerts": "ଆକାଉଣ୍ଟାଣ୍ଟ ଆଲର୍ଟ |",
+        "compliance-alerts": "ଅନୁକରଣ ଆଲର୍ଟ |",
+        "cash-risk-alerts": "ନଗଦ ଏବଂ ବିପଦ ଆଲର୍ଟ |",
+        "ca-access": "CA ଅସ୍ଥାୟୀ ପ୍ରବେଶ |"
+      },
+      "migration": {
+        "import": "ଡାଟା ଆମଦାନୀ କରନ୍ତୁ |",
+        "export": "ଡାଟା ରପ୍ତାନି କରନ୍ତୁ |",
+        "history": "ଇତିହାସ ଆମଦାନି କରନ୍ତୁ |",
+        "tally-import": "ଟାଲି ଏବଂ ଜୋହୋରୁ ଆମଦାନୀ କରନ୍ତୁ |"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "କ୍ରୟ ଏବଂ ଦେୟ",
+      "accountingSetup": "ଆକାଉଣ୍ଟିଂ ସେଟଅପ୍ |",
+      "dataDocuments": "ଡାଟା ଏବଂ ଡକ୍ୟୁମେଣ୍ଟ୍ |"
+    }
+  },
+  "common": {
+    "save": "ପରିବର୍ତ୍ତନଗୁଡିକ ସଞ୍ଚୟ କରନ୍ତୁ |",
+    "cancel": "ବାତିଲ୍ କରନ୍ତୁ |",
+    "create": "ସୃଷ୍ଟି କରନ୍ତୁ |",
+    "edit": "ସଂପାଦନା କରନ୍ତୁ |",
+    "delete": "ବିଲୋପ କରନ୍ତୁ |",
+    "search": "ସନ୍ଧାନ କର |",
+    "connect": "ସଂଯୋଗ କରନ୍ତୁ |",
+    "configure": "ବିନ୍ୟାସ କରନ୍ତୁ",
+    "disconnect": "ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ |",
+    "sync": "ବର୍ତ୍ତମାନ ସିଙ୍କ୍ କରନ୍ତୁ |",
+    "close": "ବନ୍ଦ",
+    "reset": "ଡିଫଲ୍ଟକୁ ପୁନ et ସେଟ୍ କରନ୍ତୁ |",
+    "back": "ପଛକୁ",
+    "continue": "ଜାରି ରଖ |",
+    "all": "ସମସ୍ତ",
+    "retry": "ପୁନ ry ଚେଷ୍ଟା କରନ୍ତୁ |",
+    "loading": "ଲୋଡିଂ…",
+    "resetDemo": "ଡେମୋ ଡାଟା ପୁନ Res ସେଟ୍ କରନ୍ତୁ |"
+  },
+  "shell": {
+    "searchPlaceholder": "କିଛି ଖୋଜ…",
+    "settings": "ସେଟିଂସମୂହ",
+    "language": "ଭାଷା",
+    "role": "ଭୂମିକା",
+    "greeting": {
+      "morning": "ଶୁଭ ସକାଳ",
+      "afternoon": "ଶୁଭ ଅପରାହ୍ନ |",
+      "evening": "ଶୁଭ ସନ୍ଧ୍ୟା |"
+    },
+    "settingsItems": {
+      "company-profile": "କମ୍ପାନୀ ପ୍ରୋଫାଇଲ୍ |",
+      "configuration": "ବିନ୍ୟାସ",
+      "fiscal-periods": "ଆର୍ଥିକ ଅବଧି",
+      "roles": "ଭୂମିକା ଏବଂ ବ୍ୟବହାରକାରୀ |",
+      "integrations": "ଏକୀକରଣ",
+      "notifications": "ବିଜ୍ଞପ୍ତିଗୁଡିକ",
+      "audit-logs": "ଅଡିଟ୍ ଏବଂ ଲଗ୍ |",
+      "audit-trail": "ଟ୍ୟାମ୍ପର୍-ପ୍ରୁଫ୍ ଅଡିଟ୍ ଟ୍ରେଲ୍ |",
+      "developer": "ବିକାଶକାରୀ ଏବଂ API"
+    },
+    "translatedLanguages": "ଅନୁବାଦିତ |",
+    "untranslatedLanguages": "ଅନୁବାଦ ହେବା ପର୍ଯ୍ୟନ୍ତ ଇଂରାଜୀ |"
+  },
+  "status": {
+    "filed": "ଫାଇଲ୍",
+    "ready": "ଫାଇଲ୍ କରିବାକୁ ପ୍ରସ୍ତୁତ |",
+    "open": "ସମୟ ଖୋଲା |",
+    "paid": "ଦେୟ",
+    "pending": "ବିଚାରାଧୀନ ଅଛି",
+    "accepted": "ଗ୍ରହଣ କରାଯାଇଛି",
+    "delivered": "ବିତରଣ କରାଯାଇଛି",
+    "rejected": "ପ୍ରତ୍ୟାଖ୍ୟାନ",
+    "pdf-sent": "PDF ପଠାଯାଇଛି |",
+    "not-sent": "ପଠାଯାଇ ନାହିଁ |",
+    "matched": "ମେଳ ହେଲା |",
+    "mismatch": "ମେଳ ଖାଉ ନାହିଁ |",
+    "missing-supplier": "ଯୋଗାଣକାରୀଙ୍କ ଦ୍ୱାରା ରିପୋର୍ଟ ହୋଇନାହିଁ |",
+    "missing-books": "ପୁସ୍ତକଗୁଡ଼ିକରେ ନିଖୋଜ |",
+    "deferred": "ବିଳମ୍ବ",
+    "deducted": "ପ୍ରତ୍ୟାହାର",
+    "remitted": "ପ୍ରତ୍ୟାହାର",
+    "certified": "ସାର୍ଟିଫିକେଟ୍",
+    "to-report": "ରିପୋର୍ଟ କରିବାକୁ",
+    "reported": "ରିପୋର୍ଟ ହୋଇଛି |",
+    "accounted": "ଆକାଉଣ୍ଟ୍ |",
+    "overdue": "ସମୟସୀମା"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ଫାଇଲ୍ କରିବାକୁ ପ୍ରସ୍ତୁତ |",
+      "liabilityDue": "ଦାୟିତ୍ due",
+      "paidThisYear": "ଏହି ବର୍ଷ ଦେୟ",
+      "nextDeadline": "ପରବର୍ତ୍ତୀ ସମୟସୀମା |",
+      "noneOverdue": "କିଛି ବିଳମ୍ବ ହୋଇନାହିଁ |",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "ଫାଇଲ୍ କରିବାକୁ ପ୍ରସ୍ତୁତ |",
+      "open": "ଖୋଲନ୍ତୁ |",
+      "filed": "ଫାଇଲ୍"
+    },
+    "col": {
+      "period": "ସମୟ",
+      "authority": "ପ୍ରାଧିକରଣ |",
+      "rate": "ହାର",
+      "due": "ଦେୟ",
+      "netPayable": "ନିଟ୍ ଦେୟଯୋଗ୍ୟ |",
+      "status": "ସ୍ଥିତି",
+      "ack": "ସ୍ୱୀକୃତି"
+    },
+    "file": "ଫାଇଲ୍ |",
+    "view": "ଦର୍ଶନ କରନ୍ତୁ |",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "ଅଧିକାର ଲୋଡିଂ…",
+    "nothingToFile": "କ No ଣସି ରିଟର୍ଣ୍ଣ ଦାଖଲ କରିବାକୁ ଅପେକ୍ଷା କରେ ନାହିଁ - ସମସ୍ତ ବନ୍ଦ ଅବଧି ଦାଖଲ ହୁଏ |",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "ସମୀକ୍ଷା କରନ୍ତୁ |",
+      "validate": "ବ Val ଧ କରନ୍ତୁ |",
+      "declare": "ଘୋଷଣା ଏବଂ ଦାଖଲ କର |",
+      "ack": "ସ୍ୱୀକୃତି"
+    },
+    "runValidation": "ବ valid ଧତା ଚଲାନ୍ତୁ |",
+    "validating": "ବ id ଧତା…",
+    "submit": "Submit {{form}}",
+    "submitting": "ଦାଖଲ…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "ନିଟ୍ ପରିମାଣ |",
+    "submitted": "ଦାଖଲ |",
+    "filedOn": "ଫାଇଲ୍ ହୋଇଛି |",
+    "regime": {
+      "authority": "ପ୍ରାଧିକରଣ |",
+      "channel": "ଚ୍ୟାନେଲ ଫାଇଲ୍",
+      "return": "ଫେରନ୍ତୁ",
+      "due": "ଦେୟ",
+      "standardRate": "ମାନକ ହାର",
+      "threshold": "ପଞ୍ଜୀକରଣ ସୀମା"
+    },
+    "demoNote": "ବିଲ୍ଟ-ଇନ୍ ମକ୍ ଟ୍ୟାକ୍ସ API ରୁ ଡେମୋ ତଥ୍ୟ - ଫିଲିଙ୍ଗ୍ ଏବଂ ପେମେଣ୍ଟଗୁଡିକ ଅନୁକରଣ କରାଯାଇଛି ଏବଂ କିଛି କର କର୍ତ୍ତୃପକ୍ଷଙ୍କୁ ପଠାଯାଏ ନାହିଁ |"
+  },
+  "fx": {
+    "title": "ବ Foreign ଦେଶିକ ମୁଦ୍ରା",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "ନୂତନ FX ଇନଭଏସ୍ / ବିଲ୍ |",
+    "kpi": {
+      "netExposure": "ନିଟ୍ FX ଏକ୍ସପୋଜର୍ |",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "ଅବାସ୍ତବ ଲାଭ / କ୍ଷତି |",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "ଏହି ବର୍ଷ ହୃଦୟଙ୍ଗମ ହୋଇଛି |",
+      "lastReval": "ଶେଷ ମୂଲ୍ୟାଙ୍କନ",
+      "never": "କଦାପି ନୁହେଁ |",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "ଆଇଟମ୍ ଖୋଲନ୍ତୁ |",
+      "settled": "ସମାଧାନ ହୋଇଛି |",
+      "revaluation": "ମାସ-ଶେଷ ପୁନ al ମୂଲ୍ୟାଙ୍କନ |",
+      "journal": "FX ପତ୍ରିକା |"
+    },
+    "col": {
+      "document": "ଡକ୍ୟୁମେଣ୍ଟ୍",
+      "type": "ଟାଇପ୍ କରନ୍ତୁ |",
+      "openForeign": "ଖୋଲା (ବିଦେଶୀ)",
+      "bookedNow": "ବୁକ୍ / ବର୍ତ୍ତମାନ |",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "ଅବାସ୍ତବ |",
+      "status": "ସ୍ଥିତି",
+      "amount": "ପରିମାଣ",
+      "bookedRate": "ବୁକ୍ ହାର",
+      "realized": "ହୃଦୟଙ୍ଗମ |"
+    },
+    "receivable": "ଗ୍ରହଣଯୋଗ୍ୟ",
+    "payable": "ଦେୟଯୋଗ୍ୟ",
+    "receive": "ଗ୍ରହଣ କରନ୍ତୁ |",
+    "pay": "ଦେୟ ଦିଅ |",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "ସମାଧାନ ହୋଇଛି |",
+      "partial": "ଭାଗ-ସମାଧାନ |",
+      "open": "ଖୋଲନ୍ତୁ |"
+    },
+    "demoNote": "ବିଲ୍ଟ-ଇନ୍ ମକ୍ API ରୁ ଡେମୋ ଡାଟା - ହାରଗୁଡିକ ଅନୁକରଣ କରାଯାଇଛି, ଲାଇଭ ମାର୍କେଟ ତଥ୍ୟ ନୁହେଁ |"
+  }
+}

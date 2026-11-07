@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Van dag tot dag",
+      "finance": "Financiën",
+      "advanced": "Geavanceerd"
+    },
+    "mainMenu": "Hoofdmenu",
+    "short": {
+      "parties": "Partijen"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Verkoop",
+      "receivables": "Geld binnen",
+      "procurement": "Aankopen",
+      "payables": "Geld eruit",
+      "cashbank": "Contant geld en bank",
+      "expenses": "Uitgaven",
+      "tax": "Belasting",
+      "reports": "Rapporten",
+      "advanced-features": "Geavanceerde functies",
+      "parties": "Klanten & Leveranciers",
+      "inventory": "Artikelen",
+      "assets": "Vaste activa",
+      "masters": "Installatie en configuratie",
+      "business-tools": "Team & Hulpmiddelen",
+      "party-tools": "Partij gereedschap",
+      "item-tools": "Artikelhulpmiddelen",
+      "storage": "Documenten",
+      "alerts": "Waarschuwingen",
+      "migration": "Gegevensmigratie"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Overzicht",
+        "cash-flow": "Cashstroom",
+        "tax-calendar": "Belastingkalender"
+      },
+      "sales": {
+        "quotations": "Offertes",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Factuur",
+        "delivery-challans": "Levering Challan",
+        "receipts": "Ontvangst",
+        "invoice-desk": "Factuurbureau"
+      },
+      "receivables": {
+        "money-in-center": "Geld In Centrum",
+        "receivables": "Vorderingen",
+        "payments-received": "Ontvangen betalingen",
+        "overdue-collections": "Verzamelingen en herinneringen",
+        "credit-notes": "Creditnota's en restituties",
+        "sales-returns": "Verkoopretouren",
+        "customer-statements": "Klantverklaringen",
+        "payment-links": "Betalingslinks"
+      },
+      "procurement": {
+        "purchase-center": "Aankoopcentrum",
+        "purchase-orders": "Inkooporders",
+        "goods-receipt": "Goederenontvangst",
+        "purchase-invoices": "Aankoopfacturen",
+        "payment-out": "Betalingen gedaan",
+        "returns-debit-notes": "Retouren en bankbiljetten",
+        "bill-approvals": "Goedkeuringen van wetsvoorstellen"
+      },
+      "payables": {
+        "bills": "Betaalcentrum",
+        "payments": "Leveranciersbetalingen",
+        "workforce": "Personeelsbestand",
+        "adjustments": "Aanpassingen",
+        "bank-release": "Bankvrijgave"
+      },
+      "cashbank": {
+        "bank-accounts": "Mijn rekeningen",
+        "reconciliation": "Matchtransacties",
+        "cash-petty": "Klein contant geld",
+        "contra": "Tussen accounts",
+        "cheque-register": "Cheques",
+        "foreign-currency": "Vreemde valuta",
+        "bank-feeds": "Bankfeeds",
+        "bank-rules": "Regels en verzoening"
+      },
+      "expenses": {
+        "expense-center": "Alle uitgaven",
+        "categories": "Soorten uitgaven",
+        "automated-bills": "Terugkerende uitgaven",
+        "journal-vouchers": "Handmatige invoer",
+        "provisions": "Overlopende rekeningen",
+        "write-offs": "Afschrijvingen",
+        "period-close": "Maandeinde"
+      },
+      "tax": {
+        "gst-returns": "GST-aanvraag",
+        "gst-filing-wizard": "⚡ Bestand GSTR-3B",
+        "gst-reconciliation": "GST-matching",
+        "e-invoicing": "E-facturen",
+        "e-way-bills": "E-way facturen",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Betaal belasting",
+        "quarterly-compliance": "Nalevingskalender",
+        "ca-access": "CA Tijdelijke toegang",
+        "gst-from-books": "GST uit boeken"
+      },
+      "reports": {
+        "financial-statements": "Financiële rapporten",
+        "books": "Transactieboeken",
+        "gst-reports": "GST-rapporten",
+        "ar-ap": "Vorderingen versus schulden",
+        "profitability": "Winstgevendheid",
+        "period-comparatives": "Jaarvergelijking",
+        "budget-vs-actuals": "Budgettracker",
+        "cashflow-projection": "Contante voorspelling",
+        "report-builder": "Aangepaste rapporten",
+        "general-ledger": "Grootboek",
+        "live-financials": "Levende financiële gegevens",
+        "ai-analyst": "AI-analist"
+      },
+      "advanced-features": {
+        "overview": "Overzicht"
+      },
+      "parties": {
+        "all-parties": "Alle partijen",
+        "customer-ledgers": "Klanten",
+        "supplier-ledgers": "Leveranciers",
+        "shared-ledger": "Gedeeld grootboek",
+        "statements": "Verklaringen",
+        "reminders": "Herinneringen",
+        "documents": "Partijdocumenten",
+        "portal": "Partijportaal",
+        "import": "Partij import",
+        "duplicate-merge": "Dupliceer samenvoegen",
+        "gap-analysis": "Gap-analyse"
+      },
+      "inventory": {
+        "inventory-items": "Artikelen",
+        "godowns": "Magazijnen",
+        "stock-movement": "Voorraadbeweging",
+        "item-pricing": "Prijzen",
+        "stock-valuation": "Voorraadwaardering",
+        "reorder-alerts": "Waarschuwingen voor opnieuw bestellen",
+        "batch-serials": "Batch- en serieel",
+        "barcode-labels": "Barcode-etiketten",
+        "item-import": "Artikel importeren",
+        "gap-analysis": "Gap-analyse"
+      },
+      "assets": {
+        "asset-register": "Activalijst",
+        "depreciation": "Afschrijving",
+        "disposal-revaluation": "Verkopen of herwaarderen"
+      },
+      "masters": {
+        "chart-of-accounts": "Accountlijst",
+        "tax-masters": "Belastingtarieven",
+        "cost-centers": "Kostenplaatsen",
+        "voucher-types": "Transactietypen",
+        "opening-balances": "Beginsaldi",
+        "currencies": "Valuta's"
+      },
+      "business-tools": {
+        "staff-payroll": "Loonadministratie",
+        "manage-users": "Gebruikerstoegang",
+        "online-orders": "Online bestellingen",
+        "sms-marketing": "SMS-marketing",
+        "accountant-hub": "Accountants & Ondersteuning"
+      },
+      "party-tools": {
+        "documents": "Partijdocumenten",
+        "portal": "Partijportaal",
+        "import": "Partij import",
+        "duplicate-merge": "Dupliceer samenvoegen",
+        "gap-analysis": "Gap-analyse"
+      },
+      "item-tools": {
+        "reorder-alerts": "Waarschuwingen voor opnieuw bestellen",
+        "batch-serials": "Batch- en serieel",
+        "barcode-labels": "Barcode-etiketten",
+        "item-import": "Artikel importeren",
+        "gap-analysis": "Gap-analyse"
+      },
+      "storage": {
+        "client-storage": "Klantbestanden",
+        "unifiedtree-storage": "Cloudopslag"
+      },
+      "alerts": {
+        "accountant-alerts": "Accountantwaarschuwingen",
+        "compliance-alerts": "Nalevingswaarschuwingen",
+        "cash-risk-alerts": "Cash- en risicowaarschuwingen",
+        "ca-access": "CA Tijdelijke toegang"
+      },
+      "migration": {
+        "import": "Gegevens importeren",
+        "export": "Gegevens exporteren",
+        "history": "Geschiedenis importeren",
+        "tally-import": "Importeren vanuit Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Aankopen en betalingen",
+      "accountingSetup": "Boekhouding instellen",
+      "dataDocuments": "Gegevens en documenten"
+    }
+  },
+  "common": {
+    "save": "Wijzigingen opslaan",
+    "cancel": "Annuleren",
+    "create": "Creëren",
+    "edit": "Bewerking",
+    "delete": "Verwijderen",
+    "search": "Zoekopdracht",
+    "connect": "Verbinden",
+    "configure": "Configureer",
+    "disconnect": "Verbreek de verbinding",
+    "sync": "Synchroniseer nu",
+    "close": "Dichtbij",
+    "reset": "Terugzetten naar standaardwaarden",
+    "back": "Rug",
+    "continue": "Doorgaan",
+    "all": "Alle",
+    "retry": "Opnieuw proberen",
+    "loading": "Laden…",
+    "resetDemo": "Demogegevens resetten"
+  },
+  "shell": {
+    "searchPlaceholder": "Zoek alles...",
+    "settings": "Instellingen",
+    "language": "Taal",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Goedemorgen",
+      "afternoon": "Goedemiddag",
+      "evening": "Goedeavond"
+    },
+    "settingsItems": {
+      "company-profile": "Bedrijfsprofiel",
+      "configuration": "Configuratie",
+      "fiscal-periods": "Fiscale perioden",
+      "roles": "Rollen en gebruikers",
+      "integrations": "Integraties",
+      "notifications": "Meldingen",
+      "audit-logs": "Controle en logboeken",
+      "audit-trail": "Fraudebestendige audittrail",
+      "developer": "Ontwikkelaar & API"
+    },
+    "translatedLanguages": "Vertaald",
+    "untranslatedLanguages": "Engels tot vertaald"
+  },
+  "status": {
+    "filed": "Gearchiveerd",
+    "ready": "Klaar om te archiveren",
+    "open": "Periode geopend",
+    "paid": "Betaald",
+    "pending": "In behandeling",
+    "accepted": "Geaccepteerd",
+    "delivered": "Afgeleverd",
+    "rejected": "Afgewezen",
+    "pdf-sent": "PDF verzonden",
+    "not-sent": "Niet verzonden",
+    "matched": "Komt overeen",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Niet gemeld door leverancier",
+    "missing-books": "Ontbreekt in boeken",
+    "deferred": "Verschoven",
+    "deducted": "Afgetrokken",
+    "remitted": "Overgemaakt",
+    "certified": "Gecertificeerd",
+    "to-report": "Om te rapporteren",
+    "reported": "Gerapporteerd",
+    "accounted": "Geboekt",
+    "overdue": "Verlopen"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Klaar om te archiveren",
+      "liabilityDue": "Verschuldigde aansprakelijkheid",
+      "paidThisYear": "Dit jaar betaald",
+      "nextDeadline": "Volgende deadline",
+      "noneOverdue": "Geen te laat",
+      "overdue": "{{count}} te laat"
+    },
+    "filter": {
+      "ready": "Klaar om te archiveren",
+      "open": "Open",
+      "filed": "Gearchiveerd"
+    },
+    "col": {
+      "period": "Periode",
+      "authority": "Autoriteit",
+      "rate": "Tarief",
+      "due": "Vanwege",
+      "netPayable": "Netto betaalbaar",
+      "status": "Status",
+      "ack": "Erkenning"
+    },
+    "file": "Bestand",
+    "view": "Weergave",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Jurisdictie laden...",
+    "nothingToFile": "Er wachten geen aangiften om ingediend te worden; alle gesloten periodes zijn ingediend.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Beoordeling",
+      "validate": "Valideer",
+      "declare": "Declareren en indienen",
+      "ack": "Erkenning"
+    },
+    "runValidation": "Validatie uitvoeren",
+    "validating": "Valideren…",
+    "submit": "Submit {{form}}",
+    "submitting": "Verzenden…",
+    "declaration": "Ik verklaar dat de informatie in deze aangifte waar en volledig is, en dat ik bevoegd ben om deze in te dienen bij {{authority}}.",
+    "netAmount": "Netto bedrag",
+    "submitted": "Ingediend",
+    "filedOn": "Gearchiveerd op",
+    "regime": {
+      "authority": "Autoriteit",
+      "channel": "Kanaal voor archivering",
+      "return": "Opbrengst",
+      "due": "Vanwege",
+      "standardRate": "Standaard tarief",
+      "threshold": "Registratiedrempel"
+    },
+    "demoNote": "Demogegevens van de ingebouwde nepbelasting-API: aangiften en betalingen worden gesimuleerd en er wordt niets naar een belastingdienst verzonden."
+  },
+  "fx": {
+    "title": "Vreemde valuta",
+    "subtitle": "Basisvaluta {{base}} · indicatieve nepmarktrente",
+    "newDoc": "Nieuwe FX-factuur / factuur",
+    "kpi": {
+      "netExposure": "Netto FX-blootstelling",
+      "openDocs": "{{count}} geopende documenten",
+      "unrealized": "Ongerealiseerde winst/verlies",
+      "postedSplit": "{{posted}} gepost · {{unposted}} nog niet",
+      "realized": "Dit jaar gerealiseerd",
+      "lastReval": "Laatste herwaardering",
+      "never": "Nooit",
+      "suggested": "Voorgesteld: {{date}}"
+    },
+    "view": {
+      "open": "Openstaande artikelen",
+      "settled": "Gevestigd",
+      "revaluation": "Herwaardering aan het einde van de maand",
+      "journal": "FX-dagboek"
+    },
+    "col": {
+      "document": "Document",
+      "type": "Type",
+      "openForeign": "Open (buitenlands)",
+      "bookedNow": "Geboekt / nu",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Ongerealiseerd",
+      "status": "Status",
+      "amount": "Hoeveelheid",
+      "bookedRate": "Geboekt tarief",
+      "realized": "Gerealiseerd"
+    },
+    "receivable": "Te ontvangen",
+    "payable": "Betaalbaar",
+    "receive": "Ontvangen",
+    "pay": "Betalen",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Gevestigd",
+      "partial": "Gedeeltelijk gevestigd",
+      "open": "Open"
+    },
+    "demoNote": "Demogegevens van de ingebouwde nep-API: tarieven worden gesimuleerd, geen live marktgegevens."
+  }
+}

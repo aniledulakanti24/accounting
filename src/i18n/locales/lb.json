@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Dag-an-Dag",
+      "finance": "Finanzen",
+      "advanced": "Fortgeschratt"
+    },
+    "mainMenu": "Haaptmenü",
+    "short": {
+      "parties": "Parteien"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Verkaf",
+      "receivables": "Suen an",
+      "procurement": "Akeef",
+      "payables": "Suen eraus",
+      "cashbank": "Cash & Bank",
+      "expenses": "Käschten",
+      "tax": "Steier",
+      "reports": "Rapporten",
+      "advanced-features": "Fortgeschratt Fonctiounen",
+      "parties": "Clienten & Fournisseuren",
+      "inventory": "Artikelen",
+      "assets": "Fixed Assets",
+      "masters": "Setup & Configuratioun",
+      "business-tools": "Team & Tools",
+      "party-tools": "Party Tools",
+      "item-tools": "Artikel Tools",
+      "storage": "Dokumenter",
+      "alerts": "Alarmer",
+      "migration": "Daten Migratioun"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Iwwersiicht",
+        "cash-flow": "Cash Flow",
+        "tax-calendar": "Steier Kalenner"
+      },
+      "sales": {
+        "quotations": "Zitater",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Rechnung",
+        "delivery-challans": "Liwwerung Challan",
+        "receipts": "Empfang",
+        "invoice-desk": "Rechnung Desk"
+      },
+      "receivables": {
+        "money-in-center": "Suen am Zentrum",
+        "receivables": "Fuerderungen",
+        "payments-received": "Bezuelungen Erhalen",
+        "overdue-collections": "Sammlungen & Erënnerungen",
+        "credit-notes": "Kreditnotizen & Remboursementer",
+        "sales-returns": "Sales Returns",
+        "customer-statements": "Client Aussoen",
+        "payment-links": "Bezuelen Linken"
+      },
+      "procurement": {
+        "purchase-center": "Akaf Center",
+        "purchase-orders": "Akeef Commanden",
+        "goods-receipt": "Wueren Empfang",
+        "purchase-invoices": "Kaf Rechnungen",
+        "payment-out": "Bezuelungen gemaach",
+        "returns-debit-notes": "Retour & Débit Noten",
+        "bill-approvals": "Bill Genehmegungen"
+      },
+      "payables": {
+        "bills": "Bezuelen Zentrum",
+        "payments": "Fournisseur Paiementer",
+        "workforce": "Aarbechtskräften",
+        "adjustments": "Upassungen",
+        "bank-release": "Bank Fräisetzung"
+      },
+      "cashbank": {
+        "bank-accounts": "Meng Konten",
+        "reconciliation": "Match Transaktiounen",
+        "cash-petty": "Petty Cash",
+        "contra": "Tëscht Konten",
+        "cheque-register": "Schecken",
+        "foreign-currency": "Auslännesch Währung",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Regelen & Reconciliatioun"
+      },
+      "expenses": {
+        "expense-center": "All Käschten",
+        "categories": "Ausgaben Zorte",
+        "automated-bills": "Widderhuelend Ausgaben",
+        "journal-vouchers": "Manuell Entréen",
+        "provisions": "Accruals",
+        "write-offs": "Ofschreiwungen",
+        "period-close": "Mount-Enn"
+      },
+      "tax": {
+        "gst-returns": "GST Datei",
+        "gst-filing-wizard": "⚡ Datei GSTR-3B",
+        "gst-reconciliation": "GST Matching",
+        "e-invoicing": "E-Rechnungen",
+        "e-way-bills": "E-Wee Rechnungen",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bezuelen Steier",
+        "quarterly-compliance": "Compliance Kalenner",
+        "ca-access": "CA Temporär Zougang",
+        "gst-from-books": "GST aus Bicher"
+      },
+      "reports": {
+        "financial-statements": "Finanzberichter",
+        "books": "Transaktioun Bicher",
+        "gst-reports": "GST Berichter",
+        "ar-ap": "Fuerderungen vs Bezuelen",
+        "profitability": "Rentabilitéit vunn",
+        "period-comparatives": "Joer Verglach",
+        "budget-vs-actuals": "Budget Tracker",
+        "cashflow-projection": "Cash Prognosen",
+        "report-builder": "Benotzerdefinéiert Berichter",
+        "general-ledger": "General Ledger",
+        "live-financials": "Live Finanzen",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Iwwersiicht"
+      },
+      "parties": {
+        "all-parties": "All Parteien",
+        "customer-ledgers": "Clienten",
+        "supplier-ledgers": "Fournisseuren",
+        "shared-ledger": "Shared Ledger",
+        "statements": "Aussoen",
+        "reminders": "Erënnerungen",
+        "documents": "Partei Dokumenter",
+        "portal": "Partei Portal",
+        "import": "Partei Import",
+        "duplicate-merge": "Duplizéiert Fusioun",
+        "gap-analysis": "Gap Analyse"
+      },
+      "inventory": {
+        "inventory-items": "Artikelen",
+        "godowns": "Lagerhaiser",
+        "stock-movement": "Stock Movement",
+        "item-pricing": "Präisser",
+        "stock-valuation": "Stock Bewäertung",
+        "reorder-alerts": "Neibestellung Alarmer",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Element Import",
+        "gap-analysis": "Gap Analyse"
+      },
+      "assets": {
+        "asset-register": "Asset Lëscht",
+        "depreciation": "Ofschätzung",
+        "disposal-revaluation": "Verkafen oder revaluéieren"
+      },
+      "masters": {
+        "chart-of-accounts": "Konten Lëscht",
+        "tax-masters": "Steier Tariffer",
+        "cost-centers": "Käschten Zentren",
+        "voucher-types": "Transaktioun Zorte",
+        "opening-balances": "Start Saldo",
+        "currencies": "Währungen"
+      },
+      "business-tools": {
+        "staff-payroll": "Paieziedel",
+        "manage-users": "Benotzer Zougang",
+        "online-orders": "Online Bestellungen",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Comptabelen & Ënnerstëtzung"
+      },
+      "party-tools": {
+        "documents": "Partei Dokumenter",
+        "portal": "Partei Portal",
+        "import": "Partei Import",
+        "duplicate-merge": "Duplizéiert Fusioun",
+        "gap-analysis": "Gap Analyse"
+      },
+      "item-tools": {
+        "reorder-alerts": "Neibestellung Alarmer",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Element Import",
+        "gap-analysis": "Gap Analyse"
+      },
+      "storage": {
+        "client-storage": "Client Dateien",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "Comptabel Alarmer",
+        "compliance-alerts": "Konformitéit Alarmer",
+        "cash-risk-alerts": "Cash & Risiko Alarmer",
+        "ca-access": "CA Temporär Zougang"
+      },
+      "migration": {
+        "import": "Import Daten",
+        "export": "Daten exportéieren",
+        "history": "Import Geschicht",
+        "tally-import": "Import vun Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Akeef & Bezuelen",
+      "accountingSetup": "Comptablesmethod Setup",
+      "dataDocuments": "Daten & Dokumenter"
+    }
+  },
+  "common": {
+    "save": "Ännerunge späicheren",
+    "cancel": "Ofbriechen",
+    "create": "Schafen",
+    "edit": "Edit",
+    "delete": "Läschen",
+    "search": "Sichen",
+    "connect": "Connect",
+    "configure": "Configuréieren",
+    "disconnect": "Trennen",
+    "sync": "Synchroniséiert elo",
+    "close": "Zoumaachen",
+    "reset": "Zerécksetzen op Default",
+    "back": "Zréck",
+    "continue": "Fuert weider",
+    "all": "All",
+    "retry": "Nach eng Kéier probéieren",
+    "loading": "Lueden…",
+    "resetDemo": "Demo Daten zrécksetzen"
+  },
+  "shell": {
+    "searchPlaceholder": "Sich no eppes ...",
+    "settings": "Astellungen",
+    "language": "Sprooch",
+    "role": "Roll",
+    "greeting": {
+      "morning": "Gudde Moien",
+      "afternoon": "Gudde Mëtteg",
+      "evening": "Gudden Owend"
+    },
+    "settingsItems": {
+      "company-profile": "Firma Profil",
+      "configuration": "Configuratioun",
+      "fiscal-periods": "Steier Perioden",
+      "roles": "Rollen & Benotzer",
+      "integrations": "Integratiounen",
+      "notifications": "Notifikatiounen",
+      "audit-logs": "Audit & Logbicher",
+      "audit-trail": "Tamper-Beweis Audit Trail",
+      "developer": "Entwéckler & API"
+    },
+    "translatedLanguages": "Iwwersat",
+    "untranslatedLanguages": "Englesch bis iwwersat"
+  },
+  "status": {
+    "filed": "Filet",
+    "ready": "Prett ze Fichier",
+    "open": "Period oppen",
+    "paid": "Bezuelt",
+    "pending": "Erwaardung",
+    "accepted": "Akzeptéiert",
+    "delivered": "Geliwwert",
+    "rejected": "Refuséiert",
+    "pdf-sent": "PDF geschéckt",
+    "not-sent": "Net geschéckt",
+    "matched": "Gepasst",
+    "mismatch": "Mismatch",
+    "missing-supplier": "Net vum Fournisseur gemellt",
+    "missing-books": "Vermësst a Bicher",
+    "deferred": "Ausgesinn",
+    "deducted": "Ofgezu",
+    "remitted": "Remittéiert",
+    "certified": "Zertifizéiert",
+    "to-report": "Fir ze mellen",
+    "reported": "Rapportéiert",
+    "accounted": "Rechnung gedroe",
+    "overdue": "Iwwerhaapt"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Prett ze Fichier",
+      "liabilityDue": "Haftung wéinst",
+      "paidThisYear": "Dëst Joer bezuelt",
+      "nextDeadline": "Nächst Frist",
+      "noneOverdue": "Keen iwwerdriwwen",
+      "overdue": "{{count}} iwwerschratt"
+    },
+    "filter": {
+      "ready": "Prett ze Fichier",
+      "open": "Oppen",
+      "filed": "Filet"
+    },
+    "col": {
+      "period": "Period",
+      "authority": "Autoritéit",
+      "rate": "Taux",
+      "due": "Wéinst",
+      "netPayable": "Net bezuelt",
+      "status": "Status",
+      "ack": "Unerkennung"
+    },
+    "file": "Fichier",
+    "view": "Vue",
+    "fileForm": "Datei {{form}}",
+    "loadingJurisdiction": "Lueden Juridictioun…",
+    "nothingToFile": "Keng Rendementer waarden op ofginn - all zouene Perioden gi proposéiert.",
+    "fileNext": "Datei nächst: {{name}}",
+    "steps": {
+      "review": "Iwwerpréiwung",
+      "validate": "Validéieren",
+      "declare": "Erklären & ofginn",
+      "ack": "Unerkennung"
+    },
+    "runValidation": "Lafen Validatioun",
+    "validating": "Validéiert…",
+    "submit": "Gitt {{form}}",
+    "submitting": "Erlaabt…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Netto Betrag",
+    "submitted": "Erlaabt",
+    "filedOn": "Equipier op",
+    "regime": {
+      "authority": "Autoritéit",
+      "channel": "Filing Kanal",
+      "return": "Retour",
+      "due": "Wéinst",
+      "standardRate": "Standard Taux",
+      "threshold": "Aschreiwung Schwelle"
+    },
+    "demoNote": "Demo Daten vun der agebauter Spottsteier API - Areeche a Bezuelungen ginn simuléiert an näischt gëtt un eng Steierautoritéit geschéckt."
+  },
+  "fx": {
+    "title": "Auslännesch Währung",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Nei FX Rechnung / Rechnung",
+    "kpi": {
+      "netExposure": "Net FX Belaaschtung",
+      "openDocs": "{{count}} oppen Dokumenter",
+      "unrealized": "Onrealiséiert Gewënn / Verloscht",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Dëst Joer realiséiert",
+      "lastReval": "Last revaluation",
+      "never": "Ni",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Open Elementer",
+      "settled": "Settlement",
+      "revaluation": "Mount Enn Revaluatioun",
+      "journal": "FX Journal"
+    },
+    "col": {
+      "document": "Dokument",
+      "type": "Typ",
+      "openForeign": "Open (auslännesch)",
+      "bookedNow": "Reservéiert / elo",
+      "valueIn": "Wäert an {{base}}",
+      "unrealized": "Onrealiséiert",
+      "status": "Status",
+      "amount": "Betrag",
+      "bookedRate": "Reservéiert Taux",
+      "realized": "realiséiert"
+    },
+    "receivable": "Receivable",
+    "payable": "Bezuelbar",
+    "receive": "Empfang",
+    "pay": "Bezuelen",
+    "netIn": "Net an {{base}}",
+    "state": {
+      "settled": "Settlement",
+      "partial": "Deel opgeléist",
+      "open": "Oppen"
+    },
+    "demoNote": "Demo Daten vun der agebauter Mock API - Tariffer gi simuléiert, net Live Maartdaten."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "روز به روز",
+      "finance": "امور مالی",
+      "advanced": "پیشرفته"
+    },
+    "mainMenu": "منوی اصلی",
+    "short": {
+      "parties": "احزاب"
+    },
+    "sections": {
+      "dashboard": "داشبورد",
+      "sales": "فروش",
+      "receivables": "پول در",
+      "procurement": "خریدها",
+      "payables": "پول بیرون",
+      "cashbank": "پول نقد و بانک",
+      "expenses": "مخارج",
+      "tax": "مالیات",
+      "reports": "گزارش ها",
+      "advanced-features": "ویژگی های پیشرفته",
+      "parties": "مشتریان و تامین کنندگان",
+      "inventory": "موارد",
+      "assets": "دارایی های ثابت",
+      "masters": "راه اندازی و پیکربندی",
+      "business-tools": "تیم و ابزار",
+      "party-tools": "ابزار مهمانی",
+      "item-tools": "ابزار مورد",
+      "storage": "اسناد",
+      "alerts": "هشدارها",
+      "migration": "مهاجرت داده ها"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "نمای کلی",
+        "cash-flow": "جریان نقدی",
+        "tax-calendar": "تقویم مالیاتی"
+      },
+      "sales": {
+        "quotations": "نقل قول ها",
+        "proforma-invoices": "PI",
+        "sales-invoices": "فاکتور",
+        "delivery-challans": "تحویل چالان",
+        "receipts": "رسید",
+        "invoice-desk": "میز فاکتور"
+      },
+      "receivables": {
+        "money-in-center": "پول در مرکز",
+        "receivables": "مطالبات",
+        "payments-received": "پرداخت های دریافت شده",
+        "overdue-collections": "مجموعه ها و یادآوری ها",
+        "credit-notes": "یادداشت های اعتباری و بازپرداخت",
+        "sales-returns": "بازده فروش",
+        "customer-statements": "اظهارات مشتری",
+        "payment-links": "لینک های پرداخت"
+      },
+      "procurement": {
+        "purchase-center": "مرکز خرید",
+        "purchase-orders": "سفارشات خرید",
+        "goods-receipt": "رسید کالا",
+        "purchase-invoices": "فاکتورهای خرید",
+        "payment-out": "پرداخت های انجام شده",
+        "returns-debit-notes": "یادداشت‌های برگشتی و بدهی",
+        "bill-approvals": "مصوبات لایحه"
+      },
+      "payables": {
+        "bills": "مرکز پرداخت",
+        "payments": "پرداخت های تامین کننده",
+        "workforce": "نیروی کار",
+        "adjustments": "تنظیمات",
+        "bank-release": "انتشار بانکی"
+      },
+      "cashbank": {
+        "bank-accounts": "حساب های من",
+        "reconciliation": "معاملات مطابقت",
+        "cash-petty": "پول نقد",
+        "contra": "بین حساب ها",
+        "cheque-register": "چک ها",
+        "foreign-currency": "ارز خارجی",
+        "bank-feeds": "فیدهای بانکی",
+        "bank-rules": "قوانین و آشتی"
+      },
+      "expenses": {
+        "expense-center": "تمام هزینه ها",
+        "categories": "انواع هزینه",
+        "automated-bills": "هزینه های مکرر",
+        "journal-vouchers": "مدخل های دستی",
+        "provisions": "اقلام تعهدی",
+        "write-offs": "رد خارج شده ها",
+        "period-close": "پایان ماه"
+      },
+      "tax": {
+        "gst-returns": "بایگانی GST",
+        "gst-filing-wizard": "⚡ فایل GSTR-3B",
+        "gst-reconciliation": "تطبیق GST",
+        "e-invoicing": "فاکتورهای الکترونیکی",
+        "e-way-bills": "صورت حساب های راه الکترونیکی",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "پرداخت مالیات",
+        "quarterly-compliance": "تقویم انطباق",
+        "ca-access": "دسترسی موقت CA",
+        "gst-from-books": "GST از Books"
+      },
+      "reports": {
+        "financial-statements": "گزارش های مالی",
+        "books": "کتاب معاملات",
+        "gst-reports": "گزارش های GST",
+        "ar-ap": "مطالبات در مقابل مطالبات پرداختنی",
+        "profitability": "سودآوری",
+        "period-comparatives": "مقایسه سال",
+        "budget-vs-actuals": "ردیاب بودجه",
+        "cashflow-projection": "پیش بینی پول نقد",
+        "report-builder": "گزارش های سفارشی",
+        "general-ledger": "دفتر کل",
+        "live-financials": "امور مالی زنده",
+        "ai-analyst": "تحلیلگر هوش مصنوعی"
+      },
+      "advanced-features": {
+        "overview": "نمای کلی"
+      },
+      "parties": {
+        "all-parties": "همه احزاب",
+        "customer-ledgers": "مشتریان",
+        "supplier-ledgers": "تامین کنندگان",
+        "shared-ledger": "دفتر کل مشترک",
+        "statements": "بیانیه ها",
+        "reminders": "یادآوری ها",
+        "documents": "اسناد حزب",
+        "portal": "پورتال مهمانی",
+        "import": "واردات مهمانی",
+        "duplicate-merge": "ادغام تکراری",
+        "gap-analysis": "تجزیه و تحلیل شکاف"
+      },
+      "inventory": {
+        "inventory-items": "موارد",
+        "godowns": "انبارها",
+        "stock-movement": "جنبش سهام",
+        "item-pricing": "قیمت گذاری",
+        "stock-valuation": "ارزش گذاری سهام",
+        "reorder-alerts": "ترتیب مجدد هشدارها",
+        "batch-serials": "دسته و سریال",
+        "barcode-labels": "برچسب های بارکد",
+        "item-import": "واردات آیتم",
+        "gap-analysis": "تجزیه و تحلیل شکاف"
+      },
+      "assets": {
+        "asset-register": "فهرست دارایی ها",
+        "depreciation": "استهلاک",
+        "disposal-revaluation": "فروش یا تجدید ارزش گذاری"
+      },
+      "masters": {
+        "chart-of-accounts": "فهرست حساب ها",
+        "tax-masters": "نرخ های مالیاتی",
+        "cost-centers": "مراکز هزینه",
+        "voucher-types": "انواع معاملات",
+        "opening-balances": "شروع تعادل",
+        "currencies": "ارزها"
+      },
+      "business-tools": {
+        "staff-payroll": "حقوق و دستمزد",
+        "manage-users": "دسترسی کاربر",
+        "online-orders": "سفارشات آنلاین",
+        "sms-marketing": "بازاریابی پیامکی",
+        "accountant-hub": "حسابداران و پشتیبانی"
+      },
+      "party-tools": {
+        "documents": "اسناد حزب",
+        "portal": "پورتال مهمانی",
+        "import": "واردات مهمانی",
+        "duplicate-merge": "ادغام تکراری",
+        "gap-analysis": "تجزیه و تحلیل شکاف"
+      },
+      "item-tools": {
+        "reorder-alerts": "ترتیب مجدد هشدارها",
+        "batch-serials": "دسته و سریال",
+        "barcode-labels": "برچسب های بارکد",
+        "item-import": "واردات آیتم",
+        "gap-analysis": "تجزیه و تحلیل شکاف"
+      },
+      "storage": {
+        "client-storage": "فایل های مشتری",
+        "unifiedtree-storage": "فضای ذخیره سازی ابری"
+      },
+      "alerts": {
+        "accountant-alerts": "هشدارهای حسابدار",
+        "compliance-alerts": "هشدارهای انطباق",
+        "cash-risk-alerts": "هشدارهای نقدی و ریسک",
+        "ca-access": "دسترسی موقت CA"
+      },
+      "migration": {
+        "import": "وارد کردن داده ها",
+        "export": "صادرات داده ها",
+        "history": "تاریخچه واردات",
+        "tally-import": "واردات از Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "خرید و پرداخت",
+      "accountingSetup": "راه اندازی حسابداری",
+      "dataDocuments": "داده ها و اسناد"
+    }
+  },
+  "common": {
+    "save": "ذخیره تغییرات",
+    "cancel": "لغو کنید",
+    "create": "ایجاد کنید",
+    "edit": "ویرایش کنید",
+    "delete": "حذف کنید",
+    "search": "جستجو کنید",
+    "connect": "اتصال",
+    "configure": "پیکربندی کنید",
+    "disconnect": "قطع کن",
+    "sync": "اکنون همگام سازی کنید",
+    "close": "بستن",
+    "reset": "به حالت پیش فرض بازنشانی کنید",
+    "back": "برگشت",
+    "continue": "ادامه دهید",
+    "all": "همه",
+    "retry": "دوباره امتحان کنید",
+    "loading": "در حال بارگیری…",
+    "resetDemo": "بازنشانی داده های نمایشی"
+  },
+  "shell": {
+    "searchPlaceholder": "هر چیزی را جستجو کنید…",
+    "settings": "تنظیمات",
+    "language": "زبان",
+    "role": "نقش",
+    "greeting": {
+      "morning": "صبح بخیر",
+      "afternoon": "ظهر بخیر",
+      "evening": "عصر بخیر"
+    },
+    "settingsItems": {
+      "company-profile": "مشخصات شرکت",
+      "configuration": "پیکربندی",
+      "fiscal-periods": "دوره های مالی",
+      "roles": "نقش ها و کاربران",
+      "integrations": "ادغام ها",
+      "notifications": "اطلاعیه ها",
+      "audit-logs": "حسابرسی و سیاهههای مربوط",
+      "audit-trail": "دنباله حسابرسی ضد دستکاری",
+      "developer": "توسعه دهنده و API"
+    },
+    "translatedLanguages": "ترجمه شده است",
+    "untranslatedLanguages": "انگلیسی تا ترجمه"
+  },
+  "status": {
+    "filed": "ثبت شد",
+    "ready": "آماده تشکیل پرونده",
+    "open": "دوره باز",
+    "paid": "پرداخت شده است",
+    "pending": "در انتظار",
+    "accepted": "پذیرفته شد",
+    "delivered": "تحویل داده شد",
+    "rejected": "رد شد",
+    "pdf-sent": "PDF ارسال شد",
+    "not-sent": "ارسال نشده است",
+    "matched": "مطابقت دارد",
+    "mismatch": "عدم تطابق",
+    "missing-supplier": "توسط تامین کننده گزارش نشده است",
+    "missing-books": "گم شده در کتاب ها",
+    "deferred": "به تعویق افتاد",
+    "deducted": "کسر شد",
+    "remitted": "حواله شد",
+    "certified": "گواهی شده",
+    "to-report": "برای گزارش دادن",
+    "reported": "گزارش شده است",
+    "accounted": "حساب شده",
+    "overdue": "عقب افتاده"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "آماده تشکیل پرونده",
+      "liabilityDue": "مسئولیت سررسید",
+      "paidThisYear": "امسال پرداخت شده است",
+      "nextDeadline": "مهلت بعدی",
+      "noneOverdue": "هیچکدام عقب افتاده",
+      "overdue": "{{count}} عقب افتاده است"
+    },
+    "filter": {
+      "ready": "آماده تشکیل پرونده",
+      "open": "باز کنید",
+      "filed": "ثبت شد"
+    },
+    "col": {
+      "period": "دوره",
+      "authority": "اختیار",
+      "rate": "امتیاز دهید",
+      "due": "سررسید",
+      "netPayable": "خالص قابل پرداخت",
+      "status": "وضعیت",
+      "ack": "تصدیق"
+    },
+    "file": "فایل",
+    "view": "مشاهده کنید",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "در حال بارگیری حوزه قضایی…",
+    "nothingToFile": "هیچ بازگشتی در انتظار ثبت نیست - همه دوره های بسته ارسال می شوند.",
+    "fileNext": "فایل بعدی: {{name}}",
+    "steps": {
+      "review": "مرور کنید",
+      "validate": "اعتبار سنجی",
+      "declare": "اعلام و ارسال کنید",
+      "ack": "تصدیق"
+    },
+    "runValidation": "اعتبار سنجی را اجرا کنید",
+    "validating": "در حال اعتبارسنجی…",
+    "submit": "Submit {{form}}",
+    "submitting": "در حال ارسال…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "مقدار خالص",
+    "submitted": "ارسال شد",
+    "filedOn": "ثبت شده در",
+    "regime": {
+      "authority": "اختیار",
+      "channel": "کانال بایگانی",
+      "return": "بازگشت",
+      "due": "سررسید",
+      "standardRate": "نرخ استاندارد",
+      "threshold": "آستانه ثبت نام"
+    },
+    "demoNote": "داده‌های نمایشی از API مالیاتی ساختگی - پرونده‌ها و پرداخت‌ها شبیه‌سازی می‌شوند و هیچ چیزی به مقامات مالیاتی ارسال نمی‌شود."
+  },
+  "fx": {
+    "title": "ارز خارجی",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "فاکتور / صورتحساب FX جدید",
+    "kpi": {
+      "netExposure": "قرار گرفتن در معرض خالص FX",
+      "openDocs": "{{count}} اسناد را باز کنید",
+      "unrealized": "سود / زیان تحقق نیافته",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "امسال محقق شد",
+      "lastReval": "آخرین تجدید ارزیابی",
+      "never": "هرگز",
+      "suggested": "پیشنهادی: {{date}}"
+    },
+    "view": {
+      "open": "موارد را باز کنید",
+      "settled": "حل و فصل شد",
+      "revaluation": "تجدید ارزیابی پایان ماه",
+      "journal": "مجله FX"
+    },
+    "col": {
+      "document": "سند",
+      "type": "تایپ کنید",
+      "openForeign": "باز (خارجی)",
+      "bookedNow": "رزرو شده / اکنون",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "محقق نشده است",
+      "status": "وضعیت",
+      "amount": "مقدار",
+      "bookedRate": "نرخ رزرو شده",
+      "realized": "محقق شد"
+    },
+    "receivable": "قابل دریافت است",
+    "payable": "قابل پرداخت",
+    "receive": "دریافت کنید",
+    "pay": "پرداخت کنید",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "حل و فصل شد",
+      "partial": "نیمه تسویه شده",
+      "open": "باز کنید"
+    },
+    "demoNote": "داده‌های نمایشی از API ساختگی ساختگی - نرخ‌ها شبیه‌سازی شده‌اند، نه داده‌های بازار زنده."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Kundan kunga",
+      "finance": "Moliya",
+      "advanced": "Murakkab"
+    },
+    "mainMenu": "Asosiy menyu",
+    "short": {
+      "parties": "Partiyalar"
+    },
+    "sections": {
+      "dashboard": "Boshqaruv paneli",
+      "sales": "Sotish",
+      "receivables": "Money In",
+      "procurement": "Xaridlar",
+      "payables": "Pul chiqarish",
+      "cashbank": "Naqd pul va bank",
+      "expenses": "Xarajatlar",
+      "tax": "Soliq",
+      "reports": "Hisobotlar",
+      "advanced-features": "Kengaytirilgan xususiyatlar",
+      "parties": "Mijozlar va yetkazib beruvchilar",
+      "inventory": "Elementlar",
+      "assets": "Asosiy vositalar",
+      "masters": "Sozlash va sozlash",
+      "business-tools": "Jamoa va asboblar",
+      "party-tools": "Partiya vositalari",
+      "item-tools": "Element vositalari",
+      "storage": "Hujjatlar",
+      "alerts": "Ogohlantirishlar",
+      "migration": "Ma'lumotlarni ko'chirish"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Umumiy koʻrinish",
+        "cash-flow": "Pul oqimi",
+        "tax-calendar": "Soliq taqvimi"
+      },
+      "sales": {
+        "quotations": "Iqtiboslar",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Hisob-faktura",
+        "delivery-challans": "Challan yetkazib berish",
+        "receipts": "Kvitansiya",
+        "invoice-desk": "Hisob-faktura stoli"
+      },
+      "receivables": {
+        "money-in-center": "Pul markazi",
+        "receivables": "Debitorlik qarzlari",
+        "payments-received": "Qabul qilingan to'lovlar",
+        "overdue-collections": "To'plamlar va eslatmalar",
+        "credit-notes": "Kredit eslatmalari va to'lovlar",
+        "sales-returns": "Savdoni qaytarish",
+        "customer-statements": "Mijoz bayonotlari",
+        "payment-links": "To'lov havolalari"
+      },
+      "procurement": {
+        "purchase-center": "Sotib olish markazi",
+        "purchase-orders": "Xarid qilish buyurtmalari",
+        "goods-receipt": "Tovarlarni qabul qilish",
+        "purchase-invoices": "Xarid fakturalari",
+        "payment-out": "To'lovlar amalga oshirildi",
+        "returns-debit-notes": "Qaytarilish va debet yozuvlari",
+        "bill-approvals": "Hisob-kitoblarni tasdiqlash"
+      },
+      "payables": {
+        "bills": "To'lov markazi",
+        "payments": "Yetkazib beruvchi to'lovlari",
+        "workforce": "Ishchi kuchi",
+        "adjustments": "Tuzatishlar",
+        "bank-release": "Bank relizi"
+      },
+      "cashbank": {
+        "bank-accounts": "Mening hisoblarim",
+        "reconciliation": "Mos operatsiyalar",
+        "cash-petty": "Kichik naqd pul",
+        "contra": "Hisoblar o'rtasida",
+        "cheque-register": "Tekshiruvlar",
+        "foreign-currency": "Chet el valyutasi",
+        "bank-feeds": "Bank tasmasi",
+        "bank-rules": "Qoidalar va kelishuv"
+      },
+      "expenses": {
+        "expense-center": "Barcha xarajatlar",
+        "categories": "Xarajat turlari",
+        "automated-bills": "Takroriy xarajatlar",
+        "journal-vouchers": "Qo'lda yozuvlar",
+        "provisions": "Hisoblashlar",
+        "write-offs": "Hisobdan chiqarish",
+        "period-close": "Oy oxiri"
+      },
+      "tax": {
+        "gst-returns": "GST topshirish",
+        "gst-filing-wizard": "⚡ GSTR-3B fayli",
+        "gst-reconciliation": "GST muvofiqligi",
+        "e-invoicing": "Elektron hisob-fakturalar",
+        "e-way-bills": "Elektron yo'l to'lovlari",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Soliq to'lash",
+        "quarterly-compliance": "Muvofiqlik kalendar",
+        "ca-access": "CA vaqtinchalik kirish",
+        "gst-from-books": "Kitoblardan GST"
+      },
+      "reports": {
+        "financial-statements": "Moliyaviy hisobotlar",
+        "books": "Tranzaksiya kitoblari",
+        "gst-reports": "GST hisobotlari",
+        "ar-ap": "Debitorlik va kreditorlik qarzlari",
+        "profitability": "Daromadlilik",
+        "period-comparatives": "Yilni taqqoslash",
+        "budget-vs-actuals": "Byudjet kuzatuvchisi",
+        "cashflow-projection": "Naqd pul prognozi",
+        "report-builder": "Shaxsiy hisobotlar",
+        "general-ledger": "Bosh kitob",
+        "live-financials": "Jonli moliyaviy",
+        "ai-analyst": "AI tahlilchisi"
+      },
+      "advanced-features": {
+        "overview": "Umumiy koʻrinish"
+      },
+      "parties": {
+        "all-parties": "Barcha Tomonlar",
+        "customer-ledgers": "Mijozlar",
+        "supplier-ledgers": "Yetkazib beruvchilar",
+        "shared-ledger": "Umumiy daftar",
+        "statements": "Bayonotlar",
+        "reminders": "Eslatmalar",
+        "documents": "Partiya hujjatlari",
+        "portal": "Partiya portali",
+        "import": "Partiya importi",
+        "duplicate-merge": "Ikki nusxadagi birlashtirish",
+        "gap-analysis": "Bo'shliqlarni tahlil qilish"
+      },
+      "inventory": {
+        "inventory-items": "Elementlar",
+        "godowns": "Omborlar",
+        "stock-movement": "Birja harakati",
+        "item-pricing": "Narxlash",
+        "stock-valuation": "Aktsiyalarni baholash",
+        "reorder-alerts": "Ogohlantirishlarni qayta tartiblash",
+        "batch-serials": "To'plam va seriyali",
+        "barcode-labels": "Shtrixli yorliqlar",
+        "item-import": "Element importi",
+        "gap-analysis": "Bo'shliqlarni tahlil qilish"
+      },
+      "assets": {
+        "asset-register": "Aktivlar roʻyxati",
+        "depreciation": "Amortizatsiya",
+        "disposal-revaluation": "Sotish yoki qayta baholash"
+      },
+      "masters": {
+        "chart-of-accounts": "Hisoblar ro'yxati",
+        "tax-masters": "Soliq stavkalari",
+        "cost-centers": "Narx markazlari",
+        "voucher-types": "Tranzaksiya turlari",
+        "opening-balances": "Boshlang'ich balanslar",
+        "currencies": "Valyutalar"
+      },
+      "business-tools": {
+        "staff-payroll": "Ish haqi",
+        "manage-users": "Foydalanuvchiga kirish",
+        "online-orders": "Onlayn buyurtmalar",
+        "sms-marketing": "SMS marketing",
+        "accountant-hub": "Buxgalterlar va qo'llab-quvvatlash"
+      },
+      "party-tools": {
+        "documents": "Partiya hujjatlari",
+        "portal": "Partiya portali",
+        "import": "Partiya importi",
+        "duplicate-merge": "Ikki nusxadagi birlashtirish",
+        "gap-analysis": "Bo'shliqlarni tahlil qilish"
+      },
+      "item-tools": {
+        "reorder-alerts": "Ogohlantirishlarni qayta tartiblash",
+        "batch-serials": "To'plam va seriyali",
+        "barcode-labels": "Shtrixli yorliqlar",
+        "item-import": "Element importi",
+        "gap-analysis": "Bo'shliqlarni tahlil qilish"
+      },
+      "storage": {
+        "client-storage": "Mijoz fayllari",
+        "unifiedtree-storage": "Bulutli saqlash"
+      },
+      "alerts": {
+        "accountant-alerts": "Buxgalter ogohlantirishlari",
+        "compliance-alerts": "Muvofiqlik haqida ogohlantirishlar",
+        "cash-risk-alerts": "Naqd pul va xavf haqida ogohlantirishlar",
+        "ca-access": "CA vaqtinchalik kirish"
+      },
+      "migration": {
+        "import": "Ma'lumotlarni import qilish",
+        "export": "Ma'lumotlarni eksport qilish",
+        "history": "Import tarixi",
+        "tally-import": "Tally va Zoho'dan import qiling"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Xaridlar va toʻlovlar",
+      "accountingSetup": "Buxgalteriya hisobini sozlash",
+      "dataDocuments": "Ma'lumotlar va hujjatlar"
+    }
+  },
+  "common": {
+    "save": "O'zgarishlarni saqlash",
+    "cancel": "Bekor qilish",
+    "create": "Yaratish",
+    "edit": "Tahrirlash",
+    "delete": "Oʻchirish",
+    "search": "Qidiruv",
+    "connect": "Ulanish",
+    "configure": "Sozlang",
+    "disconnect": "Ulanishni uzing",
+    "sync": "Hozir sinxronlash",
+    "close": "Yopish",
+    "reset": "Asl holatiga qaytarish",
+    "back": "Orqaga",
+    "continue": "Davom eting",
+    "all": "Hammasi",
+    "retry": "Qayta urinish",
+    "loading": "Yuklanmoqda…",
+    "resetDemo": "Namoyish maʼlumotlarini tiklash"
+  },
+  "shell": {
+    "searchPlaceholder": "Har qanday narsani qidiring…",
+    "settings": "Sozlamalar",
+    "language": "Til",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Xayrli tong",
+      "afternoon": "Hayrli kun",
+      "evening": "Hayrli kech"
+    },
+    "settingsItems": {
+      "company-profile": "Kompaniya profili",
+      "configuration": "Konfiguratsiya",
+      "fiscal-periods": "Moliyaviy davrlar",
+      "roles": "Rollar va foydalanuvchilar",
+      "integrations": "Integratsiyalar",
+      "notifications": "Bildirishnomalar",
+      "audit-logs": "Audit va jurnallar",
+      "audit-trail": "Buzg'unchilikdan himoyalangan Audit Trail",
+      "developer": "Dasturchi va API"
+    },
+    "translatedLanguages": "Tarjima qilingan",
+    "untranslatedLanguages": "Ingliz tili tarjima qilinmaguncha"
+  },
+  "status": {
+    "filed": "Taqdim etilgan",
+    "ready": "Fayl berishga tayyor",
+    "open": "Ochiq davr",
+    "paid": "To'langan",
+    "pending": "Kutilmoqda",
+    "accepted": "Qabul qilingan",
+    "delivered": "Yetkazib berildi",
+    "rejected": "Rad etilgan",
+    "pdf-sent": "PDF yuborildi",
+    "not-sent": "Yuborilmagan",
+    "matched": "Mos keldi",
+    "mismatch": "Mos kelmaslik",
+    "missing-supplier": "Yetkazib beruvchidan xabar berilmagan",
+    "missing-books": "Kitoblarda yo'q",
+    "deferred": "Kechiktirilgan",
+    "deducted": "Chegirildi",
+    "remitted": "O'tkazib yuborilgan",
+    "certified": "Sertifikatlangan",
+    "to-report": "Hisobot uchun",
+    "reported": "Xabar qilingan",
+    "accounted": "Hisoblangan",
+    "overdue": "Muddati o'tgan"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Fayl berishga tayyor",
+      "liabilityDue": "To'lanadigan javobgarlik",
+      "paidThisYear": "Bu yil to'langan",
+      "nextDeadline": "Keyingi muddat",
+      "noneOverdue": "Muddati kechikmagan",
+      "overdue": "{{count}} ta muddati oʻtgan"
+    },
+    "filter": {
+      "ready": "Fayl berishga tayyor",
+      "open": "Ochiq",
+      "filed": "Taqdim etilgan"
+    },
+    "col": {
+      "period": "Davr",
+      "authority": "Hokimiyat",
+      "rate": "Baho",
+      "due": "Muddati",
+      "netPayable": "Sof to'lov",
+      "status": "Status",
+      "ack": "Tasdiqlash"
+    },
+    "file": "Fayl",
+    "view": "Ko'rish",
+    "fileForm": "Fayl {{form}}",
+    "loadingJurisdiction": "Yurisdiksiya yuklanmoqda…",
+    "nothingToFile": "Hech qanday deklaratsiya topshirilishi kutilmaydi - barcha yopiq davrlar topshiriladi.",
+    "fileNext": "Keyingi fayl: {{name}}",
+    "steps": {
+      "review": "Ko‘rib chiqish",
+      "validate": "Tasdiqlash",
+      "declare": "E'lon qiling va topshiring",
+      "ack": "Tasdiqlash"
+    },
+    "runValidation": "Tasdiqlashni ishga tushiring",
+    "validating": "Tasdiqlanmoqda…",
+    "submit": "{{form}} yuborish",
+    "submitting": "Yuborilmoqda…",
+    "declaration": "Men bu deklaratsiyadagi maʼlumotlar toʻgʻri va toʻliq ekanligini hamda uni {{authority}}ga topshirishga vakolatim borligini eʼlon qilaman.",
+    "netAmount": "Sof miqdor",
+    "submitted": "Taqdim etilgan",
+    "filedOn": "Taqdim etilgan",
+    "regime": {
+      "authority": "Hokimiyat",
+      "channel": "Fayl berish kanali",
+      "return": "Qaytish",
+      "due": "Muddati",
+      "standardRate": "Standart stavka",
+      "threshold": "Ro'yxatdan o'tish chegarasi"
+    },
+    "demoNote": "Oʻrnatilgan soxta soliq API’sining demo maʼlumotlari — arizalar va toʻlovlar simulyatsiya qilinadi va soliq organiga hech narsa yuborilmaydi."
+  },
+  "fx": {
+    "title": "Chet el valyutasi",
+    "subtitle": "Asosiy valyuta {{base}} · indikativ soxta bozor kurslari",
+    "newDoc": "Yangi valyuta hisob-fakturasi / hisob-kitobi",
+    "kpi": {
+      "netExposure": "Net FX ta'siri",
+      "openDocs": "{{count}} ta ochiq hujjat",
+      "unrealized": "Amalga oshirilmagan daromad / zarar",
+      "postedSplit": "{{posted}} joylangan · {{unposted}} hali yozilmagan",
+      "realized": "Bu yil amalga oshirildi",
+      "lastReval": "Oxirgi qayta baholash",
+      "never": "Hech qachon",
+      "suggested": "Tavsiya etilgan: {{date}}"
+    },
+    "view": {
+      "open": "Ochiq elementlar",
+      "settled": "Oʻrnatildi",
+      "revaluation": "Oy oxirida qayta baholash",
+      "journal": "FX jurnali"
+    },
+    "col": {
+      "document": "Hujjat",
+      "type": "Turi",
+      "openForeign": "Ochiq (xorijiy)",
+      "bookedNow": "Band qilingan / hozir",
+      "valueIn": "{{base}}dagi qiymat",
+      "unrealized": "Amalga oshirilmagan",
+      "status": "Status",
+      "amount": "Miqdori",
+      "bookedRate": "Band qilingan tarif",
+      "realized": "Amalga oshirildi"
+    },
+    "receivable": "Debitorlik",
+    "payable": "To'lanadigan",
+    "receive": "Qabul qilish",
+    "pay": "To'lash",
+    "netIn": "{{base}} ichida tarmoq",
+    "state": {
+      "settled": "Oʻrnatildi",
+      "partial": "Qisman o'rnashgan",
+      "open": "Ochiq"
+    },
+    "demoNote": "Oʻrnatilgan soxta API’dan demo maʼlumotlari — narxlar jonli bozor maʼlumotlari emas, balki simulyatsiya qilingan."
+  }
+}

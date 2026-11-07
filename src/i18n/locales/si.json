@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "එදිනෙදා",
+      "finance": "මූල්ය",
+      "advanced": "උසස්"
+    },
+    "mainMenu": "ප්රධාන මෙනුව",
+    "short": {
+      "parties": "පක්ෂ"
+    },
+    "sections": {
+      "dashboard": "උපකරණ පුවරුව",
+      "sales": "විකුණුම්",
+      "receivables": "මුදල් ඇත",
+      "procurement": "මිලදී ගැනීම්",
+      "payables": "මුදල් පිටතට",
+      "cashbank": "මුදල් සහ බැංකුව",
+      "expenses": "වියදම්",
+      "tax": "බදු",
+      "reports": "වාර්තා",
+      "advanced-features": "උසස් විශේෂාංග",
+      "parties": "පාරිභෝගිකයින් සහ සැපයුම්කරුවන්",
+      "inventory": "අයිතම",
+      "assets": "ස්ථාවර වත්කම්",
+      "masters": "සැකසුම සහ වින්‍යාසය",
+      "business-tools": "කණ්ඩායම සහ මෙවලම්",
+      "party-tools": "උත්සව මෙවලම්",
+      "item-tools": "අයිතම මෙවලම්",
+      "storage": "ලේඛන",
+      "alerts": "ඇඟවීම්",
+      "migration": "දත්ත සංක්රමණය"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "දළ විශ්ලේෂණය",
+        "cash-flow": "මුදල් ප්රවාහය",
+        "tax-calendar": "බදු දින දර්ශනය"
+      },
+      "sales": {
+        "quotations": "උපුටා දැක්වීම්",
+        "proforma-invoices": "PI",
+        "sales-invoices": "ඉන්වොයිසිය",
+        "delivery-challans": "බෙදාහැරීමේ චලාන්",
+        "receipts": "රිසිට්පත",
+        "invoice-desk": "ඉන්වොයිස් මේසය"
+      },
+      "receivables": {
+        "money-in-center": "මධ්යස්ථානයේ මුදල්",
+        "receivables": "ලැබිය යුතු දේ",
+        "payments-received": "ලැබුණු ගෙවීම්",
+        "overdue-collections": "එකතු කිරීම් සහ මතක් කිරීම්",
+        "credit-notes": "ණය සටහන් සහ ආපසු ගෙවීම්",
+        "sales-returns": "විකුණුම් ප්රතිලාභ",
+        "customer-statements": "පාරිභෝගික ප්රකාශ",
+        "payment-links": "ගෙවීම් සබැඳි"
+      },
+      "procurement": {
+        "purchase-center": "මිලදී ගැනීමේ මධ්යස්ථානය",
+        "purchase-orders": "මිලදී ගැනීමේ ඇණවුම්",
+        "goods-receipt": "භාණ්ඩ රිසිට්පත",
+        "purchase-invoices": "ඉන්වොයිසි මිලදී ගන්න",
+        "payment-out": "ගෙවීම් සිදු කරන ලදී",
+        "returns-debit-notes": "ප්‍රතිලාභ සහ හර සටහන්",
+        "bill-approvals": "බිල්පත් අනුමත කිරීම්"
+      },
+      "payables": {
+        "bills": "ගෙවීම් මධ්යස්ථානය",
+        "payments": "සැපයුම්කරුගේ ගෙවීම්",
+        "workforce": "ශ්රම බලකාය",
+        "adjustments": "ගැලපීම්",
+        "bank-release": "බැංකු නිකුතුව"
+      },
+      "cashbank": {
+        "bank-accounts": "මගේ ගිණුම්",
+        "reconciliation": "ගැලපුම් ගණුදෙණු",
+        "cash-petty": "සුළු මුදල්",
+        "contra": "ගිණුම් අතර",
+        "cheque-register": "චෙක්පත්",
+        "foreign-currency": "විදේශ මුදල්",
+        "bank-feeds": "බැංකු සංග්රහ",
+        "bank-rules": "රීති සහ ප්‍රතිසන්ධානය"
+      },
+      "expenses": {
+        "expense-center": "සියලුම වියදම්",
+        "categories": "වියදම් වර්ග",
+        "automated-bills": "පුනරාවර්තන වියදම්",
+        "journal-vouchers": "අතින් ඇතුළත් කිරීම්",
+        "provisions": "උපචිත",
+        "write-offs": "කපා හැරීම්",
+        "period-close": "මාසය-අවසානය"
+      },
+      "tax": {
+        "gst-returns": "GST ගොනු කිරීම",
+        "gst-filing-wizard": "⚡ GSTR-3B ගොනු කරන්න",
+        "gst-reconciliation": "GST ගැලපීම",
+        "e-invoicing": "ඊ-ඉන්වොයිසි",
+        "e-way-bills": "ඊ-මාර්ග බිල්පත්",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "බදු ගෙවන්න",
+        "quarterly-compliance": "අනුකූලතා දින දර්ශනය",
+        "ca-access": "CA තාවකාලික ප්රවේශය",
+        "gst-from-books": "පොත් වලින් GST"
+      },
+      "reports": {
+        "financial-statements": "මූල්ය වාර්තා",
+        "books": "ගනුදෙනු පොත්",
+        "gst-reports": "GST වාර්තා",
+        "ar-ap": "ලැබිය යුතු දේ එදිරිව ගෙවිය යුතු දේ",
+        "profitability": "ලාභදායිත්වය",
+        "period-comparatives": "වසර සංසන්දනය",
+        "budget-vs-actuals": "අයවැය ට්රැකර්",
+        "cashflow-projection": "මුදල් පුරෝකථනය",
+        "report-builder": "අභිරුචි වාර්තා",
+        "general-ledger": "ජෙනරල් ලෙජර්",
+        "live-financials": "සජීවී මූල්ය",
+        "ai-analyst": "AI විශ්ලේෂක"
+      },
+      "advanced-features": {
+        "overview": "දළ විශ්ලේෂණය"
+      },
+      "parties": {
+        "all-parties": "සියලුම පක්ෂ",
+        "customer-ledgers": "පාරිභෝගිකයන්",
+        "supplier-ledgers": "සැපයුම්කරුවන්",
+        "shared-ledger": "හවුල් ලෙජරය",
+        "statements": "ප්රකාශයන්",
+        "reminders": "මතක් කිරීම්",
+        "documents": "පක්ෂ ලේඛන",
+        "portal": "පක්ෂ ද්වාරය",
+        "import": "පක්ෂ ආනයනය",
+        "duplicate-merge": "අනුපිටපත් ඒකාබද්ධ කිරීම",
+        "gap-analysis": "පරතරය විශ්ලේෂණය"
+      },
+      "inventory": {
+        "inventory-items": "අයිතම",
+        "godowns": "ගබඩා",
+        "stock-movement": "කොටස් ව්යාපාරය",
+        "item-pricing": "මිල නියම කිරීම",
+        "stock-valuation": "කොටස් තක්සේරුව",
+        "reorder-alerts": "ඇඟවීම් නැවත ඇණවුම් කරන්න",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "තීරු කේත ලේබල්",
+        "item-import": "අයිතම ආනයනය",
+        "gap-analysis": "පරතරය විශ්ලේෂණය"
+      },
+      "assets": {
+        "asset-register": "වත්කම් ලැයිස්තුව",
+        "depreciation": "ක්ෂය වීම",
+        "disposal-revaluation": "විකිණීම හෝ නැවත අගය කිරීම"
+      },
+      "masters": {
+        "chart-of-accounts": "ගිණුම් ලැයිස්තුව",
+        "tax-masters": "බදු අනුපාත",
+        "cost-centers": "පිරිවැය මධ්යස්ථාන",
+        "voucher-types": "ගනුදෙනු වර්ග",
+        "opening-balances": "ආරම්භක ශේෂයන්",
+        "currencies": "මුදල් වර්ග"
+      },
+      "business-tools": {
+        "staff-payroll": "වැටුප් ලේඛනය",
+        "manage-users": "පරිශීලක ප්රවේශය",
+        "online-orders": "මාර්ගගත ඇණවුම්",
+        "sms-marketing": "SMS අලෙවිකරණය",
+        "accountant-hub": "ගණකාධිකාරී සහ සහාය"
+      },
+      "party-tools": {
+        "documents": "පක්ෂ ලේඛන",
+        "portal": "පක්ෂ ද්වාරය",
+        "import": "පක්ෂ ආනයනය",
+        "duplicate-merge": "අනුපිටපත් ඒකාබද්ධ කිරීම",
+        "gap-analysis": "පරතරය විශ්ලේෂණය"
+      },
+      "item-tools": {
+        "reorder-alerts": "ඇඟවීම් නැවත ඇණවුම් කරන්න",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "තීරු කේත ලේබල්",
+        "item-import": "අයිතම ආනයනය",
+        "gap-analysis": "පරතරය විශ්ලේෂණය"
+      },
+      "storage": {
+        "client-storage": "සේවාලාභී ගොනු",
+        "unifiedtree-storage": "වලාකුළු ගබඩාව"
+      },
+      "alerts": {
+        "accountant-alerts": "ගණකාධිකාරී ඇඟවීම්",
+        "compliance-alerts": "අනුකූලතා ඇඟවීම්",
+        "cash-risk-alerts": "මුදල් සහ අවදානම් ඇඟවීම්",
+        "ca-access": "CA තාවකාලික ප්රවේශය"
+      },
+      "migration": {
+        "import": "දත්ත ආනයනය කරන්න",
+        "export": "දත්ත අපනයනය කරන්න",
+        "history": "ආයාත ඉතිහාසය",
+        "tally-import": "Tally & Zoho වෙතින් ආනයනය කරන්න"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "මිලදී ගැනීම් සහ ගෙවීම්",
+      "accountingSetup": "ගිණුම්කරණ සැකසුම",
+      "dataDocuments": "දත්ත සහ ලේඛන"
+    }
+  },
+  "common": {
+    "save": "වෙනස්කම් සුරකින්න",
+    "cancel": "අවලංගු කරන්න",
+    "create": "නිර්මාණය කරන්න",
+    "edit": "සංස්කරණය කරන්න",
+    "delete": "මකන්න",
+    "search": "සොයන්න",
+    "connect": "සම්බන්ධ කරන්න",
+    "configure": "වින්‍යාස කරන්න",
+    "disconnect": "විසන්ධි කරන්න",
+    "sync": "දැන් සමමුහුර්ත කරන්න",
+    "close": "වසන්න",
+    "reset": "පෙරනිමියට යළි පිහිටුවන්න",
+    "back": "ආපසු",
+    "continue": "දිගටම කරගෙන යන්න",
+    "all": "සියල්ල",
+    "retry": "නැවත උත්සාහ කරන්න",
+    "loading": "පූරණය වෙමින්...",
+    "resetDemo": "ආදර්ශන දත්ත යළි පිහිටුවන්න"
+  },
+  "shell": {
+    "searchPlaceholder": "ඕනෑම දෙයක් සොයන්න...",
+    "settings": "සැකසීම්",
+    "language": "භාෂාව",
+    "role": "භූමිකාව",
+    "greeting": {
+      "morning": "සුභ උදෑසනක්",
+      "afternoon": "සුභ සන්ධ්යාවක්",
+      "evening": "සුභ සන්ද්යාවක්"
+    },
+    "settingsItems": {
+      "company-profile": "සමාගම් පැතිකඩ",
+      "configuration": "මානකරනය",
+      "fiscal-periods": "මූල්ය කාලපරිච්ඡේද",
+      "roles": "භූමිකාවන් සහ පරිශීලකයින්",
+      "integrations": "ඒකාබද්ධ කිරීම්",
+      "notifications": "දැනුම්දීම්",
+      "audit-logs": "විගණනය සහ ලඝු-සටහන්",
+      "audit-trail": "විකෘති නොවන විගණන මංපෙත්",
+      "developer": "සංවර්ධක සහ API"
+    },
+    "translatedLanguages": "පරිවර්තනය කළා",
+    "untranslatedLanguages": "පරිවර්තනය කරන තුරු ඉංග්‍රීසි"
+  },
+  "status": {
+    "filed": "ගොනු කර ඇත",
+    "ready": "ගොනු කිරීමට සූදානම්",
+    "open": "කාල සීමාව විවෘතයි",
+    "paid": "ගෙවා ඇත",
+    "pending": "පොරොත්තුවෙන්",
+    "accepted": "පිළිගත්තා",
+    "delivered": "භාර දුන්නා",
+    "rejected": "ප්‍රතික්ෂේප කළා",
+    "pdf-sent": "PDF යවා ඇත",
+    "not-sent": "යවා නැත",
+    "matched": "ගැලපුනා",
+    "mismatch": "නොගැලපීම",
+    "missing-supplier": "සැපයුම්කරු විසින් වාර්තා කර නොමැත",
+    "missing-books": "පොත්වල අතුරුදහන්",
+    "deferred": "කල් දැම්මා",
+    "deducted": "අඩු කළා",
+    "remitted": "එවා ඇත",
+    "certified": "සහතික කර ඇත",
+    "to-report": "වාර්තා කිරීමට",
+    "reported": "වාර්තා කර ඇත",
+    "accounted": "ගිණුම්ගත කර ඇත",
+    "overdue": "කල් ඉකුත් වී ඇත"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ගොනු කිරීමට සූදානම්",
+      "liabilityDue": "ගෙවිය යුතු වගකීම",
+      "paidThisYear": "මේ වසරේ ගෙවා ඇත",
+      "nextDeadline": "ඊළඟ අවසාන දිනය",
+      "noneOverdue": "කිසිවක් කල් ඉකුත් වී නැත",
+      "overdue": "{{count}} ප්‍රමාදයි"
+    },
+    "filter": {
+      "ready": "ගොනු කිරීමට සූදානම්",
+      "open": "විවෘත කරන්න",
+      "filed": "ගොනු කර ඇත"
+    },
+    "col": {
+      "period": "කාලසීමාව",
+      "authority": "අධිකාරිය",
+      "rate": "අගය කරන්න",
+      "due": "නියමිතයි",
+      "netPayable": "ශුද්ධ ගෙවිය යුතුය",
+      "status": "තත්ත්වය",
+      "ack": "පිළිගැනීම"
+    },
+    "file": "ගොනුව",
+    "view": "බලන්න",
+    "fileForm": "ගොනුව {{form}}",
+    "loadingJurisdiction": "අධිකරණ බලය පූරණය කරමින්...",
+    "nothingToFile": "ප්‍රතිලාභ කිසිවක් ගොනු කිරීමට බලා නැත - සියලුම සංවෘත කාල පරිච්ඡේද ඉදිරිපත් කෙරේ.",
+    "fileNext": "ඊළඟ ගොනුව: {{name}}",
+    "steps": {
+      "review": "සමාලෝචනය කරන්න",
+      "validate": "වලංගු කරන්න",
+      "declare": "ප්රකාශ කර ඉදිරිපත් කරන්න",
+      "ack": "පිළිගැනීම"
+    },
+    "runValidation": "වලංගුකරණය ධාවනය කරන්න",
+    "validating": "වලංගු කරමින්...",
+    "submit": "{{form}} ඉදිරිපත් කරන්න",
+    "submitting": "ඉදිරිපත් කරමින්...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "ශුද්ධ මුදල",
+    "submitted": "ඉදිරිපත් කළා",
+    "filedOn": "ගොනු කර ඇත",
+    "regime": {
+      "authority": "අධිකාරිය",
+      "channel": "ගොනු කිරීමේ නාලිකාව",
+      "return": "ආපසු",
+      "due": "නියමිතයි",
+      "standardRate": "සම්මත අනුපාතය",
+      "threshold": "ලියාපදිංචි වීමේ සීමාව"
+    },
+    "demoNote": "බිල්ට් ආදර්ශ බදු API වෙතින් ආදර්ශන දත්ත - ගොනු කිරීම් සහ ගෙවීම් අනුකරණය කර ඇති අතර බදු අධිකාරියකට කිසිවක් යවන්නේ නැත."
+  },
+  "fx": {
+    "title": "විදේශ මුදල්",
+    "subtitle": "මූලික මුදල් {{base}} · දර්ශක ව්‍යාජ වෙළඳපොළ අනුපාත",
+    "newDoc": "නව FX ඉන්වොයිසිය / බිල්පත",
+    "kpi": {
+      "netExposure": "ශුද්ධ FX නිරාවරණය",
+      "openDocs": "{{count}} විවෘත ලේඛන",
+      "unrealized": "යථාර්ථවාදී නොවන ලාභ / පාඩු",
+      "postedSplit": "{{posted}} පළ කළා · {{unposted}} තවම නැහැ",
+      "realized": "මේ වසරේ අවබෝධ විය",
+      "lastReval": "අවසාන නැවත ඇගයීම",
+      "never": "කවදාවත් නැහැ",
+      "suggested": "යෝජිත: {{date}}"
+    },
+    "view": {
+      "open": "අයිතම විවෘත කරන්න",
+      "settled": "පදිංචි වුණා",
+      "revaluation": "මාසය අවසානයේ නැවත ඇගයීම",
+      "journal": "FX සඟරාව"
+    },
+    "col": {
+      "document": "ලේඛනය",
+      "type": "ටයිප් කරන්න",
+      "openForeign": "විවෘත (විදේශීය)",
+      "bookedNow": "වෙන්කර ඇත / දැන්",
+      "valueIn": "{{base}} හි අගය",
+      "unrealized": "අවබෝධ කර නොගත්",
+      "status": "තත්ත්වය",
+      "amount": "මුදල",
+      "bookedRate": "වෙන්කර ඇති ගාස්තුව",
+      "realized": "අවබෝධ කරගත්තා"
+    },
+    "receivable": "ලැබිය යුතු ය",
+    "payable": "ගෙවිය යුතු ය",
+    "receive": "ලබාගන්න",
+    "pay": "ගෙවන්න",
+    "netIn": "ශුද්ධ {{base}}",
+    "state": {
+      "settled": "පදිංචි වුණා",
+      "partial": "කොටසක් පදිංචි කර ඇත",
+      "open": "විවෘත කරන්න"
+    },
+    "demoNote": "බිල්ට්-ඉන් මොක් ඒපීඅයි වෙතින් ආදර්ශන දත්ත - අනුපාත අනුකරණය කර ඇත, සජීවී වෙළඳපල දත්ත නොවේ."
+  }
+}

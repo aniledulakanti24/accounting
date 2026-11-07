@@ -1,0 +1,22 @@
+{
+  "name": "UnifiedTree Accounting",
+  "short_name": "UnifiedTree",
+  "description": "Modern accounting for Indian businesses — GST, invoicing, payroll and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F6E56",
+  "theme_color": "#0F6E56",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["finance", "business", "productivity"],
+  "lang": "en-IN",
+  "dir": "ltr"
+}

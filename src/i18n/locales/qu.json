@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "P’unchawmanta P’unchawman",
+      "finance": "Wakiy",
+      "advanced": "Ñawparisqa"
+    },
+    "mainMenu": "Menú Principal nisqa",
+    "short": {
+      "parties": "Partidokuna"
+    },
+    "sections": {
+      "dashboard": "Tabla de mando",
+      "sales": "Qhatuy",
+      "receivables": "Qullqi In",
+      "procurement": "Rantinakuykuna",
+      "payables": "Qullqi Lluqsiy",
+      "cashbank": "Efectivo & Banco nisqa",
+      "expenses": "Gastokuna",
+      "tax": "Impuesto nisqa",
+      "reports": "Willakuykuna",
+      "advanced-features": "Ñawpaqman puriq ruwaykuna",
+      "parties": "Clientekuna & Proveedores nisqakuna",
+      "inventory": "Imakuna",
+      "assets": "Activos Fijos nisqa",
+      "masters": "Configuración & Configuración nisqa",
+      "business-tools": "Equipo & Herramientas",
+      "party-tools": "Fiestapaq Hiranakuna",
+      "item-tools": "Item Herramientakuna",
+      "storage": "Qillqakuna",
+      "alerts": "Alertakuna",
+      "migration": "Datos Migración nisqa"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Tukuy qhawariy",
+        "cash-flow": "Qullqipa puririynin",
+        "tax-calendar": "Calendario Impuesto nisqa"
+      },
+      "sales": {
+        "quotations": "Citas nisqakuna",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Factura",
+        "delivery-challans": "Challan de entrega",
+        "receipts": "Chaskiy",
+        "invoice-desk": "Factura nisqa mesa"
+      },
+      "receivables": {
+        "money-in-center": "Qullqi En Centro",
+        "receivables": "Chaskisqakuna",
+        "payments-received": "Pagokuna Chaskisqa",
+        "overdue-collections": "Huñusqakuna & Yuyarichiykuna",
+        "credit-notes": "Notas de Crédito & Reembolsos nisqa",
+        "sales-returns": "Qhatuy Kutichiykuna",
+        "customer-statements": "Clientekunaq Willakuyninkuna",
+        "payment-links": "Pago Enlaces"
+      },
+      "procurement": {
+        "purchase-center": "Rantinakuy Wasi",
+        "purchase-orders": "Rantinapaq Kamachiykuna",
+        "goods-receipt": "Bienes Recibo nisqa",
+        "purchase-invoices": "Rantinapaq Facturakuna",
+        "payment-out": "Pagokuna Ruwasqa",
+        "returns-debit-notes": "Devoluciones & Notas de Débito nisqa",
+        "bill-approvals": "Proyecto de Ley Aprobacionkuna"
+      },
+      "payables": {
+        "bills": "Pago Wasi",
+        "payments": "Proveedorpa Pagokuna",
+        "workforce": "Llank’aq kallpa",
+        "adjustments": "Ajustes nisqakuna",
+        "bank-release": "Bancomanta Kachariy"
+      },
+      "cashbank": {
+        "bank-accounts": "Cuentas nisqaykuna",
+        "reconciliation": "Transaccionkuna tupachiy",
+        "cash-petty": "Huch’uy Qolqe",
+        "contra": "Cuentas chawpipi",
+        "cheque-register": "Cheques",
+        "foreign-currency": "Hawa llaqtamanta Qullqi",
+        "bank-feeds": "Banco Mikhuykuna",
+        "bank-rules": "Kamachiykuna & Allipunachiy"
+      },
+      "expenses": {
+        "expense-center": "Tukuy Gastokuna",
+        "categories": "Tipos de Gastos nisqakuna",
+        "automated-bills": "Gastos Recurrentes nisqa",
+        "journal-vouchers": "Manual de Entradas",
+        "provisions": "Acumulaciones nisqakuna",
+        "write-offs": "Qillqasqakuna",
+        "period-close": "Killa-Tukukuy"
+      },
+      "tax": {
+        "gst-returns": "GST nisqamanta willakuy",
+        "gst-filing-wizard": "⚡ Archivo GSTR-3B nisqa",
+        "gst-reconciliation": "GST tupachiy",
+        "e-invoicing": "Facturas Electrónicas nisqakuna",
+        "e-way-bills": "E-Way nisqamanta Billes",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Impuesto pagay",
+        "quarterly-compliance": "Calendario de cumplimiento nisqa",
+        "ca-access": "CA Huk pachapaq Yaykuna",
+        "gst-from-books": "GST Librokunamanta"
+      },
+      "reports": {
+        "financial-statements": "Qullqimanta Willakuykuna",
+        "books": "Transacción Librokuna",
+        "gst-reports": "GST Willakuykuna",
+        "ar-ap": "Chaskikuna vs Pagokuna",
+        "profitability": "Ganancia nisqa",
+        "period-comparatives": "Wata Tupachiy",
+        "budget-vs-actuals": "Presupuesto nisqa qatiq",
+        "cashflow-projection": "Qullqimanta Willakuy",
+        "report-builder": "Sapanchasqa Willakuykuna",
+        "general-ledger": "Hatun Qillqa maytu",
+        "live-financials": "Kawsaq Qullqimanta",
+        "ai-analyst": "AI Analista"
+      },
+      "advanced-features": {
+        "overview": "Tukuy qhawariy"
+      },
+      "parties": {
+        "all-parties": "Llapan Partidokuna",
+        "customer-ledgers": "Clientekuna",
+        "supplier-ledgers": "Proveedores nisqakuna",
+        "shared-ledger": "Libro Mayor Compartido nisqa",
+        "statements": "Willakuykuna",
+        "reminders": "Yuyarichiykuna",
+        "documents": "Partido Documentokuna",
+        "portal": "Partido Portal nisqa",
+        "import": "Partidomanta apamuy",
+        "duplicate-merge": "Iskay kuti Huñuy",
+        "gap-analysis": "Análisis de Gap nisqa"
+      },
+      "inventory": {
+        "inventory-items": "Imakuna",
+        "godowns": "Almacenes nisqakuna",
+        "stock-movement": "Stock Kuyuy",
+        "item-pricing": "Preciokuna churay",
+        "stock-valuation": "Stock Chaninchay",
+        "reorder-alerts": "Alertakuna musuqmanta kamachiy",
+        "batch-serials": "Lote & Serial nisqa",
+        "barcode-labels": "Etiquetas de Código de Barras",
+        "item-import": "Artículo Importación",
+        "gap-analysis": "Análisis de Gap nisqa"
+      },
+      "assets": {
+        "asset-register": "Lista de Activos nisqa",
+        "depreciation": "Depreciación nisqa",
+        "disposal-revaluation": "Vende o Revalor"
+      },
+      "masters": {
+        "chart-of-accounts": "Lista de Cuentas nisqa",
+        "tax-masters": "Tasas Impuestos nisqa",
+        "cost-centers": "Costo Centros nisqakuna",
+        "voucher-types": "Tipos de Transacción nisqakuna",
+        "opening-balances": "Saldos de Qallariy",
+        "currencies": "Qullqikuna"
+      },
+      "business-tools": {
+        "staff-payroll": "Nómina nisqa",
+        "manage-users": "Usuarioman Yaykuna",
+        "online-orders": "Internetpi Pedidokuna",
+        "sms-marketing": "SMS Marketing nisqa qhatuy",
+        "accountant-hub": "Contadores & Yanapakuy"
+      },
+      "party-tools": {
+        "documents": "Partido Documentokuna",
+        "portal": "Partido Portal nisqa",
+        "import": "Partidomanta apamuy",
+        "duplicate-merge": "Iskay kuti Huñuy",
+        "gap-analysis": "Análisis de Gap nisqa"
+      },
+      "item-tools": {
+        "reorder-alerts": "Alertakuna musuqmanta kamachiy",
+        "batch-serials": "Lote & Serial nisqa",
+        "barcode-labels": "Etiquetas de Código de Barras",
+        "item-import": "Artículo Importación",
+        "gap-analysis": "Análisis de Gap nisqa"
+      },
+      "storage": {
+        "client-storage": "Cliente Archivokuna",
+        "unifiedtree-storage": "Puyu Waqaychay"
+      },
+      "alerts": {
+        "accountant-alerts": "Contadorpa Alertakuna",
+        "compliance-alerts": "Alertas de cumplimiento nisqa",
+        "cash-risk-alerts": "Alertas de Efectivo & Riesgo nisqamanta",
+        "ca-access": "CA Huk pachapaq Yaykuna"
+      },
+      "migration": {
+        "import": "Willayta apamuy",
+        "export": "Willayta hawaman apachiy",
+        "history": "Importación nisqamanta willakuy",
+        "tally-import": "Tally & Zoho nisqamanta apamuy"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Rantinakuy & Pagokuna",
+      "accountingSetup": "Contabilidad nisqa churay",
+      "dataDocuments": "Datos & Documentos nisqakuna"
+    }
+  },
+  "common": {
+    "save": "Waqaychay Tikraykunata",
+    "cancel": "Sayachiy",
+    "create": "Paqarichiy",
+    "edit": "Ruwapay",
+    "delete": "Chinkachiy",
+    "search": "Maskay",
+    "connect": "Tinkichiy",
+    "configure": "Configurar nisqa",
+    "disconnect": "T’aqanakuy",
+    "sync": "Kunan sincronización",
+    "close": "Wichqay",
+    "reset": "Defaults nisqaman kutichiy",
+    "back": "Qipaman",
+    "continue": "Qatiq",
+    "all": "Llapan",
+    "retry": "Wakmanta kallpachakuy",
+    "loading": "Cargando...",
+    "resetDemo": "Demo nisqa willakuykunata musuqmanta churay"
+  },
+  "shell": {
+    "searchPlaceholder": "Imatapas maskay...",
+    "settings": "Ajustes nisqa",
+    "language": "Simi",
+    "role": "Papel",
+    "greeting": {
+      "morning": "Rimaykullayki",
+      "afternoon": "Rimaykullayki",
+      "evening": "Rimaykullayki"
+    },
+    "settingsItems": {
+      "company-profile": "Perfil de Empresa",
+      "configuration": "Configuración nisqa",
+      "fiscal-periods": "Periodos Fiscales nisqa",
+      "roles": "Roles & Usuariokuna",
+      "integrations": "Integraciones nisqakuna",
+      "notifications": "Willakuykuna",
+      "audit-logs": "Auditoría & Registrokuna",
+      "audit-trail": "Rastro de Auditoría a prueba de manipulación",
+      "developer": "Paqarichiq & API"
+    },
+    "translatedLanguages": "T’ikrasqa",
+    "untranslatedLanguages": "Inglés simipi tikrasqa kanankama"
+  },
+  "status": {
+    "filed": "Archivado",
+    "ready": "Archivopaq listoñam kachkan",
+    "open": "Periodo kichasqa",
+    "paid": "Huntachisqa",
+    "pending": "Kaqraq",
+    "accepted": "Chaskisqa",
+    "delivered": "Qusqa",
+    "rejected": "Rechazasqa",
+    "pdf-sent": "PDF apachisqa",
+    "not-sent": "Mana kachasqachu",
+    "matched": "Tupachisqa",
+    "mismatch": "Mana tupachiy",
+    "missing-supplier": "Mana suministradorpa willasqan",
+    "missing-books": "Librokunapi faltasqa",
+    "deferred": "Diferido nisqa",
+    "deducted": "Deducido",
+    "remitted": "Remitisqa",
+    "certified": "Certificado nisqa",
+    "to-report": "Willanapaq",
+    "reported": "Willakusqa",
+    "accounted": "Contabilidad nisqa",
+    "overdue": "Vencido"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Archivopaq listoñam kachkan",
+      "liabilityDue": "Responsabilidad debido nisqa",
+      "paidThisYear": "Kay wata pagasqa",
+      "nextDeadline": "Qatiqnin p’unchaw tukukuy",
+      "noneOverdue": "Mana mayqinpas vencidochu",
+      "overdue": "{{count}} unayña"
+    },
+    "filter": {
+      "ready": "Archivopaq listoñam kachkan",
+      "open": "Kichasqa",
+      "filed": "Archivado"
+    },
+    "col": {
+      "period": "Imay pacha",
+      "authority": "Kamachiq",
+      "rate": "Akllariy",
+      "due": "Huntachina",
+      "netPayable": "Neto paganapaq",
+      "status": "Imayna kaynin",
+      "ack": "Riqsichikuy"
+    },
+    "file": "Kipu",
+    "view": "Qaway",
+    "fileForm": "Willañiqi {{form}}.",
+    "loadingJurisdiction": "Jurisdicción nisqapi cargakuchkan...",
+    "nothingToFile": "Mana kutichiykuna suyachkankuchu ruwasqa kananta — llapa wichqasqa pachakuna apachisqa kanku.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Qawapay",
+      "validate": "Validay",
+      "declare": "Declarar & enviar",
+      "ack": "Riqsichikuy"
+    },
+    "runValidation": "Validacionta purichiy",
+    "validating": "Validando...",
+    "submit": "Submit {{form}}",
+    "submitting": "Enviar...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Cantidad neto nisqa",
+    "submitted": "Enviado",
+    "filedOn": "Archivado en",
+    "regime": {
+      "authority": "Kamachiq",
+      "channel": "Kanal de archivación",
+      "return": "Kutichiy",
+      "due": "Huntachina",
+      "standardRate": "Tarifa estándar nisqa",
+      "threshold": "Umbral de inscripción nisqa"
+    },
+    "demoNote": "Demo willayta ruwasqa simulacro impuesto API kaqmanta — presentaciones chaymanta qullqi quy simulasqa kanku chaymanta mana imapas huk impuesto kamachiqman apachisqachu."
+  },
+  "fx": {
+    "title": "Hawa llaqtamanta Qullqi",
+    "subtitle": "Base qullqi {{base}} · rikuchiq simulacro qhatu tarifakuna",
+    "newDoc": "Musuq FX factura / factura",
+    "kpi": {
+      "netExposure": "Exposición FX neta nisqa",
+      "openDocs": "{{count}} qillqakunata kichay",
+      "unrealized": "Mana reparasqa ganancia / perdida",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Kay wata reparasqa",
+      "lastReval": "Qhipa kaq musuqmanta chaninchasqa",
+      "never": "Mana haykaqpas",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Imakunatapas kichay",
+      "settled": "Allpasqa",
+      "revaluation": "Killa tukukuypi musuqmanta chaninchasqa",
+      "journal": "FX revista"
+    },
+    "col": {
+      "document": "Qillqa willakuq",
+      "type": "Niraq",
+      "openForeign": "Kichasqa (hawa llaqtamanta) .",
+      "bookedNow": "Reservado / kunan",
+      "valueIn": "{{base}} nisqapi chaniyuq.",
+      "unrealized": "Mana reparasqa",
+      "status": "Imayna kaynin",
+      "amount": "Chanin",
+      "bookedRate": "Tarifa reservado",
+      "realized": "Ruwasqa"
+    },
+    "receivable": "Chaskisqa",
+    "payable": "Pagasqa",
+    "receive": "Chaskiy",
+    "pay": "Payllay",
+    "netIn": "{{base}} nisqapi llika.",
+    "state": {
+      "settled": "Allpasqa",
+      "partial": "Parte-asentrado",
+      "open": "Kichasqa"
+    },
+    "demoNote": "Demo willayta ruwasqa simulado API kaqmanta — tarifakuna simulasqa kanku, mana kawsaq qhatu willaykunamantachu."
+  }
+}

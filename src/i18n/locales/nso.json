@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Letšatši le Letšatši",
+      "finance": "Matlotlo",
+      "advanced": "Gatetšego pele"
+    },
+    "mainMenu": "Menu e Kgolo",
+    "short": {
+      "parties": "Mekgatlo"
+    },
+    "sections": {
+      "dashboard": "Dashboard ya",
+      "sales": "Thekiso ya",
+      "receivables": "Tšhelete Ka",
+      "procurement": "Ditheko tša go reka",
+      "payables": "Tšhelete e Tšwa",
+      "cashbank": "Tšhelete & Panka",
+      "expenses": "Ditshenyegelo",
+      "tax": "Motšhelo",
+      "reports": "Dipego",
+      "advanced-features": "Dikarolo tša Maemo a Godimo",
+      "parties": "Bareki & Baabi",
+      "inventory": "Diaetheme",
+      "assets": "Matlotlo a sa fetogego",
+      "masters": "Setup & Peakanyo",
+      "business-tools": "Sehlopha & Didirišwa",
+      "party-tools": "Didirišwa tša Monyanya",
+      "item-tools": "Didirišwa tša Ntlha",
+      "storage": "Ditokomane",
+      "alerts": "Ditemošo",
+      "migration": "Khudugo ya Datha"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Kakaretšo",
+        "cash-flow": "Phallo ya Tšhelete",
+        "tax-calendar": "Tšhupamabaka ya Motšhelo"
+      },
+      "sales": {
+        "quotations": "Ditsopolwa",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Lenanetheko",
+        "delivery-challans": "Challan ya go romelwa",
+        "receipts": "Kamogelo",
+        "invoice-desk": "Tafola ya Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Tšhelete Ka Setsi",
+        "receivables": "Dilo tšeo di amogelwago",
+        "payments-received": "Ditefo tše di Amogetšwego",
+        "overdue-collections": "Dikgoboketšo & Dikgopotšo",
+        "credit-notes": "Dintlha tša Mokitlana & Dipušetšo",
+        "sales-returns": "Dipoelo tša Thekišo",
+        "customer-statements": "Dipolelo tša Badiriši",
+        "payment-links": "Dikgokagano tša Tefo"
+      },
+      "procurement": {
+        "purchase-center": "Setsi sa Theko",
+        "purchase-orders": "Ditaelo tša go Reka",
+        "goods-receipt": "Rasiti ya Dithoto",
+        "purchase-invoices": "Di-Invoice tša go Reka",
+        "payment-out": "Ditefo tše di Dirilwego",
+        "returns-debit-notes": "Dipušetšo & Dintlha tša Debit",
+        "bill-approvals": "Ditumelelo tša Molaokakanywa"
+      },
+      "payables": {
+        "bills": "Setsi sa Lefa",
+        "payments": "Ditefo tša Moabi",
+        "workforce": "Bašomi ba bašomi",
+        "adjustments": "Dipeakanyo",
+        "bank-release": "Tokollo ya Panka"
+      },
+      "cashbank": {
+        "bank-accounts": "Diakhaonto tša ka",
+        "reconciliation": "Dikgwebišano tša go Bapetša",
+        "cash-petty": "Tšhelete e Nnyane",
+        "contra": "Magareng ga Diakhaonto",
+        "cheque-register": "Ditšheke",
+        "foreign-currency": "Tšhelete ya Dinaga tša ka Ntle",
+        "bank-feeds": "Diphepo tša Panka",
+        "bank-rules": "Melawana & Poelano"
+      },
+      "expenses": {
+        "expense-center": "Ditshenyagalelo ka Moka",
+        "categories": "Mehuta ya Ditshenyagalelo",
+        "automated-bills": "Ditshenyagalelo tše di ipoeletšago",
+        "journal-vouchers": "Dikenyo tša Pukwanana",
+        "provisions": "Dikgoboketšo",
+        "write-offs": "Dingwalwa tša go phumolwa",
+        "period-close": "Kgwedi-Mafelelo"
+      },
+      "tax": {
+        "gst-returns": "Go Faela ga GST",
+        "gst-filing-wizard": "⚡ Faele ya GSTR-3B",
+        "gst-reconciliation": "Go Bapetša ga GST",
+        "e-invoicing": "Di-Invoice tša E-Invoice",
+        "e-way-bills": "Dibili tša E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Lefa Motšhelo",
+        "quarterly-compliance": "Tšhupamabaka ya Kobamelo",
+        "ca-access": "CA Phihlelelo ya Nakoana",
+        "gst-from-books": "GST go tšwa go Dipuku"
+      },
+      "reports": {
+        "financial-statements": "Dipego tša Ditšhelete",
+        "books": "Dipuku tša Kgwebišano",
+        "gst-reports": "Dipego tša GST",
+        "ar-ap": "Dikoloto vs Ditefo",
+        "profitability": "Go dira poelo",
+        "period-comparatives": "Papiso ya Ngwaga",
+        "budget-vs-actuals": "Molatediši wa Ditekanyetšo",
+        "cashflow-projection": "Ponelopele ya Tšhelete",
+        "report-builder": "Dipego tša Tlwaelo",
+        "general-ledger": "Ledger ya Kakaretšo",
+        "live-financials": "Ditšhelete tše di Phelago",
+        "ai-analyst": "Mosekaseki wa AI"
+      },
+      "advanced-features": {
+        "overview": "Kakaretšo"
+      },
+      "parties": {
+        "all-parties": "Mekgatlo ka moka",
+        "customer-ledgers": "Bareki",
+        "supplier-ledgers": "Baabi ba dilo",
+        "shared-ledger": "Ledger ye e abelanwago",
+        "statements": "Dipolelo",
+        "reminders": "Dikgopotšo",
+        "documents": "Ditokomane tša Mokgatlo",
+        "portal": "Kgoro ya Mokga",
+        "import": "Go Tsenya ka Ntle ga Mokgatlo",
+        "duplicate-merge": "Kopanyo ya Phetolelo",
+        "gap-analysis": "Tshekatsheko ya Sekgoba"
+      },
+      "inventory": {
+        "inventory-items": "Diaetheme",
+        "godowns": "Mafelo a polokelo",
+        "stock-movement": "Mokgatlo wa Setoko",
+        "item-pricing": "Theko ya go beakanya",
+        "stock-valuation": "Tekanyetšo ya Setoko",
+        "reorder-alerts": "Ditemošo tša go Laela gape",
+        "batch-serials": "Sehlopha & Seriale",
+        "barcode-labels": "Dileibole tša Barcode",
+        "item-import": "Go Tsenya ka Ntle ga Ntho",
+        "gap-analysis": "Tshekatsheko ya Sekgoba"
+      },
+      "assets": {
+        "asset-register": "Lenaneo la Matlotlo",
+        "depreciation": "Go fokotšega ga boleng",
+        "disposal-revaluation": "Rekiša goba Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Lenaneo la Diakhaonto",
+        "tax-masters": "Ditekanyetšo tša Motšhelo",
+        "cost-centers": "Disenthara tša Ditshenyagalelo",
+        "voucher-types": "Mehuta ya Kgwebišano",
+        "opening-balances": "Ditekanyetšo tša go Thoma",
+        "currencies": "Ditšhelete"
+      },
+      "business-tools": {
+        "staff-payroll": "Lenaneo la megolo",
+        "manage-users": "Phihlelelo ya Modiriši",
+        "online-orders": "Ditaelo tša Inthaneteng",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Diakhaontente & Thekgo"
+      },
+      "party-tools": {
+        "documents": "Ditokomane tša Mokgatlo",
+        "portal": "Kgoro ya Mokga",
+        "import": "Go Tsenya ka Ntle ga Mokgatlo",
+        "duplicate-merge": "Kopanyo ya Phetolelo",
+        "gap-analysis": "Tshekatsheko ya Sekgoba"
+      },
+      "item-tools": {
+        "reorder-alerts": "Ditemošo tša go Laela gape",
+        "batch-serials": "Sehlopha & Seriale",
+        "barcode-labels": "Dileibole tša Barcode",
+        "item-import": "Go Tsenya ka Ntle ga Ntho",
+        "gap-analysis": "Tshekatsheko ya Sekgoba"
+      },
+      "storage": {
+        "client-storage": "Difaele tša Moreki",
+        "unifiedtree-storage": "Polokelo ya Leru"
+      },
+      "alerts": {
+        "accountant-alerts": "Ditemošo tša Moakhaontente",
+        "compliance-alerts": "Ditemošo tša Kobamelo",
+        "cash-risk-alerts": "Ditemošo tša Tšhelete & Kotsi",
+        "ca-access": "CA Phihlelelo ya Nakoana"
+      },
+      "migration": {
+        "import": "Datha ya go Tsenya ka Ntle",
+        "export": "Romelantle Datha",
+        "history": "Histori ya go Tsenya ka Ntle",
+        "tally-import": "Import go tšwa go Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ditheko & Ditefo",
+      "accountingSetup": "Setup ya Diakhaonto",
+      "dataDocuments": "Datha & Ditokomane"
+    }
+  },
+  "common": {
+    "save": "Boloka Diphetogo",
+    "cancel": "Khansela",
+    "create": "Hlama",
+    "edit": "Rulaganya",
+    "delete": "Phumola",
+    "search": "Nyaka",
+    "connect": "Kopanya",
+    "configure": "Beakanya",
+    "disconnect": "Kgaola kgokagano",
+    "sync": "Nyalantšha Bjale",
+    "close": "Tswalela",
+    "reset": "Seta gape go Dilo tše di Tlwaelegilego",
+    "back": "Morago",
+    "continue": "Tšwela pele",
+    "all": "Ka moka",
+    "retry": "Leka gape",
+    "loading": "Loading...",
+    "resetDemo": "Reset ya data demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Batla selo se sengwe le se sengwe...",
+    "settings": "Dipeakanyo",
+    "language": "Polelo",
+    "role": "Tema",
+    "greeting": {
+      "morning": "Thobela",
+      "afternoon": "Thobela",
+      "evening": "Thobela"
+    },
+    "settingsItems": {
+      "company-profile": "Profaele ya Khamphani",
+      "configuration": "Peakanyo ya",
+      "fiscal-periods": "Dinako tša Ditšhelete",
+      "roles": "Dikarolo & Badiriši",
+      "integrations": "Dikopanyo tša go kopanywa",
+      "notifications": "Ditsebišo",
+      "audit-logs": "Bohlahlobi & Dilog",
+      "audit-trail": "Tamper-bopaki Audit Trail",
+      "developer": "Mohlami & API"
+    },
+    "translatedLanguages": "E fetoletšwe",
+    "untranslatedLanguages": "Sepedi go fihlela se fetolelwa"
+  },
+  "status": {
+    "filed": "E ile ya faelwa",
+    "ready": "E loketše go faela",
+    "open": "Nako e bulegile",
+    "paid": "Lefetše",
+    "pending": "Letetšwe",
+    "accepted": "E amogetšwe",
+    "delivered": "Rometšwe",
+    "rejected": "E gannwe",
+    "pdf-sent": "PDF e rometšwe",
+    "not-sent": "Ga se ya romelwa",
+    "matched": "Go swana",
+    "mismatch": "Go se swane",
+    "missing-supplier": "Ga se ya begwa ke moabi",
+    "missing-books": "Go hlaela ka dipukung",
+    "deferred": "E diegišitšwe",
+    "deducted": "E gogilwe",
+    "remitted": "E rometšwe",
+    "certified": "E netefaditšwe",
+    "to-report": "Go bega",
+    "reported": "Go begilwe",
+    "accounted": "Go ba le diakhaonto",
+    "overdue": "E fetilwe ke nako"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "E loketše go faela",
+      "liabilityDue": "Boikarabelo bjo bo swanetšego go lefelwa",
+      "paidThisYear": "E lefilwe ngwageng wo",
+      "nextDeadline": "Letšatšikgwedi le le latelago la mafelelo",
+      "noneOverdue": "Ga go le e tee yeo e fetilwego ke nako",
+      "overdue": "{{count}} e fetilwe ke nako"
+    },
+    "filter": {
+      "ready": "E loketše go faela",
+      "open": "Bula",
+      "filed": "E ile ya faelwa"
+    },
+    "col": {
+      "period": "Paka",
+      "authority": "Taolo",
+      "rate": "Kelo",
+      "due": "Kolotwago",
+      "netPayable": "Nete ​​e lefelwago",
+      "status": "Maemo",
+      "ack": "Go leboga"
+    },
+    "file": "Faele",
+    "view": "Bogela",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Loading matla a taolo...",
+    "nothingToFile": "Ga go na dipušetšo tšeo di emetšego go faelwa — dinako ka moka tše di tswaletšwego di romelwa.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Lekodišiša",
+      "validate": "Netefatša",
+      "declare": "Tsebiša & romela",
+      "ack": "Go leboga"
+    },
+    "runValidation": "Matha netefatšo",
+    "validating": "Go netefatša...",
+    "submit": "Submit {{form}}",
+    "submitting": "Go romela...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Palo ya nete",
+    "submitted": "E rometšwe",
+    "filedOn": "Filed ka",
+    "regime": {
+      "authority": "Taolo",
+      "channel": "Go faela mokero",
+      "return": "Boa",
+      "due": "Kolotwago",
+      "standardRate": "Sekhahla sa maemo",
+      "threshold": "Moedi wa ngwadišo"
+    },
+    "demoNote": "Demo ya data ho tloha hahiloeng-ka mock mokgetho API - difaele le ditefello ba etsisa le ha ho letho e romelwa ho bolaodi ba lekgetho."
+  },
+  "fx": {
+    "title": "Tšhelete ya Dinaga tša ka Ntle",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "New FX invoice / bili",
+    "kpi": {
+      "netExposure": "Net FX kgahlamelo ya maqhubu a",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Poelo / tahlegelo yeo e sa lemogwego",
+      "postedSplit": "{{posted}} e rometšwe · {{unposted}} ga se ya hlwa e rometšwe",
+      "realized": "E lemogilwe ngwageng wo",
+      "lastReval": "Tekolo gape ya mafelelo",
+      "never": "Le gatee",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Bula dilo",
+      "settled": "E dutše",
+      "revaluation": "Tekolo ya bofelo bja kgwedi",
+      "journal": "FX jenale ya"
+    },
+    "col": {
+      "document": "Tokumente",
+      "type": "Mohuta",
+      "openForeign": "Bula (ya dinaga dišele) .",
+      "bookedNow": "Booked / bjale",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "E sa lemogwego",
+      "status": "Maemo",
+      "amount": "Palo",
+      "bookedRate": "Booked sekhahla",
+      "realized": "Lemogilego"
+    },
+    "receivable": "Se se amogelwago",
+    "payable": "E lefelwago",
+    "receive": "Amogela",
+    "pay": "Lefa",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "E dutše",
+      "partial": "Karolo-e rarolotšwe",
+      "open": "Bula"
+    },
+    "demoNote": "Demo ya data ho tloha hahiloeng-ka mock API - ditefello ba etsisa, eseng phela marakeng ya data."
+  }
+}

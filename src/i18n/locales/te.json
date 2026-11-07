@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "రోజువారీ",
+      "finance": "ఫైనాన్స్",
+      "advanced": "అధునాతనమైనది"
+    },
+    "mainMenu": "ప్రధాన మెనూ",
+    "short": {
+      "parties": "పార్టీలు"
+    },
+    "sections": {
+      "dashboard": "డాష్‌బోర్డ్",
+      "sales": "అమ్మకాలు",
+      "receivables": "మనీ ఇన్",
+      "procurement": "కొనుగోళ్లు",
+      "payables": "డబ్బు ముగిసింది",
+      "cashbank": "నగదు & బ్యాంక్",
+      "expenses": "ఖర్చులు",
+      "tax": "పన్ను",
+      "reports": "నివేదికలు",
+      "advanced-features": "అధునాతన ఫీచర్లు",
+      "parties": "కస్టమర్‌లు & సరఫరాదారులు",
+      "inventory": "వస్తువులు",
+      "assets": "స్థిర ఆస్తులు",
+      "masters": "సెటప్ & కాన్ఫిగరేషన్",
+      "business-tools": "బృందం & సాధనాలు",
+      "party-tools": "పార్టీ సాధనాలు",
+      "item-tools": "అంశం సాధనాలు",
+      "storage": "పత్రాలు",
+      "alerts": "హెచ్చరికలు",
+      "migration": "డేటా మైగ్రేషన్"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "అవలోకనం",
+        "cash-flow": "నగదు ప్రవాహం",
+        "tax-calendar": "పన్ను క్యాలెండర్"
+      },
+      "sales": {
+        "quotations": "కొటేషన్లు",
+        "proforma-invoices": "PI",
+        "sales-invoices": "ఇన్వాయిస్",
+        "delivery-challans": "డెలివరీ చలాన్",
+        "receipts": "రసీదు",
+        "invoice-desk": "ఇన్వాయిస్ డెస్క్"
+      },
+      "receivables": {
+        "money-in-center": "కేంద్రంలో డబ్బు",
+        "receivables": "స్వీకరించదగినవి",
+        "payments-received": "చెల్లింపులు స్వీకరించబడ్డాయి",
+        "overdue-collections": "సేకరణలు & రిమైండర్‌లు",
+        "credit-notes": "క్రెడిట్ నోట్స్ & రీఫండ్‌లు",
+        "sales-returns": "సేల్స్ రిటర్న్స్",
+        "customer-statements": "కస్టమర్ స్టేట్‌మెంట్‌లు",
+        "payment-links": "చెల్లింపు లింక్‌లు"
+      },
+      "procurement": {
+        "purchase-center": "కొనుగోలు కేంద్రం",
+        "purchase-orders": "కొనుగోలు ఆర్డర్లు",
+        "goods-receipt": "వస్తువుల రసీదు",
+        "purchase-invoices": "ఇన్‌వాయిస్‌లను కొనుగోలు చేయండి",
+        "payment-out": "చెల్లింపులు చేశారు",
+        "returns-debit-notes": "రిటర్న్స్ & డెబిట్ నోట్స్",
+        "bill-approvals": "బిల్లు ఆమోదాలు"
+      },
+      "payables": {
+        "bills": "చెల్లింపు కేంద్రం",
+        "payments": "సరఫరాదారు చెల్లింపులు",
+        "workforce": "శ్రామికశక్తి",
+        "adjustments": "సర్దుబాట్లు",
+        "bank-release": "బ్యాంక్ విడుదల"
+      },
+      "cashbank": {
+        "bank-accounts": "నా ఖాతాలు",
+        "reconciliation": "లావాదేవీలను సరిపోల్చండి",
+        "cash-petty": "చిన్న నగదు",
+        "contra": "ఖాతాల మధ్య",
+        "cheque-register": "తనిఖీలు",
+        "foreign-currency": "విదేశీ కరెన్సీ",
+        "bank-feeds": "బ్యాంక్ ఫీడ్‌లు",
+        "bank-rules": "నియమాలు & సయోధ్య"
+      },
+      "expenses": {
+        "expense-center": "అన్ని ఖర్చులు",
+        "categories": "ఖర్చు రకాలు",
+        "automated-bills": "పునరావృత ఖర్చులు",
+        "journal-vouchers": "మాన్యువల్ ఎంట్రీలు",
+        "provisions": "సంపాదన",
+        "write-offs": "రైట్-ఆఫ్‌లు",
+        "period-close": "నెల-చివరి"
+      },
+      "tax": {
+        "gst-returns": "GST ఫైలింగ్",
+        "gst-filing-wizard": "⚡ GSTR-3Bని ఫైల్ చేయండి",
+        "gst-reconciliation": "GST సరిపోలిక",
+        "e-invoicing": "ఇ-ఇన్‌వాయిస్‌లు",
+        "e-way-bills": "ఇ-వే బిల్లులు",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "పన్ను చెల్లించండి",
+        "quarterly-compliance": "వర్తింపు క్యాలెండర్",
+        "ca-access": "CA తాత్కాలిక యాక్సెస్",
+        "gst-from-books": "పుస్తకాల నుండి GST"
+      },
+      "reports": {
+        "financial-statements": "ఆర్థిక నివేదికలు",
+        "books": "లావాదేవీ పుస్తకాలు",
+        "gst-reports": "GST నివేదికలు",
+        "ar-ap": "స్వీకరించదగినవి vs చెల్లించవలసినవి",
+        "profitability": "లాభదాయకత",
+        "period-comparatives": "సంవత్సరం పోలిక",
+        "budget-vs-actuals": "బడ్జెట్ ట్రాకర్",
+        "cashflow-projection": "నగదు సూచన",
+        "report-builder": "అనుకూల నివేదికలు",
+        "general-ledger": "జనరల్ లెడ్జర్",
+        "live-financials": "లైవ్ ఫైనాన్షియల్స్",
+        "ai-analyst": "AI విశ్లేషకుడు"
+      },
+      "advanced-features": {
+        "overview": "అవలోకనం"
+      },
+      "parties": {
+        "all-parties": "అన్ని పార్టీలు",
+        "customer-ledgers": "వినియోగదారులు",
+        "supplier-ledgers": "సరఫరాదారులు",
+        "shared-ledger": "షేర్డ్ లెడ్జర్",
+        "statements": "ప్రకటనలు",
+        "reminders": "రిమైండర్‌లు",
+        "documents": "పార్టీ పత్రాలు",
+        "portal": "పార్టీ పోర్టల్",
+        "import": "పార్టీ దిగుమతి",
+        "duplicate-merge": "నకిలీ విలీనం",
+        "gap-analysis": "గ్యాప్ విశ్లేషణ"
+      },
+      "inventory": {
+        "inventory-items": "వస్తువులు",
+        "godowns": "గిడ్డంగులు",
+        "stock-movement": "స్టాక్ ఉద్యమం",
+        "item-pricing": "ధర నిర్ణయించడం",
+        "stock-valuation": "స్టాక్ వాల్యుయేషన్",
+        "reorder-alerts": "హెచ్చరికలను మళ్లీ క్రమం చేయండి",
+        "batch-serials": "బ్యాచ్ & సీరియల్",
+        "barcode-labels": "బార్‌కోడ్ లేబుల్‌లు",
+        "item-import": "వస్తువు దిగుమతి",
+        "gap-analysis": "గ్యాప్ విశ్లేషణ"
+      },
+      "assets": {
+        "asset-register": "ఆస్తి జాబితా",
+        "depreciation": "తరుగుదల",
+        "disposal-revaluation": "అమ్మండి లేదా రీవాల్యూ చేయండి"
+      },
+      "masters": {
+        "chart-of-accounts": "ఖాతాల జాబితా",
+        "tax-masters": "పన్ను రేట్లు",
+        "cost-centers": "ఖర్చు కేంద్రాలు",
+        "voucher-types": "లావాదేవీ రకాలు",
+        "opening-balances": "బ్యాలెన్స్‌లను ప్రారంభించడం",
+        "currencies": "కరెన్సీలు"
+      },
+      "business-tools": {
+        "staff-payroll": "పేరోల్",
+        "manage-users": "వినియోగదారు యాక్సెస్",
+        "online-orders": "ఆన్‌లైన్ ఆర్డర్‌లు",
+        "sms-marketing": "SMS మార్కెటింగ్",
+        "accountant-hub": "అకౌంటెంట్స్ & సపోర్ట్"
+      },
+      "party-tools": {
+        "documents": "పార్టీ పత్రాలు",
+        "portal": "పార్టీ పోర్టల్",
+        "import": "పార్టీ దిగుమతి",
+        "duplicate-merge": "నకిలీ విలీనం",
+        "gap-analysis": "గ్యాప్ విశ్లేషణ"
+      },
+      "item-tools": {
+        "reorder-alerts": "హెచ్చరికలను మళ్లీ క్రమం చేయండి",
+        "batch-serials": "బ్యాచ్ & సీరియల్",
+        "barcode-labels": "బార్‌కోడ్ లేబుల్‌లు",
+        "item-import": "వస్తువు దిగుమతి",
+        "gap-analysis": "గ్యాప్ విశ్లేషణ"
+      },
+      "storage": {
+        "client-storage": "క్లయింట్ ఫైల్స్",
+        "unifiedtree-storage": "క్లౌడ్ నిల్వ"
+      },
+      "alerts": {
+        "accountant-alerts": "అకౌంటెంట్ హెచ్చరికలు",
+        "compliance-alerts": "వర్తింపు హెచ్చరికలు",
+        "cash-risk-alerts": "నగదు & ప్రమాద హెచ్చరికలు",
+        "ca-access": "CA తాత్కాలిక యాక్సెస్"
+      },
+      "migration": {
+        "import": "డేటాను దిగుమతి చేయండి",
+        "export": "డేటాను ఎగుమతి చేయండి",
+        "history": "దిగుమతి చరిత్ర",
+        "tally-import": "Tally & Zoho నుండి దిగుమతి"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "కొనుగోళ్లు & చెల్లింపులు",
+      "accountingSetup": "అకౌంటింగ్ సెటప్",
+      "dataDocuments": "డేటా & పత్రాలు"
+    }
+  },
+  "common": {
+    "save": "మార్పులను సేవ్ చేయండి",
+    "cancel": "రద్దు చేయి",
+    "create": "సృష్టించు",
+    "edit": "సవరించు",
+    "delete": "తొలగించు",
+    "search": "శోధించండి",
+    "connect": "కనెక్ట్ చేయండి",
+    "configure": "కాన్ఫిగర్ చేయండి",
+    "disconnect": "డిస్‌కనెక్ట్ చేయండి",
+    "sync": "ఇప్పుడు సమకాలీకరించండి",
+    "close": "మూసివేయి",
+    "reset": "డిఫాల్ట్‌లకు రీసెట్ చేయండి",
+    "back": "వెనుకకు",
+    "continue": "కొనసాగించు",
+    "all": "అన్నీ",
+    "retry": "మళ్లీ ప్రయత్నించండి",
+    "loading": "లోడ్ అవుతోంది...",
+    "resetDemo": "డెమో డేటాను రీసెట్ చేయండి"
+  },
+  "shell": {
+    "searchPlaceholder": "ఏదైనా శోధించండి...",
+    "settings": "సెట్టింగ్‌లు",
+    "language": "భాష",
+    "role": "పాత్ర",
+    "greeting": {
+      "morning": "శుభోదయం",
+      "afternoon": "శుభ మధ్యాహ్నం",
+      "evening": "శుభ సాయంత్రం"
+    },
+    "settingsItems": {
+      "company-profile": "కంపెనీ ప్రొఫైల్",
+      "configuration": "ఆకృతీకరణ",
+      "fiscal-periods": "ఆర్థిక కాలాలు",
+      "roles": "పాత్రలు & వినియోగదారులు",
+      "integrations": "ఇంటిగ్రేషన్లు",
+      "notifications": "నోటిఫికేషన్‌లు",
+      "audit-logs": "ఆడిట్ & లాగ్‌లు",
+      "audit-trail": "ట్యాంపర్ ప్రూఫ్ ఆడిట్ ట్రైల్",
+      "developer": "డెవలపర్ & API"
+    },
+    "translatedLanguages": "అనువదించబడింది",
+    "untranslatedLanguages": "అనువాదం వరకు ఇంగ్లీష్"
+  },
+  "status": {
+    "filed": "దాఖలు చేశారు",
+    "ready": "ఫైల్ చేయడానికి సిద్ధంగా ఉంది",
+    "open": "పీరియడ్ ఓపెన్",
+    "paid": "చెల్లించారు",
+    "pending": "పెండింగ్‌లో ఉంది",
+    "accepted": "అంగీకరించబడింది",
+    "delivered": "పంపిణీ చేయబడింది",
+    "rejected": "తిరస్కరించబడింది",
+    "pdf-sent": "PDF పంపబడింది",
+    "not-sent": "పంపలేదు",
+    "matched": "సరిపోలింది",
+    "mismatch": "సరిపోలలేదు",
+    "missing-supplier": "సరఫరాదారు ద్వారా నివేదించబడలేదు",
+    "missing-books": "పుస్తకాల్లో కనిపించడం లేదు",
+    "deferred": "వాయిదా పడింది",
+    "deducted": "తీసివేయబడింది",
+    "remitted": "పంపబడింది",
+    "certified": "సర్టిఫైడ్",
+    "to-report": "నివేదించడానికి",
+    "reported": "నివేదించబడింది",
+    "accounted": "లెక్క కట్టారు",
+    "overdue": "గడువు దాటిపోయింది"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ఫైల్ చేయడానికి సిద్ధంగా ఉంది",
+      "liabilityDue": "బకాయి బాధ్యత",
+      "paidThisYear": "ఈ ఏడాది చెల్లించారు",
+      "nextDeadline": "తదుపరి గడువు",
+      "noneOverdue": "ఏదీ గడువు తీరలేదు",
+      "overdue": "{{count}} గడువు ముగిసింది"
+    },
+    "filter": {
+      "ready": "ఫైల్ చేయడానికి సిద్ధంగా ఉంది",
+      "open": "తెరవండి",
+      "filed": "దాఖలు చేశారు"
+    },
+    "col": {
+      "period": "కాలం",
+      "authority": "అధికారం",
+      "rate": "రేట్ చేయండి",
+      "due": "కారణంగా",
+      "netPayable": "నికర చెల్లించాలి",
+      "status": "స్థితి",
+      "ack": "అక్నాలెడ్జ్మెంట్"
+    },
+    "file": "ఫైల్",
+    "view": "చూడండి",
+    "fileForm": "ఫైల్ {{form}}",
+    "loadingJurisdiction": "అధికార పరిధిని లోడ్ చేస్తోంది...",
+    "nothingToFile": "రిటర్న్‌లు ఫైల్ చేయడానికి వేచి ఉండవు — అన్ని క్లోజ్డ్ పీరియడ్‌లు సమర్పించబడ్డాయి.",
+    "fileNext": "తదుపరి ఫైల్: {{name}}",
+    "steps": {
+      "review": "సమీక్షించండి",
+      "validate": "ధృవీకరించండి",
+      "declare": "ప్రకటించండి & సమర్పించండి",
+      "ack": "అక్నాలెడ్జ్మెంట్"
+    },
+    "runValidation": "ధ్రువీకరణను అమలు చేయండి",
+    "validating": "ధృవీకరిస్తోంది…",
+    "submit": "{{form}}ని సమర్పించండి",
+    "submitting": "సమర్పిస్తోంది...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "నికర మొత్తం",
+    "submitted": "సమర్పించారు",
+    "filedOn": "దాఖలు చేశారు",
+    "regime": {
+      "authority": "అధికారం",
+      "channel": "ఫైలింగ్ ఛానెల్",
+      "return": "తిరిగి",
+      "due": "కారణంగా",
+      "standardRate": "ప్రామాణిక రేటు",
+      "threshold": "నమోదు థ్రెషోల్డ్"
+    },
+    "demoNote": "అంతర్నిర్మిత మాక్ టాక్స్ API నుండి డెమో డేటా — ఫైలింగ్‌లు మరియు చెల్లింపులు అనుకరించబడతాయి మరియు పన్ను అధికారానికి ఏమీ పంపబడవు."
+  },
+  "fx": {
+    "title": "విదేశీ కరెన్సీ",
+    "subtitle": "బేస్ కరెన్సీ {{base}} · సూచిక మాక్ మార్కెట్ ధరలు",
+    "newDoc": "కొత్త FX ఇన్‌వాయిస్ / బిల్లు",
+    "kpi": {
+      "netExposure": "నికర FX ఎక్స్పోజర్",
+      "openDocs": "{{count}} ఓపెన్ డాక్యుమెంట్‌లు",
+      "unrealized": "అవాస్తవిక లాభం/నష్టం",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "ఈ సంవత్సరం తెలుసుకున్నారు",
+      "lastReval": "చివరి రీవాల్యుయేషన్",
+      "never": "ఎప్పుడూ",
+      "suggested": "సూచించబడినది: {{date}}"
+    },
+    "view": {
+      "open": "అంశాలను తెరవండి",
+      "settled": "స్థిరపడ్డారు",
+      "revaluation": "నెలాఖరు రీవాల్యుయేషన్",
+      "journal": "FX జర్నల్"
+    },
+    "col": {
+      "document": "పత్రం",
+      "type": "టైప్ చేయండి",
+      "openForeign": "ఓపెన్ (విదేశీ)",
+      "bookedNow": "బుక్ చేయబడింది / ఇప్పుడు",
+      "valueIn": "{{base}}లో విలువ",
+      "unrealized": "గ్రహించలేనిది",
+      "status": "స్థితి",
+      "amount": "మొత్తం",
+      "bookedRate": "బుక్ చేసిన రేటు",
+      "realized": "గ్రహించారు"
+    },
+    "receivable": "స్వీకరించదగినది",
+    "payable": "చెల్లించవలసినది",
+    "receive": "స్వీకరించండి",
+    "pay": "చెల్లించండి",
+    "netIn": "{{base}}లో నికరం",
+    "state": {
+      "settled": "స్థిరపడ్డారు",
+      "partial": "పాక్షికంగా స్థిరపడింది",
+      "open": "తెరవండి"
+    },
+    "demoNote": "అంతర్నిర్మిత మాక్ API నుండి డెమో డేటా — రేట్లు అనుకరించబడతాయి, ప్రత్యక్ష మార్కెట్ డేటా కాదు."
+  }
+}

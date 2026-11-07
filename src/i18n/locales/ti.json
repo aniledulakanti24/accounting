@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ካብ መዓልቲ ናብ መዓልቲ",
+      "finance": "ምምሕዳር ገንዘብ",
+      "advanced": "ዝተመሓየሸ"
+    },
+    "mainMenu": "ቀንዲ ዝርዝር መግቢ",
+    "short": {
+      "parties": "ውድባት"
+    },
+    "sections": {
+      "dashboard": "ዳሽቦርድ",
+      "sales": "መሸጣ",
+      "receivables": "ገንዘብ ኣብ...",
+      "procurement": "ዕድጊታት",
+      "payables": "ገንዘብ ወጺኡ",
+      "cashbank": "ጥረ ገንዘብን ባንክን",
+      "expenses": "ወፃእታት",
+      "tax": "ግብሪ",
+      "reports": "ጸብጻባት",
+      "advanced-features": "ምዕቡል ባህርያት",
+      "parties": "ዓማዊል & ኣቕረብቲ",
+      "inventory": "ኣቕሑ",
+      "assets": "ቀዋሚ ንብረት",
+      "masters": "ምድላውን ምውቃርን (Setup & Configuration)",
+      "business-tools": "ጋንታ & መሳርሒታት",
+      "party-tools": "ናይ ውድብ መሳርሒታት",
+      "item-tools": "መሳርሒታት ኣቕሓ",
+      "storage": "ሰነዳት።",
+      "alerts": "መጠንቀቕታታት",
+      "migration": "ዳታ ማይግሬሽን"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ሓፈሻዊ ትሕዝቶ",
+        "cash-flow": "ዋሕዚ ገንዘብ",
+        "tax-calendar": "ኣቆጻጽራ ግብሪ"
+      },
+      "sales": {
+        "quotations": "ጥቕስታት",
+        "proforma-invoices": "ፒ.ኣይ",
+        "sales-invoices": "ክፍሊት",
+        "delivery-challans": "ናይ ምብጻሕ ቻላን",
+        "receipts": "ቅብሊት",
+        "invoice-desk": "ፋክቱር ዴስክ"
+      },
+      "receivables": {
+        "money-in-center": "ገንዘብ ኣብ ማእከል",
+        "receivables": "ቅብሊት ንብረት",
+        "payments-received": "ዝተቐበለ ክፍሊት",
+        "overdue-collections": "እኩባትን መዘኻኸሪታትን",
+        "credit-notes": "ናይ ልቓሕ መዘኻኸሪታትን ምምላስ ገንዘብን።",
+        "sales-returns": "ናይ መሸጣ ምምላስ",
+        "customer-statements": "መግለጺ ዓማዊል",
+        "payment-links": "ናይ ክፍሊት መላግቦታት"
+      },
+      "procurement": {
+        "purchase-center": "ማእከል ዕድጊ",
+        "purchase-orders": "ናይ ዕድጊ ትእዛዝ",
+        "goods-receipt": "ቅብሊት ኣቑሑት።",
+        "purchase-invoices": "ናይ ዕድጊ ፋክቱራት",
+        "payment-out": "ዝተገብረ ክፍሊት",
+        "returns-debit-notes": "ምምላስን ምኽፋልን መዘኻኸሪታት",
+        "bill-approvals": "ምጽዳቕ እማመ"
+      },
+      "payables": {
+        "bills": "ማእከል ክፍሊት",
+        "payments": "ክፍሊታት ኣቕረብቲ",
+        "workforce": "ሓይሊ ስራሕ",
+        "adjustments": "ምትዕርራይ",
+        "bank-release": "ባንኪ ምፍታሕ"
+      },
+      "cashbank": {
+        "bank-accounts": "ኣካውንታተይ",
+        "reconciliation": "ምትእስሳር ትራንዛክሽን",
+        "cash-petty": "ንእሽቶ ጥረ ገንዘብ",
+        "contra": "ኣብ መንጎ ኣካውንታት",
+        "cheque-register": "ቼክ ምግባር",
+        "foreign-currency": "ናይ ወጻኢ ባጤራ",
+        "bank-feeds": "ባንኪ ምግቢ",
+        "bank-rules": "ሕግታትን ዕርቅን"
+      },
+      "expenses": {
+        "expense-center": "ኩሉ ወጻኢታት",
+        "categories": "ዓይነታት ወጻኢታት",
+        "automated-bills": "ተደጋጋሚ ወጻኢታት",
+        "journal-vouchers": "ብኢድ ዝኣትዉ ጽሑፋት",
+        "provisions": "ምውህላል ንብረት",
+        "write-offs": "ምጽሓፍ ምድምሳስ",
+        "period-close": "ወርሒ-መወዳእታ"
+      },
+      "tax": {
+        "gst-returns": "GST ፋይሊንግ",
+        "gst-filing-wizard": "⚡ ፋይል GSTR-3B",
+        "gst-reconciliation": "GST ምትእስሳር",
+        "e-invoicing": "ኢ-ፋክቱራት",
+        "e-way-bills": "ኢ-ዌይ ቢልስ",
+        "tds": "ቲዲኤስ",
+        "tcs": "TCS",
+        "tax-payments": "ግብሪ ምኽፋል",
+        "quarterly-compliance": "ናይ ምኽባር ዓውደ ኣዋርሕ",
+        "ca-access": "CA ግዝያዊ መእተዊ",
+        "gst-from-books": "GST ካብ መጽሓፍቲ"
+      },
+      "reports": {
+        "financial-statements": "ፋይናንሳዊ ጸብጻባት",
+        "books": "መጽሓፍቲ ትራንዛክሽን",
+        "gst-reports": "ጸብጻባት ጂኤስቲ",
+        "ar-ap": "ቅብሊት ኣንጻር ዝኽፈል",
+        "profitability": "መኽሰብ ምህላው",
+        "period-comparatives": "ዓመት ምውድዳር",
+        "budget-vs-actuals": "ባጀት ትራከር",
+        "cashflow-projection": "ትንበያ ገንዘብ",
+        "report-builder": "ብሕታዊ ጸብጻባት",
+        "general-ledger": "ሓፈሻዊ መዝገብ",
+        "live-financials": "ቀጥታዊ ፋይናንሻል",
+        "ai-analyst": "ተንታኒ ኤ.ኣይ"
+      },
+      "advanced-features": {
+        "overview": "ሓፈሻዊ ትሕዝቶ"
+      },
+      "parties": {
+        "all-parties": "ኩሎም ወገናት",
+        "customer-ledgers": "ዓማዊል",
+        "supplier-ledgers": "ኣቕረብቲ",
+        "shared-ledger": "ናይ ሓባር መዝገብ",
+        "statements": "መግለጺታት",
+        "reminders": "መዘኻኸሪታት",
+        "documents": "ሰነዳት ሰልፊ",
+        "portal": "ፖርታል ውድብ",
+        "import": "ውድብ ኣእትዎት።",
+        "duplicate-merge": "ድፕሊኬት ምውህሃድ",
+        "gap-analysis": "ትንተና ክፍተት።"
+      },
+      "inventory": {
+        "inventory-items": "ኣቕሑ",
+        "godowns": "መኽዘናት",
+        "stock-movement": "ምንቅስቓስ ስቶክ",
+        "item-pricing": "ዋጋ ምውሳን",
+        "stock-valuation": "ስቶክ ዋጋ ምውሳን",
+        "reorder-alerts": "ዳግማይ ምእዛዝ መጠንቀቕታታት",
+        "batch-serials": "ዕስለ & ተኸታታሊ",
+        "barcode-labels": "ባርኮድ መለለዪታት",
+        "item-import": "ንብረት ምእታው",
+        "gap-analysis": "ትንተና ክፍተት።"
+      },
+      "assets": {
+        "asset-register": "ዝርዝር ንብረት",
+        "depreciation": "ምጉዳል ዋጋ",
+        "disposal-revaluation": "ሸጥ ወይ ዳግመ ግምት ምሃብ"
+      },
+      "masters": {
+        "chart-of-accounts": "ዝርዝር ሕሳባት",
+        "tax-masters": "ደረጃታት ግብሪ",
+        "cost-centers": "ማእከላት ወጻኢታት",
+        "voucher-types": "ዓይነታት ትራንዛክሽን",
+        "opening-balances": "መበገሲ ሚዛናት",
+        "currencies": "ባጤራታት"
+      },
+      "business-tools": {
+        "staff-payroll": "ዝርዝር ደሞዝ",
+        "manage-users": "ተጠቃሚ መእተዊ",
+        "online-orders": "ብኢንተርነት ትእዛዛት።",
+        "sms-marketing": "ኤስኤምኤስ ማርኬቲንግ",
+        "accountant-hub": "ኣካውንታንትስ & ደገፍ"
+      },
+      "party-tools": {
+        "documents": "ሰነዳት ሰልፊ",
+        "portal": "ፖርታል ውድብ",
+        "import": "ውድብ ኣእትዎት።",
+        "duplicate-merge": "ድፕሊኬት ምውህሃድ",
+        "gap-analysis": "ትንተና ክፍተት።"
+      },
+      "item-tools": {
+        "reorder-alerts": "ዳግማይ ምእዛዝ መጠንቀቕታታት",
+        "batch-serials": "ዕስለ & ተኸታታሊ",
+        "barcode-labels": "ባርኮድ መለለዪታት",
+        "item-import": "ንብረት ምእታው",
+        "gap-analysis": "ትንተና ክፍተት።"
+      },
+      "storage": {
+        "client-storage": "ዓሚል ፋይላት",
+        "unifiedtree-storage": "ደበና መኽዘን"
+      },
+      "alerts": {
+        "accountant-alerts": "ናይ ኣካውንታንት መጠንቀቕታታት",
+        "compliance-alerts": "ናይ ምኽባር መጠንቀቕታታት",
+        "cash-risk-alerts": "ናይ ገንዘብን ሓደጋን መጠንቀቕታታት",
+        "ca-access": "CA ግዝያዊ መእተዊ"
+      },
+      "migration": {
+        "import": "ዳታ ምእታው",
+        "export": "ዳታ ሰደድ ምግባር",
+        "history": "ታሪኽ ኣእትዎ።",
+        "tally-import": "ካብ Tally & Zoho ኣእትዩ።"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ዕድጊታትን ክፍሊትን",
+      "accountingSetup": "ኣወዳድባ ኣካውንቲንግ",
+      "dataDocuments": "ዳታን ሰነዳትን"
+    }
+  },
+  "common": {
+    "save": "ለውጢ ምዕቃብ",
+    "cancel": "ሰርዝ",
+    "create": "ፍጠር",
+    "edit": "ምዕራይ",
+    "delete": "ምድምሳስ",
+    "search": "ምድላይ",
+    "connect": "ምርኻብ",
+    "configure": "ምውቃር",
+    "disconnect": "ርክብ ምቁራጽ",
+    "sync": "ሕጂ Sync ግበሩ",
+    "close": "ዕፁው",
+    "reset": "ናብ ነባሪ ምምላስ",
+    "back": "ዝባን",
+    "continue": "ቀፃሊ",
+    "all": "ኩሎም",
+    "retry": "ዳግማይ ፈትን።",
+    "loading": "ኣብ ምጽዓን...",
+    "resetDemo": "ናይ ዲሞ ዳታ ዳግማይ ምትካል"
+  },
+  "shell": {
+    "searchPlaceholder": "ዝኾነ ነገር ድለዩ...",
+    "settings": "ቅጥዕታት",
+    "language": "ቋንቋ",
+    "role": "ግደ",
+    "greeting": {
+      "morning": "ከመይ ሓዲርኩም",
+      "afternoon": "ከመይ ውዒሎም",
+      "evening": "ከመይ ኣምሽዮም"
+    },
+    "settingsItems": {
+      "company-profile": "ፕሮፋይል ትካል",
+      "configuration": "ውቅር",
+      "fiscal-periods": "ፊስካላዊ እዋናት",
+      "roles": "ተራታትን ተጠቀምትን",
+      "integrations": "ውህደታት",
+      "notifications": "መፍለጢታት",
+      "audit-logs": "ኦዲት & ሎግስ",
+      "audit-trail": "ምትዕንቓፍ ዘይብሉ ናይ ኦዲት ኣሰር",
+      "developer": "ዲቨሎፐር & ኤፒኣይ"
+    },
+    "translatedLanguages": "ዝተተርጎመ",
+    "untranslatedLanguages": "እንግሊዝኛ ክሳብ ዝትርጎም"
+  },
+  "status": {
+    "filed": "ፋይል ዝገበረ",
+    "ready": "ንፋይል ድሉው",
+    "open": "ፔሪድ ክፉት እዩ።",
+    "paid": "ተኸፊሉ",
+    "pending": "ኣብ ከይዲ",
+    "accepted": "ተቐባልነት ኣለዎ።",
+    "delivered": "ኣብፀሐ",
+    "rejected": "ተነጺጉ",
+    "pdf-sent": "PDF ተላኢኹ",
+    "not-sent": "ኣይተላእከን።",
+    "matched": "ዝተመዓራረየ",
+    "mismatch": "ዘይምስምማዕ",
+    "missing-supplier": "ብኣቕራቢ ዘይተጸብጸበ",
+    "missing-books": "ኣብ መጽሓፍቲ ዝጎደለ",
+    "deferred": "ዝተናወሐ",
+    "deducted": "ተቖሪጹ",
+    "remitted": "ተሓዲጉ",
+    "certified": "ሰርቲፊኬት ዘለዎ",
+    "to-report": "ጸብጻብ ንምሃብ",
+    "reported": "ጸብጺቡ።",
+    "accounted": "ኣካውንት ዝገበረ",
+    "overdue": "ግዜኡ ዝሓለፈ"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ንፋይል ድሉው",
+      "liabilityDue": "ተሓታትነት ዝኽፈል",
+      "paidThisYear": "ሎሚ ዓመት ተኸፊሉ።",
+      "nextDeadline": "ዝቕጽል ናይ መወዳእታ ግዜ",
+      "noneOverdue": "ግዜኡ ዝሓለፎ የለን",
+      "overdue": "{{count}} ግዜኡ ዝሓለፈ"
+    },
+    "filter": {
+      "ready": "ንፋይል ድሉው",
+      "open": "ክፈት",
+      "filed": "ፋይል ዝገበረ"
+    },
+    "col": {
+      "period": "ግዘ",
+      "authority": "ምምሕዳር",
+      "rate": "መደብ",
+      "due": "መወዳእታ",
+      "netPayable": "ጽሩይ ዝኽፈል",
+      "status": "ኩነታት",
+      "ack": "ኣፍልጦ ምሃብ"
+    },
+    "file": "መዝገብ",
+    "view": "ኣረኣእያ",
+    "fileForm": "ፋይል {{form}}",
+    "loadingJurisdiction": "ስልጣን ፍርዲ ኣብ ምጽዓን...",
+    "nothingToFile": "ዝኾነ ሪተርን ክቐርብ ዝጽበ የለን — ኩሎም ዕጹዋት እዋናት ይቐርቡ።",
+    "fileNext": "ፋይል ቀጺሉ፡ {{name}}",
+    "steps": {
+      "review": "ገምጋም",
+      "validate": "ምርግጋጽ",
+      "declare": "ምእዋጅ & ምቕራብ",
+      "ack": "ኣፍልጦ ምሃብ"
+    },
+    "runValidation": "ምጽዳቕ ምጉያይ",
+    "validating": "ምጽዳቕ...",
+    "submit": "{{form}} ኣቕርብ።",
+    "submitting": "ምቕራብ...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "ጽሩይ መጠን ገንዘብ",
+    "submitted": "ዝቐረበ",
+    "filedOn": "ፋይል ኣብ...",
+    "regime": {
+      "authority": "ምምሕዳር",
+      "channel": "ፋይሊንግ ቻነል",
+      "return": "ተመለስ",
+      "due": "መወዳእታ",
+      "standardRate": "ስታንዳርድ ሬት",
+      "threshold": "ናይ ምዝገባ ደረት"
+    },
+    "demoNote": "ካብቲ ኣብ ውሽጢ ዝተሃንጸ ሞክ ታክስ ኤፒኣይ ዝመጽእ ዲሞ ዳታ — ፋይሊንግን ክፍሊታትን ምምሳልን ናብ በዓል መዚ ግብሪ ዝለኣኽ ነገር የለን።"
+  },
+  "fx": {
+    "title": "ናይ ወጻኢ ባጤራ",
+    "subtitle": "መሰረታዊ ባጤራ {{base}} · ኣመልካቲ ሞክ ዕዳጋ ደረጃታት",
+    "newDoc": "ሓድሽ ናይ FX ፋክቱር / ሕሳብ",
+    "kpi": {
+      "netExposure": "ጽሩይ FX ምቅላዕ",
+      "openDocs": "{{count}} ሰነዳት ክፈት",
+      "unrealized": "ዘይተረጋገጸ መኽሰብ / ክሳራ",
+      "postedSplit": "{{posted}} ተለጢፉ · {{unposted}} ገና ኣይተለጠፈን።",
+      "realized": "ሎሚ ዓመት ተረዲኡ",
+      "lastReval": "ናይ መወዳእታ ዳግመ ግምት",
+      "never": "ፍፁም",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "ክፉት ነገራት",
+      "settled": "ሰፊሩ",
+      "revaluation": "ኣብ መወዳእታ ወርሒ ዳግመ-ገምጋም",
+      "journal": "FX መጽሔት።"
+    },
+    "col": {
+      "document": "ሰነድ",
+      "type": "ዓይነት",
+      "openForeign": "ክፉት (ናይ ወጻኢ)",
+      "bookedNow": "ተሓዚኡ / ሕጂ",
+      "valueIn": "ዋጋ ኣብ {{base}}",
+      "unrealized": "ዘይተረጋገጸ",
+      "status": "ኩነታት",
+      "amount": "መጠን",
+      "bookedRate": "ዝተሓዝአ ደረጃ",
+      "realized": "ዘልእለማዊ"
+    },
+    "receivable": "ተቐባልነት ዘለዎ",
+    "payable": "ዝኽፈል",
+    "receive": "ተቀበል",
+    "pay": "ክፈል",
+    "netIn": "ኔት ኣብ {{base}}",
+    "state": {
+      "settled": "ሰፊሩ",
+      "partial": "ብኸፊል ዝተቐመጠ",
+      "open": "ክፈት"
+    },
+    "demoNote": "ካብቲ ኣብ ውሽጢ ዝተሃንጸ ሞክ ኤፒኣይ ዝመጽእ ዲሞ ዳታ — ደረጃታት ምምሳል እምበር ቀጥታዊ ዳታ ዕዳጋ ኣይኮነን።"
+  }
+}

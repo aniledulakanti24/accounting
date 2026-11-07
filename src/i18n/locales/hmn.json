@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Hnub-rau-hnub",
+      "finance": "Nyiaj txiag",
+      "advanced": "Advanced"
+    },
+    "mainMenu": "Lub ntsiab lus qhia",
+    "short": {
+      "parties": "Cov tog"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Muag",
+      "receivables": "Nyiaj hauv",
+      "procurement": "Kev yuav khoom",
+      "payables": "Nyiaj Tawm",
+      "cashbank": "Nyiaj ntsuab & Bank",
+      "expenses": "Cov nuj nqis",
+      "tax": "Ua se",
+      "reports": "Tshaj tawm",
+      "advanced-features": "Advanced Features",
+      "parties": "Cov neeg siv khoom & Cov khoom siv",
+      "inventory": "Cov khoom",
+      "assets": "Cov cuab yeej cuab tam",
+      "masters": "Teeb & Configuration",
+      "business-tools": "Pab neeg & cuab yeej",
+      "party-tools": "Cov cuab yeej tog",
+      "item-tools": "Yam Khoom",
+      "storage": "Cov ntaub ntawv",
+      "alerts": "ceeb toom",
+      "migration": "Cov ntaub ntawv tsiv teb tsaws"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Txheej txheem cej luam",
+        "cash-flow": "Nyiaj Ntsuab",
+        "tax-calendar": "Tax Calendar"
+      },
+      "sales": {
+        "quotations": "Cov lus hais",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Invoice",
+        "delivery-challans": "Kev xa khoom Challan",
+        "receipts": "Daim ntawv txais nyiaj",
+        "invoice-desk": "Invoice Desk"
+      },
+      "receivables": {
+        "money-in-center": "Nyiaj hauv Center",
+        "receivables": "Txais tau",
+        "payments-received": "Tau txais kev them nyiaj",
+        "overdue-collections": "Sau & Ceeb Toom",
+        "credit-notes": "Cov Ntawv Teev Tseg & Cov Nyiaj Rov Qab",
+        "sales-returns": "Kev muag khoom rov qab",
+        "customer-statements": "Cov Lus Qhia Cov Neeg Siv Khoom",
+        "payment-links": "Kev them nyiaj Links"
+      },
+      "procurement": {
+        "purchase-center": "Chaw yuav khoom",
+        "purchase-orders": "Kev yuav khoom",
+        "goods-receipt": "Daim ntawv txais khoom",
+        "purchase-invoices": "Muas Invoice",
+        "payment-out": "Kev them nyiaj ua",
+        "returns-debit-notes": "Rov qab & Debit Notes",
+        "bill-approvals": "Kev Pom Zoo Bill"
+      },
+      "payables": {
+        "bills": "Them Center",
+        "payments": "Kev them nyiaj rau tus neeg muag khoom",
+        "workforce": "Cov neeg ua haujlwm",
+        "adjustments": "Kev hloov kho",
+        "bank-release": "Lub txhab nyiaj tso tawm"
+      },
+      "cashbank": {
+        "bank-accounts": "Kuv Tus Accounts",
+        "reconciliation": "Match Transactions",
+        "cash-petty": "Nyiaj Ntsuab",
+        "contra": "Nruab nrab ntawm Cov Nyiaj Txiag",
+        "cheque-register": "Kev kuaj",
+        "foreign-currency": "Txawv teb chaws txiaj",
+        "bank-feeds": "Lub txhab nyiaj pub",
+        "bank-rules": "Txoj Cai & Kev Sib Koom Tes"
+      },
+      "expenses": {
+        "expense-center": "Txhua Tus Nqi",
+        "categories": "Hom kev siv nyiaj",
+        "automated-bills": "Cov nuj nqis rov tshwm sim",
+        "journal-vouchers": "Phau ntawv nkag",
+        "provisions": "Accruals",
+        "write-offs": "Sau-offs",
+        "period-close": "Lub Hlis-End"
+      },
+      "tax": {
+        "gst-returns": "Cov ntaub ntawv GST",
+        "gst-filing-wizard": "⚡ File GSTR-3B",
+        "gst-reconciliation": "GST kev sib tw",
+        "e-invoicing": "E-Invoices",
+        "e-way-bills": "E-Way Bills",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Them se",
+        "quarterly-compliance": "Daim Ntawv Qhia Ua Raws Cai",
+        "ca-access": "CA Kev Nkag Mus Ib Nrab",
+        "gst-from-books": "GST los ntawm Phau Ntawv"
+      },
+      "reports": {
+        "financial-statements": "Kev Qhia Txog Nyiaj Txiag",
+        "books": "Phau ntawv pauv nyiaj",
+        "gst-reports": "GST Reports",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Kev khwv tau",
+        "period-comparatives": "Xyoo sib piv",
+        "budget-vs-actuals": "Nyiaj txiag Tracker",
+        "cashflow-projection": "Nyiaj ntsuab Forecast",
+        "report-builder": "Kev Cai Qhia",
+        "general-ledger": "General Ledger",
+        "live-financials": "Nyob Nyiaj Txiag",
+        "ai-analyst": "AI Analyst"
+      },
+      "advanced-features": {
+        "overview": "Txheej txheem cej luam"
+      },
+      "parties": {
+        "all-parties": "Txhua tog",
+        "customer-ledgers": "Cov neeg muas zaub",
+        "supplier-ledgers": "Cov neeg muab khoom",
+        "shared-ledger": "Shared Ledger",
+        "statements": "Nqe lus",
+        "reminders": "Nco ntsoov",
+        "documents": "Cov ntaub ntawv tog",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "inventory": {
+        "inventory-items": "Cov khoom",
+        "godowns": "Cov tsev khaws khoom",
+        "stock-movement": "Tshuag Movement",
+        "item-pricing": "Nqe",
+        "stock-valuation": "Tus nqi Tshuag",
+        "reorder-alerts": "Reorder ceeb toom",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Yam khoom",
+        "gap-analysis": "Gap Analysis"
+      },
+      "assets": {
+        "asset-register": "Daim ntawv teev khoom vaj khoom tsev",
+        "depreciation": "Depreciation",
+        "disposal-revaluation": "Muag los yog Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Cov Npe",
+        "tax-masters": "Cov Nqi Se",
+        "cost-centers": "Tus Nqi Chaw",
+        "voucher-types": "Hom kev lag luam",
+        "opening-balances": "Pib Qhov Ntsuas",
+        "currencies": "Nyiaj txiag"
+      },
+      "business-tools": {
+        "staff-payroll": "Them nyiaj",
+        "manage-users": "Tus neeg siv nkag",
+        "online-orders": "Online Orders",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Accountants & Txhawb nqa"
+      },
+      "party-tools": {
+        "documents": "Cov ntaub ntawv tog",
+        "portal": "Party Portal",
+        "import": "Party Import",
+        "duplicate-merge": "Duplicate Merge",
+        "gap-analysis": "Gap Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reorder ceeb toom",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Yam khoom",
+        "gap-analysis": "Gap Analysis"
+      },
+      "storage": {
+        "client-storage": "Cov ntaub ntawv Client",
+        "unifiedtree-storage": "Huab Cia"
+      },
+      "alerts": {
+        "accountant-alerts": "Tus accountant ceeb toom",
+        "compliance-alerts": "Kev ceeb toom ua raws cai",
+        "cash-risk-alerts": "Nyiaj ntsuab & Risk ceeb toom",
+        "ca-access": "CA Kev Nkag Mus Ib Nrab"
+      },
+      "migration": {
+        "import": "Ntshuam cov ntaub ntawv",
+        "export": "Export Cov ntaub ntawv",
+        "history": "Ntshuam keeb kwm",
+        "tally-import": "Ntshuam los ntawm Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Kev yuav khoom & Kev them nyiaj",
+      "accountingSetup": "Kev teeb tsa nyiaj txiag",
+      "dataDocuments": "Cov ntaub ntawv & Cov ntaub ntawv"
+    }
+  },
+  "common": {
+    "save": "Txuag Hloov",
+    "cancel": "Tso tseg",
+    "create": "Tsim",
+    "edit": "Kho kom raug",
+    "delete": "Rho tawm",
+    "search": "Nrhiav",
+    "connect": "Txuas",
+    "configure": "Configure",
+    "disconnect": "Txiav tawm",
+    "sync": "Sync tam sim no",
+    "close": "Kaw",
+    "reset": "Rov qab mus rau Defaults",
+    "back": "Rov qab",
+    "continue": "Txuas ntxiv",
+    "all": "Tag nrho",
+    "retry": "Rov sim dua",
+    "loading": "Loading…",
+    "resetDemo": "Pib dua cov ntaub ntawv demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Nrhiav dab tsi…",
+    "settings": "Chaw",
+    "language": "Lus",
+    "role": "Lub luag haujlwm",
+    "greeting": {
+      "morning": "Nyob zoo sawv ntxov",
+      "afternoon": "Nyob zoo tav su",
+      "evening": "Nyob zoo os"
+    },
+    "settingsItems": {
+      "company-profile": "Tuam txhab Profile",
+      "configuration": "Kev teeb tsa",
+      "fiscal-periods": "Lub Sijhawm Nyiaj Txiag",
+      "roles": "Lub luag haujlwm & Cov neeg siv",
+      "integrations": "Kev koom ua ke",
+      "notifications": "Kev ceeb toom",
+      "audit-logs": "Audit & Logs",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Tus tsim tawm & API"
+    },
+    "translatedLanguages": "Txhais",
+    "untranslatedLanguages": "Lus Askiv kom txog thaum txhais"
+  },
+  "status": {
+    "filed": "Ua ntaub ntawv",
+    "ready": "Npaj ua ntaub ntawv",
+    "open": "Lub sijhawm qhib",
+    "paid": "Them",
+    "pending": "Tseem tos",
+    "accepted": "Txais",
+    "delivered": "Muab xa tuaj",
+    "rejected": "Tsis lees paub",
+    "pdf-sent": "PDF xa",
+    "not-sent": "Tsis xa",
+    "matched": "Sib phim",
+    "mismatch": "Tsis sib haum",
+    "missing-supplier": "Tsis qhia los ntawm tus neeg muag khoom",
+    "missing-books": "Tsis nyob hauv phau ntawv",
+    "deferred": "Kev ncua",
+    "deducted": "Txiav tawm",
+    "remitted": "Rov qab",
+    "certified": "Muaj ntawv pov thawj",
+    "to-report": "Qhia",
+    "reported": "Tshaj tawm",
+    "accounted": "Sau nyiaj",
+    "overdue": "Tshaj sijhawm"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Npaj ua ntaub ntawv",
+      "liabilityDue": "Liability vim",
+      "paidThisYear": "Them xyoo no",
+      "nextDeadline": "Hnub kawg tom ntej",
+      "noneOverdue": "Tsis muaj sijhawm dhau los",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Npaj ua ntaub ntawv",
+      "open": "Qhib",
+      "filed": "Ua ntaub ntawv"
+    },
+    "col": {
+      "period": "Lub sijhawm",
+      "authority": "Txoj cai",
+      "rate": "Tus nqi",
+      "due": "Vim",
+      "netPayable": "Net them",
+      "status": "xwm txheej",
+      "ack": "Kev lees paub"
+    },
+    "file": "Cov ntaub ntawv",
+    "view": "Saib",
+    "fileForm": "Cov ntaub ntawv {{form}}",
+    "loadingJurisdiction": "Loading jurisdiction…",
+    "nothingToFile": "Tsis muaj cov ntawv xa rov qab yog tos kom xa - tag nrho cov sijhawm kaw raug xa mus.",
+    "fileNext": "Cov ntaub ntawv tom ntej: {{name}}",
+    "steps": {
+      "review": "Saib xyuas",
+      "validate": "Siv tau",
+      "declare": "Tshaj tawm & xa",
+      "ack": "Kev lees paub"
+    },
+    "runValidation": "Khiav validation",
+    "validating": "Kev lees paub…",
+    "submit": "Xa {{form}}",
+    "submitting": "Kev xa…",
+    "declaration": "Kuv tshaj tawm tias cov ntaub ntawv hauv qhov rov qab no muaj tseeb thiab ua tiav, thiab kuv tau tso cai xa mus rau {{authority}}.",
+    "netAmount": "Net tus nqi",
+    "submitted": "Xa",
+    "filedOn": "Ua ntaub ntawv rau",
+    "regime": {
+      "authority": "Txoj cai",
+      "channel": "Cov ntaub ntawv channel",
+      "return": "Rov qab los",
+      "due": "Vim",
+      "standardRate": "Txheem tus nqi",
+      "threshold": "Kev sau npe pib"
+    },
+    "demoNote": "Demo cov ntaub ntawv los ntawm built-in mock tax API - cov ntaub ntawv thiab kev them nyiaj yog simulated thiab tsis muaj dab tsi raug xa mus rau lub tuam txhab se."
+  },
+  "fx": {
+    "title": "Txawv teb chaws txiaj",
+    "subtitle": "Base txiaj {{base}} · qhia txog kev ua lag luam tus nqi",
+    "newDoc": "Tshiab FX invoice / daim nqi",
+    "kpi": {
+      "netExposure": "Net FX raug",
+      "openDocs": "{{count}} qhib cov ntaub ntawv",
+      "unrealized": "Unrealized nce / poob",
+      "postedSplit": "{{posted}} tso · {{unposted}} tseem tsis tau",
+      "realized": "Pom tau lub xyoo no",
+      "lastReval": "Kev ntsuam xyuas zaum kawg",
+      "never": "Tsis txhob",
+      "suggested": "Pom zoo: {{date}}"
+    },
+    "view": {
+      "open": "Qhib cov khoom",
+      "settled": "Yug",
+      "revaluation": "Kev txheeb xyuas lub hli kawg",
+      "journal": "FX phau ntawv journal"
+    },
+    "col": {
+      "document": "Cov ntaub ntawv",
+      "type": "Hom",
+      "openForeign": "Qhib ( txawv teb chaws)",
+      "bookedNow": "Booked / tam sim no",
+      "valueIn": "Tus nqi hauv {{base}}",
+      "unrealized": "Tsis paub",
+      "status": "xwm txheej",
+      "amount": "Tus nqi",
+      "bookedRate": "Booked tus nqi",
+      "realized": "Pom tau"
+    },
+    "receivable": "Txais tau",
+    "payable": "Them tau",
+    "receive": "Txais",
+    "pay": "Them",
+    "netIn": "Net hauv {{base}}",
+    "state": {
+      "settled": "Yug",
+      "partial": "Kev txiav txim ib nrab",
+      "open": "Qhib"
+    },
+    "demoNote": "Demo cov ntaub ntawv los ntawm built-in mock API - tus nqi yog simulated, tsis nyob hauv cov ntaub ntawv lag luam."
+  }
+}

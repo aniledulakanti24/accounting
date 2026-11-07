@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "日常業務",
+      "finance": "財務",
+      "advanced": "詳細"
+    },
+    "mainMenu": "メインメニュー",
+    "short": {
+      "parties": "取引先"
+    },
+    "sections": {
+      "dashboard": "ダッシュボード",
+      "sales": "販売",
+      "receivables": "入金",
+      "procurement": "購買",
+      "payables": "出金",
+      "cashbank": "現金・預金",
+      "expenses": "経費",
+      "tax": "税務",
+      "reports": "レポート",
+      "advanced-features": "高度な機能",
+      "parties": "得意先・仕入先",
+      "inventory": "品目",
+      "assets": "固定資産",
+      "masters": "設定",
+      "business-tools": "チームとツール",
+      "party-tools": "取引先ツール",
+      "item-tools": "品目ツール",
+      "storage": "書類",
+      "alerts": "アラート",
+      "migration": "データ移行"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "概要",
+        "cash-flow": "キャッシュフロー",
+        "tax-calendar": "税務カレンダー"
+      },
+      "sales": {
+        "quotations": "見積書",
+        "proforma-invoices": "仮請求書",
+        "sales-invoices": "請求書",
+        "delivery-challans": "納品書",
+        "receipts": "領収書",
+        "invoice-desk": "請求書デスク"
+      },
+      "receivables": {
+        "money-in-center": "入金センター",
+        "receivables": "売掛金",
+        "payments-received": "入金済み",
+        "overdue-collections": "回収と督促",
+        "credit-notes": "貸方票と返金",
+        "sales-returns": "売上返品",
+        "customer-statements": "得意先明細書",
+        "payment-links": "支払いリンク"
+      },
+      "procurement": {
+        "purchase-center": "購買センター",
+        "purchase-orders": "発注書",
+        "goods-receipt": "入荷",
+        "purchase-invoices": "仕入請求書",
+        "payment-out": "支払済み",
+        "returns-debit-notes": "返品と借方票",
+        "bill-approvals": "法案の承認"
+      },
+      "payables": {
+        "bills": "支払センター",
+        "payments": "仕入先への支払",
+        "workforce": "人員",
+        "adjustments": "調整",
+        "bank-release": "銀行承認"
+      },
+      "cashbank": {
+        "bank-accounts": "口座一覧",
+        "reconciliation": "取引照合",
+        "cash-petty": "小口現金",
+        "contra": "口座間振替",
+        "cheque-register": "小切手",
+        "foreign-currency": "外貨",
+        "bank-feeds": "銀行フィード",
+        "bank-rules": "ルールと調整"
+      },
+      "expenses": {
+        "expense-center": "すべての経費",
+        "categories": "経費区分",
+        "automated-bills": "定期経費",
+        "journal-vouchers": "手動仕訳",
+        "provisions": "未払計上",
+        "write-offs": "貸倒償却",
+        "period-close": "月次締め"
+      },
+      "tax": {
+        "gst-returns": "GST 申告",
+        "gst-filing-wizard": "⚡ GSTR-3B を提出",
+        "gst-reconciliation": "GST 照合",
+        "e-invoicing": "電子請求書",
+        "e-way-bills": "電子運送状",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "納税",
+        "quarterly-compliance": "コンプライアンス日程",
+        "ca-access": "会計士の一時アクセス",
+        "gst-from-books": "書籍からの GST"
+      },
+      "reports": {
+        "financial-statements": "財務諸表",
+        "books": "取引帳簿",
+        "gst-reports": "GST レポート",
+        "ar-ap": "売掛金と買掛金",
+        "profitability": "収益性",
+        "period-comparatives": "年次比較",
+        "budget-vs-actuals": "予算管理",
+        "cashflow-projection": "資金予測",
+        "report-builder": "カスタムレポート",
+        "general-ledger": "総勘定元帳",
+        "live-financials": "ライブ財務",
+        "ai-analyst": "AIアナリスト"
+      },
+      "advanced-features": {
+        "overview": "概要"
+      },
+      "parties": {
+        "all-parties": "全取引先",
+        "customer-ledgers": "得意先",
+        "supplier-ledgers": "仕入先",
+        "shared-ledger": "共有勘定",
+        "statements": "明細書",
+        "reminders": "リマインダー",
+        "documents": "党文書",
+        "portal": "パーティーポータル",
+        "import": "パーティーインポート",
+        "duplicate-merge": "重複マージ",
+        "gap-analysis": "ギャップ分析"
+      },
+      "inventory": {
+        "inventory-items": "品目",
+        "godowns": "倉庫",
+        "stock-movement": "在庫移動",
+        "item-pricing": "価格設定",
+        "stock-valuation": "株式評価",
+        "reorder-alerts": "アラートの並べ替え",
+        "batch-serials": "バッチとシリアル",
+        "barcode-labels": "バーコードラベル",
+        "item-import": "アイテムのインポート",
+        "gap-analysis": "ギャップ分析"
+      },
+      "assets": {
+        "asset-register": "資産一覧",
+        "depreciation": "減価償却",
+        "disposal-revaluation": "売却・再評価"
+      },
+      "masters": {
+        "chart-of-accounts": "勘定科目",
+        "tax-masters": "税率",
+        "cost-centers": "原価センター",
+        "voucher-types": "取引区分",
+        "opening-balances": "期首残高",
+        "currencies": "通貨"
+      },
+      "business-tools": {
+        "staff-payroll": "給与",
+        "manage-users": "ユーザー権限",
+        "online-orders": "オンライン注文",
+        "sms-marketing": "SMS マーケティング",
+        "accountant-hub": "会計士とサポート"
+      },
+      "party-tools": {
+        "documents": "取引先書類",
+        "portal": "取引先ポータル",
+        "import": "取引先インポート",
+        "duplicate-merge": "重複の統合",
+        "gap-analysis": "ギャップ分析"
+      },
+      "item-tools": {
+        "reorder-alerts": "発注点アラート",
+        "batch-serials": "ロットとシリアル",
+        "barcode-labels": "バーコードラベル",
+        "item-import": "品目インポート",
+        "gap-analysis": "ギャップ分析"
+      },
+      "storage": {
+        "client-storage": "顧客ファイル",
+        "unifiedtree-storage": "クラウドストレージ"
+      },
+      "alerts": {
+        "accountant-alerts": "経理アラート",
+        "compliance-alerts": "コンプライアンスアラート",
+        "cash-risk-alerts": "資金・リスクアラート",
+        "ca-access": "会計士の一時アクセス"
+      },
+      "migration": {
+        "import": "データのインポート",
+        "export": "データのエクスポート",
+        "history": "インポート履歴",
+        "tally-import": "Tally と Zoho からのインポート"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "購入と支払い",
+      "accountingSetup": "会計の設定",
+      "dataDocuments": "データとドキュメント"
+    }
+  },
+  "common": {
+    "save": "変更を保存",
+    "cancel": "キャンセル",
+    "create": "作成",
+    "edit": "編集",
+    "delete": "削除",
+    "search": "検索",
+    "connect": "接続",
+    "configure": "設定",
+    "disconnect": "切断",
+    "sync": "今すぐ同期",
+    "close": "閉じる",
+    "reset": "既定値に戻す",
+    "back": "戻る",
+    "continue": "続行",
+    "all": "すべて",
+    "retry": "再試行",
+    "loading": "読み込み中…",
+    "resetDemo": "デモデータをリセット"
+  },
+  "shell": {
+    "searchPlaceholder": "何でも検索…",
+    "settings": "設定",
+    "language": "言語",
+    "role": "ロール",
+    "greeting": {
+      "morning": "おはようございます",
+      "afternoon": "こんにちは",
+      "evening": "こんばんは"
+    },
+    "settingsItems": {
+      "company-profile": "会社情報",
+      "configuration": "構成",
+      "fiscal-periods": "会計期間",
+      "roles": "ロールとユーザー",
+      "integrations": "連携",
+      "notifications": "通知",
+      "audit-logs": "監査とログ",
+      "audit-trail": "改ざん防止の監査証跡",
+      "developer": "開発者とAPI"
+    },
+    "translatedLanguages": "翻訳済み",
+    "untranslatedLanguages": "翻訳されるまで英語"
+  },
+  "status": {
+    "filed": "申告済み",
+    "ready": "申告可能",
+    "open": "期間中",
+    "paid": "支払済み",
+    "pending": "保留中",
+    "accepted": "受理",
+    "delivered": "送信済み",
+    "rejected": "却下",
+    "pdf-sent": "PDF 送信済み",
+    "not-sent": "未送信",
+    "matched": "照合済み",
+    "mismatch": "不一致",
+    "missing-supplier": "仕入先未報告",
+    "missing-books": "帳簿に未計上",
+    "deferred": "繰延",
+    "deducted": "源泉徴収済み",
+    "remitted": "納付済み",
+    "certified": "証明書発行済み",
+    "to-report": "報告予定",
+    "reported": "報告済み",
+    "accounted": "計上済み",
+    "overdue": "期限超過"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "申告可能",
+      "liabilityDue": "納付額",
+      "paidThisYear": "今年の納付額",
+      "nextDeadline": "次の期限",
+      "noneOverdue": "期限超過なし",
+      "overdue": "{{count}} 件が期限超過"
+    },
+    "filter": {
+      "ready": "申告可能",
+      "open": "期間中",
+      "filed": "申告済み"
+    },
+    "col": {
+      "period": "期間",
+      "authority": "税務当局",
+      "rate": "税率",
+      "due": "期限",
+      "netPayable": "納付税額",
+      "status": "ステータス",
+      "ack": "受付番号"
+    },
+    "file": "申告",
+    "view": "表示",
+    "fileForm": "{{form}} を申告",
+    "loadingJurisdiction": "税制を読み込み中…",
+    "nothingToFile": "申告待ちの申告書はありません — 締め済みの期間はすべて提出済みです。",
+    "fileNext": "次に申告：{{name}}",
+    "steps": {
+      "review": "確認",
+      "validate": "検証",
+      "declare": "宣誓と提出",
+      "ack": "受付"
+    },
+    "runValidation": "検証を実行",
+    "validating": "検証中…",
+    "submit": "{{form}} を提出",
+    "submitting": "提出中…",
+    "declaration": "この申告書の内容が真実かつ完全であり、{{authority}} へ提出する権限があることを宣誓します。",
+    "netAmount": "差引額",
+    "submitted": "提出済み",
+    "filedOn": "申告日",
+    "regime": {
+      "authority": "税務当局",
+      "channel": "申告方法",
+      "return": "申告書",
+      "due": "期限",
+      "standardRate": "標準税率",
+      "threshold": "登録基準"
+    },
+    "demoNote": "内蔵の模擬税務 API によるデモデータです — 申告と納付は模擬であり、税務当局には送信されません。"
+  },
+  "fx": {
+    "title": "外貨",
+    "subtitle": "基準通貨 {{base}} · 参考用の模擬レート",
+    "newDoc": "外貨建て請求書 / 支払請求を作成",
+    "kpi": {
+      "netExposure": "為替エクスポージャー（純額）",
+      "openDocs": "未決済書類 {{count}} 件",
+      "unrealized": "評価損益",
+      "postedSplit": "計上済み {{posted}} · 未計上 {{unposted}}",
+      "realized": "今年の実現損益",
+      "lastReval": "前回の評価替え",
+      "never": "なし",
+      "suggested": "推奨日：{{date}}"
+    },
+    "view": {
+      "open": "未決済",
+      "settled": "決済済み",
+      "revaluation": "月末評価替え",
+      "journal": "為替仕訳"
+    },
+    "col": {
+      "document": "書類",
+      "type": "種類",
+      "openForeign": "未決済（外貨）",
+      "bookedNow": "計上 / 現在レート",
+      "valueIn": "{{base}} 換算額",
+      "unrealized": "評価損益",
+      "status": "ステータス",
+      "amount": "金額",
+      "bookedRate": "計上レート",
+      "realized": "実現損益"
+    },
+    "receivable": "売掛",
+    "payable": "買掛",
+    "receive": "入金",
+    "pay": "支払",
+    "netIn": "{{base}} 純額",
+    "state": {
+      "settled": "決済済み",
+      "partial": "一部決済",
+      "open": "未決済"
+    },
+    "demoNote": "内蔵の模擬 API によるデモデータです — レートは模擬値で、実際の市場データではありません。"
+  }
+}

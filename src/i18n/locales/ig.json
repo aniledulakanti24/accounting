@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Kwa ụbọchị",
+      "finance": "Ego",
+      "advanced": "Nke dị elu"
+    },
+    "mainMenu": "Isi menu",
+    "short": {
+      "parties": "Ndị otu"
+    },
+    "sections": {
+      "dashboard": "Dashboard",
+      "sales": "Ahịa",
+      "receivables": "Ego n'ime",
+      "procurement": "Nzụta",
+      "payables": "Ego Apụọ",
+      "cashbank": "Ego nkịtị & Bank",
+      "expenses": "Mmefu",
+      "tax": "Ụtụ isi",
+      "reports": "Akụkọ",
+      "advanced-features": "Atụmatụ dị elu",
+      "parties": "Ndị ahịa & ndị na-eweta ngwaahịa",
+      "inventory": "Ihe",
+      "assets": "Akụrụngwa edobere",
+      "masters": "Ntọala & Nhazi",
+      "business-tools": "Otu & Ngwa",
+      "party-tools": "Ngwa oriri na ọṅụṅụ",
+      "item-tools": "Ngwa Ngwa",
+      "storage": "Akwụkwọ",
+      "alerts": "Nti mkpu",
+      "migration": "Mbugharị data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Nchịkọta",
+        "cash-flow": "Usoro ego",
+        "tax-calendar": "Kalenda ụtụ isi"
+      },
+      "sales": {
+        "quotations": "Nkwupụta okwu",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Akwụkwọ ọnụahịa",
+        "delivery-challans": "Nnyefe Challan",
+        "receipts": "Nnata",
+        "invoice-desk": "Desktọpụ akwụkwọ ọnụahịa"
+      },
+      "receivables": {
+        "money-in-center": "Ego na Center",
+        "receivables": "Ihe nnata",
+        "payments-received": "Anatara ugwo",
+        "overdue-collections": "Nchịkọta & Ihe ncheta",
+        "credit-notes": "Ndetu kredit & nkwụghachi",
+        "sales-returns": "Nlaghachi ọrịre",
+        "customer-statements": "Nkwupụta ndị ahịa",
+        "payment-links": "Njikọ ịkwụ ụgwọ"
+      },
+      "procurement": {
+        "purchase-center": "Ebe Ịzụta",
+        "purchase-orders": "Iwu ịzụta",
+        "goods-receipt": "Nnata ngwaahịa",
+        "purchase-invoices": "Ịzụta akwụkwọ ọnụahịa",
+        "payment-out": "Emere ugwo",
+        "returns-debit-notes": "Nlaghachi & ndetu debit",
+        "bill-approvals": "Nkwenye ụgwọ"
+      },
+      "payables": {
+        "bills": "Ebe akwụ ụgwọ",
+        "payments": "Ịkwụ ụgwọ ndị na-ebubata ihe",
+        "workforce": "Ndị ọrụ",
+        "adjustments": "Ndozigharị",
+        "bank-release": "Mwepụta ụlọ akụ"
+      },
+      "cashbank": {
+        "bank-accounts": "Akaụntụ m",
+        "reconciliation": "Azụmahịa dakọtara",
+        "cash-petty": "Obere ego",
+        "contra": "N'etiti Akaụntụ",
+        "cheque-register": "Nyochaa",
+        "foreign-currency": "Ego mba ofesi",
+        "bank-feeds": "Nri ụlọ akụ",
+        "bank-rules": "Iwu & Mkpekọrịta"
+      },
+      "expenses": {
+        "expense-center": "Ego niile",
+        "categories": "Ụdị mmefu",
+        "automated-bills": "Mmefu ugboro ugboro",
+        "journal-vouchers": "Ndenye akwụkwọ ntuziaka",
+        "provisions": "Ọnụ ego",
+        "write-offs": "Nkọwapụta",
+        "period-close": "Ọnwa- Ọgwụgwụ"
+      },
+      "tax": {
+        "gst-returns": "Ntinye akwụkwọ GST",
+        "gst-filing-wizard": "⚡ faịlụ GSTR-3B",
+        "gst-reconciliation": "GST Dakọtara",
+        "e-invoicing": "E-akwụkwọ ọnụahịa",
+        "e-way-bills": "Ụgwọ E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Kwụọ Ụtụ Isi",
+        "quarterly-compliance": "Kalenda nnabata",
+        "ca-access": "CA nnweta nwa oge",
+        "gst-from-books": "GST sitere na akwụkwọ"
+      },
+      "reports": {
+        "financial-statements": "Akụkọ gbasara ego",
+        "books": "Akwụkwọ azụmahịa",
+        "gst-reports": "Akụkọ GST",
+        "ar-ap": "Nkwụghachi ụgwọ vs akwụ ụgwọ",
+        "profitability": "Uru",
+        "period-comparatives": "Ntụnyere Afọ",
+        "budget-vs-actuals": "Ihe nleba anya mmefu ego",
+        "cashflow-projection": "Amụma ego",
+        "report-builder": "Akụkọ omenala",
+        "general-ledger": "General Ledger",
+        "live-financials": "Ego ego dị ndụ",
+        "ai-analyst": "Onye nyocha AI"
+      },
+      "advanced-features": {
+        "overview": "Nchịkọta"
+      },
+      "parties": {
+        "all-parties": "Ndị otu niile",
+        "customer-ledgers": "Ndị ahịa",
+        "supplier-ledgers": "Ndị na-eweta ihe",
+        "shared-ledger": "Ekekọrịtara Ledger",
+        "statements": "Okwu",
+        "reminders": "Ihe ncheta",
+        "documents": "Akwụkwọ Party",
+        "portal": "Portal Party",
+        "import": "Mbubata oriri na ọṅụṅụ",
+        "duplicate-merge": "Ngwakọta oyiri",
+        "gap-analysis": "Ntụle oghere"
+      },
+      "inventory": {
+        "inventory-items": "Ihe",
+        "godowns": "Ụlọ nkwakọba ihe",
+        "stock-movement": "Ntugharị ngwaahịa",
+        "item-pricing": "Ịnye ọnụ ahịa",
+        "stock-valuation": "Ọnụ ahịa ngwaahịa",
+        "reorder-alerts": "Dọgharịa ọkwa",
+        "batch-serials": "Ogbe & Oghere Usoro",
+        "barcode-labels": "Akara koodu",
+        "item-import": "Bubata ihe",
+        "gap-analysis": "Ntụle oghere"
+      },
+      "assets": {
+        "asset-register": "Ndepụta Akụrụngwa",
+        "depreciation": "Mbelata ọnụ ahịa",
+        "disposal-revaluation": "Na-ere ma ọ bụ Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Ndepụta Akaụntụ",
+        "tax-masters": "Ọnụ ego ụtụ",
+        "cost-centers": "Ụlọ Ahịa",
+        "voucher-types": "Ụdị azụmahịa",
+        "opening-balances": "Mmalite nha nha",
+        "currencies": "Ego"
+      },
+      "business-tools": {
+        "staff-payroll": "Ụgwọ ụgwọ",
+        "manage-users": "Nweta onye ọrụ",
+        "online-orders": "Iwu ntanetị",
+        "sms-marketing": "SMS ahịa",
+        "accountant-hub": "Ndị Akaụntụ & Nkwado"
+      },
+      "party-tools": {
+        "documents": "Akwụkwọ Party",
+        "portal": "Portal Party",
+        "import": "Mbubata oriri na ọṅụṅụ",
+        "duplicate-merge": "Ngwakọta oyiri",
+        "gap-analysis": "Ntụle oghere"
+      },
+      "item-tools": {
+        "reorder-alerts": "Dọgharịa ọkwa",
+        "batch-serials": "Ogbe & Oghere Usoro",
+        "barcode-labels": "Akara koodu",
+        "item-import": "Bubata ihe",
+        "gap-analysis": "Ntụle oghere"
+      },
+      "storage": {
+        "client-storage": "Faịlụ ndị ahịa",
+        "unifiedtree-storage": "Nchekwa igwe ojii"
+      },
+      "alerts": {
+        "accountant-alerts": "Akaụntụ mkpu",
+        "compliance-alerts": "Nkwanye nnabata",
+        "cash-risk-alerts": "Ego na ihe egwu egwu",
+        "ca-access": "CA nnweta nwa oge"
+      },
+      "migration": {
+        "import": "Bubata data",
+        "export": "Mbupu data",
+        "history": "Bubata akụkọ ihe mere eme",
+        "tally-import": "Bubata site na Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Nzụta & ịkwụ ụgwọ",
+      "accountingSetup": "Ntọala Akaụntụ",
+      "dataDocuments": "Data & Akwụkwọ"
+    }
+  },
+  "common": {
+    "save": "Chekwaa mgbanwe",
+    "cancel": "Kagbuo",
+    "create": "Mepụta",
+    "edit": "Dezie",
+    "delete": "Hichapụ",
+    "search": "Chọọ",
+    "connect": "Jikọọ",
+    "configure": "Hazie",
+    "disconnect": "Kwupu njikọ",
+    "sync": "Mekọrịta Ugbu a",
+    "close": "Mechie",
+    "reset": "Tọgharịa na ndabara",
+    "back": "Azu",
+    "continue": "Gaa n'ihu",
+    "all": "Ha niile",
+    "retry": "Gbalịa ọzọ",
+    "loading": "Na-ebugo…",
+    "resetDemo": "Tọgharia data ngosi"
+  },
+  "shell": {
+    "searchPlaceholder": "Chọọ ihe ọ bụla…",
+    "settings": "Ntọala",
+    "language": "Asụsụ",
+    "role": "Ọrụ",
+    "greeting": {
+      "morning": "Ụtụtụ ọma",
+      "afternoon": "Ehihie ọma",
+      "evening": "Mgbede ọma"
+    },
+    "settingsItems": {
+      "company-profile": "Nkọwapụta Ụlọ ọrụ",
+      "configuration": "Nhazi",
+      "fiscal-periods": "Oge mmefu ego",
+      "roles": "Ọrụ & Ndị ọrụ",
+      "integrations": "Mmekọrịta",
+      "notifications": "Amamọkwa",
+      "audit-logs": "Nyocha & ndekọ",
+      "audit-trail": "Ụzọ nyocha nyocha ihe na-adịghị mma",
+      "developer": "Onye nrụpụta & API"
+    },
+    "translatedLanguages": "Asụgharị",
+    "untranslatedLanguages": "Bekee ruo mgbe a sụgharịrị ya"
+  },
+  "status": {
+    "filed": "Etinyere akwụkwọ",
+    "ready": "Dị njikere itinye akwụkwọ",
+    "open": "Oge mepere emepe",
+    "paid": "Akwụ ụgwọ",
+    "pending": "Na-echere",
+    "accepted": "anabatara",
+    "delivered": "Enyere ya",
+    "rejected": "Ajụjụ",
+    "pdf-sent": "PDF zitere",
+    "not-sent": "E zitereghị ya",
+    "matched": "Dakọtara",
+    "mismatch": "Ekwekọrịtaghị",
+    "missing-supplier": "Onye na-ebubata anaghị akọpụta ya",
+    "missing-books": "Na-efu na akwụkwọ",
+    "deferred": "Ebutere",
+    "deducted": "Ewepụrụ",
+    "remitted": "ewepụrụ",
+    "certified": "Asambodo",
+    "to-report": "Ịkọ akụkọ",
+    "reported": "Kwuru",
+    "accounted": "Agụnyere",
+    "overdue": "Agafeela"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Dị njikere itinye akwụkwọ",
+      "liabilityDue": "Nrụ ọrụ ruru",
+      "paidThisYear": "Akwụ ụgwọ afọ a",
+      "nextDeadline": "Oge njedebe na-abịa",
+      "noneOverdue": "Ọnweghị nke agafeela",
+      "overdue": "{{count}} agafeela"
+    },
+    "filter": {
+      "ready": "Dị njikere itinye akwụkwọ",
+      "open": "Mepee",
+      "filed": "Etinyere akwụkwọ"
+    },
+    "col": {
+      "period": "Oge",
+      "authority": "ikike",
+      "rate": "Ọnụ ego",
+      "due": "N'ihi",
+      "netPayable": "Net nwere ike ịkwụ ụgwọ",
+      "status": "Ọnọdụ",
+      "ack": "Nkwenye"
+    },
+    "file": "Faịlụ",
+    "view": "Lelee",
+    "fileForm": "Faịlụ {{form}}",
+    "loadingJurisdiction": "Na-ebu ikike ikike…",
+    "nothingToFile": "Ọ dịghị nloghachi na-echere ka ịdebanye aha - a na-etinye oge niile mechiri emechi.",
+    "fileNext": "Faịlụ na-esote: {{name}}",
+    "steps": {
+      "review": "Nyochaa",
+      "validate": "Kwado",
+      "declare": "Kwuwapụta & nyefee",
+      "ack": "Nkwenye"
+    },
+    "runValidation": "Gbaa nkwado",
+    "validating": "Na-akwado…",
+    "submit": "Nyefee {{form}}",
+    "submitting": "Na-enyefe…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Ọnụ ego netwọkụ",
+    "submitted": "Enyere ya",
+    "filedOn": "Etinyere akwụkwọ",
+    "regime": {
+      "authority": "ikike",
+      "channel": "Ọwa ntinye akwụkwọ",
+      "return": "laghachi",
+      "due": "N'ihi",
+      "standardRate": "Ọkọlọtọ ọnụego",
+      "threshold": "Oke ndebanye aha"
+    },
+    "demoNote": "Ihe ngosi ngosi sitere na API tax mock mock arụnyere - a na-emekọ ihe ndekọ na ịkwụ ụgwọ na ọ nweghị ihe ezigara ndị ọchịchị ụtụ isi."
+  },
+  "fx": {
+    "title": "Ego mba ofesi",
+    "subtitle": "Ego ntọala {{base}} · ọnụ ahịa ahịa aghụghọ na-egosi",
+    "newDoc": "Akwụkwọ ọnụahịa FX ọhụrụ",
+    "kpi": {
+      "netExposure": "Mkpughe FX net",
+      "openDocs": "{{count}} akwụkwọ mepere emepe",
+      "unrealized": "Enwetaghị uru / mfu",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Aghọtara n'afọ a",
+      "lastReval": "Ntụle ikpeazụ",
+      "never": "Ọ dịghị mgbe",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Mepee ihe",
+      "settled": "Ebidoro",
+      "revaluation": "Ntụle ngwụcha ọnwa",
+      "journal": "Akwụkwọ akụkọ FX"
+    },
+    "col": {
+      "document": "Akwụkwọ",
+      "type": "Ụdị",
+      "openForeign": "Mepee (mba ọzọ)",
+      "bookedNow": "Edere akwụkwọ / ugbu a",
+      "valueIn": "Uru dị na {{base}}",
+      "unrealized": "Amabeghị",
+      "status": "Ọnọdụ",
+      "amount": "Ọnụ ego",
+      "bookedRate": "Ọnụ ego agbadoro",
+      "realized": "Aghọtara"
+    },
+    "receivable": "Enwere ike ịnata",
+    "payable": "Enwere ike ịkwụ ụgwọ",
+    "receive": "Nara",
+    "pay": "Kwụọ",
+    "netIn": "Net na {{base}}",
+    "state": {
+      "settled": "Ebidoro",
+      "partial": "Nkebi-kwadoro",
+      "open": "Mepee"
+    },
+    "demoNote": "Data ngosi sitere na API mock arụnyere arụnyere - a na-emekọ ọnụ ahịa, ọ bụghị data ahịa dị ndụ."
+  }
+}

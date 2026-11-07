@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ojo si ojo",
+      "finance": "Isuna",
+      "advanced": "To ti ni ilọsiwaju"
+    },
+    "mainMenu": "Akojọ aṣyn akọkọ",
+    "short": {
+      "parties": "Awọn ẹgbẹ"
+    },
+    "sections": {
+      "dashboard": "Dasibodu",
+      "sales": "Titaja",
+      "receivables": "Owo Ni",
+      "procurement": "Awọn rira",
+      "payables": "Owo Jade",
+      "cashbank": "Owo & Bank",
+      "expenses": "Awọn inawo",
+      "tax": "Owo-ori",
+      "reports": "Iroyin",
+      "advanced-features": "To ti ni ilọsiwaju Awọn ẹya ara ẹrọ",
+      "parties": "Onibara & Olupese",
+      "inventory": "Awọn nkan",
+      "assets": "Awọn dukia ti o wa titi",
+      "masters": "Eto & Iṣeto",
+      "business-tools": "Ẹgbẹ & Awọn irinṣẹ",
+      "party-tools": "Party Tools",
+      "item-tools": "Awọn irinṣẹ Ohun elo",
+      "storage": "Awọn iwe aṣẹ",
+      "alerts": "Awọn itaniji",
+      "migration": "Iṣilọ Data"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Akopọ",
+        "cash-flow": "Owo Irina",
+        "tax-calendar": "Kalẹnda owo-ori"
+      },
+      "sales": {
+        "quotations": "Awọn agbasọ ọrọ",
+        "proforma-invoices": "PI",
+        "sales-invoices": "risiti",
+        "delivery-challans": "Ifijiṣẹ Challan",
+        "receipts": "gbigba",
+        "invoice-desk": "Iduro risiti"
+      },
+      "receivables": {
+        "money-in-center": "Owo Ni Center",
+        "receivables": "Awọn gbigba",
+        "payments-received": "Awọn sisanwo Ti gba",
+        "overdue-collections": "Awọn akojọpọ & Awọn olurannileti",
+        "credit-notes": "Awọn akọsilẹ Kirẹditi & Awọn agbapada",
+        "sales-returns": "Tita Pada",
+        "customer-statements": "Onibara Gbólóhùn",
+        "payment-links": "Awọn ọna asopọ isanwo"
+      },
+      "procurement": {
+        "purchase-center": "Ile-iṣẹ rira",
+        "purchase-orders": "Awọn ibere rira",
+        "goods-receipt": "Gbigba ọja",
+        "purchase-invoices": "Awọn risiti rira",
+        "payment-out": "Awọn sisanwo Ṣe",
+        "returns-debit-notes": "Pada & Awọn akọsilẹ Debiti",
+        "bill-approvals": "Awọn ifọwọsi Bill"
+      },
+      "payables": {
+        "bills": "Pay Center",
+        "payments": "Awọn sisanwo olupese",
+        "workforce": "Agbara iṣẹ",
+        "adjustments": "Awọn atunṣe",
+        "bank-release": "Ifiweranṣẹ Bank"
+      },
+      "cashbank": {
+        "bank-accounts": "Awọn akọọlẹ Mi",
+        "reconciliation": "Baramu lẹkọ",
+        "cash-petty": "Owo kekere",
+        "contra": "Laarin Awọn iroyin",
+        "cheque-register": "Awọn sọwedowo",
+        "foreign-currency": "Owo ajeji",
+        "bank-feeds": "Bank Awọn ifunni",
+        "bank-rules": "Ofin & ilaja"
+      },
+      "expenses": {
+        "expense-center": "Gbogbo Awọn inawo",
+        "categories": "Awọn oriṣi inawo",
+        "automated-bills": "Awọn inawo loorekoore",
+        "journal-vouchers": "Awọn titẹ sii Afowoyi",
+        "provisions": "Awọn iṣiro",
+        "write-offs": "Awọn kikọ silẹ",
+        "period-close": "Osu-Ipari"
+      },
+      "tax": {
+        "gst-returns": "Gbigbasilẹ GST",
+        "gst-filing-wizard": "⚡ Faili GSTR-3B",
+        "gst-reconciliation": "Ibamu GST",
+        "e-invoicing": "Awọn risiti E-",
+        "e-way-bills": "Awọn owo-owo E-Ọna",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "San owo-ori",
+        "quarterly-compliance": "Kalẹnda ibamu",
+        "ca-access": "CA ibùgbé Wiwọle",
+        "gst-from-books": "GST lati Awọn iwe"
+      },
+      "reports": {
+        "financial-statements": "Owo Iroyin",
+        "books": "Idunadura Books",
+        "gst-reports": "Awọn ijabọ GST",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "Èrè",
+        "period-comparatives": "Ifiwera Ọdun",
+        "budget-vs-actuals": "Isuna Tracker",
+        "cashflow-projection": "Asọtẹlẹ owo",
+        "report-builder": "Aṣa Iroyin",
+        "general-ledger": "Gbogbogbo Ledger",
+        "live-financials": "Live Financials",
+        "ai-analyst": "AI Oluyanju"
+      },
+      "advanced-features": {
+        "overview": "Akopọ"
+      },
+      "parties": {
+        "all-parties": "Gbogbo Parties",
+        "customer-ledgers": "Onibara",
+        "supplier-ledgers": "Awọn olupese",
+        "shared-ledger": "Pipin Ledger",
+        "statements": "Gbólóhùn",
+        "reminders": "Awọn olurannileti",
+        "documents": "Party Awọn iwe aṣẹ",
+        "portal": "Party Portal",
+        "import": "Party gbe wọle",
+        "duplicate-merge": "Pidánpidán Dapọ",
+        "gap-analysis": "Aafo Analysis"
+      },
+      "inventory": {
+        "inventory-items": "Awọn nkan",
+        "godowns": "Awọn ile itaja",
+        "stock-movement": "Iṣura ronu",
+        "item-pricing": "Ifowoleri",
+        "stock-valuation": "Iṣura Idiyele",
+        "reorder-alerts": "Tunto titaniji",
+        "batch-serials": "ipele & Tẹlentẹle",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Nkan gbe wọle",
+        "gap-analysis": "Aafo Analysis"
+      },
+      "assets": {
+        "asset-register": "Akojọ dukia",
+        "depreciation": "Idinku",
+        "disposal-revaluation": "Ta tabi Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Atokọ Akojọ",
+        "tax-masters": "Awọn oṣuwọn owo-ori",
+        "cost-centers": "Awọn ile-iṣẹ idiyele",
+        "voucher-types": "Idunadura Orisi",
+        "opening-balances": "Bibẹrẹ Awọn iwọntunwọnsi",
+        "currencies": "Awọn owo nina"
+      },
+      "business-tools": {
+        "staff-payroll": "Owo sisanwo",
+        "manage-users": "Wiwọle olumulo",
+        "online-orders": "Awọn aṣẹ lori ayelujara",
+        "sms-marketing": "SMS Tita",
+        "accountant-hub": "Accountants & Support"
+      },
+      "party-tools": {
+        "documents": "Party Awọn iwe aṣẹ",
+        "portal": "Party Portal",
+        "import": "Party gbe wọle",
+        "duplicate-merge": "Pidánpidán Dapọ",
+        "gap-analysis": "Aafo Analysis"
+      },
+      "item-tools": {
+        "reorder-alerts": "Tunto titaniji",
+        "batch-serials": "ipele & Tẹlentẹle",
+        "barcode-labels": "Barcode Labels",
+        "item-import": "Nkan gbe wọle",
+        "gap-analysis": "Aafo Analysis"
+      },
+      "storage": {
+        "client-storage": "Awọn faili Onibara",
+        "unifiedtree-storage": "Awọsanma Ibi ipamọ"
+      },
+      "alerts": {
+        "accountant-alerts": "Awọn Itaniji Oniṣiro",
+        "compliance-alerts": "Awọn Itaniji Ibamu",
+        "cash-risk-alerts": "Owo & Awọn titaniji Ewu",
+        "ca-access": "CA ibùgbé Wiwọle"
+      },
+      "migration": {
+        "import": "Gbe Data wọle",
+        "export": "Gbejade Data",
+        "history": "Itan Akowọle",
+        "tally-import": "Gbe wọle lati Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Awọn rira & Awọn sisanwo",
+      "accountingSetup": "Iṣiro Iṣeto",
+      "dataDocuments": "Data & Awọn iwe aṣẹ"
+    }
+  },
+  "common": {
+    "save": "Fipamọ awọn iyipada",
+    "cancel": "Fagilee",
+    "create": "Ṣẹda",
+    "edit": "Ṣatunkọ",
+    "delete": "Paarẹ",
+    "search": "Wa",
+    "connect": "Sopọ",
+    "configure": "Tunto",
+    "disconnect": "Ge asopọ",
+    "sync": "Muṣiṣẹpọ Bayi",
+    "close": "Sunmọ",
+    "reset": "Tunto si Awọn aiyipada",
+    "back": "Pada",
+    "continue": "Tesiwaju",
+    "all": "Gbogbo",
+    "retry": "Tun gbiyanju",
+    "loading": "Nkojọpọ…",
+    "resetDemo": "Tun data demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Wa ohunkohun…",
+    "settings": "Eto",
+    "language": "Ede",
+    "role": "Ipa",
+    "greeting": {
+      "morning": "E kaaro",
+      "afternoon": "E kaasan",
+      "evening": "Ka a ale"
+    },
+    "settingsItems": {
+      "company-profile": "Ifihan ile ibi ise",
+      "configuration": "Iṣeto ni",
+      "fiscal-periods": "Awọn akoko inawo",
+      "roles": "Awọn ipa & Awọn olumulo",
+      "integrations": "Awọn akojọpọ",
+      "notifications": "Awọn iwifunni",
+      "audit-logs": "Ayẹwo & Awọn akọọlẹ",
+      "audit-trail": "Tamper-ẹri Audit Trail",
+      "developer": "Olùgbéejáde & API"
+    },
+    "translatedLanguages": "Tumọ",
+    "untranslatedLanguages": "English titi ti túmọ"
+  },
+  "status": {
+    "filed": "Fi silẹ",
+    "ready": "Ṣetan lati faili",
+    "open": "Akoko ṣiṣi",
+    "paid": "Sanwo",
+    "pending": "Ni isunmọtosi",
+    "accepted": "Ti gba",
+    "delivered": "Ti fi jiṣẹ",
+    "rejected": "Ti kọ",
+    "pdf-sent": "PDF rán",
+    "not-sent": "Ko firanṣẹ",
+    "matched": "Ti baamu",
+    "mismatch": "Ibamu",
+    "missing-supplier": "Ko royin nipasẹ olupese",
+    "missing-books": "Sonu ninu awọn iwe ohun",
+    "deferred": "Ti da duro",
+    "deducted": "Ti yọkuro",
+    "remitted": "Ti firanṣẹ",
+    "certified": "Ifọwọsi",
+    "to-report": "Lati jabo",
+    "reported": "Iroyin",
+    "accounted": "Ti ṣe iṣiro",
+    "overdue": "Ti pẹ"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Ṣetan lati faili",
+      "liabilityDue": "Layabiliti nitori",
+      "paidThisYear": "San odun yi",
+      "nextDeadline": "Next ipari",
+      "noneOverdue": "Ko si ti pẹ",
+      "overdue": "{{count}} ti ku"
+    },
+    "filter": {
+      "ready": "Ṣetan lati faili",
+      "open": "Ṣii",
+      "filed": "Fi silẹ"
+    },
+    "col": {
+      "period": "Akoko",
+      "authority": "Aṣẹ",
+      "rate": "Oṣuwọn",
+      "due": "Nitori",
+      "netPayable": "Nẹtiwọki sisan",
+      "status": "Ipo",
+      "ack": "Ifọwọsi"
+    },
+    "file": "Faili",
+    "view": "Wo",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Ikojọpọ ẹjọ…",
+    "nothingToFile": "Ko si awọn ipadabọ ti o nduro lati fi silẹ - gbogbo awọn akoko pipade ni a fi silẹ.",
+    "fileNext": "Faili tókàn: {{name}}",
+    "steps": {
+      "review": "Atunwo",
+      "validate": "Fifọwọsi",
+      "declare": "Sọ & fi silẹ",
+      "ack": "Ifọwọsi"
+    },
+    "runValidation": "Ṣiṣe afọwọsi",
+    "validating": "Ifọwọsi…",
+    "submit": "Submit {{form}}",
+    "submitting": "Nfi silẹ…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Apapọ iye",
+    "submitted": "Ti fi silẹ",
+    "filedOn": "Fi silẹ lori",
+    "regime": {
+      "authority": "Aṣẹ",
+      "channel": "Iforukọsilẹ ikanni",
+      "return": "Pada",
+      "due": "Nitori",
+      "standardRate": "Standard oṣuwọn",
+      "threshold": "Iforukọsilẹ ala"
+    },
+    "demoNote": "Data demo lati inu API-ori ẹlẹgàn ti a ṣe sinu - awọn iforukọsilẹ ati awọn sisanwo jẹ afarawe ko si nkankan ti a firanṣẹ si aṣẹ-ori kan."
+  },
+  "fx": {
+    "title": "Owo ajeji",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "New FX risiti / owo",
+    "kpi": {
+      "netExposure": "Nẹtiwọki FX ifihan",
+      "openDocs": "{{count}} awọn iwe aṣẹ ṣiṣi",
+      "unrealized": "Unrealized anfani / adanu",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Ti mọ ni ọdun yii",
+      "lastReval": "Atunyẹwo to kẹhin",
+      "never": "Kò",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Ṣii awọn nkan",
+      "settled": "Ti yanju",
+      "revaluation": "Osu-opin revaluation",
+      "journal": "Iwe akọọlẹ FX"
+    },
+    "col": {
+      "document": "Iwe aṣẹ",
+      "type": "Iru",
+      "openForeign": "Ṣii (ajeji)",
+      "bookedNow": "Ti fowo si / bayi",
+      "valueIn": "Iye ni {{base}}",
+      "unrealized": "Ti ko mọ",
+      "status": "Ipo",
+      "amount": "Iye",
+      "bookedRate": "Oṣuwọn kọnputa",
+      "realized": "Ti mọ"
+    },
+    "receivable": "gbigba",
+    "payable": "Sisanwo",
+    "receive": "Gba",
+    "pay": "Sanwo",
+    "netIn": "Net ni {{base}}",
+    "state": {
+      "settled": "Ti yanju",
+      "partial": "Apakan-yanju",
+      "open": "Ṣii"
+    },
+    "demoNote": "Data demo lati inu API ẹlẹgàn ti a ṣe sinu — awọn oṣuwọn jẹ afarawe, kii ṣe data ọja laaye."
+  }
+}

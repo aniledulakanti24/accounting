@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Frá degi til dags",
+      "finance": "Fjármál",
+      "advanced": "Ítarlegri"
+    },
+    "mainMenu": "Aðalvalmynd",
+    "short": {
+      "parties": "Veislur"
+    },
+    "sections": {
+      "dashboard": "Mælaborð",
+      "sales": "Sala",
+      "receivables": "Peningar inn",
+      "procurement": "Innkaup",
+      "payables": "Peningar út",
+      "cashbank": "Reiðufé og banki",
+      "expenses": "Útgjöld",
+      "tax": "Skattur",
+      "reports": "Skýrslur",
+      "advanced-features": "Ítarlegir eiginleikar",
+      "parties": "Viðskiptavinir og birgjar",
+      "inventory": "Atriði",
+      "assets": "Fastafjármunir",
+      "masters": "Uppsetning og stillingar",
+      "business-tools": "Team & Verkfæri",
+      "party-tools": "Veisluverkfæri",
+      "item-tools": "Atriðaverkfæri",
+      "storage": "Skjöl",
+      "alerts": "Viðvaranir",
+      "migration": "Gagnaflutningur"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Yfirlit",
+        "cash-flow": "Sjóðstreymi",
+        "tax-calendar": "Skattadagatal"
+      },
+      "sales": {
+        "quotations": "Tilvitnanir",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Reikningur",
+        "delivery-challans": "Afhending Challan",
+        "receipts": "Kvittun",
+        "invoice-desk": "Reikningaborð"
+      },
+      "receivables": {
+        "money-in-center": "Peningar í miðju",
+        "receivables": "Kröfur",
+        "payments-received": "Greiðslur mótteknar",
+        "overdue-collections": "Söfn og áminningar",
+        "credit-notes": "Kreditnótur og endurgreiðslur",
+        "sales-returns": "Söluskil",
+        "customer-statements": "Yfirlýsingar viðskiptavina",
+        "payment-links": "Greiðslutenglar"
+      },
+      "procurement": {
+        "purchase-center": "Innkaupamiðstöð",
+        "purchase-orders": "Innkaupapantanir",
+        "goods-receipt": "Vörumóttaka",
+        "purchase-invoices": "Innkaupareikningar",
+        "payment-out": "Greiðslur gerðar",
+        "returns-debit-notes": "Skila- og debetnótur",
+        "bill-approvals": "Samþykki frumvarpa"
+      },
+      "payables": {
+        "bills": "Greiðslumiðstöð",
+        "payments": "Greiðslur birgja",
+        "workforce": "Vinnuafl",
+        "adjustments": "Leiðréttingar",
+        "bank-release": "Bankaútgáfa"
+      },
+      "cashbank": {
+        "bank-accounts": "Reikningar mínir",
+        "reconciliation": "Passa viðskipti",
+        "cash-petty": "Smápeningur",
+        "contra": "Milli reikninga",
+        "cheque-register": "Ávísanir",
+        "foreign-currency": "Erlendur gjaldmiðill",
+        "bank-feeds": "Bankafæði",
+        "bank-rules": "Reglur og sátt"
+      },
+      "expenses": {
+        "expense-center": "Allur kostnaður",
+        "categories": "Kostnaðartegundir",
+        "automated-bills": "Endurtekinn kostnaður",
+        "journal-vouchers": "Handvirkar færslur",
+        "provisions": "Uppsöfnun",
+        "write-offs": "Afskriftir",
+        "period-close": "Mánaðarlok"
+      },
+      "tax": {
+        "gst-returns": "GST skráning",
+        "gst-filing-wizard": "⚡ Skrá GSTR-3B",
+        "gst-reconciliation": "GST samsvörun",
+        "e-invoicing": "Rafrænir reikningar",
+        "e-way-bills": "Rafrænir reikningar",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Borga Skatt",
+        "quarterly-compliance": "Fylgni dagatal",
+        "ca-access": "CA Tímabundinn aðgangur",
+        "gst-from-books": "GST frá Books"
+      },
+      "reports": {
+        "financial-statements": "Fjárhagsskýrslur",
+        "books": "Viðskiptabækur",
+        "gst-reports": "GST skýrslur",
+        "ar-ap": "Kröfur vs skuldir",
+        "profitability": "Arðsemi",
+        "period-comparatives": "Árssamanburður",
+        "budget-vs-actuals": "Fjárhagsáætlun",
+        "cashflow-projection": "Reiðufé spá",
+        "report-builder": "Sérsniðnar skýrslur",
+        "general-ledger": "Aðalbók",
+        "live-financials": "Lifandi fjármál",
+        "ai-analyst": "AI sérfræðingur"
+      },
+      "advanced-features": {
+        "overview": "Yfirlit"
+      },
+      "parties": {
+        "all-parties": "Allir aðilar",
+        "customer-ledgers": "Viðskiptavinir",
+        "supplier-ledgers": "Birgjar",
+        "shared-ledger": "Sameiginleg bók",
+        "statements": "Yfirlýsingar",
+        "reminders": "Áminningar",
+        "documents": "Flokksskjöl",
+        "portal": "Veislugátt",
+        "import": "Partýinnflutningur",
+        "duplicate-merge": "Afrit sameining",
+        "gap-analysis": "Gap Greining"
+      },
+      "inventory": {
+        "inventory-items": "Atriði",
+        "godowns": "Vöruhús",
+        "stock-movement": "Hlutabréfahreyfing",
+        "item-pricing": "Verðlagning",
+        "stock-valuation": "Verðmat hlutabréfa",
+        "reorder-alerts": "Endurraða viðvörunum",
+        "batch-serials": "Hópur og raðnúmer",
+        "barcode-labels": "Strikamerki",
+        "item-import": "Atriðainnflutningur",
+        "gap-analysis": "Gap Greining"
+      },
+      "assets": {
+        "asset-register": "Eignalisti",
+        "depreciation": "Afskriftir",
+        "disposal-revaluation": "Selja eða endurmeta"
+      },
+      "masters": {
+        "chart-of-accounts": "Reikningarlisti",
+        "tax-masters": "Skatthlutföll",
+        "cost-centers": "Kostnaðarstöðvar",
+        "voucher-types": "Tegundir viðskipta",
+        "opening-balances": "Upphafsstöður",
+        "currencies": "Gjaldmiðlar"
+      },
+      "business-tools": {
+        "staff-payroll": "Launaskrá",
+        "manage-users": "Notendaaðgangur",
+        "online-orders": "Pantanir á netinu",
+        "sms-marketing": "SMS markaðssetning",
+        "accountant-hub": "Endurskoðendur og stuðningur"
+      },
+      "party-tools": {
+        "documents": "Flokksskjöl",
+        "portal": "Veislugátt",
+        "import": "Partýinnflutningur",
+        "duplicate-merge": "Afrit sameining",
+        "gap-analysis": "Gap Greining"
+      },
+      "item-tools": {
+        "reorder-alerts": "Endurraða viðvörunum",
+        "batch-serials": "Hópur og raðnúmer",
+        "barcode-labels": "Strikamerki",
+        "item-import": "Atriðainnflutningur",
+        "gap-analysis": "Gap Greining"
+      },
+      "storage": {
+        "client-storage": "Viðskiptavinaskrár",
+        "unifiedtree-storage": "Cloud Geymsla"
+      },
+      "alerts": {
+        "accountant-alerts": "Endurskoðandi tilkynningar",
+        "compliance-alerts": "Samræmisviðvaranir",
+        "cash-risk-alerts": "Reiðufé og áhættuviðvaranir",
+        "ca-access": "CA Tímabundinn aðgangur"
+      },
+      "migration": {
+        "import": "Flytja inn gögn",
+        "export": "Flytja út gögn",
+        "history": "Innflutningsferill",
+        "tally-import": "Flytja inn frá Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Kaup og greiðslur",
+      "accountingSetup": "Bókhaldsuppsetning",
+      "dataDocuments": "Gögn og skjöl"
+    }
+  },
+  "common": {
+    "save": "Vista breytingar",
+    "cancel": "Hætta við",
+    "create": "Búa til",
+    "edit": "Breyta",
+    "delete": "Eyða",
+    "search": "Leita",
+    "connect": "Tengdu",
+    "configure": "Stilla",
+    "disconnect": "Aftengjast",
+    "sync": "Samstilla núna",
+    "close": "Loka",
+    "reset": "Endurstilla í sjálfgefnar stillingar",
+    "back": "Til baka",
+    "continue": "Halda áfram",
+    "all": "Allt",
+    "retry": "Reyndu aftur",
+    "loading": "Hleður…",
+    "resetDemo": "Endurstilla kynningargögn"
+  },
+  "shell": {
+    "searchPlaceholder": "Leitaðu að hverju sem er…",
+    "settings": "Stillingar",
+    "language": "Tungumál",
+    "role": "Hlutverk",
+    "greeting": {
+      "morning": "Góðan daginn",
+      "afternoon": "Góðan daginn",
+      "evening": "Gott kvöld"
+    },
+    "settingsItems": {
+      "company-profile": "Fyrirtækissnið",
+      "configuration": "Stillingar",
+      "fiscal-periods": "Fjárhagstímabil",
+      "roles": "Hlutverk og notendur",
+      "integrations": "Samþættingar",
+      "notifications": "Tilkynningar",
+      "audit-logs": "Endurskoðun og logs",
+      "audit-trail": "Eignasár endurskoðunarslóð",
+      "developer": "Hönnuður og API"
+    },
+    "translatedLanguages": "Þýtt",
+    "untranslatedLanguages": "Ensku þar til hún er þýdd"
+  },
+  "status": {
+    "filed": "Lagt fram",
+    "ready": "Tilbúið til skráningar",
+    "open": "Tímabil opið",
+    "paid": "Greitt",
+    "pending": "Í bið",
+    "accepted": "Samþykkt",
+    "delivered": "Afhent",
+    "rejected": "Hafnað",
+    "pdf-sent": "PDF sent",
+    "not-sent": "Ekki sent",
+    "matched": "Passaði",
+    "mismatch": "Ósamræmi",
+    "missing-supplier": "Ekki tilkynnt af birgi",
+    "missing-books": "Vantar í bækur",
+    "deferred": "Frestað",
+    "deducted": "Dregið frá",
+    "remitted": "Afgreitt",
+    "certified": "Löggiltur",
+    "to-report": "Til að tilkynna",
+    "reported": "Tilkynnt",
+    "accounted": "Bókfærður",
+    "overdue": "Tímabært"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Tilbúið til skráningar",
+      "liabilityDue": "Ábyrgð vegna",
+      "paidThisYear": "Greitt í ár",
+      "nextDeadline": "Næsti frestur",
+      "noneOverdue": "Engin tímabær",
+      "overdue": "{{count}} tímabært"
+    },
+    "filter": {
+      "ready": "Tilbúið til skráningar",
+      "open": "Opið",
+      "filed": "Lagt fram"
+    },
+    "col": {
+      "period": "Tímabil",
+      "authority": "Yfirvald",
+      "rate": "Gefa",
+      "due": "Á gjalddaga",
+      "netPayable": "Nettó til greiðslu",
+      "status": "Staða",
+      "ack": "Viðurkenning"
+    },
+    "file": "Skrá",
+    "view": "Skoða",
+    "fileForm": "Skrá {{form}}",
+    "loadingJurisdiction": "Hleður lögsögu...",
+    "nothingToFile": "Engin skil bíða eftir að vera lögð inn - öll lokuð tímabil eru lögð fram.",
+    "fileNext": "Skrá næst: {{name}}",
+    "steps": {
+      "review": "Upprifjun",
+      "validate": "Staðfesta",
+      "declare": "Lýsa og leggja fram",
+      "ack": "Viðurkenning"
+    },
+    "runValidation": "Keyra staðfestingu",
+    "validating": "Staðfestir...",
+    "submit": "Senda inn {{form}}",
+    "submitting": "Sendir inn...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Nettóupphæð",
+    "submitted": "Lagt fram",
+    "filedOn": "Lagt fram á",
+    "regime": {
+      "authority": "Yfirvald",
+      "channel": "Skráningarrás",
+      "return": "Til baka",
+      "due": "Á gjalddaga",
+      "standardRate": "Venjulegt verð",
+      "threshold": "Skráningarþröskuldur"
+    },
+    "demoNote": "Kynningargögn frá innbyggðu mock skatta API - umsóknir og greiðslur eru hermdar og ekkert er sent til skattyfirvalda."
+  },
+  "fx": {
+    "title": "Erlendur gjaldmiðill",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Nýr FX reikningur / reikningur",
+    "kpi": {
+      "netExposure": "Nettó gjaldeyrisáhætta",
+      "openDocs": "{{count}} opin skjöl",
+      "unrealized": "Óinnleystur hagnaður/tap",
+      "postedSplit": "{{posted}} setti inn · {{unposted}} ekki enn",
+      "realized": "Gerðist á þessu ári",
+      "lastReval": "Síðasta endurmat",
+      "never": "Aldrei",
+      "suggested": "Tillaga: {{date}}"
+    },
+    "view": {
+      "open": "Opna hluti",
+      "settled": "Settist",
+      "revaluation": "Endurmat í lok mánaðar",
+      "journal": "FX dagbók"
+    },
+    "col": {
+      "document": "Skjal",
+      "type": "Tegund",
+      "openForeign": "Opið (erlent)",
+      "bookedNow": "Bókað / núna",
+      "valueIn": "Gildi í {{base}}",
+      "unrealized": "Ógert",
+      "status": "Staða",
+      "amount": "Upphæð",
+      "bookedRate": "Bókað verð",
+      "realized": "Gerði sér grein fyrir"
+    },
+    "receivable": "Kröfur",
+    "payable": "Greiðanlegt",
+    "receive": "Taka á móti",
+    "pay": "Borga",
+    "netIn": "Nettó í {{base}}",
+    "state": {
+      "settled": "Settist",
+      "partial": "Hlutalaust",
+      "open": "Opið"
+    },
+    "demoNote": "Kynningargögn frá innbyggðu mock API - gengi er hermt, ekki lifandi markaðsgögn."
+  }
+}

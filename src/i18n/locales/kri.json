@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ɛvride to De",
+      "finance": "Mɔni biznɛs",
+      "advanced": "Go bifo"
+    },
+    "mainMenu": "Men Mɛnyu",
+    "short": {
+      "parties": "Di pati dɛn"
+    },
+    "sections": {
+      "dashboard": "Dashbɔd we dɛn kɔl",
+      "sales": "Sales we dɛn de sɛl",
+      "receivables": "Mɔni In",
+      "procurement": "Di tin dɛn we pɔsin kin bay",
+      "payables": "Mɔni Kɔmɔt",
+      "cashbank": "Kεsh & Bank",
+      "expenses": "Spɛn mɔni",
+      "tax": "Taks we dɛn kin pe",
+      "reports": "Ripɔt dɛn",
+      "advanced-features": "Advans Ficha dɛn",
+      "parties": "Kastamɔ & Spɔlayt dɛn",
+      "inventory": "Tin dɛn",
+      "assets": "Fiks Asɛt dɛn",
+      "masters": "Sɛtup & Kɔnfigyushɔn",
+      "business-tools": "Tim & Tul dɛn",
+      "party-tools": "Di Tul dɛn fɔ Pati",
+      "item-tools": "Di Tul dɛn fɔ Aytem",
+      "storage": "Dokumɛnt dɛn",
+      "alerts": "Alɛt dɛn",
+      "migration": "Data Maygrɛshɔn"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ovaviu fɔ di tin dɛn we dɛn dɔn lan",
+        "cash-flow": "Kεsh Flɔ",
+        "tax-calendar": "Taks Kalɛnda"
+      },
+      "sales": {
+        "quotations": "Kot dɛn we dɛn rayt",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Bil",
+        "delivery-challans": "Dilivri Challan fɔ di tin dɛn we dɛn de du",
+        "receipts": "Pepa",
+        "invoice-desk": "Invɔys Dɛsk"
+      },
+      "receivables": {
+        "money-in-center": "Mɔni In Sɛntral",
+        "receivables": "Di tin dɛn we dɛn fɔ pe fɔ",
+        "payments-received": "Di Peymɛnt dɛn we Dɛn Gɛt",
+        "overdue-collections": "Kɔlɛkshɔn dɛn & Mɛmba dɛn",
+        "credit-notes": "Krɛdit Notis & Rifandim",
+        "sales-returns": "Sales Ritɔn dɛn",
+        "customer-statements": "Di Stetmɛnt dɛn fɔ di Kastamɔ",
+        "payment-links": "Links fɔ Peymɛnt"
+      },
+      "procurement": {
+        "purchase-center": "Senta fɔ bay tin dɛn",
+        "purchase-orders": "Ɔda dɛn fɔ bay tin dɛn",
+        "goods-receipt": "Guds Risit",
+        "purchase-invoices": "Invɔys dɛn fɔ bay tin dɛn",
+        "payment-out": "Di Peymɛnt dɛn we Dɛn Mek",
+        "returns-debit-notes": "Ritɔn & Dɛbit Notis dɛn",
+        "bill-approvals": "Bil Aprɔval dɛn"
+      },
+      "payables": {
+        "bills": "Pay Senta fɔ pe",
+        "payments": "Di Peymɛnt dɛn we di Spɔlayt dɛn De Pe",
+        "workforce": "Di wan dɛn we de wok",
+        "adjustments": "Ajɔstmɛnt dɛn",
+        "bank-release": "Bank Rilis we dɛn dɔn mek"
+      },
+      "cashbank": {
+        "bank-accounts": "Mi Akɔn dɛn",
+        "reconciliation": "Match Transakshɔn dɛn",
+        "cash-petty": "Pɛti Kɔsh",
+        "contra": "Bitwin di Akɔn dɛn",
+        "cheque-register": "Chɛk dɛn",
+        "foreign-currency": "Fɔrin Kɔrɛnt",
+        "bank-feeds": "Bank Fid dɛn",
+        "bank-rules": "Rul & Rikɔnsilieshɔn"
+      },
+      "expenses": {
+        "expense-center": "Ɔl di Ɛkspɛns dɛn",
+        "categories": "Di Tayp dɛn fɔ Ɛkspɛns",
+        "automated-bills": "Di Ɛkspɛns dɛn we De Rikɔret",
+        "journal-vouchers": "Di ɛntri dɛn we dɛn kin yuz fɔ rayt",
+        "provisions": "Akrual dɛn we dɛn kin gɛt",
+        "write-offs": "Rayt-ɔf dɛn",
+        "period-close": "Mɔnt-Ɛnd"
+      },
+      "tax": {
+        "gst-returns": "GST Faylin we dɛn de yuz",
+        "gst-filing-wizard": "⚡ Fayl GSTR-3B",
+        "gst-reconciliation": "GST Matching we dɛn de mek",
+        "e-invoicing": "E-Invoys dɛn we dɛn kin yuz",
+        "e-way-bills": "E-Way Bil dɛn",
+        "tds": "TDS we dɛn kɔl TDS",
+        "tcs": "TCS we dɛn kɔl",
+        "tax-payments": "Pe Taks fɔ pe",
+        "quarterly-compliance": "Kalɛnda fɔ fala di lɔ",
+        "ca-access": "CA Tɛmporari Akses",
+        "gst-from-books": "GST frɔm Buk dɛn"
+      },
+      "reports": {
+        "financial-statements": "Faynanshɛl Ripɔt dɛn",
+        "books": "Transakshɔn Buk dɛn",
+        "gst-reports": "GST Ripɔt dɛn",
+        "ar-ap": "Risibabl vs Peyables",
+        "profitability": "Di we aw pɔsin kin gɛt prɔfit",
+        "period-comparatives": "Kɔmpia di Ia",
+        "budget-vs-actuals": "Badjɛt Traka we de wok",
+        "cashflow-projection": "Fɔkɔs fɔ di Kɛsh",
+        "report-builder": "Kastɔm ​​Ripɔt dɛn",
+        "general-ledger": "Jɛnɛral Lɛdja",
+        "live-financials": "Layf Faynanshɛl",
+        "ai-analyst": "AI Analyst we de wok fɔ di kɔmni"
+      },
+      "advanced-features": {
+        "overview": "Ovaviu fɔ di tin dɛn we dɛn dɔn lan"
+      },
+      "parties": {
+        "all-parties": "Ɔl di Pati dɛn",
+        "customer-ledgers": "Di kɔstɔma dɛn",
+        "supplier-ledgers": "Di wan dɛn we de gi di tin dɛn",
+        "shared-ledger": "Ledja we dɛn kin sheb",
+        "statements": "Stetmɛnt dɛn",
+        "reminders": "Tin dɛn fɔ mɛmba",
+        "documents": "Pati Dokumɛnt dɛn",
+        "portal": "Pati Pɔtal",
+        "import": "Pati Impɔt",
+        "duplicate-merge": "Dupliket Mɛj",
+        "gap-analysis": "Gap Analysis we dɛn de du"
+      },
+      "inventory": {
+        "inventory-items": "Tin dɛn",
+        "godowns": "Westɛm dɛn we dɛn kin kip tin dɛn",
+        "stock-movement": "Stok Muvmɛnt",
+        "item-pricing": "Di prayz fɔ di prayz",
+        "stock-valuation": "Stok Valyueshɔn",
+        "reorder-alerts": "Riɔda di Alɛt dɛn",
+        "batch-serials": "Batch & Serial we dɛn kin yuz",
+        "barcode-labels": "Bakɔd Lɛbul dɛn",
+        "item-import": "Aytem Impɔt",
+        "gap-analysis": "Gap Analysis we dɛn de du"
+      },
+      "assets": {
+        "asset-register": "List fɔ di prɔpati dɛn we dɛn gɛt",
+        "depreciation": "Diprɛshɔn we de go dɔŋ",
+        "disposal-revaluation": "Sel ɔ Rivalyu"
+      },
+      "masters": {
+        "chart-of-accounts": "List fɔ di Akɔn dɛn",
+        "tax-masters": "Taks Rɛt dɛn",
+        "cost-centers": "Di Kɔst Sɛntral dɛn",
+        "voucher-types": "Di Tayp dɛn fɔ Transakshɔn",
+        "opening-balances": "Fɔ Start di Balans dɛn",
+        "currencies": "Di mɔni dɛn we dɛn de yuz"
+      },
+      "business-tools": {
+        "staff-payroll": "Peyrɔl fɔ pe",
+        "manage-users": "Yuz Akses",
+        "online-orders": "Ɔda dɛn we de na di Intanɛt",
+        "sms-marketing": "SMS Maketin",
+        "accountant-hub": "Akauntant & Sɔpɔt"
+      },
+      "party-tools": {
+        "documents": "Pati Dokumɛnt dɛn",
+        "portal": "Pati Pɔtal",
+        "import": "Pati Impɔt",
+        "duplicate-merge": "Dupliket Mɛj",
+        "gap-analysis": "Gap Analysis we dɛn de du"
+      },
+      "item-tools": {
+        "reorder-alerts": "Riɔda di Alɛt dɛn",
+        "batch-serials": "Batch & Serial we dɛn kin yuz",
+        "barcode-labels": "Bakɔd Lɛbul dɛn",
+        "item-import": "Aytem Impɔt",
+        "gap-analysis": "Gap Analysis we dɛn de du"
+      },
+      "storage": {
+        "client-storage": "Klaynt Fayl dɛn",
+        "unifiedtree-storage": "Klayd Stɔrej"
+      },
+      "alerts": {
+        "accountant-alerts": "Akɔntant Alɛt dɛn",
+        "compliance-alerts": "Alɛt fɔ Kɔmplians",
+        "cash-risk-alerts": "Cash & Risk Alɛt dɛn",
+        "ca-access": "CA Tɛmporari Akses"
+      },
+      "migration": {
+        "import": "Impɔt Data",
+        "export": "Ɛkspɔt Data",
+        "history": "Impɔt Istri",
+        "tally-import": "Import frɔm Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Di tin dɛn we dɛn kin bay ɛn pe",
+      "accountingSetup": "Setup fɔ Akɔntin",
+      "dataDocuments": "Data & Dokumɛnt dɛn"
+    }
+  },
+  "common": {
+    "save": "Sev di Chenj dɛn",
+    "cancel": "nɔ",
+    "create": "Mek",
+    "edit": "Kɔrɛkt",
+    "delete": "Dilit",
+    "search": "Luk fɔ",
+    "connect": "Kɔnɛkt",
+    "configure": "Kɔnfigyut",
+    "disconnect": "Diskonɛkt",
+    "sync": "Sink Naw",
+    "close": "Tayt",
+    "reset": "Riset to Difɔlt dɛn",
+    "back": "Bak",
+    "continue": "Kɔntinyu",
+    "all": "Ɔl",
+    "retry": "Tray bak",
+    "loading": "We yu de lod...",
+    "resetDemo": "Riset di demo data"
+  },
+  "shell": {
+    "searchPlaceholder": "Sɔch ɛnitin...",
+    "settings": "Sɛtin dɛn we dɛn dɔn mek",
+    "language": "Langwej",
+    "role": "Pat",
+    "greeting": {
+      "morning": "Gud mɔnin",
+      "afternoon": "Gud aftanun",
+      "evening": "Gud ivnin"
+    },
+    "settingsItems": {
+      "company-profile": "Di Kɔmni Profayl",
+      "configuration": "Kɔnfigyushɔn fɔ di tin dɛn we dɛn dɔn mek",
+      "fiscal-periods": "Fiskal Pɛriɔd dɛn",
+      "roles": "Rol dɛn & Yuzman dɛn",
+      "integrations": "Integreshɔn dɛn",
+      "notifications": "Notis dɛn we dɛn kin gi",
+      "audit-logs": "Odit & Lɔg dɛn",
+      "audit-trail": "Odit Trail we nɔ de ambɔg pɔsin",
+      "developer": "Divɛlɔpa & API"
+    },
+    "translatedLanguages": "Dɛn translet am",
+    "untranslatedLanguages": "Inglish te dɛn translet am"
+  },
+  "status": {
+    "filed": "Dɛn dɔn fayl am",
+    "ready": "Rɛdi fɔ fayl",
+    "open": "Piɔriɔd opin",
+    "paid": "Dɔn pe",
+    "pending": "De wet",
+    "accepted": "Dɛn kin aksept am",
+    "delivered": "Dɔn lɛf",
+    "rejected": "Dɛn nɔ gri fɔ tek am",
+    "pdf-sent": "PDF we dɛn sɛn",
+    "not-sent": "Nɔto fɔ sɛn am",
+    "matched": "I bin mach",
+    "mismatch": "Mismatch we nɔ gɛt wanwɔd",
+    "missing-supplier": "Nɔto di pɔsin we de gi di tin ripɔt",
+    "missing-books": "Mis insay buk dɛn",
+    "deferred": "Dɛn dɔn defɛr am",
+    "deducted": "Dɛn dɔn pul am pan di mɔni",
+    "remitted": "Dɛn dɔn sɛn am",
+    "certified": "Dɛn dɔn gɛt sɛtifiket fɔ am",
+    "to-report": "Fɔ ripɔt",
+    "reported": "Dɛn bin ripɔt am",
+    "accounted": "Dɛn dɔn akɔntayn am",
+    "overdue": "I dɔn pas fɔ du am"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Rɛdi fɔ fayl",
+      "liabilityDue": "Layabiliti we fɔ pe",
+      "paidThisYear": "Ped dis ia",
+      "nextDeadline": "Neks dedlayn",
+      "noneOverdue": "Nɔn nɔ de we dɔn pas di tɛm",
+      "overdue": "{{count}} dɔn pas fɔ du am"
+    },
+    "filter": {
+      "ready": "Rɛdi fɔ fayl",
+      "open": "Opin",
+      "filed": "Dɛn dɔn fayl am"
+    },
+    "col": {
+      "period": "Tɛm",
+      "authority": "Pawa",
+      "rate": "Ɔmɔs",
+      "due": "Fɔ gɛt",
+      "netPayable": "Net we dɛn fɔ pe",
+      "status": "Pozishɔn",
+      "ack": "Fɔ tɛl tɛnki"
+    },
+    "file": "Fayl",
+    "view": "Wetin yu tink",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Lod di jɔrisdikshɔn...",
+    "nothingToFile": "No ritɔn nɔ de wet fɔ fayl — ɔl di tɛm dɛn we dɛn dɔn lɔk, dɛn kin sɛn am.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Rivishɔn",
+      "validate": "Validɛt yu",
+      "declare": "Diklar & sɔbmit",
+      "ack": "Fɔ tɛl tɛnki"
+    },
+    "runValidation": "Rɔn validɛshɔn",
+    "validating": "Validating we yu de du...",
+    "submit": "Submit {{form}}",
+    "submitting": "We yu de sɛn...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Net amɔnt",
+    "submitted": "Dɛn dɔn sɛn am",
+    "filedOn": "Fayl pan am",
+    "regime": {
+      "authority": "Pawa",
+      "channel": "Fayl chanɛl",
+      "return": "Go bak",
+      "due": "Fɔ gɛt",
+      "standardRate": "Standart rεt",
+      "threshold": "Di trɛshɔld fɔ rɛjista"
+    },
+    "demoNote": "Demo data frɔm di bilt-in mɔk taks API — faylin ɛn pemɛnt dɛn de simul ɛn dɛn nɔ de sɛn natin to taks ɔtoriti."
+  },
+  "fx": {
+    "title": "Fɔrin Kɔrɛnt",
+    "subtitle": "Bes kɔrɛnt {{base}} · indikɛtiv mɔk makɛt rɛt",
+    "newDoc": "Nyu FX invoys / bil",
+    "kpi": {
+      "netExposure": "Net FX ɛksplɔshɔn",
+      "openDocs": "{{count}} opin dɔkyumɛnt dɛn",
+      "unrealized": "Gɛt / lɔs we nɔ rili apin",
+      "postedSplit": "{{posted}} posted · {{unposted}} nɔ dɔn post yet",
+      "realized": "Rializ dis ia",
+      "lastReval": "Las rivalyueshɔn",
+      "never": "Nɔ ɛva",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Opin tin dɛn",
+      "settled": "Dɛn dɔn sɛtul",
+      "revaluation": "Rivalyueshɔn fɔ di mɔnt-ɛnd",
+      "journal": "FX jɔnal"
+    },
+    "col": {
+      "document": "Pepa",
+      "type": "Kayn",
+      "openForeign": "Opin (fɔrin) .",
+      "bookedNow": "Buk / naw",
+      "valueIn": "Valyu na {{base}}",
+      "unrealized": "Nɔto tin we dɛn nɔ no",
+      "status": "Pozishɔn",
+      "amount": "Ɔmɔs",
+      "bookedRate": "Buk ret we dɛn dɔn buk",
+      "realized": "Dɔn kam fɔ no"
+    },
+    "receivable": "Di tin we dɛn fɔ gɛt",
+    "payable": "Dɛn fɔ pe am",
+    "receive": "Gɛt",
+    "pay": "Pe",
+    "netIn": "Net na {{base}}",
+    "state": {
+      "settled": "Dɛn dɔn sɛtul",
+      "partial": "Pat-we dɛn dɔn sɛtul",
+      "open": "Opin"
+    },
+    "demoNote": "Demo data frɔm di bilt-in mɔk API — di ret dɛn na simul, nɔto layv makit data."
+  }
+}

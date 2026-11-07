@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "日常",
+      "finance": "财务",
+      "advanced": "高级"
+    },
+    "mainMenu": "主菜单",
+    "short": {
+      "parties": "往来单位"
+    },
+    "sections": {
+      "dashboard": "仪表板",
+      "sales": "销售",
+      "receivables": "收款",
+      "procurement": "采购",
+      "payables": "付款",
+      "cashbank": "现金和银行",
+      "expenses": "费用",
+      "tax": "税务",
+      "reports": "报表",
+      "advanced-features": "高级功能",
+      "parties": "客户和供应商",
+      "inventory": "商品",
+      "assets": "固定资产",
+      "masters": "设置与配置",
+      "business-tools": "团队与工具",
+      "party-tools": "往来单位工具",
+      "item-tools": "商品工具",
+      "storage": "文档",
+      "alerts": "提醒",
+      "migration": "数据迁移"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "概览",
+        "cash-flow": "现金流",
+        "tax-calendar": "税务日历"
+      },
+      "sales": {
+        "quotations": "报价单",
+        "proforma-invoices": "形式发票",
+        "sales-invoices": "发票",
+        "delivery-challans": "送货单",
+        "receipts": "收据",
+        "invoice-desk": "发票台"
+      },
+      "receivables": {
+        "money-in-center": "收款中心",
+        "receivables": "应收账款",
+        "payments-received": "已收款项",
+        "overdue-collections": "催收与提醒",
+        "credit-notes": "贷项通知单与退款",
+        "sales-returns": "销售退货",
+        "customer-statements": "客户对账单",
+        "payment-links": "付款链接"
+      },
+      "procurement": {
+        "purchase-center": "采购中心",
+        "purchase-orders": "采购订单",
+        "goods-receipt": "收货",
+        "purchase-invoices": "采购发票",
+        "payment-out": "已付款项",
+        "returns-debit-notes": "退货与借项通知单",
+        "bill-approvals": "法案批准"
+      },
+      "payables": {
+        "bills": "付款中心",
+        "payments": "供应商付款",
+        "workforce": "员工",
+        "adjustments": "调整",
+        "bank-release": "银行放款"
+      },
+      "cashbank": {
+        "bank-accounts": "我的账户",
+        "reconciliation": "交易对账",
+        "cash-petty": "备用金",
+        "contra": "账户间转账",
+        "cheque-register": "支票",
+        "foreign-currency": "外币",
+        "bank-feeds": "银行资料",
+        "bank-rules": "规则与协调"
+      },
+      "expenses": {
+        "expense-center": "所有费用",
+        "categories": "费用类型",
+        "automated-bills": "定期费用",
+        "journal-vouchers": "手工分录",
+        "provisions": "预提费用",
+        "write-offs": "核销",
+        "period-close": "月末结账"
+      },
+      "tax": {
+        "gst-returns": "GST 申报",
+        "gst-filing-wizard": "⚡ 提交 GSTR-3B",
+        "gst-reconciliation": "GST 匹配",
+        "e-invoicing": "电子发票",
+        "e-way-bills": "电子运单",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "缴税",
+        "quarterly-compliance": "合规日历",
+        "ca-access": "会计师临时访问",
+        "gst-from-books": "图书消费税"
+      },
+      "reports": {
+        "financial-statements": "财务报表",
+        "books": "交易账簿",
+        "gst-reports": "GST 报表",
+        "ar-ap": "应收与应付",
+        "profitability": "盈利能力",
+        "period-comparatives": "年度比较",
+        "budget-vs-actuals": "预算跟踪",
+        "cashflow-projection": "现金预测",
+        "report-builder": "自定义报表",
+        "general-ledger": "总账",
+        "live-financials": "实时财务",
+        "ai-analyst": "人工智能分析师"
+      },
+      "advanced-features": {
+        "overview": "概览"
+      },
+      "parties": {
+        "all-parties": "所有往来单位",
+        "customer-ledgers": "客户",
+        "supplier-ledgers": "供应商",
+        "shared-ledger": "共享账户",
+        "statements": "对账单",
+        "reminders": "提醒",
+        "documents": "党的文件",
+        "portal": "派对门户",
+        "import": "派对导入",
+        "duplicate-merge": "重复合并",
+        "gap-analysis": "差距分析"
+      },
+      "inventory": {
+        "inventory-items": "商品",
+        "godowns": "仓库",
+        "stock-movement": "库存变动",
+        "item-pricing": "定价",
+        "stock-valuation": "股票估值",
+        "reorder-alerts": "重新排序警报",
+        "batch-serials": "批量和串行",
+        "barcode-labels": "条码标签",
+        "item-import": "物品导入",
+        "gap-analysis": "差距分析"
+      },
+      "assets": {
+        "asset-register": "资产清单",
+        "depreciation": "折旧",
+        "disposal-revaluation": "处置或重估"
+      },
+      "masters": {
+        "chart-of-accounts": "会计科目表",
+        "tax-masters": "税率",
+        "cost-centers": "成本中心",
+        "voucher-types": "交易类型",
+        "opening-balances": "期初余额",
+        "currencies": "货币"
+      },
+      "business-tools": {
+        "staff-payroll": "工资",
+        "manage-users": "用户权限",
+        "online-orders": "在线订单",
+        "sms-marketing": "短信营销",
+        "accountant-hub": "会计师和支持"
+      },
+      "party-tools": {
+        "documents": "往来单位文档",
+        "portal": "往来单位门户",
+        "import": "导入往来单位",
+        "duplicate-merge": "合并重复项",
+        "gap-analysis": "差距分析"
+      },
+      "item-tools": {
+        "reorder-alerts": "补货提醒",
+        "batch-serials": "批次与序列号",
+        "barcode-labels": "条码标签",
+        "item-import": "导入商品",
+        "gap-analysis": "差距分析"
+      },
+      "storage": {
+        "client-storage": "客户文件",
+        "unifiedtree-storage": "云存储"
+      },
+      "alerts": {
+        "accountant-alerts": "会计提醒",
+        "compliance-alerts": "合规提醒",
+        "cash-risk-alerts": "现金与风险提醒",
+        "ca-access": "会计师临时访问"
+      },
+      "migration": {
+        "import": "导入数据",
+        "export": "导出数据",
+        "history": "导入历史",
+        "tally-import": "从 Tally 和 Zoho 导入"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "购买和付款",
+      "accountingSetup": "会计设置",
+      "dataDocuments": "数据和文件"
+    }
+  },
+  "common": {
+    "save": "保存更改",
+    "cancel": "取消",
+    "create": "创建",
+    "edit": "编辑",
+    "delete": "删除",
+    "search": "搜索",
+    "connect": "连接",
+    "configure": "配置",
+    "disconnect": "断开连接",
+    "sync": "立即同步",
+    "close": "关闭",
+    "reset": "恢复默认",
+    "back": "返回",
+    "continue": "继续",
+    "all": "全部",
+    "retry": "重试",
+    "loading": "加载中…",
+    "resetDemo": "重置演示数据"
+  },
+  "shell": {
+    "searchPlaceholder": "搜索任何内容…",
+    "settings": "设置",
+    "language": "语言",
+    "role": "角色",
+    "greeting": {
+      "morning": "早上好",
+      "afternoon": "下午好",
+      "evening": "晚上好"
+    },
+    "settingsItems": {
+      "company-profile": "公司资料",
+      "configuration": "配置",
+      "fiscal-periods": "会计期间",
+      "roles": "角色与用户",
+      "integrations": "集成",
+      "notifications": "通知",
+      "audit-logs": "审计与日志",
+      "audit-trail": "防篡改审计追踪",
+      "developer": "开发者及API"
+    },
+    "translatedLanguages": "已翻译",
+    "untranslatedLanguages": "翻译前显示英文"
+  },
+  "status": {
+    "filed": "已申报",
+    "ready": "可申报",
+    "open": "期间未结",
+    "paid": "已付",
+    "pending": "待处理",
+    "accepted": "已接受",
+    "delivered": "已送达",
+    "rejected": "已拒绝",
+    "pdf-sent": "已发送 PDF",
+    "not-sent": "未发送",
+    "matched": "已匹配",
+    "mismatch": "不一致",
+    "missing-supplier": "供应商未申报",
+    "missing-books": "账簿中缺失",
+    "deferred": "已递延",
+    "deducted": "已扣缴",
+    "remitted": "已缴纳",
+    "certified": "已开具证明",
+    "to-report": "待申报",
+    "reported": "已申报",
+    "accounted": "已入账",
+    "overdue": "已逾期"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "可申报",
+      "liabilityDue": "应缴税额",
+      "paidThisYear": "本年已缴",
+      "nextDeadline": "下一截止日",
+      "noneOverdue": "无逾期",
+      "overdue": "{{count}} 项逾期"
+    },
+    "filter": {
+      "ready": "可申报",
+      "open": "未结",
+      "filed": "已申报"
+    },
+    "col": {
+      "period": "期间",
+      "authority": "税务机关",
+      "rate": "税率",
+      "due": "截止日",
+      "netPayable": "应缴净额",
+      "status": "状态",
+      "ack": "回执"
+    },
+    "file": "申报",
+    "view": "查看",
+    "fileForm": "申报 {{form}}",
+    "loadingJurisdiction": "正在加载税务管辖区…",
+    "nothingToFile": "没有待申报的申报表 — 所有已结期间均已提交。",
+    "fileNext": "下一个申报：{{name}}",
+    "steps": {
+      "review": "审核",
+      "validate": "校验",
+      "declare": "声明并提交",
+      "ack": "回执"
+    },
+    "runValidation": "运行校验",
+    "validating": "校验中…",
+    "submit": "提交 {{form}}",
+    "submitting": "提交中…",
+    "declaration": "本人声明本申报表所载信息真实完整，并已获授权向 {{authority}} 提交。",
+    "netAmount": "净额",
+    "submitted": "已提交",
+    "filedOn": "申报日期",
+    "regime": {
+      "authority": "税务机关",
+      "channel": "申报渠道",
+      "return": "申报表",
+      "due": "截止",
+      "standardRate": "标准税率",
+      "threshold": "登记门槛"
+    },
+    "demoNote": "来自内置模拟税务 API 的演示数据 — 申报和缴款均为模拟，不会向任何税务机关发送。"
+  },
+  "fx": {
+    "title": "外币",
+    "subtitle": "本位币 {{base}} · 模拟参考汇率",
+    "newDoc": "新建外币发票 / 账单",
+    "kpi": {
+      "netExposure": "外汇净敞口",
+      "openDocs": "{{count}} 张未结单据",
+      "unrealized": "未实现损益",
+      "postedSplit": "已入账 {{posted}} · 未入账 {{unposted}}",
+      "realized": "本年已实现",
+      "lastReval": "上次重估",
+      "never": "从未",
+      "suggested": "建议：{{date}}"
+    },
+    "view": {
+      "open": "未结项目",
+      "settled": "已结清",
+      "revaluation": "月末重估",
+      "journal": "汇兑日记账"
+    },
+    "col": {
+      "document": "单据",
+      "type": "类型",
+      "openForeign": "未结（外币）",
+      "bookedNow": "入账 / 当前汇率",
+      "valueIn": "{{base}} 价值",
+      "unrealized": "未实现",
+      "status": "状态",
+      "amount": "金额",
+      "bookedRate": "入账汇率",
+      "realized": "已实现"
+    },
+    "receivable": "应收",
+    "payable": "应付",
+    "receive": "收款",
+    "pay": "付款",
+    "netIn": "{{base}} 净额",
+    "state": {
+      "settled": "已结清",
+      "partial": "部分结清",
+      "open": "未结"
+    },
+    "demoNote": "来自内置模拟 API 的演示数据 — 汇率为模拟值，并非实时市场数据。"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Urut urutjama",
+      "finance": "Finansa",
+      "advanced": "Nayrankaña"
+    },
+    "mainMenu": "Jilïr Menú",
+    "short": {
+      "parties": "Partidos ukanaka"
+    },
+    "sections": {
+      "dashboard": "Tablero de instrumentos ukax mä juk’a pachanakanwa",
+      "sales": "Aljasiñanaka",
+      "receivables": "Qullqi In",
+      "procurement": "Alañanaka",
+      "payables": "Qullqix mistuni",
+      "cashbank": "Qullqi & Banco",
+      "expenses": "Irjañanaka",
+      "tax": "Impuesto ukaxa",
+      "reports": "Yatiyawinaka",
+      "advanced-features": "Nayrar sartañ yänaka",
+      "parties": "Aljirinakax & Uñacht’ayirinaka",
+      "inventory": "Utjirinaka",
+      "assets": "Activos Fijos ukanaka",
+      "masters": "Setup & Configuración ukaxa mä juk’a pachanakwa lurasi",
+      "business-tools": "Equipo & Herramientas ukanaka",
+      "party-tools": "Partido ukan Herramientas ukanaka",
+      "item-tools": "Item Herramientas ukax mä juk’a pachanakanwa",
+      "storage": "Documentos ukanaka",
+      "alerts": "Alertanaka",
+      "migration": "Datos Migración ukax mä juk’a pachanakanwa"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Mä juk’a uñakipaña",
+        "cash-flow": "Qullqituqita",
+        "tax-calendar": "Impuesto Calendario ukat juk’ampinaka"
+      },
+      "sales": {
+        "quotations": "Citaciones ukanaka",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Phaktura",
+        "delivery-challans": "Challan ukax mä jach’a uñacht’äwiwa",
+        "receipts": "Risiwu",
+        "invoice-desk": "Escritorio de Facturas ukax mä juk’a pachanakanwa"
+      },
+      "receivables": {
+        "money-in-center": "Qullqix Centro ukankiwa",
+        "receivables": "Qullqi katuqañanaka",
+        "payments-received": "Payllawinaka katuqaña",
+        "overdue-collections": "Apthapiwinaka & Amtawinaka",
+        "credit-notes": "Notas de Crédito & Qullqi kutt’ayaña",
+        "sales-returns": "Aljasiñanaka kutt’ayaña",
+        "customer-statements": "Clientenakan arsutanakapa",
+        "payment-links": "Payllawi Links ukanaka"
+      },
+      "procurement": {
+        "purchase-center": "Alañ Uta",
+        "purchase-orders": "Alañataki kamachinaka",
+        "goods-receipt": "Suma yänaka katuqaña",
+        "purchase-invoices": "Facturas ukanaka alañataki",
+        "payment-out": "Payllawinaka Lurt’ata",
+        "returns-debit-notes": "Retorno & Notas de Débito ukanaka",
+        "bill-approvals": "Proyecto de Ley ukan Aprobacionanakapa"
+      },
+      "payables": {
+        "bills": "Payllañ Uta",
+        "payments": "Proveedor Payllawinaka",
+        "workforce": "Irnaqirinaka",
+        "adjustments": "Chiqañchäwinaka",
+        "bank-release": "Banco ukan Libertad ukapa"
+      },
+      "cashbank": {
+        "bank-accounts": "Nayan Cuentas ukanakaja",
+        "reconciliation": "Uñakipaña Transacciones ukanaka",
+        "cash-petty": "Jisk’a Qullqi",
+        "contra": "Cuentas ukanaka taypinxa",
+        "cheque-register": "Cheques ukanaka",
+        "foreign-currency": "Anqäx markan Qullqipa",
+        "bank-feeds": "Banco ukan manq’añanakapa",
+        "bank-rules": "Kamachinaka & Sumankthapiwi"
+      },
+      "expenses": {
+        "expense-center": "Taqi Gastos ukanaka",
+        "categories": "Gastos Tipos ukanaka",
+        "automated-bills": "Sapa kuti Gastos ukanaka",
+        "journal-vouchers": "Manual ukan qillqt’atanaka",
+        "provisions": "Acumulaciones ukanaka",
+        "write-offs": "Qillqañanaka",
+        "period-close": "Phaxsi-Tukuña"
+      },
+      "tax": {
+        "gst-returns": "GST ukax uñt’ayatawa",
+        "gst-filing-wizard": "⚡ Archivo GSTR-3B uka qillqata",
+        "gst-reconciliation": "GST Ukax mä juk’a pachanakanwa",
+        "e-invoicing": "E-Facturas ukanaka",
+        "e-way-bills": "E-Way ukax mä proyecto de ley ukhamawa",
+        "tds": "TDS ukax mä juk’a pachanakanwa",
+        "tcs": "TCS ukax mä juk’a pachanakanwa",
+        "tax-payments": "Impuesto payllaña",
+        "quarterly-compliance": "Calendario de Cumplimiento ukaxa",
+        "ca-access": "CA Mä juk’a pachataki Acceso",
+        "gst-from-books": "GST ukax Libros ukankiwa"
+      },
+      "reports": {
+        "financial-statements": "Qullqi tuqita Yatiyawinaka",
+        "books": "Transacción Libros ukanaka",
+        "gst-reports": "GST Yatiyäwinaka",
+        "ar-ap": "Qullqi katuqaña vs Payllaña",
+        "profitability": "Qullqi jikxataña",
+        "period-comparatives": "Maran Uñtasitapa",
+        "budget-vs-actuals": "Presupuesto Tracker ukax mä juk’a pachanakanwa",
+        "cashflow-projection": "Qullqi tuqit yatiyawi",
+        "report-builder": "Sapanchasqa Yatiyawinaka",
+        "general-ledger": "Libro Mayor General sata qillqata",
+        "live-financials": "Jakañ Qullqi tuqit yatxataña",
+        "ai-analyst": "AI ukax mä Analista ukhamawa"
+      },
+      "advanced-features": {
+        "overview": "Mä juk’a uñakipaña"
+      },
+      "parties": {
+        "all-parties": "Taqi Partidos ukanaka",
+        "customer-ledgers": "Aljirinakaxa",
+        "supplier-ledgers": "Ukax mä juk’a pachanakanwa",
+        "shared-ledger": "Libro Mayor Compartido ukaxa",
+        "statements": "Arsuwinaka",
+        "reminders": "Amtawinaka",
+        "documents": "Partido Documentos ukanaka",
+        "portal": "Partido Portal ukax mä jach’a uñacht’äwiwa",
+        "import": "Partido Importación ukaxa",
+        "duplicate-merge": "Duplicado Ukaxa mä juk’a pachanakwa lurasi",
+        "gap-analysis": "Gap Análisis ukax mä juk’a pachanakanwa"
+      },
+      "inventory": {
+        "inventory-items": "Utjirinaka",
+        "godowns": "Almacenes ukanaka",
+        "stock-movement": "Movimiento de Stock ukax mä jach’a uñacht’äwiwa",
+        "item-pricing": "Precios ukanaka",
+        "stock-valuation": "Stock ukan valoracionapa",
+        "reorder-alerts": "Alertanak wasitat ordenañataki",
+        "batch-serials": "Lote & Serial ukat juk’ampinaka",
+        "barcode-labels": "Etiquetas de Código de Barras ukanaka",
+        "item-import": "Artículo Importación ukax mä juk’a pachanakanwa",
+        "gap-analysis": "Gap Análisis ukax mä juk’a pachanakanwa"
+      },
+      "assets": {
+        "asset-register": "Lista de Activos ukaxa",
+        "depreciation": "Depreciación ukaxa",
+        "disposal-revaluation": "Aljasiña jan ukax Revaluación"
+      },
+      "masters": {
+        "chart-of-accounts": "Cuentas Lista ukaxa",
+        "tax-masters": "Impuesto Tasas ukanaka",
+        "cost-centers": "Centros de Costos ukanaka",
+        "voucher-types": "Transacción Tipos ukanaka",
+        "opening-balances": "Qalltañataki Saldos ukanaka",
+        "currencies": "Qullqinaka"
+      },
+      "business-tools": {
+        "staff-payroll": "Payllawi uñt’ayaña",
+        "manage-users": "Usuario Acceso ukaxa",
+        "online-orders": "Online ukan Pedidos ukanaka",
+        "sms-marketing": "SMS Marketing ukax mä jach’a qhathuwa",
+        "accountant-hub": "Contadores & Yanapt’awinaka"
+      },
+      "party-tools": {
+        "documents": "Partido Documentos ukanaka",
+        "portal": "Partido Portal ukax mä jach’a uñacht’äwiwa",
+        "import": "Partido Importación ukaxa",
+        "duplicate-merge": "Duplicado Ukaxa mä juk’a pachanakwa lurasi",
+        "gap-analysis": "Gap Análisis ukax mä juk’a pachanakanwa"
+      },
+      "item-tools": {
+        "reorder-alerts": "Alertanak wasitat ordenañataki",
+        "batch-serials": "Lote & Serial ukat juk’ampinaka",
+        "barcode-labels": "Etiquetas de Código de Barras ukanaka",
+        "item-import": "Artículo Importación ukax mä juk’a pachanakanwa",
+        "gap-analysis": "Gap Análisis ukax mä juk’a pachanakanwa"
+      },
+      "storage": {
+        "client-storage": "Cliente Archivonaka",
+        "unifiedtree-storage": "Qhixu qhixu imaña"
+      },
+      "alerts": {
+        "accountant-alerts": "Contador ukan Alertanakapa",
+        "compliance-alerts": "Alerta de Cumplimiento ukanaka",
+        "cash-risk-alerts": "Qullqi & Riesgo Alertas ukanaka",
+        "ca-access": "CA Mä juk’a pachataki Acceso"
+      },
+      "migration": {
+        "import": "Datos ukanaka apsuña",
+        "export": "Datos ukanaka apsuña",
+        "history": "Importación ukan sarnaqäwipa",
+        "tally-import": "Tally & Zoho ukan aljaña"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Alañanaka & Payllawinaka",
+      "accountingSetup": "Contabilidad ukan utt’ayata",
+      "dataDocuments": "Datos & Documentos ukanaka"
+    }
+  },
+  "common": {
+    "save": "Mayjt’awinak imaña",
+    "cancel": "Kansilaña",
+    "create": "Uñstayaña",
+    "edit": "Luraña",
+    "delete": "Phiskhsuña",
+    "search": "Thaqhata",
+    "connect": "Kuniktasiña",
+    "configure": "Configurar uñt’ayaña",
+    "disconnect": "Ukax mä juk’a pachanakanwa",
+    "sync": "Jichhax Sincronización luraña",
+    "close": "Jist'antaña",
+    "reset": "Defaults ukar kutt’ayaña",
+    "back": "Qhipa",
+    "continue": "Sarantaña",
+    "all": "Taqini",
+    "retry": "Wasitat yantʼañamawa",
+    "loading": "Ukax mä...",
+    "resetDemo": "Demostración ukan yatiyawinakap wasitat utt’ayaña"
+  },
+  "shell": {
+    "searchPlaceholder": "Kunas thaqhaña...",
+    "settings": "Ukax mä juk’a pachanakanwa",
+    "language": "Aru",
+    "role": "Ruli",
+    "greeting": {
+      "morning": "Aski alwakipana",
+      "afternoon": "Aski jayp'u",
+      "evening": "Aski arumaki"
+    },
+    "settingsItems": {
+      "company-profile": "Perfil de Empresa",
+      "configuration": "Configuración ukaxa mä juk’a pachanakwa lurasi",
+      "fiscal-periods": "Periodos Fiscales ukanaka",
+      "roles": "Roles & Usuarionaka",
+      "integrations": "Integraciones ukanaka",
+      "notifications": "Yatiyawinaka",
+      "audit-logs": "Auditoría & Registros ukanaka",
+      "audit-trail": "Tamper-proof Auditoría ukaxa mä juk’a pachanakwa lurasi",
+      "developer": "Desarrollador & API ukax mä juk’a pachanakanwa"
+    },
+    "translatedLanguages": "Jaqukipata",
+    "untranslatedLanguages": "Inglés arut jaqukipañkama"
+  },
+  "status": {
+    "filed": "Arxatatawa",
+    "ready": "Archivo lurañataki wakicht’ata",
+    "open": "Periodo jist’aratawa",
+    "paid": "Payllata",
+    "pending": "Manqha",
+    "accepted": "Iyaw satawa",
+    "delivered": "Churata",
+    "rejected": "Janiw satawa",
+    "pdf-sent": "PDF ukax apayanitawa",
+    "not-sent": "Janiw khitatakiti",
+    "matched": "Ukax mä juk’a pachanakanwa",
+    "mismatch": "Jan walt’awinaka",
+    "missing-supplier": "Janiw proveedor ukan yatiyatäkiti",
+    "missing-books": "Libronakan chhaqhata",
+    "deferred": "Ukax mä juk’a pachanakanwa",
+    "deducted": "Ukax apsutawa",
+    "remitted": "Ukax mä remitido ukhamawa",
+    "certified": "Certificado ukaxa",
+    "to-report": "Yatiyañataki",
+    "reported": "Yatiyatawa",
+    "accounted": "Contabilidad ukampi",
+    "overdue": "Ukax mä juk’a pachanakanwa"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Archivo lurañataki wakicht’ata",
+      "liabilityDue": "Responsabilidad ukaxa phuqhañapawa",
+      "paidThisYear": "Jichha marax payllatäxiwa",
+      "nextDeadline": "Jutïr uru tukuyañ uru",
+      "noneOverdue": "Janiw kunas paskiti",
+      "overdue": "{{count}} ukax mä juk’a pachanakanwa"
+    },
+    "filter": {
+      "ready": "Archivo lurañataki wakicht’ata",
+      "open": "Jist'arata",
+      "filed": "Arxatatawa"
+    },
+    "col": {
+      "period": "Pacha",
+      "authority": "P'iqinchiri",
+      "rate": "Tasa",
+      "due": "Ukatakjama",
+      "netPayable": "Neto payllawi",
+      "status": "Istaru",
+      "ack": "Uñt’ayasiña"
+    },
+    "file": "Archiwu",
+    "view": "Nayra",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Jurisdicción ukax cargañawa...",
+    "nothingToFile": "Janiw kuna kutt’ayañas suyt’atäkiti — taqi jist’antat pachanakax uñt’ayatawa.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Uñakipaña",
+      "validate": "Ukaxa chiqapawa",
+      "declare": "Yatiyaña & uñt’ayaña",
+      "ack": "Uñt’ayasiña"
+    },
+    "runValidation": "T’ijt’ayaña validación",
+    "validating": "Validación ukax...",
+    "submit": "{{form}} ukar uñt'ayaña.",
+    "submitting": "Uñt’ayañataki...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Ukax mä qullqiwa",
+    "submitted": "Uñt’ayata",
+    "filedOn": "Arxatatäxiwa",
+    "regime": {
+      "authority": "P'iqinchiri",
+      "channel": "Uka canal de archivación ukaxa",
+      "return": "Kutiyaña",
+      "due": "Ukatakjama",
+      "standardRate": "Tasa estándar ukaxa",
+      "threshold": "Umbral de registro ukaxa"
+    },
+    "demoNote": "Demostración de datos ukax API simulacro de impuestos ukan uñstayatawa — archivaciones ukat payllawinakax simulado ukhamarak janiw kunas mä autoridad tributaria ukar apayatakiti."
+  },
+  "fx": {
+    "title": "Anqäx markan Qullqipa",
+    "subtitle": "Base moneda {{base}} · indicativo simulado qhathunakan tasas ukanaka",
+    "newDoc": "Machaq FX factura / factura",
+    "kpi": {
+      "netExposure": "Ukax FX ukan uñt’ayatawa",
+      "openDocs": "{{count}} qillqatanaka jist’araña",
+      "unrealized": "Jan amuyt’at ganancia / chhaqtäwi",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Jichha marax amuyasiwayiwa",
+      "lastReval": "Qhipa uñakipaña",
+      "never": "Janiwa",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Jisk’a yänaka",
+      "settled": "Ukax utt’ayatawa",
+      "revaluation": "Phaxsi tukuyarux wasitat chaninchaña",
+      "journal": "FX revistan uñt’ayata"
+    },
+    "col": {
+      "document": "Tukumintu",
+      "type": "Kasta",
+      "openForeign": "Jisk’a (yaqha markankiri) .",
+      "bookedNow": "Reservado / jichhax",
+      "valueIn": "Ukax {{base}} ukankiwa.",
+      "unrealized": "Jan amuyañjamäki",
+      "status": "Istaru",
+      "amount": "Qawqha",
+      "bookedRate": "Tasa reservada ukaxa",
+      "realized": "Amuyasiwa"
+    },
+    "receivable": "Ukaxa katuqaña",
+    "payable": "Payllatäñapawa",
+    "receive": "Katuqaña",
+    "pay": "Payllaña",
+    "netIn": "Ukax {{base}} ukankiwa.",
+    "state": {
+      "settled": "Ukax utt’ayatawa",
+      "partial": "Mä chikatax utt’ayatawa",
+      "open": "Jist'arata"
+    },
+    "demoNote": "API simulacro ukan lurat demostración ukan yatiyawinakapax — tasas ukanakax simulados ukhamawa, janiw jakkir qhathunakan yatiyawinakapakiti."
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Day-to-Day",
+      "finance": "Finanses",
+      "advanced": "Papildu"
+    },
+    "mainMenu": "Main Menu",
+    "short": {
+      "parties": "ballītes"
+    },
+    "sections": {
+      "dashboard": "Informācijas panelis",
+      "sales": "Sales",
+      "receivables": "Money In",
+      "procurement": "Purchases",
+      "payables": "Money Out",
+      "cashbank": "Cash & Bank",
+      "expenses": "Izdevumi",
+      "tax": "Tax",
+      "reports": "Pārskati",
+      "advanced-features": "Papildu funkcijas",
+      "parties": "Customers & Suppliers",
+      "inventory": "Preces",
+      "assets": "Fixed Assets",
+      "masters": "Setup & Configuration",
+      "business-tools": "Komanda un rīki",
+      "party-tools": "Ballīšu rīki",
+      "item-tools": "Item Tools",
+      "storage": "Documents",
+      "alerts": "Brīdinājumi",
+      "migration": "Datu migrācija"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Pārskats",
+        "cash-flow": "Naudas plūsma",
+        "tax-calendar": "Nodokļu kalendārs"
+      },
+      "sales": {
+        "quotations": "Citāti",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Rēķins",
+        "delivery-challans": "Piegāde Challan",
+        "receipts": "Kvīts",
+        "invoice-desk": "Rēķinu galds"
+      },
+      "receivables": {
+        "money-in-center": "Money In Center",
+        "receivables": "Debitoru parādi",
+        "payments-received": "Saņemtie maksājumi",
+        "overdue-collections": "Collections & Reminders",
+        "credit-notes": "Kredītzīmes un atmaksas",
+        "sales-returns": "Pārdošanas atgriešana",
+        "customer-statements": "Customer Statements",
+        "payment-links": "Maksājumu saites"
+      },
+      "procurement": {
+        "purchase-center": "Pirkšanas centrs",
+        "purchase-orders": "Purchase Orders",
+        "goods-receipt": "Preču saņemšana",
+        "purchase-invoices": "Pirkuma rēķini",
+        "payment-out": "Veikti maksājumi",
+        "returns-debit-notes": "Returns & Debit Notes",
+        "bill-approvals": "Rēķinu apstiprināšana"
+      },
+      "payables": {
+        "bills": "Maksājumu centrs",
+        "payments": "Piegādātāju maksājumi",
+        "workforce": "Darbaspēks",
+        "adjustments": "Pielāgojumi",
+        "bank-release": "Bankas izlaidums"
+      },
+      "cashbank": {
+        "bank-accounts": "Mani konti",
+        "reconciliation": "Saskaņot darījumus",
+        "cash-petty": "Mazā nauda",
+        "contra": "Starp kontiem",
+        "cheque-register": "Pārbaudes",
+        "foreign-currency": "Ārvalstu valūta",
+        "bank-feeds": "Banku plūsmas",
+        "bank-rules": "Noteikumi un saskaņošana"
+      },
+      "expenses": {
+        "expense-center": "Visi izdevumi",
+        "categories": "Izdevumu veidi",
+        "automated-bills": "Periodiskie izdevumi",
+        "journal-vouchers": "Manuālie ieraksti",
+        "provisions": "Uzkrājumi",
+        "write-offs": "Norakstīšana",
+        "period-close": "Mēneša beigas"
+      },
+      "tax": {
+        "gst-returns": "GST iesniegšana",
+        "gst-filing-wizard": "⚡ Fails GSTR-3B",
+        "gst-reconciliation": "GST atbilstība",
+        "e-invoicing": "E-rēķini",
+        "e-way-bills": "E-vekseļi",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Maksājiet nodokli",
+        "quarterly-compliance": "Atbilstības kalendārs",
+        "ca-access": "CA pagaidu piekļuve",
+        "gst-from-books": "GST no grāmatām"
+      },
+      "reports": {
+        "financial-statements": "Finanšu pārskati",
+        "books": "Darījumu grāmatas",
+        "gst-reports": "GST pārskati",
+        "ar-ap": "Debitoru un kreditoru parādi",
+        "profitability": "Rentabilitāte",
+        "period-comparatives": "Gada salīdzinājums",
+        "budget-vs-actuals": "Budžeta izsekotājs",
+        "cashflow-projection": "Naudas prognoze",
+        "report-builder": "Pielāgoti pārskati",
+        "general-ledger": "Virsgrāmata",
+        "live-financials": "Tiešraides finanses",
+        "ai-analyst": "AI analītiķis"
+      },
+      "advanced-features": {
+        "overview": "Pārskats"
+      },
+      "parties": {
+        "all-parties": "Visas puses",
+        "customer-ledgers": "Klienti",
+        "supplier-ledgers": "Piegādātāji",
+        "shared-ledger": "Kopīgā virsgrāmata",
+        "statements": "Paziņojumi",
+        "reminders": "Atgādinājumi",
+        "documents": "Partijas dokumenti",
+        "portal": "Partiju portāls",
+        "import": "Partijas importēšana",
+        "duplicate-merge": "Dublēt sapludināšanu",
+        "gap-analysis": "Atšķirību analīze"
+      },
+      "inventory": {
+        "inventory-items": "Preces",
+        "godowns": "Noliktavas",
+        "stock-movement": "Krājumu kustība",
+        "item-pricing": "Cenu noteikšana",
+        "stock-valuation": "Krājumu vērtēšana",
+        "reorder-alerts": "Pārkārtot brīdinājumus",
+        "batch-serials": "Partijas un sērijas",
+        "barcode-labels": "Svītrkoda etiķetes",
+        "item-import": "Preču importēšana",
+        "gap-analysis": "Atšķirību analīze"
+      },
+      "assets": {
+        "asset-register": "Aktīvu saraksts",
+        "depreciation": "Nolietojums",
+        "disposal-revaluation": "Pārdod vai pārvērt"
+      },
+      "masters": {
+        "chart-of-accounts": "Kontu saraksts",
+        "tax-masters": "Nodokļu likmes",
+        "cost-centers": "Izmaksu centri",
+        "voucher-types": "Darījumu veidi",
+        "opening-balances": "Sākuma atlikumi",
+        "currencies": "Valūtas"
+      },
+      "business-tools": {
+        "staff-payroll": "Algu saraksts",
+        "manage-users": "Lietotāja piekļuve",
+        "online-orders": "Tiešsaistes pasūtījumi",
+        "sms-marketing": "SMS mārketings",
+        "accountant-hub": "Grāmatveži un atbalsts"
+      },
+      "party-tools": {
+        "documents": "Partijas dokumenti",
+        "portal": "Partiju portāls",
+        "import": "Partijas importēšana",
+        "duplicate-merge": "Dublēt sapludināšanu",
+        "gap-analysis": "Atšķirību analīze"
+      },
+      "item-tools": {
+        "reorder-alerts": "Pārkārtot brīdinājumus",
+        "batch-serials": "Partijas un sērijas",
+        "barcode-labels": "Svītrkoda etiķetes",
+        "item-import": "Preču importēšana",
+        "gap-analysis": "Atšķirību analīze"
+      },
+      "storage": {
+        "client-storage": "Klientu faili",
+        "unifiedtree-storage": "Mākoņu krātuve"
+      },
+      "alerts": {
+        "accountant-alerts": "Grāmatveža brīdinājumi",
+        "compliance-alerts": "Atbilstības brīdinājumi",
+        "cash-risk-alerts": "Skaidras naudas un riska brīdinājumi",
+        "ca-access": "CA pagaidu piekļuve"
+      },
+      "migration": {
+        "import": "Importēt datus",
+        "export": "Eksportēt datus",
+        "history": "Importēt vēsturi",
+        "tally-import": "Importēt no Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Pirkumi un maksājumi",
+      "accountingSetup": "Grāmatvedības iestatīšana",
+      "dataDocuments": "Dati un dokumenti"
+    }
+  },
+  "common": {
+    "save": "Saglabāt izmaiņas",
+    "cancel": "Atcelt",
+    "create": "Izveidot",
+    "edit": "Rediģēt",
+    "delete": "Dzēst",
+    "search": "Meklēt",
+    "connect": "Savienot",
+    "configure": "Konfigurēt",
+    "disconnect": "Atvienot",
+    "sync": "Sinhronizēt tūlīt",
+    "close": "Aizvērt",
+    "reset": "Atiestatīt uz noklusējuma iestatījumiem",
+    "back": "Atpakaļ",
+    "continue": "Turpināt",
+    "all": "Visi",
+    "retry": "Mēģiniet vēlreiz",
+    "loading": "Notiek ielāde…",
+    "resetDemo": "Atiestatīt demonstrācijas datus"
+  },
+  "shell": {
+    "searchPlaceholder": "Meklēt jebko…",
+    "settings": "Iestatījumi",
+    "language": "Valoda",
+    "role": "Loma",
+    "greeting": {
+      "morning": "Labrīt",
+      "afternoon": "Laba pēcpusdiena",
+      "evening": "Labvakar"
+    },
+    "settingsItems": {
+      "company-profile": "Uzņēmuma profils",
+      "configuration": "Konfigurācija",
+      "fiscal-periods": "Fiskālie periodi",
+      "roles": "Lomas un lietotāji",
+      "integrations": "Integrācijas",
+      "notifications": "Paziņojumi",
+      "audit-logs": "Audits un žurnāli",
+      "audit-trail": "Pret viltojumiem droša revīzijas liecība",
+      "developer": "Izstrādātājs un API"
+    },
+    "translatedLanguages": "Tulkots",
+    "untranslatedLanguages": "Angļu valoda līdz tulkošanai"
+  },
+  "status": {
+    "filed": "Iesniegts",
+    "ready": "Gatavs failam",
+    "open": "Atvērts periods",
+    "paid": "Apmaksāts",
+    "pending": "Gaida",
+    "accepted": "Pieņemts",
+    "delivered": "Piegādāts",
+    "rejected": "Noraidīts",
+    "pdf-sent": "PDF nosūtīts",
+    "not-sent": "Nav nosūtīts",
+    "matched": "Saskaņots",
+    "mismatch": "Neatbilstība",
+    "missing-supplier": "Piegādātājs nav ziņojis",
+    "missing-books": "Pazudis grāmatās",
+    "deferred": "Atlikts",
+    "deducted": "Atskaitīts",
+    "remitted": "Pārsūtīts",
+    "certified": "Sertificēts",
+    "to-report": "Lai ziņotu",
+    "reported": "Ziņots",
+    "accounted": "Grāmatvedība",
+    "overdue": "Nokavēts"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Gatavs failam",
+      "liabilityDue": "Pienākamā atbildība",
+      "paidThisYear": "Apmaksāts šogad",
+      "nextDeadline": "Nākamais termiņš",
+      "noneOverdue": "Neviens nav nokavēts",
+      "overdue": "{{count}} nokavēts"
+    },
+    "filter": {
+      "ready": "Gatavs failam",
+      "open": "Atvērt",
+      "filed": "Iesniegts"
+    },
+    "col": {
+      "period": "Periods",
+      "authority": "Autoritāte",
+      "rate": "Likme",
+      "due": "Pienākas",
+      "netPayable": "Neto maksājums",
+      "status": "Statuss",
+      "ack": "Atzinība"
+    },
+    "file": "Fails",
+    "view": "Skatīt",
+    "fileForm": "Fails {{form}}",
+    "loadingJurisdiction": "Notiek jurisdikcijas ielāde…",
+    "nothingToFile": "Iesniegšanu negaida neviena deklarācija — tiek iesniegti visi slēgtie periodi.",
+    "fileNext": "Nākamais fails: {{name}}",
+    "steps": {
+      "review": "Pārskats",
+      "validate": "Apstiprināt",
+      "declare": "Deklarēt un iesniegt",
+      "ack": "Atzinība"
+    },
+    "runValidation": "Palaidiet validāciju",
+    "validating": "Notiek apstiprināšana…",
+    "submit": "Iesniegt {{form}}",
+    "submitting": "Notiek iesniegšana…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Neto summa",
+    "submitted": "Iesniegts",
+    "filedOn": "Iesniegts",
+    "regime": {
+      "authority": "Autoritāte",
+      "channel": "Iesniegšanas kanāls",
+      "return": "Atgriezties",
+      "due": "Pienākas",
+      "standardRate": "Standarta likme",
+      "threshold": "Reģistrācijas slieksnis"
+    },
+    "demoNote": "Demonstrācijas dati no iebūvētās viltus nodokļu API — tiek simulēti iesniegumi un maksājumi, un nekas netiek nosūtīts nodokļu iestādei."
+  },
+  "fx": {
+    "title": "Ārvalstu valūta",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Jauns FX rēķins/rēķins",
+    "kpi": {
+      "netExposure": "Neto FX ekspozīcija",
+      "openDocs": "{{count}} atvērti dokumenti",
+      "unrealized": "Nerealizētā peļņa/zaudējumi",
+      "postedSplit": "{{posted}} izlika · {{unposted}} vēl nav",
+      "realized": "Realizēts šogad",
+      "lastReval": "Pēdējā pārvērtēšana",
+      "never": "Nekad",
+      "suggested": "Ieteikts: {{date}}"
+    },
+    "view": {
+      "open": "Atvērt vienumus",
+      "settled": "Apmetās",
+      "revaluation": "Mēneša beigu pārvērtēšana",
+      "journal": "FX žurnāls"
+    },
+    "col": {
+      "document": "Dokuments",
+      "type": "Tips",
+      "openForeign": "Atvērts (ārvalstu)",
+      "bookedNow": "Rezervēts / tagad",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Nerealizēts",
+      "status": "Statuss",
+      "amount": "Summa",
+      "bookedRate": "Rezervētā likme",
+      "realized": "Saprata"
+    },
+    "receivable": "Saņemams",
+    "payable": "Maksājams",
+    "receive": "Saņemt",
+    "pay": "Maksājiet",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Apmetās",
+      "partial": "Daļēji nokārtots",
+      "open": "Atvērt"
+    },
+    "demoNote": "Demonstrācijas dati no iebūvētās viltus API — likmes tiek simulētas, nevis tiešraides tirgus dati."
+  }
+}

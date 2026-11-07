@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Көннән-көн",
+      "finance": "Финанс",
+      "advanced": "Алга киткән"
+    },
+    "mainMenu": "Төп меню",
+    "short": {
+      "parties": "Яклар"
+    },
+    "sections": {
+      "dashboard": "Такталар",
+      "sales": "Сату",
+      "receivables": "Акча",
+      "procurement": "Сатып алулар",
+      "payables": "Акча",
+      "cashbank": "Акча һәм банк",
+      "expenses": "Чыгымнар",
+      "tax": "Салым",
+      "reports": "Докладлар",
+      "advanced-features": "Алга киткән үзенчәлекләр",
+      "parties": "Клиентлар һәм тәэмин итүчеләр",
+      "inventory": "Предметлар",
+      "assets": "Төп активлар",
+      "masters": "Урнаштыру һәм конфигурация",
+      "business-tools": "Команда һәм кораллар",
+      "party-tools": "Кичә кораллары",
+      "item-tools": "Предмет кораллары",
+      "storage": "Документлар",
+      "alerts": "Сигнализация",
+      "migration": "Мәгълүмат миграциясе"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Гомуми күзәтү",
+        "cash-flow": "Акча агымы",
+        "tax-calendar": "Салым календаре"
+      },
+      "sales": {
+        "quotations": "Otитаталар",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Фактура",
+        "delivery-challans": "Чаллан",
+        "receipts": "Квитанция",
+        "invoice-desk": "Фактура өстәле"
+      },
+      "receivables": {
+        "money-in-center": "Centerзәктә акча",
+        "receivables": "Алырлык",
+        "payments-received": "Түләүләр",
+        "overdue-collections": "Коллекцияләр һәм искәртмәләр",
+        "credit-notes": "Кредит язмалары һәм кире кайтару",
+        "sales-returns": "Сату нәтиҗәләре",
+        "customer-statements": "Клиент белдерүләре",
+        "payment-links": "Түләү сылтамалары"
+      },
+      "procurement": {
+        "purchase-center": "Сатып алу үзәге",
+        "purchase-orders": "Заказлар сатып алу",
+        "goods-receipt": "Товар квитанциясе",
+        "purchase-invoices": "Счет-фактуралар сатып алу",
+        "payment-out": "Түләүләр",
+        "returns-debit-notes": "Кайту һәм дебет язмалары",
+        "bill-approvals": "Билл раслау"
+      },
+      "payables": {
+        "bills": "Түләү үзәге",
+        "payments": "Тапшыручының түләүләре",
+        "workforce": "Эшче көче",
+        "adjustments": "Көйләүләр",
+        "bank-release": "Банк чыгарылышы"
+      },
+      "cashbank": {
+        "bank-accounts": "Минем Хисаплар",
+        "reconciliation": "Транзакцияләр",
+        "cash-petty": "Кечкенә акча",
+        "contra": "Хисаплар арасында",
+        "cheque-register": "Чеклар",
+        "foreign-currency": "Чит ил валютасы",
+        "bank-feeds": "Банк тасмалары",
+        "bank-rules": "Кагыйдәләр һәм татулашу"
+      },
+      "expenses": {
+        "expense-center": "Барлык чыгымнар",
+        "categories": "Чыгым төрләре",
+        "automated-bills": "Кабатланучы чыгымнар",
+        "journal-vouchers": "Кул белән язулар",
+        "provisions": "Аккруаль",
+        "write-offs": "Язу",
+        "period-close": "Ай-ахыр"
+      },
+      "tax": {
+        "gst-returns": "GST тутыру",
+        "gst-filing-wizard": "G GSTR-3B файл",
+        "gst-reconciliation": "GST туры килү",
+        "e-invoicing": "Электрон фактуралар",
+        "e-way-bills": "Электрон юл",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Салым түләү",
+        "quarterly-compliance": "Календарь",
+        "ca-access": "CA вакытлыча керү",
+        "gst-from-books": "Китаплардан GST"
+      },
+      "reports": {
+        "financial-statements": "Финанс отчетлары",
+        "books": "Килешү китаплары",
+        "gst-reports": "GST отчетлары",
+        "ar-ap": "Алына торган бурычлар",
+        "profitability": "Рентабельлелек",
+        "period-comparatives": "Ел чагыштыру",
+        "budget-vs-actuals": "Бюджет трекеры",
+        "cashflow-projection": "Акча фаразлау",
+        "report-builder": "Хисаплар",
+        "general-ledger": "Генераль Леджер",
+        "live-financials": "Тере финанслар",
+        "ai-analyst": "ЯИ аналитик"
+      },
+      "advanced-features": {
+        "overview": "Гомуми күзәтү"
+      },
+      "parties": {
+        "all-parties": "Барлык яклар",
+        "customer-ledgers": "Клиентлар",
+        "supplier-ledgers": "Тапшыручылар",
+        "shared-ledger": "Уртак Леджер",
+        "statements": "Аңлатмалар",
+        "reminders": "Искә төшерүләр",
+        "documents": "Партия документлары",
+        "portal": "Партия порталы",
+        "import": "Партия импорты",
+        "duplicate-merge": "Берләштерү",
+        "gap-analysis": "Гап анализы"
+      },
+      "inventory": {
+        "inventory-items": "Предметлар",
+        "godowns": "Складлар",
+        "stock-movement": "Акция хәрәкәте",
+        "item-pricing": "Бәяләр",
+        "stock-valuation": "Акцияне бәяләү",
+        "reorder-alerts": "Сигнализация",
+        "batch-serials": "Партия һәм серия",
+        "barcode-labels": "Штрих-ярлык",
+        "item-import": "Импорт",
+        "gap-analysis": "Гап анализы"
+      },
+      "assets": {
+        "asset-register": "Активлар исемлеге",
+        "depreciation": "Амортизация",
+        "disposal-revaluation": "Сату яки бәяләү"
+      },
+      "masters": {
+        "chart-of-accounts": "Хисаплар исемлеге",
+        "tax-masters": "Салым ставкалары",
+        "cost-centers": "Чыгым үзәкләре",
+        "voucher-types": "Транзакция төрләре",
+        "opening-balances": "Балансны башлау",
+        "currencies": "Валюта"
+      },
+      "business-tools": {
+        "staff-payroll": "Хезмәт хакы",
+        "manage-users": "Кулланучының рөхсәте",
+        "online-orders": "Онлайн заказлар",
+        "sms-marketing": "Маркетинг",
+        "accountant-hub": "Бухгалтерлар һәм ярдәм"
+      },
+      "party-tools": {
+        "documents": "Партия документлары",
+        "portal": "Партия порталы",
+        "import": "Партия импорты",
+        "duplicate-merge": "Берләштерү",
+        "gap-analysis": "Гап анализы"
+      },
+      "item-tools": {
+        "reorder-alerts": "Сигнализация",
+        "batch-serials": "Партия һәм серия",
+        "barcode-labels": "Штрих-ярлык",
+        "item-import": "Импорт",
+        "gap-analysis": "Гап анализы"
+      },
+      "storage": {
+        "client-storage": "Клиент файллары",
+        "unifiedtree-storage": "Болыт саклау"
+      },
+      "alerts": {
+        "accountant-alerts": "Бухгалтер хәбәрләре",
+        "compliance-alerts": "Килешү хәбәрләре",
+        "cash-risk-alerts": "Акча һәм куркыныч турында хәбәрләр",
+        "ca-access": "CA вакытлыча керү"
+      },
+      "migration": {
+        "import": "Мәгълүматны импортлау",
+        "export": "Экспорт мәгълүматлары",
+        "history": "Тарихны импортлау",
+        "tally-import": "Талли & Зоходан импорт"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Сатып алулар һәм түләүләр",
+      "accountingSetup": "Бухгалтерлык көйләү",
+      "dataDocuments": "Мәгълүматлар һәм документлар"
+    }
+  },
+  "common": {
+    "save": "Esзгәрешләрне саклагыз",
+    "cancel": "Баш тарту",
+    "create": "Ярат",
+    "edit": "Редакцияләү",
+    "delete": "Бетерү",
+    "search": "Эзләү",
+    "connect": "Бәйләнегез",
+    "configure": "Конфигурацияләү",
+    "disconnect": "Аерыгыз",
+    "sync": "Синхронизация",
+    "close": "Ябу",
+    "reset": "Килешүләргә кире кайтару",
+    "back": "Кире",
+    "continue": "Дәвам итегез",
+    "all": "Барысы да",
+    "retry": "Кабатлап карагыз",
+    "loading": "Йөкләү…",
+    "resetDemo": "Демо мәгълүматларын яңадан урнаштыру"
+  },
+  "shell": {
+    "searchPlaceholder": "Берәр нәрсәне эзләгез ...",
+    "settings": "Көйләүләр",
+    "language": "Тел",
+    "role": "Роль",
+    "greeting": {
+      "morning": "Хәерле иртә",
+      "afternoon": "Хәерле көн",
+      "evening": "Хәерле кич"
+    },
+    "settingsItems": {
+      "company-profile": "Компания профиле",
+      "configuration": "Конфигурация",
+      "fiscal-periods": "Финанс чорлары",
+      "roles": "Рольләр һәм кулланучылар",
+      "integrations": "Интеграцияләр",
+      "notifications": "Хәбәрләр",
+      "audit-logs": "Аудит һәм бүрәнәләр",
+      "audit-trail": "Аудит трейлеры",
+      "developer": "Төзүче & API"
+    },
+    "translatedLanguages": "Тәрҗемә ителгән",
+    "untranslatedLanguages": "Тәрҗемә ителгәнче инглиз"
+  },
+  "status": {
+    "filed": "Файл",
+    "ready": "Файлга әзер",
+    "open": "Вакыт ачык",
+    "paid": "Түләүле",
+    "pending": "Көтелгән",
+    "accepted": "Кабул ителде",
+    "delivered": "Тапшырылды",
+    "rejected": "Кире кагылды",
+    "pdf-sent": "PDF җибәрелде",
+    "not-sent": "Sentибәрелмәгән",
+    "matched": "Төгәл",
+    "mismatch": "Бер-берсенә туры килмәү",
+    "missing-supplier": "Тапшыручы хәбәр итми",
+    "missing-books": "Китапларда сагыну",
+    "deferred": "Кичектерелгән",
+    "deducted": "Чыгарылган",
+    "remitted": "Алынды",
+    "certified": "Сертификатланган",
+    "to-report": "Доклад",
+    "reported": "Доклад",
+    "accounted": "Хисап",
+    "overdue": "Вакыт узган"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Файлга әзер",
+      "liabilityDue": "Liаваплылык",
+      "paidThisYear": "Быел түләнде",
+      "nextDeadline": "Киләсе вакыт",
+      "noneOverdue": "Беркем дә соңга калмады",
+      "overdue": "{{count}} overdue"
+    },
+    "filter": {
+      "ready": "Файлга әзер",
+      "open": "Ачык",
+      "filed": "Файл"
+    },
+    "col": {
+      "period": "Вакыт",
+      "authority": "Хакимият",
+      "rate": "Ставка",
+      "due": "Бурыч",
+      "netPayable": "Чиста түләргә",
+      "status": "Статус",
+      "ack": "Рәхмәт"
+    },
+    "file": "Файл",
+    "view": "Карарга",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Йөкләү юрисдикциясе…",
+    "nothingToFile": "Реклама бирүне көтмиләр - барлык ябык вакытлар тапшырыла.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Кабатлау",
+      "validate": "Тикшерү",
+      "declare": "Декларацияләү һәм тапшыру",
+      "ack": "Рәхмәт"
+    },
+    "runValidation": "Тикшерү эшләгез",
+    "validating": "Тикшерү…",
+    "submit": "Submit {{form}}",
+    "submitting": "Тапшыру…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Чиста сумма",
+    "submitted": "Тапшырылды",
+    "filedOn": "Filed",
+    "regime": {
+      "authority": "Хакимият",
+      "channel": "Канал тутыру",
+      "return": "Кайту",
+      "due": "Бурыч",
+      "standardRate": "Стандарт ставка",
+      "threshold": "Теркәлү бусагасы"
+    },
+    "demoNote": "Эчке мок салым API-ның демо мәгълүматлары - файллар һәм түләүләр симуляцияләнгән һәм салым органына бернәрсә дә җибәрелмәгән."
+  },
+  "fx": {
+    "title": "Чит ил валютасы",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Яңа FX фактурасы / түләү",
+    "kpi": {
+      "netExposure": "Чиста FX экспозициясе",
+      "openDocs": "{{count}} open documents",
+      "unrealized": "Чынбарлыкка ирешмәгән табыш / югалту",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Быел тормышка ашырылды",
+      "lastReval": "Соңгы бәяләү",
+      "never": "Беркайчан да",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Ачык әйберләр",
+      "settled": "Урнаштырылган",
+      "revaluation": "Ай ахырында бәяләү",
+      "journal": "FX журналы"
+    },
+    "col": {
+      "document": "Документ",
+      "type": "Тип",
+      "openForeign": "Ачык (чит)",
+      "bookedNow": "Броньланган / хәзер",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Реализацияләнмәгән",
+      "status": "Статус",
+      "amount": "Күләм",
+      "bookedRate": "Броньланган ставка",
+      "realized": "Чынбарлыкта"
+    },
+    "receivable": "Алына торган",
+    "payable": "Түләүле",
+    "receive": "Ал",
+    "pay": "Түләү",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Урнаштырылган",
+      "partial": "Partлешчә урнаштырылган",
+      "open": "Ачык"
+    },
+    "demoNote": "Эчке мок API-ның демо мәгълүматлары - тарифлар симуляцияләнгән, тере базар мәгълүматлары түгел."
+  }
+}

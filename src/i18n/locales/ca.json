@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "El dia a dia",
+      "finance": "Finances",
+      "advanced": "Avançat"
+    },
+    "mainMenu": "Menú principal",
+    "short": {
+      "parties": "festes"
+    },
+    "sections": {
+      "dashboard": "Tauler de control",
+      "sales": "Vendes",
+      "receivables": "Diners dins",
+      "procurement": "Compres",
+      "payables": "Diners fora",
+      "cashbank": "Efectiu i Banc",
+      "expenses": "Despeses",
+      "tax": "Impost",
+      "reports": "Informes",
+      "advanced-features": "Funcions avançades",
+      "parties": "Clients i Proveïdors",
+      "inventory": "Elements",
+      "assets": "Immobilitzat",
+      "masters": "Configuració i configuració",
+      "business-tools": "Equip i eines",
+      "party-tools": "Eines de festa",
+      "item-tools": "Eines d'elements",
+      "storage": "Documents",
+      "alerts": "Alertes",
+      "migration": "Migració de dades"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Visió general",
+        "cash-flow": "Flux de caixa",
+        "tax-calendar": "Calendari fiscal"
+      },
+      "sales": {
+        "quotations": "Cites",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Factura",
+        "delivery-challans": "Lliurament Challan",
+        "receipts": "Rebut",
+        "invoice-desk": "Taulell de facturació"
+      },
+      "receivables": {
+        "money-in-center": "Diners al centre",
+        "receivables": "Deutors",
+        "payments-received": "Pagaments rebuts",
+        "overdue-collections": "Col·leccions i recordatoris",
+        "credit-notes": "Notes de crèdit i reemborsaments",
+        "sales-returns": "Devolucions de vendes",
+        "customer-statements": "Declaracions del client",
+        "payment-links": "Enllaços de pagament"
+      },
+      "procurement": {
+        "purchase-center": "Centre de compres",
+        "purchase-orders": "Comandes de compra",
+        "goods-receipt": "Recepció de mercaderies",
+        "purchase-invoices": "Factures de compra",
+        "payment-out": "Pagaments realitzats",
+        "returns-debit-notes": "Devolucions i notes de dèbit",
+        "bill-approvals": "Aprovacions de factures"
+      },
+      "payables": {
+        "bills": "Centre de pagament",
+        "payments": "Pagaments a proveïdors",
+        "workforce": "Força de treball",
+        "adjustments": "Ajustaments",
+        "bank-release": "Alliberament bancari"
+      },
+      "cashbank": {
+        "bank-accounts": "Els meus comptes",
+        "reconciliation": "Coincideix transaccions",
+        "cash-petty": "Caixa petita",
+        "contra": "Entre comptes",
+        "cheque-register": "xecs",
+        "foreign-currency": "Moneda estrangera",
+        "bank-feeds": "Fonts bancàries",
+        "bank-rules": "Regles i reconciliació"
+      },
+      "expenses": {
+        "expense-center": "Totes les despeses",
+        "categories": "Tipus de despeses",
+        "automated-bills": "Despeses recurrents",
+        "journal-vouchers": "Entrades manuals",
+        "provisions": "Periodificacions",
+        "write-offs": "Cancel·lacions",
+        "period-close": "Fi de Mes"
+      },
+      "tax": {
+        "gst-returns": "Presentació de GST",
+        "gst-filing-wizard": "⚡ Fitxer GSTR-3B",
+        "gst-reconciliation": "Coincidència GST",
+        "e-invoicing": "Factures electròniques",
+        "e-way-bills": "Factures E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Pagar Impost",
+        "quarterly-compliance": "Calendari de compliment",
+        "ca-access": "CA Accés temporal",
+        "gst-from-books": "GST de Llibres"
+      },
+      "reports": {
+        "financial-statements": "Informes financers",
+        "books": "Llibres de transaccions",
+        "gst-reports": "Informes GST",
+        "ar-ap": "Deutes a cobrar vs a pagar",
+        "profitability": "Rendibilitat",
+        "period-comparatives": "Comparació d'anys",
+        "budget-vs-actuals": "Seguiment del pressupost",
+        "cashflow-projection": "Previsió d'efectiu",
+        "report-builder": "Informes personalitzats",
+        "general-ledger": "Llibre general",
+        "live-financials": "Finances en directe",
+        "ai-analyst": "Analista d'IA"
+      },
+      "advanced-features": {
+        "overview": "Visió general"
+      },
+      "parties": {
+        "all-parties": "Totes les parts",
+        "customer-ledgers": "Clients",
+        "supplier-ledgers": "Proveïdors",
+        "shared-ledger": "Llibre compartit",
+        "statements": "Declaracions",
+        "reminders": "Recordatoris",
+        "documents": "Documents del partit",
+        "portal": "Portal de festes",
+        "import": "Importació del partit",
+        "duplicate-merge": "Duplica la fusió",
+        "gap-analysis": "Anàlisi de buits"
+      },
+      "inventory": {
+        "inventory-items": "Elements",
+        "godowns": "Magatzems",
+        "stock-movement": "Moviment d'estocs",
+        "item-pricing": "Preus",
+        "stock-valuation": "Valoració d'estocs",
+        "reorder-alerts": "Reordena les alertes",
+        "batch-serials": "Lot i sèrie",
+        "barcode-labels": "Etiquetes de codi de barres",
+        "item-import": "Importació d'elements",
+        "gap-analysis": "Anàlisi de buits"
+      },
+      "assets": {
+        "asset-register": "Llista d'actius",
+        "depreciation": "Amortització",
+        "disposal-revaluation": "Vendre o revaloritzar"
+      },
+      "masters": {
+        "chart-of-accounts": "Llista de comptes",
+        "tax-masters": "Taxes fiscals",
+        "cost-centers": "Centres de costos",
+        "voucher-types": "Tipus de transaccions",
+        "opening-balances": "Saldos inicials",
+        "currencies": "Monedes"
+      },
+      "business-tools": {
+        "staff-payroll": "Nòmina",
+        "manage-users": "Accés d'usuari",
+        "online-orders": "Comandes en línia",
+        "sms-marketing": "Màrqueting per SMS",
+        "accountant-hub": "Comptables i Suport"
+      },
+      "party-tools": {
+        "documents": "Documents del partit",
+        "portal": "Portal de festes",
+        "import": "Importació del partit",
+        "duplicate-merge": "Duplica la fusió",
+        "gap-analysis": "Anàlisi de buits"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reordena les alertes",
+        "batch-serials": "Lot i sèrie",
+        "barcode-labels": "Etiquetes de codi de barres",
+        "item-import": "Importació d'elements",
+        "gap-analysis": "Anàlisi de buits"
+      },
+      "storage": {
+        "client-storage": "Fitxers de client",
+        "unifiedtree-storage": "Emmagatzematge al núvol"
+      },
+      "alerts": {
+        "accountant-alerts": "Alertes comptables",
+        "compliance-alerts": "Alertes de compliment",
+        "cash-risk-alerts": "Alertes d'efectiu i risc",
+        "ca-access": "CA Accés temporal"
+      },
+      "migration": {
+        "import": "Importa dades",
+        "export": "Exportar dades",
+        "history": "Historial d'importació",
+        "tally-import": "Importació de Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Compres i pagaments",
+      "accountingSetup": "Configuració comptable",
+      "dataDocuments": "Dades i documents"
+    }
+  },
+  "common": {
+    "save": "Desa els canvis",
+    "cancel": "Cancel·la",
+    "create": "Crear",
+    "edit": "Edita",
+    "delete": "Suprimeix",
+    "search": "Cerca",
+    "connect": "Connecta't",
+    "configure": "Configura",
+    "disconnect": "Desconnecta",
+    "sync": "Sincronitza ara",
+    "close": "Tancar",
+    "reset": "Restableix els valors per defecte",
+    "back": "Enrere",
+    "continue": "Continua",
+    "all": "Tots",
+    "retry": "Torna-ho a provar",
+    "loading": "S'està carregant…",
+    "resetDemo": "Restableix les dades de demostració"
+  },
+  "shell": {
+    "searchPlaceholder": "Cerca qualsevol cosa...",
+    "settings": "Configuració",
+    "language": "Llengua",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Bon dia",
+      "afternoon": "Bona tarda",
+      "evening": "Bona tarda"
+    },
+    "settingsItems": {
+      "company-profile": "Perfil de l'empresa",
+      "configuration": "Configuració",
+      "fiscal-periods": "Períodes Fiscals",
+      "roles": "Rols i usuaris",
+      "integrations": "Integracions",
+      "notifications": "Notificacions",
+      "audit-logs": "Auditoria i registres",
+      "audit-trail": "Pista d'auditoria a prova de manipulacions",
+      "developer": "Desenvolupador i API"
+    },
+    "translatedLanguages": "Traduït",
+    "untranslatedLanguages": "Anglès fins a la traducció"
+  },
+  "status": {
+    "filed": "Arxivat",
+    "ready": "A punt per arxivar",
+    "open": "Període obert",
+    "paid": "Pagat",
+    "pending": "Pendent",
+    "accepted": "Acceptat",
+    "delivered": "Lliurat",
+    "rejected": "Rebutjat",
+    "pdf-sent": "PDF enviat",
+    "not-sent": "No enviat",
+    "matched": "Coincidint",
+    "mismatch": "Incompatibilitat",
+    "missing-supplier": "No informat pel proveïdor",
+    "missing-books": "Desaparegut als llibres",
+    "deferred": "Ajornat",
+    "deducted": "Deduït",
+    "remitted": "Remesa",
+    "certified": "Certificat",
+    "to-report": "Per informar",
+    "reported": "Informat",
+    "accounted": "Comptabilitzar",
+    "overdue": "Endarrerit"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "A punt per arxivar",
+      "liabilityDue": "Responsabilitat deguda",
+      "paidThisYear": "Pagat aquest any",
+      "nextDeadline": "Pròxima data límit",
+      "noneOverdue": "Cap vençut",
+      "overdue": "{{count}} vençuts"
+    },
+    "filter": {
+      "ready": "A punt per arxivar",
+      "open": "Obert",
+      "filed": "Arxivat"
+    },
+    "col": {
+      "period": "Període",
+      "authority": "Autoritat",
+      "rate": "Taxa",
+      "due": "Degut",
+      "netPayable": "Net a pagar",
+      "status": "Estat",
+      "ack": "Reconeixement"
+    },
+    "file": "Fitxer",
+    "view": "Veure",
+    "fileForm": "Fitxer {{form}}",
+    "loadingJurisdiction": "S'està carregant la jurisdicció...",
+    "nothingToFile": "No hi ha cap declaració a l'espera de presentar-se: s'envien tots els períodes tancats.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Revisió",
+      "validate": "Valida",
+      "declare": "Declarar i enviar",
+      "ack": "Reconeixement"
+    },
+    "runValidation": "Executeu la validació",
+    "validating": "S'està validant…",
+    "submit": "Envia {{form}}",
+    "submitting": "S'està enviant…",
+    "declaration": "Declaro que la informació d'aquesta declaració és certa i completa, i que estic autoritzat a enviar-la a {{authority}}.",
+    "netAmount": "Import net",
+    "submitted": "Presentat",
+    "filedOn": "Arxivat el",
+    "regime": {
+      "authority": "Autoritat",
+      "channel": "Canal de presentació",
+      "return": "Tornar",
+      "due": "Degut",
+      "standardRate": "Tarifa estàndard",
+      "threshold": "Llindar de registre"
+    },
+    "demoNote": "Dades de demostració de l'API fiscal simulada integrada: es simulen les declaracions i els pagaments i no s'envia res a una autoritat fiscal."
+  },
+  "fx": {
+    "title": "Moneda estrangera",
+    "subtitle": "Moneda base {{base}} · tipus de mercat simulats indicatius",
+    "newDoc": "Nova factura/factura de divises",
+    "kpi": {
+      "netExposure": "Exposició neta en divises",
+      "openDocs": "{{count}} documents oberts",
+      "unrealized": "Guanys/pèrdues no realitzades",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Realitzat aquest any",
+      "lastReval": "Última revaloració",
+      "never": "Mai",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Elements oberts",
+      "settled": "Assentat",
+      "revaluation": "Revaloració de final de mes",
+      "journal": "Diari FX"
+    },
+    "col": {
+      "document": "Document",
+      "type": "Tipus",
+      "openForeign": "Obert (estranger)",
+      "bookedNow": "Reservat / ara",
+      "valueIn": "Valor a {{base}}",
+      "unrealized": "No realitzat",
+      "status": "Estat",
+      "amount": "Import",
+      "bookedRate": "Tarifa reservada",
+      "realized": "Realitzat"
+    },
+    "receivable": "A cobrar",
+    "payable": "A pagar",
+    "receive": "Rebre",
+    "pay": "Pagar",
+    "netIn": "Net a {{base}}",
+    "state": {
+      "settled": "Assentat",
+      "partial": "Parcialment resolt",
+      "open": "Obert"
+    },
+    "demoNote": "Dades de demostració de l'API simulada integrada: les tarifes es simulen, no les dades del mercat en directe."
+  }
+}

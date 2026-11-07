@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "দিন-দিন",
+      "finance": "অর্থ",
+      "advanced": "উন্নত"
+    },
+    "mainMenu": "প্রধান মেনু",
+    "short": {
+      "parties": "দলগুলো"
+    },
+    "sections": {
+      "dashboard": "ড্যাশবোর্ড",
+      "sales": "বিক্রয়",
+      "receivables": "টাকা ইন",
+      "procurement": "ক্রয়",
+      "payables": "টাকা আউট",
+      "cashbank": "ক্যাশ অ্যান্ড ব্যাঙ্ক",
+      "expenses": "খরচ",
+      "tax": "ট্যাক্স",
+      "reports": "রিপোর্ট",
+      "advanced-features": "উন্নত বৈশিষ্ট্য",
+      "parties": "গ্রাহক ও সরবরাহকারী",
+      "inventory": "আইটেম",
+      "assets": "স্থায়ী সম্পদ",
+      "masters": "সেটআপ এবং কনফিগারেশন",
+      "business-tools": "দল ও সরঞ্জাম",
+      "party-tools": "পার্টি টুল",
+      "item-tools": "আইটেম টুলস",
+      "storage": "নথিপত্র",
+      "alerts": "সতর্কতা",
+      "migration": "ডেটা মাইগ্রেশন"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ওভারভিউ",
+        "cash-flow": "নগদ প্রবাহ",
+        "tax-calendar": "ট্যাক্স ক্যালেন্ডার"
+      },
+      "sales": {
+        "quotations": "উদ্ধৃতি",
+        "proforma-invoices": "পি.আই",
+        "sales-invoices": "চালান",
+        "delivery-challans": "ডেলিভারি চালান",
+        "receipts": "প্রাপ্তি",
+        "invoice-desk": "চালান ডেস্ক"
+      },
+      "receivables": {
+        "money-in-center": "কেন্দ্রে টাকা",
+        "receivables": "প্রাপ্য",
+        "payments-received": "পেমেন্ট প্রাপ্ত",
+        "overdue-collections": "সংগ্রহ এবং অনুস্মারক",
+        "credit-notes": "ক্রেডিট নোট এবং রিফান্ড",
+        "sales-returns": "বিক্রয় রিটার্ন",
+        "customer-statements": "গ্রাহক বিবৃতি",
+        "payment-links": "পেমেন্ট লিঙ্ক"
+      },
+      "procurement": {
+        "purchase-center": "ক্রয় কেন্দ্র",
+        "purchase-orders": "ক্রয় আদেশ",
+        "goods-receipt": "পণ্যের রসিদ",
+        "purchase-invoices": "চালান ক্রয়",
+        "payment-out": "পেমেন্ট করা",
+        "returns-debit-notes": "রিটার্ন এবং ডেবিট নোট",
+        "bill-approvals": "বিল অনুমোদন"
+      },
+      "payables": {
+        "bills": "বেতন কেন্দ্র",
+        "payments": "সরবরাহকারী পেমেন্ট",
+        "workforce": "কর্মশক্তি",
+        "adjustments": "সমন্বয়",
+        "bank-release": "ব্যাংক রিলিজ"
+      },
+      "cashbank": {
+        "bank-accounts": "আমার অ্যাকাউন্টস",
+        "reconciliation": "ম্যাচ লেনদেন",
+        "cash-petty": "পেটি ক্যাশ",
+        "contra": "অ্যাকাউন্টস মধ্যে",
+        "cheque-register": "চেক করে",
+        "foreign-currency": "বৈদেশিক মুদ্রা",
+        "bank-feeds": "ব্যাংক ফিড",
+        "bank-rules": "নিয়ম ও পুনর্মিলন"
+      },
+      "expenses": {
+        "expense-center": "সমস্ত খরচ",
+        "categories": "ব্যয়ের ধরন",
+        "automated-bills": "পুনরাবৃত্তি খরচ",
+        "journal-vouchers": "ম্যানুয়াল এন্ট্রি",
+        "provisions": "অর্জিত",
+        "write-offs": "রাইট-অফ",
+        "period-close": "মাস-শেষ"
+      },
+      "tax": {
+        "gst-returns": "জিএসটি ফাইলিং",
+        "gst-filing-wizard": "⚡ ফাইল GSTR-3B",
+        "gst-reconciliation": "জিএসটি ম্যাচিং",
+        "e-invoicing": "ই-ইনভয়েস",
+        "e-way-bills": "ই-ওয়ে বিল",
+        "tds": "টিডিএস",
+        "tcs": "টিসিএস",
+        "tax-payments": "ট্যাক্স দিন",
+        "quarterly-compliance": "কমপ্লায়েন্স ক্যালেন্ডার",
+        "ca-access": "CA অস্থায়ী অ্যাক্সেস",
+        "gst-from-books": "বই থেকে জিএসটি"
+      },
+      "reports": {
+        "financial-statements": "আর্থিক প্রতিবেদন",
+        "books": "লেনদেনের বই",
+        "gst-reports": "জিএসটি রিপোর্ট",
+        "ar-ap": "প্রাপ্য বনাম প্রদেয়",
+        "profitability": "লাভজনকতা",
+        "period-comparatives": "বছরের তুলনা",
+        "budget-vs-actuals": "বাজেট ট্র্যাকার",
+        "cashflow-projection": "নগদ পূর্বাভাস",
+        "report-builder": "কাস্টম রিপোর্ট",
+        "general-ledger": "জেনারেল লেজার",
+        "live-financials": "লাইভ ফিনান্সিয়াল",
+        "ai-analyst": "এআই বিশ্লেষক"
+      },
+      "advanced-features": {
+        "overview": "ওভারভিউ"
+      },
+      "parties": {
+        "all-parties": "সব দল",
+        "customer-ledgers": "গ্রাহকদের",
+        "supplier-ledgers": "সরবরাহকারী",
+        "shared-ledger": "শেয়ার্ড লেজার",
+        "statements": "বিবৃতি",
+        "reminders": "অনুস্মারক",
+        "documents": "পার্টি ডকুমেন্টস",
+        "portal": "পার্টি পোর্টাল",
+        "import": "পার্টি আমদানি",
+        "duplicate-merge": "ডুপ্লিকেট মার্জ",
+        "gap-analysis": "ফাঁক বিশ্লেষণ"
+      },
+      "inventory": {
+        "inventory-items": "আইটেম",
+        "godowns": "গুদামঘর",
+        "stock-movement": "স্টক আন্দোলন",
+        "item-pricing": "মূল্য নির্ধারণ",
+        "stock-valuation": "স্টক মূল্যায়ন",
+        "reorder-alerts": "সতর্কতা পুনরায় সাজান",
+        "batch-serials": "ব্যাচ ও সিরিয়াল",
+        "barcode-labels": "বারকোড লেবেল",
+        "item-import": "আইটেম আমদানি",
+        "gap-analysis": "ফাঁক বিশ্লেষণ"
+      },
+      "assets": {
+        "asset-register": "সম্পদের তালিকা",
+        "depreciation": "অবচয়",
+        "disposal-revaluation": "বিক্রয় বা পুনর্মূল্যায়ন"
+      },
+      "masters": {
+        "chart-of-accounts": "অ্যাকাউন্টের তালিকা",
+        "tax-masters": "ট্যাক্সের হার",
+        "cost-centers": "খরচ কেন্দ্র",
+        "voucher-types": "লেনদেনের ধরন",
+        "opening-balances": "ব্যালেন্স শুরু",
+        "currencies": "মুদ্রা"
+      },
+      "business-tools": {
+        "staff-payroll": "বেতন",
+        "manage-users": "ব্যবহারকারীর অ্যাক্সেস",
+        "online-orders": "অনলাইন অর্ডার",
+        "sms-marketing": "এসএমএস মার্কেটিং",
+        "accountant-hub": "হিসাবরক্ষক ও সহায়তা"
+      },
+      "party-tools": {
+        "documents": "পার্টি ডকুমেন্টস",
+        "portal": "পার্টি পোর্টাল",
+        "import": "পার্টি আমদানি",
+        "duplicate-merge": "ডুপ্লিকেট মার্জ",
+        "gap-analysis": "ফাঁক বিশ্লেষণ"
+      },
+      "item-tools": {
+        "reorder-alerts": "সতর্কতা পুনরায় সাজান",
+        "batch-serials": "ব্যাচ ও সিরিয়াল",
+        "barcode-labels": "বারকোড লেবেল",
+        "item-import": "আইটেম আমদানি",
+        "gap-analysis": "ফাঁক বিশ্লেষণ"
+      },
+      "storage": {
+        "client-storage": "ক্লায়েন্ট ফাইল",
+        "unifiedtree-storage": "ক্লাউড স্টোরেজ"
+      },
+      "alerts": {
+        "accountant-alerts": "হিসাবরক্ষক সতর্কতা",
+        "compliance-alerts": "সম্মতি সতর্কতা",
+        "cash-risk-alerts": "নগদ এবং ঝুঁকি সতর্কতা",
+        "ca-access": "CA অস্থায়ী অ্যাক্সেস"
+      },
+      "migration": {
+        "import": "ডেটা আমদানি করুন",
+        "export": "ডেটা রপ্তানি করুন",
+        "history": "আমদানি ইতিহাস",
+        "tally-import": "ট্যালি এবং জোহো থেকে আমদানি করুন"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ক্রয় এবং অর্থপ্রদান",
+      "accountingSetup": "অ্যাকাউন্টিং সেটআপ",
+      "dataDocuments": "তথ্য ও নথিপত্র"
+    }
+  },
+  "common": {
+    "save": "পরিবর্তনগুলি সংরক্ষণ করুন",
+    "cancel": "বাতিল করুন",
+    "create": "তৈরি করুন",
+    "edit": "সম্পাদনা করুন",
+    "delete": "মুছে দিন",
+    "search": "অনুসন্ধান করুন",
+    "connect": "সংযোগ করুন",
+    "configure": "কনফিগার করুন",
+    "disconnect": "সংযোগ বিচ্ছিন্ন করুন",
+    "sync": "এখন সিঙ্ক করুন",
+    "close": "বন্ধ",
+    "reset": "ডিফল্টে রিসেট করুন",
+    "back": "ব্যাক",
+    "continue": "চালিয়ে যান",
+    "all": "সব",
+    "retry": "আবার চেষ্টা করুন",
+    "loading": "লোড হচ্ছে...",
+    "resetDemo": "ডেমো ডেটা রিসেট করুন"
+  },
+  "shell": {
+    "searchPlaceholder": "যেকোনো কিছু অনুসন্ধান করুন...",
+    "settings": "সেটিংস",
+    "language": "ভাষা",
+    "role": "ভূমিকা",
+    "greeting": {
+      "morning": "শুভ সকাল",
+      "afternoon": "শুভ বিকাল",
+      "evening": "শুভ সন্ধ্যা"
+    },
+    "settingsItems": {
+      "company-profile": "কোম্পানির প্রোফাইল",
+      "configuration": "কনফিগারেশন",
+      "fiscal-periods": "আর্থিক সময়কাল",
+      "roles": "ভূমিকা এবং ব্যবহারকারী",
+      "integrations": "ইন্টিগ্রেশন",
+      "notifications": "বিজ্ঞপ্তি",
+      "audit-logs": "নিরীক্ষা এবং লগ",
+      "audit-trail": "টেম্পার-প্রুফ অডিট ট্রেইল",
+      "developer": "বিকাশকারী এবং API"
+    },
+    "translatedLanguages": "অনূদিত",
+    "untranslatedLanguages": "অনুবাদ না হওয়া পর্যন্ত ইংরেজি"
+  },
+  "status": {
+    "filed": "ফাইল করা হয়েছে",
+    "ready": "ফাইল করার জন্য প্রস্তুত",
+    "open": "পিরিয়ড খোলা",
+    "paid": "পেড",
+    "pending": "মুলতুবি",
+    "accepted": "গৃহীত",
+    "delivered": "বিতরণ করা হয়েছে",
+    "rejected": "প্রত্যাখ্যাত",
+    "pdf-sent": "পিডিএফ পাঠানো হয়েছে",
+    "not-sent": "পাঠানো হয়নি",
+    "matched": "মিলে গেছে",
+    "mismatch": "অমিল",
+    "missing-supplier": "সরবরাহকারী দ্বারা রিপোর্ট করা হয়নি",
+    "missing-books": "বইয়ের মধ্যে অনুপস্থিত",
+    "deferred": "বিলম্বিত",
+    "deducted": "কাটা হয়েছে",
+    "remitted": "প্রেরিত",
+    "certified": "প্রত্যয়িত",
+    "to-report": "রিপোর্ট করতে",
+    "reported": "রিপোর্ট করেছেন",
+    "accounted": "অ্যাকাউন্টেড",
+    "overdue": "ওভারডিউ"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ফাইল করার জন্য প্রস্তুত",
+      "liabilityDue": "দায়বদ্ধতা",
+      "paidThisYear": "এই বছর পরিশোধ করা হয়েছে",
+      "nextDeadline": "পরবর্তী সময়সীমা",
+      "noneOverdue": "কোনটাই ওভারডিউ",
+      "overdue": "{{count}} ওভারডিউ"
+    },
+    "filter": {
+      "ready": "ফাইল করার জন্য প্রস্তুত",
+      "open": "খোলা",
+      "filed": "ফাইল করা হয়েছে"
+    },
+    "col": {
+      "period": "সময়কাল",
+      "authority": "কর্তৃপক্ষ",
+      "rate": "হার",
+      "due": "ডিউ",
+      "netPayable": "নেট প্রদেয়",
+      "status": "স্ট্যাটাস",
+      "ack": "স্বীকৃতি"
+    },
+    "file": "ফাইল",
+    "view": "দেখুন",
+    "fileForm": "ফাইল {{form}}",
+    "loadingJurisdiction": "এখতিয়ার লোড হচ্ছে...",
+    "nothingToFile": "কোন রিটার্ন দাখিল করার জন্য অপেক্ষা করছে না - সমস্ত বন্ধ সময় জমা দেওয়া হয়।",
+    "fileNext": "পরবর্তী ফাইল: {{name}}",
+    "steps": {
+      "review": "পর্যালোচনা",
+      "validate": "যাচাই করুন",
+      "declare": "ঘোষণা করুন এবং জমা দিন",
+      "ack": "স্বীকৃতি"
+    },
+    "runValidation": "বৈধতা চালান",
+    "validating": "যাচাই করা হচ্ছে...",
+    "submit": "জমা দিন {{form}}",
+    "submitting": "জমা দেওয়া হচ্ছে...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "নেট পরিমাণ",
+    "submitted": "জমা দেওয়া হয়েছে",
+    "filedOn": "ফাইল করা হয়",
+    "regime": {
+      "authority": "কর্তৃপক্ষ",
+      "channel": "ফাইলিং চ্যানেল",
+      "return": "প্রত্যাবর্তন",
+      "due": "ডিউ",
+      "standardRate": "স্ট্যান্ডার্ড হার",
+      "threshold": "রেজিস্ট্রেশন থ্রেশহোল্ড"
+    },
+    "demoNote": "বিল্ট-ইন মক ট্যাক্স এপিআই থেকে ডেমো ডেটা — ফাইলিং এবং পেমেন্ট সিমুলেট করা হয় এবং ট্যাক্স কর্তৃপক্ষের কাছে কিছুই পাঠানো হয় না।"
+  },
+  "fx": {
+    "title": "বৈদেশিক মুদ্রা",
+    "subtitle": "বেস কারেন্সি {{base}} · নির্দেশক মক মার্কেট রেট",
+    "newDoc": "নতুন FX চালান/বিল",
+    "kpi": {
+      "netExposure": "নেট এফএক্স এক্সপোজার",
+      "openDocs": "{{count}}টি খোলা নথি",
+      "unrealized": "অবাস্তব লাভ/ক্ষতি",
+      "postedSplit": "{{posted}} পোস্ট করা হয়েছে · {{unposted}} এখনও হয়নি৷",
+      "realized": "এই বছর উপলব্ধি করা হয়েছে",
+      "lastReval": "শেষ পুনর্মূল্যায়ন",
+      "never": "কখনই না",
+      "suggested": "প্রস্তাবিত: {{date}}"
+    },
+    "view": {
+      "open": "আইটেম খুলুন",
+      "settled": "নিষ্পত্তি হয়েছে",
+      "revaluation": "মাস-শেষের পুনর্মূল্যায়ন",
+      "journal": "এফএক্স জার্নাল"
+    },
+    "col": {
+      "document": "দলিল",
+      "type": "টাইপ",
+      "openForeign": "খোলা (বিদেশী)",
+      "bookedNow": "বুক করা হয়েছে/এখন",
+      "valueIn": "{{base}}-এ মান",
+      "unrealized": "অবাস্তব",
+      "status": "স্ট্যাটাস",
+      "amount": "পরিমাণ",
+      "bookedRate": "বুকড রেট",
+      "realized": "উপলব্ধি করা হয়েছে"
+    },
+    "receivable": "প্রাপ্য",
+    "payable": "প্রদেয়",
+    "receive": "গ্রহণ করুন",
+    "pay": "বেতন",
+    "netIn": "{{base}}-এ নেট",
+    "state": {
+      "settled": "নিষ্পত্তি হয়েছে",
+      "partial": "আংশিক নিষ্পত্তি",
+      "open": "খোলা"
+    },
+    "demoNote": "বিল্ট-ইন মক API থেকে ডেমো ডেটা — রেটগুলি সিমুলেটেড, লাইভ মার্কেট ডেটা নয়।"
+  }
+}

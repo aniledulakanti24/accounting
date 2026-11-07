@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "နေ့စဥ်",
+      "finance": "ဘဏ္ဍာရေး",
+      "advanced": "အဆင့်မြင့်"
+    },
+    "mainMenu": "Main Menu",
+    "short": {
+      "parties": "ပါတီများ"
+    },
+    "sections": {
+      "dashboard": "ဒိုင်ခွက်",
+      "sales": "အရောင်း",
+      "receivables": "ငွေဝင်",
+      "procurement": "ဝယ်ယူမှုများ",
+      "payables": "ငွေထွက်",
+      "cashbank": "ငွေသားနှင့်ဘဏ်",
+      "expenses": "အသုံးစရိတ်များ",
+      "tax": "ခွန်",
+      "reports": "အစီရင်ခံစာများ",
+      "advanced-features": "အဆင့်မြင့်အင်္ဂါရပ်များ",
+      "parties": "ဖောက်သည်များနှင့် ပေးသွင်းသူများ",
+      "inventory": "ပစ္စည်းများ",
+      "assets": "ပုံသေပိုင်ဆိုင်မှုများ",
+      "masters": "စနစ်ထည့်သွင်းခြင်းနှင့် ဖွဲ့စည်းမှု",
+      "business-tools": "အဖွဲ့နှင့် ကိရိယာများ",
+      "party-tools": "ပါတီကိရိယာများ",
+      "item-tools": "ပစ္စည်းကိရိယာများ",
+      "storage": "စာရွက်စာတမ်းများ",
+      "alerts": "သတိပေးချက်များ",
+      "migration": "ဒေတာ ရွှေ့ပြောင်းခြင်း။"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ခြုံငုံသုံးသပ်ချက်",
+        "cash-flow": "ငွေလည်ပတ်မှု",
+        "tax-calendar": "အခွန်ပြက္ခဒိန်"
+      },
+      "sales": {
+        "quotations": "ကိုးကားချက်များ",
+        "proforma-invoices": "PI",
+        "sales-invoices": "ပြေ",
+        "delivery-challans": "Delivery Challan",
+        "receipts": "ပြေစာ",
+        "invoice-desk": "ပြေစာစားပွဲ"
+      },
+      "receivables": {
+        "money-in-center": "ငွေသွင်းစင်တာ",
+        "receivables": "ရငွေများ",
+        "payments-received": "ငွေပေးချေမှုများ လက်ခံရရှိခဲ့သည်။",
+        "overdue-collections": "စုစည်းမှုများနှင့် သတိပေးချက်များ",
+        "credit-notes": "ခရက်ဒစ်မှတ်စုများနှင့် ပြန်အမ်းငွေများ",
+        "sales-returns": "အရောင်းပြန်များ",
+        "customer-statements": "ဖောက်သည်ထုတ်ပြန်ချက်များ",
+        "payment-links": "ငွေပေးချေမှုလင့်ခ်များ"
+      },
+      "procurement": {
+        "purchase-center": "အဝယ်စင်တာ",
+        "purchase-orders": "အမှာစာများ ဝယ်ယူခြင်း။",
+        "goods-receipt": "ကုန်စည်ပြေစာ",
+        "purchase-invoices": "ငွေတောင်းခံလွှာများ ဝယ်ယူပါ။",
+        "payment-out": "ငွေပေးချေမှုများ ပြုလုပ်ခဲ့သည်။",
+        "returns-debit-notes": "ပြန်ပို့ခြင်းနှင့် ငွေထုတ်ယူခြင်း မှတ်စုများ",
+        "bill-approvals": "ဥပဒေကြမ်းအတည်ပြုချက်များ"
+      },
+      "payables": {
+        "bills": "ငွေပေးစင်တာ",
+        "payments": "ပေးသွင်းသူ ငွေပေးချေမှုများ",
+        "workforce": "လုပ်သားအင်အား",
+        "adjustments": "ပြုပြင်ပြောင်းလဲမှုများ",
+        "bank-release": "ဘဏ်ဖြန့်ချိရေး"
+      },
+      "cashbank": {
+        "bank-accounts": "ကျွန်ုပ်၏အကောင့်များ",
+        "reconciliation": "ကိုက်ညီသော ငွေလွှဲမှုများ",
+        "cash-petty": "Petty Cash",
+        "contra": "အကောင့်များအကြား",
+        "cheque-register": "စစ်ဆေးမှုများ",
+        "foreign-currency": "နိုင်ငံခြားငွေ",
+        "bank-feeds": "ဘဏ်စာများ",
+        "bank-rules": "စည်းမျဥ်းများနှင့် ပြန်လည်သင့်မြတ်ရေး"
+      },
+      "expenses": {
+        "expense-center": "ကုန်ကျစရိတ်အားလုံး",
+        "categories": "ကုန်ကျစရိတ်အမျိုးအစားများ",
+        "automated-bills": "ထပ်တလဲလဲ အသုံးစရိတ်များ",
+        "journal-vouchers": "လူကိုယ်တိုင် ထည့်သွင်းမှုများ",
+        "provisions": "ထပ်လောင်းများ",
+        "write-offs": "ရေးပေးမှုများ",
+        "period-close": "လကုန်"
+      },
+      "tax": {
+        "gst-returns": "GST တင်သွင်းခြင်း။",
+        "gst-filing-wizard": "⚡ ဖိုင် GSTR-3B",
+        "gst-reconciliation": "GST ကိုက်ညီမှု",
+        "e-invoicing": "အီး-ပြေစာများ",
+        "e-way-bills": "E-Way ဘေလ်များ",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "အခွန်ပေးဆောင်ပါ။",
+        "quarterly-compliance": "လိုက်နာမှုပြက္ခဒိန်",
+        "ca-access": "CA ယာယီအသုံးပြုခွင့်",
+        "gst-from-books": "စာအုပ်များမှ GST"
+      },
+      "reports": {
+        "financial-statements": "ဘဏ္ဍာရေးအစီရင်ခံစာများ",
+        "books": "ငွေလွှဲစာအုပ်များ",
+        "gst-reports": "GST အစီရင်ခံစာများ",
+        "ar-ap": "Receivables vs Payables",
+        "profitability": "အမြတ်အစွန်း",
+        "period-comparatives": "တစ်နှစ်တာ နှိုင်းယှဉ်မှု",
+        "budget-vs-actuals": "ဘတ်ဂျက်ခြေရာခံ",
+        "cashflow-projection": "ငွေသားခန့်မှန်းချက်",
+        "report-builder": "စိတ်ကြိုက်အစီရင်ခံစာများ",
+        "general-ledger": "အထွေထွေစာရင်း",
+        "live-financials": "တိုက်ရိုက်ဘဏ္ဍာရေး",
+        "ai-analyst": "AI လေ့လာသူ"
+      },
+      "advanced-features": {
+        "overview": "ခြုံငုံသုံးသပ်ချက်"
+      },
+      "parties": {
+        "all-parties": "ပါတီအားလုံး",
+        "customer-ledgers": "ဖောက်သည်များ",
+        "supplier-ledgers": "ရောင်းချသူများ",
+        "shared-ledger": "မျှဝေထားသောစာရင်း",
+        "statements": "ထုတ်ပြန်ချက်",
+        "reminders": "သတိပေးချက်များ",
+        "documents": "ပါတီစာရွက်စာတမ်းများ",
+        "portal": "ပါတီမုခ်ဦး",
+        "import": "ပါတီတင်သွင်းခြင်း။",
+        "duplicate-merge": "ပွားများပေါင်းစည်းပါ။",
+        "gap-analysis": "ကွာဟချက် ခွဲခြမ်းစိတ်ဖြာခြင်း။"
+      },
+      "inventory": {
+        "inventory-items": "ပစ္စည်းများ",
+        "godowns": "ဂိုဒေါင်များ",
+        "stock-movement": "စတော့လှုပ်ရှားမှု",
+        "item-pricing": "ဈေးနှုန်း",
+        "stock-valuation": "စတော့တန်ဖိုးဖြတ်ခြင်း။",
+        "reorder-alerts": "သတိပေးချက်များကို ပြန်စီပါ။",
+        "batch-serials": "အသုတ်နှင့် အမှတ်စဉ်",
+        "barcode-labels": "ဘားကုဒ်တံဆိပ်များ",
+        "item-import": "ပစ္စည်းတင်သွင်းခြင်း။",
+        "gap-analysis": "ကွာဟချက် ခွဲခြမ်းစိတ်ဖြာခြင်း။"
+      },
+      "assets": {
+        "asset-register": "ပိုင်ဆိုင်မှုစာရင်း",
+        "depreciation": "တန်ဖိုးလျှော့",
+        "disposal-revaluation": "ရောင်းချခြင်း သို့မဟုတ် ပြန်လည်တန်ဖိုးဖြတ်ခြင်း။"
+      },
+      "masters": {
+        "chart-of-accounts": "အကောင့်များစာရင်း",
+        "tax-masters": "အခွန်နှုန်းထားများ",
+        "cost-centers": "ကုန်ကျစရိတ်စင်တာများ",
+        "voucher-types": "ငွေပေးငွေယူ အမျိုးအစားများ",
+        "opening-balances": "စတင်ချိန်ခွင်များ",
+        "currencies": "ငွေကြေးများ"
+      },
+      "business-tools": {
+        "staff-payroll": "လုပ်ခလစာ",
+        "manage-users": "အသုံးပြုသူဝင်ရောက်ခွင့်",
+        "online-orders": "အွန်လိုင်းအော်ဒါများ",
+        "sms-marketing": "SMS စျေးကွက်ရှာဖွေရေး",
+        "accountant-hub": "စာရင်းကိုင်များနှင့် ပံ့ပိုးကူညီမှု"
+      },
+      "party-tools": {
+        "documents": "ပါတီစာရွက်စာတမ်းများ",
+        "portal": "ပါတီမုခ်ဦး",
+        "import": "ပါတီတင်သွင်းခြင်း။",
+        "duplicate-merge": "ပွားများပေါင်းစည်းပါ။",
+        "gap-analysis": "ကွာဟချက် ခွဲခြမ်းစိတ်ဖြာခြင်း။"
+      },
+      "item-tools": {
+        "reorder-alerts": "သတိပေးချက်များကို ပြန်စီပါ။",
+        "batch-serials": "အသုတ်နှင့် အမှတ်စဉ်",
+        "barcode-labels": "ဘားကုဒ်တံဆိပ်များ",
+        "item-import": "ပစ္စည်းတင်သွင်းခြင်း။",
+        "gap-analysis": "ကွာဟချက် ခွဲခြမ်းစိတ်ဖြာခြင်း။"
+      },
+      "storage": {
+        "client-storage": "လိုင်းဖိုင်များ",
+        "unifiedtree-storage": "Cloud Storage"
+      },
+      "alerts": {
+        "accountant-alerts": "စာရင်းကိုင် သတိပေးချက်များ",
+        "compliance-alerts": "လိုက်နာမှု သတိပေးချက်များ",
+        "cash-risk-alerts": "ငွေသားနှင့် အန္တရာယ် သတိပေးချက်များ",
+        "ca-access": "CA ယာယီအသုံးပြုခွင့်"
+      },
+      "migration": {
+        "import": "ဒေတာတင်သွင်းပါ။",
+        "export": "ဒေတာထုတ်ရန်",
+        "history": "သွင်းကုန်မှတ်တမ်း",
+        "tally-import": "Tally & Zoho မှ တင်သွင်းသည်။"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ဝယ်ယူမှုများနှင့် ငွေပေးချေမှုများ",
+      "accountingSetup": "စာရင်းကိုင်သတ်မှတ်ခြင်း။",
+      "dataDocuments": "ဒေတာနှင့် စာရွက်စာတမ်းများ"
+    }
+  },
+  "common": {
+    "save": "အပြောင်းအလဲများကို သိမ်းဆည်းပါ။",
+    "cancel": "လုပ်တော့",
+    "create": "ဖန်တီးပါ။",
+    "edit": "တည်းဖြတ်ပါ။",
+    "delete": "ဖျက်ပါ။",
+    "search": "ရှာရန်",
+    "connect": "ချိတ်ဆက်ပါ။",
+    "configure": "စီစဉ်ပေးသည်။",
+    "disconnect": "အဆက်အသွယ်ဖြတ်ပါ။",
+    "sync": "ယခု စင့်ခ်လုပ်ပါ။",
+    "close": "ပိတ်လိုက်",
+    "reset": "မူရင်းအတိုင်း ပြန်လည်သတ်မှတ်ပါ။",
+    "back": "ကျော",
+    "continue": "ဆက်ရန်",
+    "all": "အားလုံး",
+    "retry": "ပြန်ကြိုးစားပါ။",
+    "loading": "ဖွင့်နေသည်…",
+    "resetDemo": "သရုပ်ပြဒေတာကို ပြန်လည်သတ်မှတ်ပါ။"
+  },
+  "shell": {
+    "searchPlaceholder": "ဘယ်အရာကိုမဆို ရှာပါ...",
+    "settings": "ဆက်တင်များ",
+    "language": "ဘာသာစကား",
+    "role": "အခန်းကဏ္ဍ",
+    "greeting": {
+      "morning": "မင်္ဂလာနံနက်ခင်းပါ",
+      "afternoon": "မင်္ဂလာနေ့လည်ခင်းပါ",
+      "evening": "မင်္ဂလာညနေခင်းပါ"
+    },
+    "settingsItems": {
+      "company-profile": "ကုမ္ပဏီအကြောင်း",
+      "configuration": "ဖွဲ့စည်းမှု",
+      "fiscal-periods": "ဘဏ္ဍာရေးကာလများ",
+      "roles": "ရာထူးများနှင့် အသုံးပြုသူများ",
+      "integrations": "ပေါင်းစည်းမှု",
+      "notifications": "အသိပေးချက်များ",
+      "audit-logs": "စာရင်းစစ် & မှတ်တမ်းများ",
+      "audit-trail": "Tamper-proof Audit Trail",
+      "developer": "Developer & API"
+    },
+    "translatedLanguages": "ဘာသာပြန်ပါသည်။",
+    "untranslatedLanguages": "အင်္ဂလိပ်လို ဘာသာပြန်သည်အထိ"
+  },
+  "status": {
+    "filed": "တင်သွင်းခဲ့သည်။",
+    "ready": "ဖိုင်တင်ရန် အဆင်သင့်ဖြစ်ပါပြီ။",
+    "open": "ဖွင့်ချိန်",
+    "paid": "အခကြေးငွေ",
+    "pending": "ဆိုင်းငံ့ထားသည်။",
+    "accepted": "လက်ခံတယ်။",
+    "delivered": "ပေးပို့ခဲ့သည်။",
+    "rejected": "ပယ်ချသည်။",
+    "pdf-sent": "PDF ပို့လိုက်ပါတယ်။",
+    "not-sent": "မပို့ပါ။",
+    "matched": "လိုက်ဖက်သည်။",
+    "mismatch": "မတိုက်ဆိုင်",
+    "missing-supplier": "ပေးသွင်းသူမှ အစီရင်ခံခြင်းမရှိပါ။",
+    "missing-books": "စာအုပ်တွေ ပျောက်နေတယ်။",
+    "deferred": "ကျာင်း",
+    "deducted": "နုတ်ယူထားသည်။",
+    "remitted": "ပြန်ပို့တယ်။",
+    "certified": "အသိမှတ်ပြု",
+    "to-report": "သတင်းပို့ရန်",
+    "reported": "အစီရင်ခံပါတယ်။",
+    "accounted": "စာရင်းပေးထားသည်။",
+    "overdue": "ရက်လွန်ပြီ။"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ဖိုင်တင်ရန် အဆင်သင့်ဖြစ်ပါပြီ။",
+      "liabilityDue": "တာဝန်ယူမှု",
+      "paidThisYear": "ယခုနှစ်တွင် ပေးဆောင်ခဲ့သည်။",
+      "nextDeadline": "နောက်နောက်ဆုံးနေ့",
+      "noneOverdue": "ဘယ်အရာမှ နောက်ကျမနေပါ။",
+      "overdue": "{{count}} ရက်လွန်ပြီ။"
+    },
+    "filter": {
+      "ready": "ဖိုင်တင်ရန် အဆင်သင့်ဖြစ်ပါပြီ။",
+      "open": "ဖွင့်သည်။",
+      "filed": "တင်သွင်းခဲ့သည်။"
+    },
+    "col": {
+      "period": "ကာလ",
+      "authority": "အာဏာပိုင်",
+      "rate": "နှုန်းထား",
+      "due": "ပေးရသည်။",
+      "netPayable": "အသားတင်ပေးဆောင်ရသည်။",
+      "status": "အဆင့်အတန်း",
+      "ack": "အသိအမှတ်ပြုပါ။"
+    },
+    "file": "ဖို",
+    "view": "အမြင်",
+    "fileForm": "ဖိုင် {{form}}",
+    "loadingJurisdiction": "စီရင်ပိုင်ခွင့်ကို ဖွင့်နေသည်…",
+    "nothingToFile": "ပြန်လည်ပေးပို့ရန် စောင့်ဆိုင်းနေခြင်းမရှိပါ - ပိတ်ထားသော ကာလအားလုံးကို တင်ပြပါသည်။",
+    "fileNext": "နောက်ဖိုင်- {{name}}",
+    "steps": {
+      "review": "သုံးသပ်ချက်",
+      "validate": "အတည်ပြုပါ။",
+      "declare": "ကြေညာပြီး တင်ပြပါ။",
+      "ack": "အသိအမှတ်ပြုပါ။"
+    },
+    "runValidation": "အတည်ပြုချက်ကို လုပ်ဆောင်ပါ။",
+    "validating": "အတည်ပြုနေသည်...",
+    "submit": "{{form}} တင်ပါ",
+    "submitting": "တင်သွင်းနေသည်...",
+    "declaration": "ဤပြန်ပေးထားသော အချက်အလက်သည် မှန်ကန်ပြီး ပြည့်စုံကြောင်းနှင့် ၎င်းကို {{authority}} သို့ တင်ပြရန် ကျွန်ုပ်၏ အခွင့်အာဏာဖြစ်ကြောင်း ကျွန်ုပ်ကြေငြာပါသည်။",
+    "netAmount": "အသားတင်ပမာဏ",
+    "submitted": "တင်ပြလိုက်ပါသည်။",
+    "filedOn": "တင်သွင်းခဲ့သည်။",
+    "regime": {
+      "authority": "အာဏာပိုင်",
+      "channel": "ဖိုင်နယ်",
+      "return": "ပြန်လာ",
+      "due": "ပေးရသည်။",
+      "standardRate": "စံနှုန်း",
+      "threshold": "မှတ်ပုံတင်ခြင်းအဆင့်"
+    },
+    "demoNote": "Built-in mock tax API မှ သရုပ်ပြဒေတာ — စာရွက်စာတမ်းများနှင့် ငွေပေးချေမှုများကို ပုံစံတူပြုလုပ်ထားပြီး မည်သည့်အရာမှ အခွန်အာဏာပိုင်များထံ ပေးပို့ခြင်းမရှိပါ။"
+  },
+  "fx": {
+    "title": "နိုင်ငံခြားငွေ",
+    "subtitle": "အခြေခံငွေကြေး {{base}} · အတုယူဈေးနှုံးများကို ညွှန်ပြသည်။",
+    "newDoc": "FX ပြေစာ / ဘေလ်အသစ်",
+    "kpi": {
+      "netExposure": "Net FX ထိတွေ့မှု",
+      "openDocs": "{{count}} စာရွက်စာတမ်းများကို ဖွင့်ပါ။",
+      "unrealized": "မသိရသေးသော အမြတ်/အရှုံး",
+      "postedSplit": "{{posted}} တင်ထားသည် · {{unposted}} မတင်ရသေးပါ။",
+      "realized": "ဒီနှစ်တော့ သဘောပေါက်တယ်။",
+      "lastReval": "နောက်ဆုံးအကဲဖြတ်ခြင်း။",
+      "never": "ဘယ်တော့မှ",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "ပစ္စည်းများကိုဖွင့်ပါ။",
+      "settled": "အခြေချသည်။",
+      "revaluation": "လကုန်အကဲဖြတ်ခြင်း။",
+      "journal": "FX ဂျာနယ်"
+    },
+    "col": {
+      "document": "စာရွက်စာတမ်း",
+      "type": "ရိုက်ပါ။",
+      "openForeign": "ဆိုင်ဖွင့် (နိုင်ငံခြား)၊",
+      "bookedNow": "ဘွတ်ကင်/ယခု",
+      "valueIn": "{{base}} တွင် တန်ဖိုး",
+      "unrealized": "သဘောမပေါက်",
+      "status": "အဆင့်အတန်း",
+      "amount": "ပမာဏ",
+      "bookedRate": "ကြိုတင်စာရင်းသွင်းနှုန်း",
+      "realized": "သဘောပေါက်တယ်။"
+    },
+    "receivable": "လက်ခံနိုင်သော",
+    "payable": "ပေးရသော",
+    "receive": "လက်ခံတယ်။",
+    "pay": "ပေးဆပ်ပါ။",
+    "netIn": "{{base}} တွင် အသားတင်",
+    "state": {
+      "settled": "အခြေချသည်။",
+      "partial": "အပိုင်း-အခြေချသည်။",
+      "open": "ဖွင့်သည်။"
+    },
+    "demoNote": "built-in mock API မှ သရုပ်ပြဒေတာ — နှုန်းထားများကို တိုက်ရိုက်စျေးကွက်ဒေတာမဟုတ်ဘဲ အတုယူထားပါသည်။"
+  }
+}

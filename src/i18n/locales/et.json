@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Päevast päeva",
+      "finance": "Rahandus",
+      "advanced": "Täpsemalt"
+    },
+    "mainMenu": "Peamenüü",
+    "short": {
+      "parties": "Peod"
+    },
+    "sections": {
+      "dashboard": "Armatuurlaud",
+      "sales": "Müük",
+      "receivables": "Raha sisse",
+      "procurement": "Ostud",
+      "payables": "Raha välja",
+      "cashbank": "Sularaha ja pank",
+      "expenses": "Kulud",
+      "tax": "Maksud",
+      "reports": "Aruanded",
+      "advanced-features": "Täiustatud funktsioonid",
+      "parties": "Kliendid ja tarnijad",
+      "inventory": "Üksused",
+      "assets": "Põhivara",
+      "masters": "Seadistamine ja konfigureerimine",
+      "business-tools": "Meeskond ja tööriistad",
+      "party-tools": "Peotööriistad",
+      "item-tools": "Üksuse tööriistad",
+      "storage": "Dokumendid",
+      "alerts": "Märguanded",
+      "migration": "Andmete migratsioon"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ülevaade",
+        "cash-flow": "Rahavoog",
+        "tax-calendar": "Maksukalender"
+      },
+      "sales": {
+        "quotations": "Tsitaadid",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Arve",
+        "delivery-challans": "Kohaletoimetamine Challan",
+        "receipts": "Kviitung",
+        "invoice-desk": "Arvete laud"
+      },
+      "receivables": {
+        "money-in-center": "Raha keskuses",
+        "receivables": "Nõuded",
+        "payments-received": "Saadud maksed",
+        "overdue-collections": "Kogud ja meeldetuletused",
+        "credit-notes": "Kreeditarved ja tagasimaksed",
+        "sales-returns": "Müügi tagastamine",
+        "customer-statements": "Kliendi avaldused",
+        "payment-links": "Makse lingid"
+      },
+      "procurement": {
+        "purchase-center": "Ostukeskus",
+        "purchase-orders": "Ostutellimused",
+        "goods-receipt": "Kauba vastuvõtt",
+        "purchase-invoices": "Ostuarved",
+        "payment-out": "Maksed tehtud",
+        "returns-debit-notes": "Tagastamine ja võlateated",
+        "bill-approvals": "Arvete heakskiitmised"
+      },
+      "payables": {
+        "bills": "Palgakeskus",
+        "payments": "Tarnija maksed",
+        "workforce": "Tööjõud",
+        "adjustments": "Kohandused",
+        "bank-release": "Panga väljalase"
+      },
+      "cashbank": {
+        "bank-accounts": "Minu kontod",
+        "reconciliation": "Sobitage tehingud",
+        "cash-petty": "Väike sularaha",
+        "contra": "Kontode vahel",
+        "cheque-register": "Kontrollid",
+        "foreign-currency": "Välisvaluuta",
+        "bank-feeds": "Pangakanalid",
+        "bank-rules": "Reeglid ja leppimine"
+      },
+      "expenses": {
+        "expense-center": "Kõik kulud",
+        "categories": "Kulu liigid",
+        "automated-bills": "Korduvad kulud",
+        "journal-vouchers": "Käsitsi sisestused",
+        "provisions": "Viitlaekumised",
+        "write-offs": "Mahakandmised",
+        "period-close": "Kuu-lõpp"
+      },
+      "tax": {
+        "gst-returns": "GST esitamine",
+        "gst-filing-wizard": "⚡ Fail GSTR-3B",
+        "gst-reconciliation": "GST sobitamine",
+        "e-invoicing": "E-arved",
+        "e-way-bills": "E-veoarved",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Maksta maksu",
+        "quarterly-compliance": "Vastavuse kalender",
+        "ca-access": "CA ajutine juurdepääs",
+        "gst-from-books": "GST raamatutelt"
+      },
+      "reports": {
+        "financial-statements": "Finantsaruanded",
+        "books": "Tehinguraamatud",
+        "gst-reports": "GST aruanded",
+        "ar-ap": "Nõuded vs võlad",
+        "profitability": "Kasumlikkus",
+        "period-comparatives": "Aasta võrdlus",
+        "budget-vs-actuals": "Eelarve jälgija",
+        "cashflow-projection": "Raha prognoos",
+        "report-builder": "Kohandatud aruanded",
+        "general-ledger": "Pearaamat",
+        "live-financials": "Reaalajas finantsteave",
+        "ai-analyst": "AI analüütik"
+      },
+      "advanced-features": {
+        "overview": "Ülevaade"
+      },
+      "parties": {
+        "all-parties": "Kõik osapooled",
+        "customer-ledgers": "Kliendid",
+        "supplier-ledgers": "Tarnijad",
+        "shared-ledger": "Ühine pearaamat",
+        "statements": "avaldused",
+        "reminders": "Meeldetuletused",
+        "documents": "Peo dokumendid",
+        "portal": "Peoportaal",
+        "import": "Partei import",
+        "duplicate-merge": "Dubleeri liitmine",
+        "gap-analysis": "Lünkade analüüs"
+      },
+      "inventory": {
+        "inventory-items": "Üksused",
+        "godowns": "Laod",
+        "stock-movement": "Varude liikumine",
+        "item-pricing": "Hinnakujundus",
+        "stock-valuation": "Varude hindamine",
+        "reorder-alerts": "Hoiatuste ümberkorraldamine",
+        "batch-serials": "Partii ja seeria",
+        "barcode-labels": "Vöötkoodi sildid",
+        "item-import": "Kauba import",
+        "gap-analysis": "Lünkade analüüs"
+      },
+      "assets": {
+        "asset-register": "Varade loend",
+        "depreciation": "Amortisatsioon",
+        "disposal-revaluation": "Müü või hinda ümber"
+      },
+      "masters": {
+        "chart-of-accounts": "Kontode loend",
+        "tax-masters": "Maksumäärad",
+        "cost-centers": "Kulukeskused",
+        "voucher-types": "Tehingu tüübid",
+        "opening-balances": "Algsaldod",
+        "currencies": "Valuutad"
+      },
+      "business-tools": {
+        "staff-payroll": "Palgaarvestus",
+        "manage-users": "Kasutaja juurdepääs",
+        "online-orders": "Online tellimused",
+        "sms-marketing": "SMS-turundus",
+        "accountant-hub": "Raamatupidajad ja tugi"
+      },
+      "party-tools": {
+        "documents": "Peo dokumendid",
+        "portal": "Peoportaal",
+        "import": "Partei import",
+        "duplicate-merge": "Dubleeri liitmine",
+        "gap-analysis": "Lünkade analüüs"
+      },
+      "item-tools": {
+        "reorder-alerts": "Hoiatuste ümberkorraldamine",
+        "batch-serials": "Partii ja seeria",
+        "barcode-labels": "Vöötkoodi sildid",
+        "item-import": "Kauba import",
+        "gap-analysis": "Lünkade analüüs"
+      },
+      "storage": {
+        "client-storage": "Kliendi failid",
+        "unifiedtree-storage": "Pilvesalvestus"
+      },
+      "alerts": {
+        "accountant-alerts": "Raamatupidaja hoiatused",
+        "compliance-alerts": "Vastavuse hoiatused",
+        "cash-risk-alerts": "Sularaha ja riskihoiatused",
+        "ca-access": "CA ajutine juurdepääs"
+      },
+      "migration": {
+        "import": "Impordi andmed",
+        "export": "Ekspordi andmed",
+        "history": "Impordi ajalugu",
+        "tally-import": "Import Tally & Zohost"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ostud ja maksed",
+      "accountingSetup": "Raamatupidamise seadistamine",
+      "dataDocuments": "Andmed ja dokumendid"
+    }
+  },
+  "common": {
+    "save": "Salvesta muudatused",
+    "cancel": "Tühista",
+    "create": "Loo",
+    "edit": "Muuda",
+    "delete": "Kustuta",
+    "search": "Otsi",
+    "connect": "Ühendage",
+    "configure": "Seadistage",
+    "disconnect": "Katkesta ühendus",
+    "sync": "Sünkrooni kohe",
+    "close": "Sule",
+    "reset": "Lähtestage vaikeseadetele",
+    "back": "Tagasi",
+    "continue": "Jätka",
+    "all": "Kõik",
+    "retry": "Proovi uuesti",
+    "loading": "Laadimine…",
+    "resetDemo": "Lähtestage demo andmed"
+  },
+  "shell": {
+    "searchPlaceholder": "Otsi midagi…",
+    "settings": "Seaded",
+    "language": "Keel",
+    "role": "Roll",
+    "greeting": {
+      "morning": "Tere hommikust",
+      "afternoon": "Tere pärastlõunast",
+      "evening": "Tere õhtust"
+    },
+    "settingsItems": {
+      "company-profile": "Ettevõtte profiil",
+      "configuration": "Seadistamine",
+      "fiscal-periods": "Eelarveperioodid",
+      "roles": "Rollid ja kasutajad",
+      "integrations": "Integratsioonid",
+      "notifications": "Märguanded",
+      "audit-logs": "Audit ja logid",
+      "audit-trail": "Võltsimiskindel kontrolljälg",
+      "developer": "Arendaja ja API"
+    },
+    "translatedLanguages": "Tõlgitud",
+    "untranslatedLanguages": "inglise keel kuni tõlkimiseni"
+  },
+  "status": {
+    "filed": "Esitatud",
+    "ready": "Viilimiseks valmis",
+    "open": "Avatud periood",
+    "paid": "Tasuline",
+    "pending": "Ootel",
+    "accepted": "Vastu võetud",
+    "delivered": "Tarnitud",
+    "rejected": "Tagasi lükatud",
+    "pdf-sent": "PDF saadetud",
+    "not-sent": "Ei saadetud",
+    "matched": "Sobitud",
+    "mismatch": "Mittevastavus",
+    "missing-supplier": "Tarnija ei teatanud",
+    "missing-books": "Raamatutest puudu",
+    "deferred": "Edasi lükatud",
+    "deducted": "Mahaarvatud",
+    "remitted": "Saadetud",
+    "certified": "Sertifitseeritud",
+    "to-report": "Et teatada",
+    "reported": "Teatatud",
+    "accounted": "Arvestatud",
+    "overdue": "Tähtaja ületanud"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Viilimiseks valmis",
+      "liabilityDue": "Tasumisele kuuluv vastutus",
+      "paidThisYear": "Sel aastal makstud",
+      "nextDeadline": "Järgmine tähtaeg",
+      "noneOverdue": "Mitte ükski hilinenud",
+      "overdue": "{{count}} hilinenud"
+    },
+    "filter": {
+      "ready": "Viilimiseks valmis",
+      "open": "Avatud",
+      "filed": "Esitatud"
+    },
+    "col": {
+      "period": "Periood",
+      "authority": "Asutus",
+      "rate": "Hinda",
+      "due": "Tähtaeg",
+      "netPayable": "Tasuline neto",
+      "status": "Olek",
+      "ack": "Tunnustus"
+    },
+    "file": "Fail",
+    "view": "Vaade",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Jurisdiktsiooni laadimine…",
+    "nothingToFile": "Ükski deklaratsioon ei oota esitamist – kõik suletud perioodid esitatakse.",
+    "fileNext": "Faili järgmine: {{name}}",
+    "steps": {
+      "review": "Ülevaade",
+      "validate": "Kinnitage",
+      "declare": "Deklareeri ja esita",
+      "ack": "Tunnustus"
+    },
+    "runValidation": "Käivitage valideerimine",
+    "validating": "Valideerimine…",
+    "submit": "Submit {{form}}",
+    "submitting": "Esitamine…",
+    "declaration": "Kinnitan, et selles deklaratsioonis olev teave on tõene ja täielik ning mul on õigus see esitada {{authority}}-le.",
+    "netAmount": "Netosumma",
+    "submitted": "Esitatud",
+    "filedOn": "Esitatud",
+    "regime": {
+      "authority": "Asutus",
+      "channel": "Esitamiskanal",
+      "return": "Tagasi",
+      "due": "Tähtaeg",
+      "standardRate": "Standardmäär",
+      "threshold": "Registreerimislävi"
+    },
+    "demoNote": "Sisseehitatud näidismaksu API demoandmed – taotlusi ja makseid simuleeritakse ning maksuhaldurile ei saadeta midagi."
+  },
+  "fx": {
+    "title": "Välisvaluuta",
+    "subtitle": "Baasvaluuta {{base}} · näidisturukursid",
+    "newDoc": "Uus FX arve/arve",
+    "kpi": {
+      "netExposure": "FX netopositsioon",
+      "openDocs": "{{count}} avatud dokumenti",
+      "unrealized": "Realiseerimata kasum/kahjum",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Sel aastal realiseerunud",
+      "lastReval": "Viimane ümberhindlus",
+      "never": "Mitte kunagi",
+      "suggested": "Soovitatav: {{date}}"
+    },
+    "view": {
+      "open": "Ava üksused",
+      "settled": "Asunud",
+      "revaluation": "Kuu lõpu ümberhindlus",
+      "journal": "FX ajakiri"
+    },
+    "col": {
+      "document": "Dokument",
+      "type": "Tüüp",
+      "openForeign": "avatud (välismaa)",
+      "bookedNow": "Broneeritud / praegu",
+      "valueIn": "Väärtus {{base}}",
+      "unrealized": "Realiseerimata",
+      "status": "Olek",
+      "amount": "Summa",
+      "bookedRate": "Broneeritud hind",
+      "realized": "Sai aru"
+    },
+    "receivable": "Saadaval",
+    "payable": "Tasuline",
+    "receive": "Vastu võtta",
+    "pay": "Maksa",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Asunud",
+      "partial": "Osaliselt lahendatud",
+      "open": "Avatud"
+    },
+    "demoNote": "Demoandmed sisseehitatud näidis-API-st – hindu simuleeritakse, mitte reaalajas turuandmeid."
+  }
+}

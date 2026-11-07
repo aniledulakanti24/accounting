@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "நாளுக்கு நாள்",
+      "finance": "நிதி",
+      "advanced": "மேம்பட்டது"
+    },
+    "mainMenu": "முதன்மை மெனு",
+    "short": {
+      "parties": "கட்சிகள்"
+    },
+    "sections": {
+      "dashboard": "டாஷ்போர்டு",
+      "sales": "விற்பனை",
+      "receivables": "பணம் உள்ளே",
+      "procurement": "கொள்முதல்",
+      "payables": "பணம் அவுட்",
+      "cashbank": "பணம் & வங்கி",
+      "expenses": "செலவுகள்",
+      "tax": "வரி",
+      "reports": "அறிக்கைகள்",
+      "advanced-features": "மேம்பட்ட அம்சங்கள்",
+      "parties": "வாடிக்கையாளர்கள் & சப்ளையர்கள்",
+      "inventory": "பொருட்கள்",
+      "assets": "நிலையான சொத்துக்கள்",
+      "masters": "அமைவு & கட்டமைப்பு",
+      "business-tools": "குழு & கருவிகள்",
+      "party-tools": "பார்ட்டி கருவிகள்",
+      "item-tools": "பொருள் கருவிகள்",
+      "storage": "ஆவணங்கள்",
+      "alerts": "எச்சரிக்கைகள்",
+      "migration": "தரவு இடம்பெயர்வு"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "கண்ணோட்டம்",
+        "cash-flow": "பணப்புழக்கம்",
+        "tax-calendar": "வரி நாட்காட்டி"
+      },
+      "sales": {
+        "quotations": "மேற்கோள்கள்",
+        "proforma-invoices": "PI",
+        "sales-invoices": "விலைப்பட்டியல்",
+        "delivery-challans": "டெலிவரி சலான்",
+        "receipts": "ரசீது",
+        "invoice-desk": "விலைப்பட்டியல் மேசை"
+      },
+      "receivables": {
+        "money-in-center": "மையத்தில் பணம்",
+        "receivables": "பெறத்தக்கவை",
+        "payments-received": "பணம் பெறப்பட்டது",
+        "overdue-collections": "தொகுப்புகள் & நினைவூட்டல்கள்",
+        "credit-notes": "கடன் குறிப்புகள் மற்றும் பணத்தைத் திரும்பப்பெறுதல்",
+        "sales-returns": "விற்பனை வருமானம்",
+        "customer-statements": "வாடிக்கையாளர் அறிக்கைகள்",
+        "payment-links": "கட்டண இணைப்புகள்"
+      },
+      "procurement": {
+        "purchase-center": "கொள்முதல் மையம்",
+        "purchase-orders": "கொள்முதல் ஆர்டர்கள்",
+        "goods-receipt": "பொருட்கள் ரசீது",
+        "purchase-invoices": "விலைப்பட்டியல்களை வாங்கவும்",
+        "payment-out": "பணம் செலுத்தப்பட்டது",
+        "returns-debit-notes": "ரிட்டர்ன்ஸ் & டெபிட் குறிப்புகள்",
+        "bill-approvals": "மசோதா ஒப்புதல்கள்"
+      },
+      "payables": {
+        "bills": "கட்டண மையம்",
+        "payments": "சப்ளையர் கொடுப்பனவுகள்",
+        "workforce": "தொழிலாளர்",
+        "adjustments": "சரிசெய்தல்",
+        "bank-release": "வங்கி வெளியீடு"
+      },
+      "cashbank": {
+        "bank-accounts": "எனது கணக்குகள்",
+        "reconciliation": "போட்டி பரிவர்த்தனைகள்",
+        "cash-petty": "குட்டிப் பணம்",
+        "contra": "கணக்குகளுக்கு இடையில்",
+        "cheque-register": "காசோலைகள்",
+        "foreign-currency": "அந்நிய செலாவணி",
+        "bank-feeds": "வங்கி ஊட்டங்கள்",
+        "bank-rules": "விதிகள் & நல்லிணக்கம்"
+      },
+      "expenses": {
+        "expense-center": "அனைத்து செலவுகள்",
+        "categories": "செலவு வகைகள்",
+        "automated-bills": "தொடர் செலவுகள்",
+        "journal-vouchers": "கைமுறை உள்ளீடுகள்",
+        "provisions": "திரட்டல்கள்",
+        "write-offs": "தள்ளுபடிகள்",
+        "period-close": "மாத இறுதி"
+      },
+      "tax": {
+        "gst-returns": "ஜிஎஸ்டி தாக்கல்",
+        "gst-filing-wizard": "⚡ ஜிஎஸ்டிஆர்-3பி கோப்பு",
+        "gst-reconciliation": "ஜிஎஸ்டி பொருத்தம்",
+        "e-invoicing": "மின் விலைப்பட்டியல்கள்",
+        "e-way-bills": "இ-வே பில்கள்",
+        "tds": "டிடிஎஸ்",
+        "tcs": "டிசிஎஸ்",
+        "tax-payments": "வரி செலுத்துங்கள்",
+        "quarterly-compliance": "இணக்க நாட்காட்டி",
+        "ca-access": "CA தற்காலிக அணுகல்",
+        "gst-from-books": "புத்தகங்களிலிருந்து ஜி.எஸ்.டி"
+      },
+      "reports": {
+        "financial-statements": "நிதி அறிக்கைகள்",
+        "books": "பரிவர்த்தனை புத்தகங்கள்",
+        "gst-reports": "ஜிஎஸ்டி அறிக்கைகள்",
+        "ar-ap": "பெறத்தக்கவை மற்றும் செலுத்த வேண்டியவை",
+        "profitability": "லாபம்",
+        "period-comparatives": "ஆண்டு ஒப்பீடு",
+        "budget-vs-actuals": "பட்ஜெட் டிராக்கர்",
+        "cashflow-projection": "பண முன்னறிவிப்பு",
+        "report-builder": "தனிப்பயன் அறிக்கைகள்",
+        "general-ledger": "ஜெனரல் லெட்ஜர்",
+        "live-financials": "நேரடி நிதி",
+        "ai-analyst": "AI ஆய்வாளர்"
+      },
+      "advanced-features": {
+        "overview": "கண்ணோட்டம்"
+      },
+      "parties": {
+        "all-parties": "அனைத்து கட்சிகளும்",
+        "customer-ledgers": "வாடிக்கையாளர்கள்",
+        "supplier-ledgers": "சப்ளையர்கள்",
+        "shared-ledger": "பகிரப்பட்ட லெட்ஜர்",
+        "statements": "அறிக்கைகள்",
+        "reminders": "நினைவூட்டல்கள்",
+        "documents": "கட்சி ஆவணங்கள்",
+        "portal": "பார்ட்டி போர்டல்",
+        "import": "கட்சி இறக்குமதி",
+        "duplicate-merge": "டூப்ளிகேட் மெர்ஜ்",
+        "gap-analysis": "இடைவெளி பகுப்பாய்வு"
+      },
+      "inventory": {
+        "inventory-items": "பொருட்கள்",
+        "godowns": "கிடங்குகள்",
+        "stock-movement": "பங்கு இயக்கம்",
+        "item-pricing": "விலை நிர்ணயம்",
+        "stock-valuation": "பங்கு மதிப்பீடு",
+        "reorder-alerts": "விழிப்பூட்டல்களை மறுவரிசைப்படுத்து",
+        "batch-serials": "தொகுதி & தொடர்",
+        "barcode-labels": "பார்கோடு லேபிள்கள்",
+        "item-import": "பொருள் இறக்குமதி",
+        "gap-analysis": "இடைவெளி பகுப்பாய்வு"
+      },
+      "assets": {
+        "asset-register": "சொத்து பட்டியல்",
+        "depreciation": "தேய்மானம்",
+        "disposal-revaluation": "விற்கவும் அல்லது மறுமதிப்பீடு செய்யவும்"
+      },
+      "masters": {
+        "chart-of-accounts": "கணக்கு பட்டியல்",
+        "tax-masters": "வரி விகிதங்கள்",
+        "cost-centers": "செலவு மையங்கள்",
+        "voucher-types": "பரிவர்த்தனை வகைகள்",
+        "opening-balances": "தொடக்க இருப்புக்கள்",
+        "currencies": "நாணயங்கள்"
+      },
+      "business-tools": {
+        "staff-payroll": "ஊதியம்",
+        "manage-users": "பயனர் அணுகல்",
+        "online-orders": "ஆன்லைன் ஆர்டர்கள்",
+        "sms-marketing": "எஸ்எம்எஸ் மார்க்கெட்டிங்",
+        "accountant-hub": "கணக்காளர்கள் மற்றும் ஆதரவு"
+      },
+      "party-tools": {
+        "documents": "கட்சி ஆவணங்கள்",
+        "portal": "பார்ட்டி போர்டல்",
+        "import": "கட்சி இறக்குமதி",
+        "duplicate-merge": "டூப்ளிகேட் மெர்ஜ்",
+        "gap-analysis": "இடைவெளி பகுப்பாய்வு"
+      },
+      "item-tools": {
+        "reorder-alerts": "விழிப்பூட்டல்களை மறுவரிசைப்படுத்து",
+        "batch-serials": "தொகுதி & தொடர்",
+        "barcode-labels": "பார்கோடு லேபிள்கள்",
+        "item-import": "பொருள் இறக்குமதி",
+        "gap-analysis": "இடைவெளி பகுப்பாய்வு"
+      },
+      "storage": {
+        "client-storage": "கிளையன்ட் கோப்புகள்",
+        "unifiedtree-storage": "கிளவுட் ஸ்டோரேஜ்"
+      },
+      "alerts": {
+        "accountant-alerts": "கணக்காளர் எச்சரிக்கைகள்",
+        "compliance-alerts": "இணக்க எச்சரிக்கைகள்",
+        "cash-risk-alerts": "பணம் மற்றும் ஆபத்து எச்சரிக்கைகள்",
+        "ca-access": "CA தற்காலிக அணுகல்"
+      },
+      "migration": {
+        "import": "தரவை இறக்குமதி செய்யவும்",
+        "export": "தரவு ஏற்றுமதி",
+        "history": "இறக்குமதி வரலாறு",
+        "tally-import": "Tally & Zoho இலிருந்து இறக்குமதி"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "கொள்முதல் & கொடுப்பனவுகள்",
+      "accountingSetup": "கணக்கியல் அமைப்பு",
+      "dataDocuments": "தரவு & ஆவணங்கள்"
+    }
+  },
+  "common": {
+    "save": "மாற்றங்களைச் சேமிக்கவும்",
+    "cancel": "ரத்து செய்",
+    "create": "உருவாக்கு",
+    "edit": "திருத்தவும்",
+    "delete": "நீக்கு",
+    "search": "தேடு",
+    "connect": "இணைக்கவும்",
+    "configure": "கட்டமைக்கவும்",
+    "disconnect": "துண்டிக்கவும்",
+    "sync": "இப்போது ஒத்திசைக்கவும்",
+    "close": "மூடு",
+    "reset": "இயல்புநிலைக்கு மீட்டமைக்கவும்",
+    "back": "மீண்டும்",
+    "continue": "தொடரவும்",
+    "all": "அனைத்து",
+    "retry": "மீண்டும் முயற்சிக்கவும்",
+    "loading": "ஏற்றுகிறது…",
+    "resetDemo": "டெமோ தரவை மீட்டமைக்கவும்"
+  },
+  "shell": {
+    "searchPlaceholder": "எதையும் தேடு...",
+    "settings": "அமைப்புகள்",
+    "language": "மொழி",
+    "role": "பங்கு",
+    "greeting": {
+      "morning": "காலை வணக்கம்",
+      "afternoon": "நல்ல மதியம்",
+      "evening": "மாலை வணக்கம்"
+    },
+    "settingsItems": {
+      "company-profile": "நிறுவனத்தின் சுயவிவரம்",
+      "configuration": "கட்டமைப்பு",
+      "fiscal-periods": "நிதி காலங்கள்",
+      "roles": "பாத்திரங்கள் மற்றும் பயனர்கள்",
+      "integrations": "ஒருங்கிணைப்புகள்",
+      "notifications": "அறிவிப்புகள்",
+      "audit-logs": "தணிக்கை & பதிவுகள்",
+      "audit-trail": "சேதமடையாத தணிக்கை பாதை",
+      "developer": "டெவலப்பர் & ஏபிஐ"
+    },
+    "translatedLanguages": "மொழிபெயர்க்கப்பட்டது",
+    "untranslatedLanguages": "மொழிபெயர்க்கும் வரை ஆங்கிலம்"
+  },
+  "status": {
+    "filed": "தாக்கல் செய்யப்பட்டது",
+    "ready": "தாக்கல் செய்ய தயார்",
+    "open": "காலம் திறக்கப்பட்டது",
+    "paid": "செலுத்தப்பட்டது",
+    "pending": "நிலுவையில் உள்ளது",
+    "accepted": "ஏற்றுக்கொள்ளப்பட்டது",
+    "delivered": "வழங்கப்பட்டது",
+    "rejected": "நிராகரிக்கப்பட்டது",
+    "pdf-sent": "PDF அனுப்பப்பட்டது",
+    "not-sent": "அனுப்பப்படவில்லை",
+    "matched": "பொருந்தியது",
+    "mismatch": "பொருந்தவில்லை",
+    "missing-supplier": "சப்ளையர் மூலம் தெரிவிக்கப்படவில்லை",
+    "missing-books": "புத்தகங்களில் காணவில்லை",
+    "deferred": "ஒத்திவைக்கப்பட்டது",
+    "deducted": "கழிக்கப்பட்டது",
+    "remitted": "அனுப்பப்பட்டது",
+    "certified": "சான்றளிக்கப்பட்டது",
+    "to-report": "புகாரளிக்க",
+    "reported": "தெரிவிக்கப்பட்டது",
+    "accounted": "கணக்குப் போட்டது",
+    "overdue": "காலாவதியானது"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "தாக்கல் செய்ய தயார்",
+      "liabilityDue": "பொறுப்பு",
+      "paidThisYear": "இந்த ஆண்டு செலுத்தப்பட்டது",
+      "nextDeadline": "அடுத்த காலக்கெடு",
+      "noneOverdue": "எதுவும் தாமதிக்கவில்லை",
+      "overdue": "{{count}} தாமதமானது"
+    },
+    "filter": {
+      "ready": "தாக்கல் செய்ய தயார்",
+      "open": "திற",
+      "filed": "தாக்கல் செய்யப்பட்டது"
+    },
+    "col": {
+      "period": "காலம்",
+      "authority": "அதிகாரம்",
+      "rate": "மதிப்பிடவும்",
+      "due": "காரணமாக",
+      "netPayable": "நிகர செலுத்த வேண்டியவை",
+      "status": "நிலை",
+      "ack": "அங்கீகாரம்"
+    },
+    "file": "கோப்பு",
+    "view": "காண்க",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "அதிகார வரம்பை ஏற்றுகிறது…",
+    "nothingToFile": "ரிட்டர்ன்கள் எதுவும் தாக்கல் செய்யக் காத்திருக்கவில்லை - அனைத்து மூடிய காலங்களும் சமர்ப்பிக்கப்படும்.",
+    "fileNext": "அடுத்த கோப்பு: {{name}}",
+    "steps": {
+      "review": "மதிப்பாய்வு",
+      "validate": "சரிபார்க்கவும்",
+      "declare": "அறிவித்து சமர்ப்பிக்கவும்",
+      "ack": "அங்கீகாரம்"
+    },
+    "runValidation": "சரிபார்ப்பை இயக்கவும்",
+    "validating": "சரிபார்க்கிறது…",
+    "submit": "Submit {{form}}",
+    "submitting": "சமர்ப்பிக்கிறது…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "நிகர தொகை",
+    "submitted": "சமர்ப்பிக்கப்பட்டது",
+    "filedOn": "தாக்கல் செய்யப்பட்டது",
+    "regime": {
+      "authority": "அதிகாரம்",
+      "channel": "தாக்கல் சேனல்",
+      "return": "திரும்பு",
+      "due": "காரணமாக",
+      "standardRate": "நிலையான விகிதம்",
+      "threshold": "பதிவு வரம்பு"
+    },
+    "demoNote": "உள்ளமைக்கப்பட்ட மாதிரி வரி API இலிருந்து டெமோ தரவு - தாக்கல்கள் மற்றும் பணம் செலுத்துதல்கள் உருவகப்படுத்தப்பட்டு வரி அதிகாரத்திற்கு எதுவும் அனுப்பப்படாது."
+  },
+  "fx": {
+    "title": "அந்நிய செலாவணி",
+    "subtitle": "அடிப்படை நாணயம் {{base}} · குறிக்கும் போலி சந்தை விலைகள்",
+    "newDoc": "புதிய FX இன்வாய்ஸ் / பில்",
+    "kpi": {
+      "netExposure": "நிகர FX வெளிப்பாடு",
+      "openDocs": "{{count}} திறந்த ஆவணங்கள்",
+      "unrealized": "உணராத லாபம்/நஷ்டம்",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "இந்த ஆண்டு உணரப்பட்டது",
+      "lastReval": "கடைசி மறுமதிப்பீடு",
+      "never": "ஒருபோதும் இல்லை",
+      "suggested": "பரிந்துரைக்கப்பட்டது: {{date}}"
+    },
+    "view": {
+      "open": "பொருட்களைத் திறக்கவும்",
+      "settled": "குடியேறியது",
+      "revaluation": "மாத இறுதி மறுமதிப்பீடு",
+      "journal": "FX ஜர்னல்"
+    },
+    "col": {
+      "document": "ஆவணம்",
+      "type": "வகை",
+      "openForeign": "திறந்த (வெளிநாட்டு)",
+      "bookedNow": "முன்பதிவு செய்யப்பட்டது / இப்போது",
+      "valueIn": "{{base}} இல் மதிப்பு",
+      "unrealized": "உணரவில்லை",
+      "status": "நிலை",
+      "amount": "தொகை",
+      "bookedRate": "முன்பதிவு விகிதம்",
+      "realized": "உணர்ந்து கொண்டது"
+    },
+    "receivable": "பெறத்தக்கது",
+    "payable": "செலுத்த வேண்டியவை",
+    "receive": "பெறு",
+    "pay": "செலுத்து",
+    "netIn": "நிகரம் {{base}} இல்",
+    "state": {
+      "settled": "குடியேறியது",
+      "partial": "பகுதி-தீர்ந்தது",
+      "open": "திற"
+    },
+    "demoNote": "உள்ளமைக்கப்பட்ட மாக் API இலிருந்து டெமோ தரவு - விகிதங்கள் உருவகப்படுத்தப்படுகின்றன, நேரடி சந்தை தரவு அல்ல."
+  }
+}

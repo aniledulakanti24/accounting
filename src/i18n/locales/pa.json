@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "ਦਿਨ ਤੋਂ ਦਿਨ",
+      "finance": "ਵਿੱਤ",
+      "advanced": "ਉੱਨਤ"
+    },
+    "mainMenu": "ਮੁੱਖ ਮੀਨੂ",
+    "short": {
+      "parties": "ਪਾਰਟੀਆਂ"
+    },
+    "sections": {
+      "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+      "sales": "ਵਿਕਰੀ",
+      "receivables": "ਪੈਸੇ ਵਿੱਚ",
+      "procurement": "ਖਰੀਦਦਾਰੀ",
+      "payables": "ਪੈਸੇ ਬਾਹਰ",
+      "cashbank": "ਨਕਦ ਅਤੇ ਬੈਂਕ",
+      "expenses": "ਖਰਚੇ",
+      "tax": "ਟੈਕਸ",
+      "reports": "ਰਿਪੋਰਟਾਂ",
+      "advanced-features": "ਉੱਨਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+      "parties": "ਗਾਹਕ ਅਤੇ ਸਪਲਾਇਰ",
+      "inventory": "ਆਈਟਮਾਂ",
+      "assets": "ਸਥਿਰ ਸੰਪਤੀਆਂ",
+      "masters": "ਸੈੱਟਅੱਪ ਅਤੇ ਸੰਰਚਨਾ",
+      "business-tools": "ਟੀਮ ਅਤੇ ਟੂਲ",
+      "party-tools": "ਪਾਰਟੀ ਟੂਲ",
+      "item-tools": "ਆਈਟਮ ਟੂਲ",
+      "storage": "ਦਸਤਾਵੇਜ਼",
+      "alerts": "ਚੇਤਾਵਨੀਆਂ",
+      "migration": "ਡਾਟਾ ਮਾਈਗ੍ਰੇਸ਼ਨ"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "ਸੰਖੇਪ ਜਾਣਕਾਰੀ",
+        "cash-flow": "ਕੈਸ਼ ਪਰਵਾਹ",
+        "tax-calendar": "ਟੈਕਸ ਕੈਲੰਡਰ"
+      },
+      "sales": {
+        "quotations": "ਹਵਾਲੇ",
+        "proforma-invoices": "ਪੀ.ਆਈ",
+        "sales-invoices": "ਚਲਾਨ",
+        "delivery-challans": "ਡਿਲਿਵਰੀ ਚਲਾਨ",
+        "receipts": "ਰਸੀਦ",
+        "invoice-desk": "ਇਨਵੌਇਸ ਡੈਸਕ"
+      },
+      "receivables": {
+        "money-in-center": "ਕੇਂਦਰ ਵਿੱਚ ਪੈਸਾ",
+        "receivables": "ਪ੍ਰਾਪਤੀਯੋਗ",
+        "payments-received": "ਭੁਗਤਾਨ ਪ੍ਰਾਪਤ ਹੋਏ",
+        "overdue-collections": "ਸੰਗ੍ਰਹਿ ਅਤੇ ਰੀਮਾਈਂਡਰ",
+        "credit-notes": "ਕ੍ਰੈਡਿਟ ਨੋਟਸ ਅਤੇ ਰਿਫੰਡਸ",
+        "sales-returns": "ਵਿਕਰੀ ਰਿਟਰਨ",
+        "customer-statements": "ਗਾਹਕ ਬਿਆਨ",
+        "payment-links": "ਭੁਗਤਾਨ ਲਿੰਕ"
+      },
+      "procurement": {
+        "purchase-center": "ਖਰੀਦ ਕੇਂਦਰ",
+        "purchase-orders": "ਖਰੀਦ ਆਰਡਰ",
+        "goods-receipt": "ਮਾਲ ਦੀ ਰਸੀਦ",
+        "purchase-invoices": "ਇਨਵੌਇਸ ਖਰੀਦੋ",
+        "payment-out": "ਭੁਗਤਾਨ ਕੀਤੇ",
+        "returns-debit-notes": "ਰਿਟਰਨ ਅਤੇ ਡੈਬਿਟ ਨੋਟਸ",
+        "bill-approvals": "ਬਿੱਲ ਮਨਜ਼ੂਰੀਆਂ"
+      },
+      "payables": {
+        "bills": "ਪੇ ਸੈਂਟਰ",
+        "payments": "ਸਪਲਾਇਰ ਭੁਗਤਾਨ",
+        "workforce": "ਕਾਰਜਬਲ",
+        "adjustments": "ਸਮਾਯੋਜਨ",
+        "bank-release": "ਬੈਂਕ ਰਿਲੀਜ਼"
+      },
+      "cashbank": {
+        "bank-accounts": "ਮੇਰੇ ਖਾਤੇ",
+        "reconciliation": "ਮੈਚ ਟ੍ਰਾਂਜੈਕਸ਼ਨਾਂ",
+        "cash-petty": "ਛੋਟਾ ਨਕਦ",
+        "contra": "ਖਾਤਿਆਂ ਦੇ ਵਿਚਕਾਰ",
+        "cheque-register": "ਜਾਂਚ ਕਰਦਾ ਹੈ",
+        "foreign-currency": "ਵਿਦੇਸ਼ੀ ਮੁਦਰਾ",
+        "bank-feeds": "ਬੈਂਕ ਫੀਡਸ",
+        "bank-rules": "ਨਿਯਮ ਅਤੇ ਮੇਲ-ਮਿਲਾਪ"
+      },
+      "expenses": {
+        "expense-center": "ਸਾਰੇ ਖਰਚੇ",
+        "categories": "ਖਰਚੇ ਦੀਆਂ ਕਿਸਮਾਂ",
+        "automated-bills": "ਆਵਰਤੀ ਖਰਚੇ",
+        "journal-vouchers": "ਦਸਤੀ ਇੰਦਰਾਜ਼",
+        "provisions": "ਪ੍ਰਾਪਤੀ",
+        "write-offs": "ਲਿਖਿ—ਲਿਖਣਾ",
+        "period-close": "ਮਹੀਨਾ-ਅੰਤ"
+      },
+      "tax": {
+        "gst-returns": "GST ਫਾਈਲਿੰਗ",
+        "gst-filing-wizard": "⚡ ਫਾਈਲ GSTR-3B",
+        "gst-reconciliation": "GST ਮੈਚਿੰਗ",
+        "e-invoicing": "ਈ-ਇਨਵੌਇਸ",
+        "e-way-bills": "ਈ-ਵੇਅ ਬਿੱਲ",
+        "tds": "ਟੀ.ਡੀ.ਐੱਸ",
+        "tcs": "ਟੀ.ਸੀ.ਐਸ",
+        "tax-payments": "ਟੈਕਸ ਦਾ ਭੁਗਤਾਨ ਕਰੋ",
+        "quarterly-compliance": "ਪਾਲਣਾ ਕੈਲੰਡਰ",
+        "ca-access": "CA ਅਸਥਾਈ ਪਹੁੰਚ",
+        "gst-from-books": "ਕਿਤਾਬਾਂ ਤੋਂ ਜੀ.ਐਸ.ਟੀ"
+      },
+      "reports": {
+        "financial-statements": "ਵਿੱਤੀ ਰਿਪੋਰਟਾਂ",
+        "books": "ਲੈਣ-ਦੇਣ ਦੀਆਂ ਕਿਤਾਬਾਂ",
+        "gst-reports": "ਜੀਐਸਟੀ ਰਿਪੋਰਟਾਂ",
+        "ar-ap": "ਪ੍ਰਾਪਤੀਯੋਗ ਬਨਾਮ ਭੁਗਤਾਨਯੋਗ",
+        "profitability": "ਮੁਨਾਫ਼ਾ",
+        "period-comparatives": "ਸਾਲ ਦੀ ਤੁਲਨਾ",
+        "budget-vs-actuals": "ਬਜਟ ਟਰੈਕਰ",
+        "cashflow-projection": "ਨਕਦ ਪੂਰਵ ਅਨੁਮਾਨ",
+        "report-builder": "ਕਸਟਮ ਰਿਪੋਰਟਾਂ",
+        "general-ledger": "ਜਨਰਲ ਲੇਜ਼ਰ",
+        "live-financials": "ਲਾਈਵ ਵਿੱਤੀ",
+        "ai-analyst": "ਏਆਈ ਵਿਸ਼ਲੇਸ਼ਕ"
+      },
+      "advanced-features": {
+        "overview": "ਸੰਖੇਪ ਜਾਣਕਾਰੀ"
+      },
+      "parties": {
+        "all-parties": "ਸਾਰੀਆਂ ਪਾਰਟੀਆਂ",
+        "customer-ledgers": "ਗਾਹਕ",
+        "supplier-ledgers": "ਸਪਲਾਇਰ",
+        "shared-ledger": "ਸ਼ੇਅਰਡ ਲੇਜ਼ਰ",
+        "statements": "ਬਿਆਨ",
+        "reminders": "ਰੀਮਾਈਂਡਰ",
+        "documents": "ਪਾਰਟੀ ਦੇ ਦਸਤਾਵੇਜ਼",
+        "portal": "ਪਾਰਟੀ ਪੋਰਟਲ",
+        "import": "ਪਾਰਟੀ ਆਯਾਤ",
+        "duplicate-merge": "ਡੁਪਲੀਕੇਟ ਮਰਜ",
+        "gap-analysis": "ਅੰਤਰ ਵਿਸ਼ਲੇਸ਼ਣ"
+      },
+      "inventory": {
+        "inventory-items": "ਆਈਟਮਾਂ",
+        "godowns": "ਗੋਦਾਮ",
+        "stock-movement": "ਸਟਾਕ ਅੰਦੋਲਨ",
+        "item-pricing": "ਕੀਮਤ",
+        "stock-valuation": "ਸਟਾਕ ਦਾ ਮੁਲਾਂਕਣ",
+        "reorder-alerts": "ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਮੁੜ ਕ੍ਰਮਬੱਧ ਕਰੋ",
+        "batch-serials": "ਬੈਚ ਅਤੇ ਸੀਰੀਅਲ",
+        "barcode-labels": "ਬਾਰਕੋਡ ਲੇਬਲ",
+        "item-import": "ਆਈਟਮ ਆਯਾਤ",
+        "gap-analysis": "ਅੰਤਰ ਵਿਸ਼ਲੇਸ਼ਣ"
+      },
+      "assets": {
+        "asset-register": "ਸੰਪੱਤੀ ਸੂਚੀ",
+        "depreciation": "ਘਟਾਓ",
+        "disposal-revaluation": "ਵੇਚੋ ਜਾਂ ਮੁੜ-ਮੁਲਾਂਕਣ ਕਰੋ"
+      },
+      "masters": {
+        "chart-of-accounts": "ਖਾਤਿਆਂ ਦੀ ਸੂਚੀ",
+        "tax-masters": "ਟੈਕਸ ਦਰਾਂ",
+        "cost-centers": "ਲਾਗਤ ਕੇਂਦਰ",
+        "voucher-types": "ਲੈਣ-ਦੇਣ ਦੀਆਂ ਕਿਸਮਾਂ",
+        "opening-balances": "ਸ਼ੁਰੂਆਤੀ ਬਕਾਇਆ",
+        "currencies": "ਮੁਦਰਾਵਾਂ"
+      },
+      "business-tools": {
+        "staff-payroll": "ਤਨਖਾਹ",
+        "manage-users": "ਉਪਭੋਗਤਾ ਪਹੁੰਚ",
+        "online-orders": "ਔਨਲਾਈਨ ਆਰਡਰ",
+        "sms-marketing": "ਐਸਐਮਐਸ ਮਾਰਕੀਟਿੰਗ",
+        "accountant-hub": "ਲੇਖਾਕਾਰ ਅਤੇ ਸਹਾਇਤਾ"
+      },
+      "party-tools": {
+        "documents": "ਪਾਰਟੀ ਦੇ ਦਸਤਾਵੇਜ਼",
+        "portal": "ਪਾਰਟੀ ਪੋਰਟਲ",
+        "import": "ਪਾਰਟੀ ਆਯਾਤ",
+        "duplicate-merge": "ਡੁਪਲੀਕੇਟ ਮਰਜ",
+        "gap-analysis": "ਅੰਤਰ ਵਿਸ਼ਲੇਸ਼ਣ"
+      },
+      "item-tools": {
+        "reorder-alerts": "ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਮੁੜ ਕ੍ਰਮਬੱਧ ਕਰੋ",
+        "batch-serials": "ਬੈਚ ਅਤੇ ਸੀਰੀਅਲ",
+        "barcode-labels": "ਬਾਰਕੋਡ ਲੇਬਲ",
+        "item-import": "ਆਈਟਮ ਆਯਾਤ",
+        "gap-analysis": "ਅੰਤਰ ਵਿਸ਼ਲੇਸ਼ਣ"
+      },
+      "storage": {
+        "client-storage": "ਕਲਾਇੰਟ ਫਾਈਲਾਂ",
+        "unifiedtree-storage": "ਕਲਾਉਡ ਸਟੋਰੇਜ"
+      },
+      "alerts": {
+        "accountant-alerts": "ਲੇਖਾਕਾਰ ਚੇਤਾਵਨੀਆਂ",
+        "compliance-alerts": "ਪਾਲਣਾ ਚੇਤਾਵਨੀਆਂ",
+        "cash-risk-alerts": "ਨਕਦ ਅਤੇ ਜੋਖਮ ਚੇਤਾਵਨੀਆਂ",
+        "ca-access": "CA ਅਸਥਾਈ ਪਹੁੰਚ"
+      },
+      "migration": {
+        "import": "ਡਾਟਾ ਆਯਾਤ ਕਰੋ",
+        "export": "ਡਾਟਾ ਨਿਰਯਾਤ ਕਰੋ",
+        "history": "ਇਤਿਹਾਸ ਆਯਾਤ ਕਰੋ",
+        "tally-import": "ਟੈਲੀ ਅਤੇ ਜ਼ੋਹੋ ਤੋਂ ਆਯਾਤ ਕਰੋ"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "ਖਰੀਦਦਾਰੀ ਅਤੇ ਭੁਗਤਾਨ",
+      "accountingSetup": "ਲੇਖਾ ਸੈੱਟਅੱਪ",
+      "dataDocuments": "ਡਾਟਾ ਅਤੇ ਦਸਤਾਵੇਜ਼"
+    }
+  },
+  "common": {
+    "save": "ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "create": "ਬਣਾਓ",
+    "edit": "ਸੰਪਾਦਿਤ ਕਰੋ",
+    "delete": "ਮਿਟਾਓ",
+    "search": "ਖੋਜ",
+    "connect": "ਜੁੜੋ",
+    "configure": "ਕੌਂਫਿਗਰ ਕਰੋ",
+    "disconnect": "ਡਿਸਕਨੈਕਟ ਕਰੋ",
+    "sync": "ਹੁਣੇ ਸਿੰਕ ਕਰੋ",
+    "close": "ਬੰਦ ਕਰੋ",
+    "reset": "ਪੂਰਵ-ਨਿਰਧਾਰਤ 'ਤੇ ਰੀਸੈਟ ਕਰੋ",
+    "back": "ਪਿੱਛੇ",
+    "continue": "ਜਾਰੀ ਰੱਖੋ",
+    "all": "ਸਾਰੇ",
+    "retry": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "loading": "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "resetDemo": "ਡੈਮੋ ਡਾਟਾ ਰੀਸੈਟ ਕਰੋ"
+  },
+  "shell": {
+    "searchPlaceholder": "ਕੁਝ ਵੀ ਖੋਜੋ…",
+    "settings": "ਸੈਟਿੰਗਾਂ",
+    "language": "ਭਾਸ਼ਾ",
+    "role": "ਭੂਮਿਕਾ",
+    "greeting": {
+      "morning": "ਸ਼ੁਭ ਸਵੇਰ",
+      "afternoon": "ਨਮਸਕਾਰ",
+      "evening": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ"
+    },
+    "settingsItems": {
+      "company-profile": "ਕੰਪਨੀ ਪ੍ਰੋਫਾਇਲ",
+      "configuration": "ਸੰਰਚਨਾ",
+      "fiscal-periods": "ਵਿੱਤੀ ਮਿਆਦਾਂ",
+      "roles": "ਭੂਮਿਕਾਵਾਂ ਅਤੇ ਉਪਭੋਗਤਾ",
+      "integrations": "ਏਕੀਕਰਣ",
+      "notifications": "ਸੂਚਨਾਵਾਂ",
+      "audit-logs": "ਆਡਿਟ ਅਤੇ ਲੌਗਸ",
+      "audit-trail": "ਟੈਂਪਰ-ਪਰੂਫ ਆਡਿਟ ਟ੍ਰੇਲ",
+      "developer": "ਡਿਵੈਲਪਰ ਅਤੇ API"
+    },
+    "translatedLanguages": "ਅਨੁਵਾਦ ਕੀਤਾ",
+    "untranslatedLanguages": "ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ ਹੋਣ ਤੱਕ"
+  },
+  "status": {
+    "filed": "ਦਾਇਰ ਕੀਤੀ",
+    "ready": "ਫਾਈਲ ਕਰਨ ਲਈ ਤਿਆਰ",
+    "open": "ਮਿਆਦ ਖੁੱਲ੍ਹੀ",
+    "paid": "ਭੁਗਤਾਨ ਕੀਤਾ",
+    "pending": "ਬਕਾਇਆ",
+    "accepted": "ਸਵੀਕਾਰ ਕਰ ਲਿਆ",
+    "delivered": "ਡਿਲੀਵਰ ਕੀਤਾ",
+    "rejected": "ਰੱਦ ਕਰ ਦਿੱਤਾ",
+    "pdf-sent": "PDF ਭੇਜੀ ਗਈ",
+    "not-sent": "ਨਹੀਂ ਭੇਜਿਆ",
+    "matched": "ਮੇਲ ਖਾਂਦਾ ਹੈ",
+    "mismatch": "ਬੇਮੇਲ",
+    "missing-supplier": "ਸਪਲਾਇਰ ਦੁਆਰਾ ਰਿਪੋਰਟ ਨਹੀਂ ਕੀਤੀ ਗਈ",
+    "missing-books": "ਕਿਤਾਬਾਂ ਵਿੱਚ ਗੁੰਮ ਹੈ",
+    "deferred": "ਮੁਲਤਵੀ",
+    "deducted": "ਕਟੌਤੀ ਕੀਤੀ ਗਈ",
+    "remitted": "ਭੇਜੀ ਗਈ",
+    "certified": "ਪ੍ਰਮਾਣਿਤ",
+    "to-report": "ਰਿਪੋਰਟ ਕਰਨ ਲਈ",
+    "reported": "ਰਿਪੋਰਟ ਕੀਤੀ",
+    "accounted": "ਲੇਖਾ ਕੀਤਾ",
+    "overdue": "ਬਕਾਇਆ"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "ਫਾਈਲ ਕਰਨ ਲਈ ਤਿਆਰ",
+      "liabilityDue": "ਦੇਣਦਾਰੀ ਬਕਾਇਆ",
+      "paidThisYear": "ਇਸ ਸਾਲ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ",
+      "nextDeadline": "ਅਗਲੀ ਡੈੱਡਲਾਈਨ",
+      "noneOverdue": "ਕੋਈ ਵੀ ਬਕਾਇਆ ਨਹੀਂ",
+      "overdue": "{{count}} ਬਕਾਇਆ"
+    },
+    "filter": {
+      "ready": "ਫਾਈਲ ਕਰਨ ਲਈ ਤਿਆਰ",
+      "open": "ਖੋਲ੍ਹੋ",
+      "filed": "ਦਾਇਰ ਕੀਤੀ"
+    },
+    "col": {
+      "period": "ਮਿਆਦ",
+      "authority": "ਅਥਾਰਟੀ",
+      "rate": "ਦਰ",
+      "due": "ਬਕਾਇਆ",
+      "netPayable": "ਸ਼ੁੱਧ ਭੁਗਤਾਨਯੋਗ",
+      "status": "ਸਥਿਤੀ",
+      "ack": "ਰਸੀਦ"
+    },
+    "file": "ਫਾਈਲ",
+    "view": "ਦੇਖੋ",
+    "fileForm": "ਫ਼ਾਈਲ {{form}}",
+    "loadingJurisdiction": "ਅਧਿਕਾਰ ਖੇਤਰ ਨੂੰ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "nothingToFile": "ਕੋਈ ਰਿਟਰਨ ਫਾਈਲ ਕੀਤੇ ਜਾਣ ਦੀ ਉਡੀਕ ਨਹੀਂ ਕਰ ਰਹੀ ਹੈ - ਸਾਰੇ ਬੰਦ ਪੀਰੀਅਡ ਜਮ੍ਹਾ ਕੀਤੇ ਗਏ ਹਨ।",
+    "fileNext": "ਅਗਲੀ ਫ਼ਾਈਲ: {{name}}",
+    "steps": {
+      "review": "ਸਮੀਖਿਆ",
+      "validate": "ਪ੍ਰਮਾਣਿਤ ਕਰੋ",
+      "declare": "ਘੋਸ਼ਣਾ ਕਰੋ ਅਤੇ ਜਮ੍ਹਾਂ ਕਰੋ",
+      "ack": "ਰਸੀਦ"
+    },
+    "runValidation": "ਪ੍ਰਮਾਣਿਕਤਾ ਚਲਾਓ",
+    "validating": "ਪ੍ਰਮਾਣਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "submit": "ਜਮ੍ਹਾਂ ਕਰੋ {{form}}",
+    "submitting": "ਸਪੁਰਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "ਕੁੱਲ ਰਕਮ",
+    "submitted": "ਪੇਸ਼ ਕੀਤਾ",
+    "filedOn": "'ਤੇ ਦਾਇਰ ਕੀਤੀ",
+    "regime": {
+      "authority": "ਅਥਾਰਟੀ",
+      "channel": "ਫਾਈਲਿੰਗ ਚੈਨਲ",
+      "return": "ਵਾਪਸੀ",
+      "due": "ਬਕਾਇਆ",
+      "standardRate": "ਮਿਆਰੀ ਦਰ",
+      "threshold": "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਥ੍ਰੈਸ਼ਹੋਲਡ"
+    },
+    "demoNote": "ਬਿਲਟ-ਇਨ ਮੌਕ ਟੈਕਸ API ਤੋਂ ਡੈਮੋ ਡੇਟਾ — ਫਾਈਲਿੰਗ ਅਤੇ ਭੁਗਤਾਨ ਸਿਮੂਲੇਟ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਟੈਕਸ ਅਥਾਰਟੀ ਨੂੰ ਕੁਝ ਨਹੀਂ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ।"
+  },
+  "fx": {
+    "title": "ਵਿਦੇਸ਼ੀ ਮੁਦਰਾ",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "ਨਵਾਂ FX ਇਨਵੌਇਸ / ਬਿੱਲ",
+    "kpi": {
+      "netExposure": "ਨੈੱਟ FX ਐਕਸਪੋਜਰ",
+      "openDocs": "{{count}} ਖੁੱਲ੍ਹੇ ਦਸਤਾਵੇਜ਼",
+      "unrealized": "ਅਣਜਾਣ ਲਾਭ/ਨੁਕਸਾਨ",
+      "postedSplit": "{{posted}} ਪੋਸਟ ਕੀਤਾ ਗਿਆ · {{unposted}} ਅਜੇ ਤੱਕ ਨਹੀਂ",
+      "realized": "ਇਸ ਸਾਲ ਅਹਿਸਾਸ ਹੋਇਆ",
+      "lastReval": "ਆਖਰੀ ਮੁਲਾਂਕਣ",
+      "never": "ਕਦੇ ਨਹੀਂ",
+      "suggested": "ਸੁਝਾਇਆ ਗਿਆ: {{date}}"
+    },
+    "view": {
+      "open": "ਆਈਟਮਾਂ ਖੋਲ੍ਹੋ",
+      "settled": "ਵਸਾਇਆ",
+      "revaluation": "ਮਹੀਨੇ ਦੇ ਅੰਤ ਦਾ ਮੁਲਾਂਕਣ",
+      "journal": "FX ਜਰਨਲ"
+    },
+    "col": {
+      "document": "ਦਸਤਾਵੇਜ਼",
+      "type": "ਟਾਈਪ ਕਰੋ",
+      "openForeign": "ਖੁੱਲਾ (ਵਿਦੇਸ਼ੀ)",
+      "bookedNow": "ਬੁੱਕ / ਹੁਣ",
+      "valueIn": "{{base}} ਵਿੱਚ ਮੁੱਲ",
+      "unrealized": "ਅਚੇਤ",
+      "status": "ਸਥਿਤੀ",
+      "amount": "ਰਕਮ",
+      "bookedRate": "ਬੁੱਕ ਕੀਤੀ ਦਰ",
+      "realized": "ਅਹਿਸਾਸ ਹੋਇਆ"
+    },
+    "receivable": "ਪ੍ਰਾਪਤੀਯੋਗ",
+    "payable": "ਭੁਗਤਾਨਯੋਗ",
+    "receive": "ਪ੍ਰਾਪਤ ਕਰੋ",
+    "pay": "ਭੁਗਤਾਨ ਕਰੋ",
+    "netIn": "{{base}} ਵਿੱਚ ਸ਼ੁੱਧ",
+    "state": {
+      "settled": "ਵਸਾਇਆ",
+      "partial": "ਭਾਗ-ਵਸਾਇਆ",
+      "open": "ਖੋਲ੍ਹੋ"
+    },
+    "demoNote": "ਬਿਲਟ-ਇਨ ਮੌਕ API ਤੋਂ ਡੈਮੋ ਡੇਟਾ — ਦਰਾਂ ਸਿਮੂਲੇਟ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ, ਲਾਈਵ ਮਾਰਕੀਟ ਡੇਟਾ ਨਹੀਂ।"
+  }
+}

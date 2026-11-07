@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Gündən-günə",
+      "finance": "Maliyyə",
+      "advanced": "Qabaqcıl"
+    },
+    "mainMenu": "Əsas Menyu",
+    "short": {
+      "parties": "Tərəflər"
+    },
+    "sections": {
+      "dashboard": "İdarə paneli",
+      "sales": "Satış",
+      "receivables": "Money In",
+      "procurement": "Satınalmalar",
+      "payables": "Money Out",
+      "cashbank": "Nağd və Bank",
+      "expenses": "Xərclər",
+      "tax": "Vergi",
+      "reports": "Hesabatlar",
+      "advanced-features": "Qabaqcıl Xüsusiyyətlər",
+      "parties": "Müştərilər və Təchizatçılar",
+      "inventory": "Əşyalar",
+      "assets": "Əsas vəsaitlər",
+      "masters": "Quraşdırma və Konfiqurasiya",
+      "business-tools": "Komanda və Alətlər",
+      "party-tools": "Partiya Alətləri",
+      "item-tools": "Element Alətləri",
+      "storage": "Sənədlər",
+      "alerts": "Xəbərdarlıqlar",
+      "migration": "Məlumat miqrasiyası"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ümumi baxış",
+        "cash-flow": "Pul vəsaitlərinin hərəkəti",
+        "tax-calendar": "Vergi Təqvimi"
+      },
+      "sales": {
+        "quotations": "Sitatlar",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Faktura",
+        "delivery-challans": "Çatdırılma Challan",
+        "receipts": "Qəbz",
+        "invoice-desk": "Faktura masası"
+      },
+      "receivables": {
+        "money-in-center": "Mərkəzdə Pul",
+        "receivables": "Debitor borcları",
+        "payments-received": "Ödənişlər qəbul edildi",
+        "overdue-collections": "Kolleksiyalar və Xatırlatmalar",
+        "credit-notes": "Kredit Qeydləri və Geri Ödənişlər",
+        "sales-returns": "Satışın qaytarılması",
+        "customer-statements": "Müştəri bəyanatları",
+        "payment-links": "Ödəniş Linkləri"
+      },
+      "procurement": {
+        "purchase-center": "Satınalma Mərkəzi",
+        "purchase-orders": "Satınalma Sifarişləri",
+        "goods-receipt": "Malların qəbulu",
+        "purchase-invoices": "Alış fakturaları",
+        "payment-out": "Ödənişlər Edildi",
+        "returns-debit-notes": "Qaytarmalar və debet qeydləri",
+        "bill-approvals": "Bill Təsdiqləri"
+      },
+      "payables": {
+        "bills": "Ödəniş Mərkəzi",
+        "payments": "Təchizatçı Ödənişləri",
+        "workforce": "İşçi qüvvəsi",
+        "adjustments": "Düzəlişlər",
+        "bank-release": "Bank buraxılışı"
+      },
+      "cashbank": {
+        "bank-accounts": "Hesablarım",
+        "reconciliation": "Uyğun əməliyyatlar",
+        "cash-petty": "Xırda pul",
+        "contra": "Hesablar arasında",
+        "cheque-register": "Çeklər",
+        "foreign-currency": "Xarici valyuta",
+        "bank-feeds": "Bank Feeds",
+        "bank-rules": "Qaydalar və uzlaşma"
+      },
+      "expenses": {
+        "expense-center": "Bütün Xərclər",
+        "categories": "Xərc növləri",
+        "automated-bills": "Təkrarlanan Xərclər",
+        "journal-vouchers": "Manual Girişlər",
+        "provisions": "Hesablamalar",
+        "write-offs": "Silinmələr",
+        "period-close": "Ay sonu"
+      },
+      "tax": {
+        "gst-returns": "GST faylı",
+        "gst-filing-wizard": "⚡ Fayl GSTR-3B",
+        "gst-reconciliation": "GST uyğunluğu",
+        "e-invoicing": "E-qaimə-fakturalar",
+        "e-way-bills": "Elektron yol fakturaları",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Vergi ödəyin",
+        "quarterly-compliance": "Uyğunluq Təqvimi",
+        "ca-access": "CA Müvəqqəti Giriş",
+        "gst-from-books": "Kitablardan GST"
+      },
+      "reports": {
+        "financial-statements": "Maliyyə Hesabatları",
+        "books": "Əməliyyat kitabları",
+        "gst-reports": "GST Hesabatları",
+        "ar-ap": "Debitor borcları vs kreditor borcları",
+        "profitability": "Mənfəətlilik",
+        "period-comparatives": "İl müqayisəsi",
+        "budget-vs-actuals": "Büdcə İzləyicisi",
+        "cashflow-projection": "Pul Proqnozu",
+        "report-builder": "Fərdi Hesabatlar",
+        "general-ledger": "General Ledger",
+        "live-financials": "Canlı Maliyyə",
+        "ai-analyst": "AI analitiki"
+      },
+      "advanced-features": {
+        "overview": "Ümumi baxış"
+      },
+      "parties": {
+        "all-parties": "Bütün Tərəflər",
+        "customer-ledgers": "Müştərilər",
+        "supplier-ledgers": "Təchizatçılar",
+        "shared-ledger": "Paylaşılan Ledger",
+        "statements": "Bəyanatlar",
+        "reminders": "Xatırlatmalar",
+        "documents": "Partiya sənədləri",
+        "portal": "Partiya Portalı",
+        "import": "Partiya İdxal",
+        "duplicate-merge": "Dublikat Birləşməsi",
+        "gap-analysis": "Boşluqların təhlili"
+      },
+      "inventory": {
+        "inventory-items": "Əşyalar",
+        "godowns": "Anbarlar",
+        "stock-movement": "Fond Hərəkəti",
+        "item-pricing": "Qiymətləndirmə",
+        "stock-valuation": "Səhmlərin Qiymətləndirilməsi",
+        "reorder-alerts": "Xəbərdarlıqları yenidən sıralayın",
+        "batch-serials": "Toplu və Serial",
+        "barcode-labels": "Barkod etiketləri",
+        "item-import": "Element İdxal",
+        "gap-analysis": "Boşluqların təhlili"
+      },
+      "assets": {
+        "asset-register": "Aktiv Siyahısı",
+        "depreciation": "Amortizasiya",
+        "disposal-revaluation": "Sat və ya yenidən qiymətləndir"
+      },
+      "masters": {
+        "chart-of-accounts": "Hesabların siyahısı",
+        "tax-masters": "Vergi dərəcələri",
+        "cost-centers": "Xərc mərkəzləri",
+        "voucher-types": "Əməliyyat növləri",
+        "opening-balances": "Başlanğıc balansları",
+        "currencies": "Valyutalar"
+      },
+      "business-tools": {
+        "staff-payroll": "Əmək haqqı",
+        "manage-users": "İstifadəçi Girişi",
+        "online-orders": "Onlayn Sifarişlər",
+        "sms-marketing": "SMS Marketinq",
+        "accountant-hub": "Mühasiblər və Dəstək"
+      },
+      "party-tools": {
+        "documents": "Partiya sənədləri",
+        "portal": "Partiya Portalı",
+        "import": "Partiya İdxal",
+        "duplicate-merge": "Dublikat Birləşməsi",
+        "gap-analysis": "Boşluqların təhlili"
+      },
+      "item-tools": {
+        "reorder-alerts": "Xəbərdarlıqları yenidən sıralayın",
+        "batch-serials": "Toplu və Serial",
+        "barcode-labels": "Barkod etiketləri",
+        "item-import": "Element İdxal",
+        "gap-analysis": "Boşluqların təhlili"
+      },
+      "storage": {
+        "client-storage": "Müştəri Faylları",
+        "unifiedtree-storage": "Bulud Saxlama"
+      },
+      "alerts": {
+        "accountant-alerts": "Mühasib Xəbərdarlığı",
+        "compliance-alerts": "Uyğunluq Siqnalları",
+        "cash-risk-alerts": "Pul və Risk Xəbərdarlıqları",
+        "ca-access": "CA Müvəqqəti Giriş"
+      },
+      "migration": {
+        "import": "Data Import",
+        "export": "Məlumatları ixrac edin",
+        "history": "İdxal Tarixi",
+        "tally-import": "Tally & Zoho-dan idxal edin"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Satınalmalar və Ödənişlər",
+      "accountingSetup": "Mühasibat Uçotunun Quraşdırılması",
+      "dataDocuments": "Məlumat və Sənədlər"
+    }
+  },
+  "common": {
+    "save": "Dəyişiklikləri Saxla",
+    "cancel": "Ləğv et",
+    "create": "Yaradın",
+    "edit": "Redaktə et",
+    "delete": "Sil",
+    "search": "Axtar",
+    "connect": "Qoşun",
+    "configure": "Konfiqurasiya edin",
+    "disconnect": "Bağlantını kəsin",
+    "sync": "İndi Sinxronlaşdırın",
+    "close": "Bağlayın",
+    "reset": "Defoltlara sıfırlayın",
+    "back": "Geri",
+    "continue": "Davam et",
+    "all": "Hamısı",
+    "retry": "Yenidən cəhd edin",
+    "loading": "Yüklənir...",
+    "resetDemo": "Demo datasını sıfırlayın"
+  },
+  "shell": {
+    "searchPlaceholder": "İstənilən şeyi axtarın...",
+    "settings": "Parametrlər",
+    "language": "Dil",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Sabahiniz xeyir",
+      "afternoon": "Günortanız xeyir",
+      "evening": "Axşamınız xeyir"
+    },
+    "settingsItems": {
+      "company-profile": "Şirkət Profili",
+      "configuration": "Konfiqurasiya",
+      "fiscal-periods": "Maliyyə Dövrləri",
+      "roles": "Rollar və İstifadəçilər",
+      "integrations": "İnteqrasiyalar",
+      "notifications": "Bildirişlər",
+      "audit-logs": "Audit və Qeydlər",
+      "audit-trail": "Təhlükəsiz Audit Yolu",
+      "developer": "Tərtibatçı və API"
+    },
+    "translatedLanguages": "Tərcümə edilmişdir",
+    "untranslatedLanguages": "Tərcümə olunana qədər ingilis dili"
+  },
+  "status": {
+    "filed": "Müraciət edildi",
+    "ready": "Fayl verməyə hazırdır",
+    "open": "Açıq dövr",
+    "paid": "Ödənişli",
+    "pending": "Gözlənir",
+    "accepted": "Qəbul edildi",
+    "delivered": "Çatdırıldı",
+    "rejected": "Rədd edildi",
+    "pdf-sent": "PDF göndərildi",
+    "not-sent": "Göndərilməyib",
+    "matched": "Uyğunlaşdı",
+    "mismatch": "Uyğunsuzluq",
+    "missing-supplier": "Təchizatçı tərəfindən məlumat verilmir",
+    "missing-books": "Kitablarda yoxdur",
+    "deferred": "Təxirə salındı",
+    "deducted": "Çıxarılıb",
+    "remitted": "Göndərilib",
+    "certified": "Sertifikatlı",
+    "to-report": "Hesabat vermək",
+    "reported": "Məlumat verildi",
+    "accounted": "Hesablanmışdır",
+    "overdue": "Vaxtı keçmiş"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Fayl verməyə hazırdır",
+      "liabilityDue": "Müvafiq məsuliyyət",
+      "paidThisYear": "Bu il ödənilib",
+      "nextDeadline": "Növbəti son tarix",
+      "noneOverdue": "Heç biri gecikməyib",
+      "overdue": "{{count}} vaxtı keçmişdir"
+    },
+    "filter": {
+      "ready": "Fayl verməyə hazırdır",
+      "open": "Açıq",
+      "filed": "Müraciət edildi"
+    },
+    "col": {
+      "period": "Dövr",
+      "authority": "Səlahiyyət",
+      "rate": "Qiymətləndirmə",
+      "due": "Vaxtı var",
+      "netPayable": "Xalis ödəniş",
+      "status": "Vəziyyət",
+      "ack": "Təsdiq"
+    },
+    "file": "Fayl",
+    "view": "Baxın",
+    "fileForm": "Fayl {{form}}",
+    "loadingJurisdiction": "Yurisdiksiya yüklənir...",
+    "nothingToFile": "Heç bir bəyannamə verilməyi gözləmir - bütün qapalı dövrlər təqdim olunur.",
+    "fileNext": "Növbəti fayl: {{name}}",
+    "steps": {
+      "review": "Baxış",
+      "validate": "Doğrulayın",
+      "declare": "Bəyan et və təqdim et",
+      "ack": "Təsdiq"
+    },
+    "runValidation": "Doğrulamanı işə salın",
+    "validating": "Doğrulanır...",
+    "submit": "{{form}} göndərin",
+    "submitting": "Göndərilir...",
+    "declaration": "Mən bəyan edirəm ki, bu bəyannamədəki məlumat doğru və tamdır və mənim {{authority}}-ə təqdim etmək səlahiyyətim var.",
+    "netAmount": "Xalis məbləğ",
+    "submitted": "Təqdim edildi",
+    "filedOn": "Müraciət edildi",
+    "regime": {
+      "authority": "Səlahiyyət",
+      "channel": "Sənədləşdirmə kanalı",
+      "return": "Qayıt",
+      "due": "Vaxtı var",
+      "standardRate": "Standart tarif",
+      "threshold": "Qeydiyyat həddi"
+    },
+    "demoNote": "Quraşdırılmış saxta vergi API-dən demo məlumatları — ərizələr və ödənişlər simulyasiya edilir və vergi orqanına heç nə göndərilmir."
+  },
+  "fx": {
+    "title": "Xarici valyuta",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Yeni FX faktura / faktura",
+    "kpi": {
+      "netExposure": "Xalis FX məruz qalma",
+      "openDocs": "{{count}} açıq sənəd",
+      "unrealized": "Reallaşdırılmamış qazanc/zərər",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Bu il reallaşdı",
+      "lastReval": "Son yenidən qiymətləndirmə",
+      "never": "Heç vaxt",
+      "suggested": "Təklif olunan: {{date}}"
+    },
+    "view": {
+      "open": "Açıq maddələr",
+      "settled": "Məskunlaşdı",
+      "revaluation": "Ayın sonunda yenidən qiymətləndirmə",
+      "journal": "FX jurnalı"
+    },
+    "col": {
+      "document": "Sənəd",
+      "type": "Növ",
+      "openForeign": "Açıq (xarici)",
+      "bookedNow": "Rezerv edildi / indi",
+      "valueIn": "{{base}} dəyəri",
+      "unrealized": "Həyata keçirilməmiş",
+      "status": "Vəziyyət",
+      "amount": "Məbləğ",
+      "bookedRate": "Rezervasyon dərəcəsi",
+      "realized": "Reallaşdı"
+    },
+    "receivable": "Debitor borc",
+    "payable": "Ödənişli",
+    "receive": "Qəbul edin",
+    "pay": "Ödəmək",
+    "netIn": "{{base}} şəbəkəsində",
+    "state": {
+      "settled": "Məskunlaşdı",
+      "partial": "Qismən məskunlaşmış",
+      "open": "Açıq"
+    },
+    "demoNote": "Daxili sınaq API-dən demo datası — tariflər canlı bazar məlumatları deyil, simulyasiya edilir."
+  }
+}

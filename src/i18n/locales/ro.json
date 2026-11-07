@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Zilnic",
+      "finance": "Finanţa",
+      "advanced": "Avansat"
+    },
+    "mainMenu": "Meniul principal",
+    "short": {
+      "parties": "petreceri"
+    },
+    "sections": {
+      "dashboard": "Bord",
+      "sales": "Vânzări",
+      "receivables": "Bani în",
+      "procurement": "Achizitii",
+      "payables": "Bani afară",
+      "cashbank": "Cash & Bank",
+      "expenses": "Cheltuieli",
+      "tax": "Taxa",
+      "reports": "Rapoarte",
+      "advanced-features": "Caracteristici avansate",
+      "parties": "Clienți și furnizori",
+      "inventory": "Articole",
+      "assets": "Mijloace fixe",
+      "masters": "Configurare și configurare",
+      "business-tools": "Echipa și instrumente",
+      "party-tools": "Instrumente de petrecere",
+      "item-tools": "Instrumente pentru articole",
+      "storage": "Documente",
+      "alerts": "Alerte",
+      "migration": "Migrarea datelor"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Prezentare generală",
+        "cash-flow": "Fluxul de numerar",
+        "tax-calendar": "Calendarul fiscal"
+      },
+      "sales": {
+        "quotations": "Citate",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Factura",
+        "delivery-challans": "Livrare Challan",
+        "receipts": "Chitanță",
+        "invoice-desk": "Birou de facturi"
+      },
+      "receivables": {
+        "money-in-center": "Bani în centru",
+        "receivables": "Creanțe",
+        "payments-received": "Plăți primite",
+        "overdue-collections": "Colecții și mementouri",
+        "credit-notes": "Note de credit și rambursări",
+        "sales-returns": "Retururi din vânzări",
+        "customer-statements": "Declarații ale clienților",
+        "payment-links": "Link-uri de plată"
+      },
+      "procurement": {
+        "purchase-center": "Centrul de achiziții",
+        "purchase-orders": "Comenzi de achiziție",
+        "goods-receipt": "Primul de mărfuri",
+        "purchase-invoices": "Facturi de achiziție",
+        "payment-out": "Plăți efectuate",
+        "returns-debit-notes": "Retururi și note de debit",
+        "bill-approvals": "Aprobarea facturii"
+      },
+      "payables": {
+        "bills": "Centru de plată",
+        "payments": "Plăți la furnizor",
+        "workforce": "Forța de muncă",
+        "adjustments": "Ajustări",
+        "bank-release": "Eliberare bancară"
+      },
+      "cashbank": {
+        "bank-accounts": "Conturile mele",
+        "reconciliation": "Potrivirea tranzacțiilor",
+        "cash-petty": "Casă mică",
+        "contra": "Între Conturi",
+        "cheque-register": "Cecuri",
+        "foreign-currency": "Monedă străină",
+        "bank-feeds": "Fluxuri bancare",
+        "bank-rules": "Reguli și reconciliere"
+      },
+      "expenses": {
+        "expense-center": "Toate Cheltuielile",
+        "categories": "Tipuri de cheltuieli",
+        "automated-bills": "Cheltuieli recurente",
+        "journal-vouchers": "Intrări manuale",
+        "provisions": "Angajamente",
+        "write-offs": "Abateri",
+        "period-close": "Sfârșitul lunii"
+      },
+      "tax": {
+        "gst-returns": "Depunerea GST",
+        "gst-filing-wizard": "⚡ Fișier GSTR-3B",
+        "gst-reconciliation": "Potrivire GST",
+        "e-invoicing": "Facturi electronice",
+        "e-way-bills": "Facturi E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Plătiți impozit",
+        "quarterly-compliance": "Calendarul de conformitate",
+        "ca-access": "Acces temporar CA",
+        "gst-from-books": "GST de la Cărți"
+      },
+      "reports": {
+        "financial-statements": "Rapoarte financiare",
+        "books": "Cărți de tranzacții",
+        "gst-reports": "Rapoarte GST",
+        "ar-ap": "Creanțe vs Datorii",
+        "profitability": "Rentabilitatea",
+        "period-comparatives": "Comparație de ani",
+        "budget-vs-actuals": "Monitorizare buget",
+        "cashflow-projection": "Prognoza numerarului",
+        "report-builder": "Rapoarte personalizate",
+        "general-ledger": "Cartea mare",
+        "live-financials": "Financiare în direct",
+        "ai-analyst": "Analist AI"
+      },
+      "advanced-features": {
+        "overview": "Prezentare generală"
+      },
+      "parties": {
+        "all-parties": "Toate Partidele",
+        "customer-ledgers": "Clienții",
+        "supplier-ledgers": "Furnizori",
+        "shared-ledger": "Registrul partajat",
+        "statements": "Declarații",
+        "reminders": "Mementouri",
+        "documents": "Documente de partid",
+        "portal": "Portal de petrecere",
+        "import": "Import de petrecere",
+        "duplicate-merge": "Duplicați îmbinare",
+        "gap-analysis": "Analiza decalajului"
+      },
+      "inventory": {
+        "inventory-items": "Articole",
+        "godowns": "Depozite",
+        "stock-movement": "Mișcarea stocurilor",
+        "item-pricing": "Prețuri",
+        "stock-valuation": "Evaluarea stocurilor",
+        "reorder-alerts": "Reordonați alertele",
+        "batch-serials": "Loturi și serie",
+        "barcode-labels": "Etichete cu coduri de bare",
+        "item-import": "Import de articol",
+        "gap-analysis": "Analiza decalajului"
+      },
+      "assets": {
+        "asset-register": "Lista de active",
+        "depreciation": "Depreciere",
+        "disposal-revaluation": "Vinde sau reevaluează"
+      },
+      "masters": {
+        "chart-of-accounts": "Lista de conturi",
+        "tax-masters": "Cote de impozitare",
+        "cost-centers": "Centre de cost",
+        "voucher-types": "Tipuri de tranzacții",
+        "opening-balances": "Solduri de pornire",
+        "currencies": "Monede"
+      },
+      "business-tools": {
+        "staff-payroll": "Salarizare",
+        "manage-users": "Acces utilizator",
+        "online-orders": "Comenzi online",
+        "sms-marketing": "Marketing prin SMS",
+        "accountant-hub": "Contabili & Suport"
+      },
+      "party-tools": {
+        "documents": "Documente de partid",
+        "portal": "Portal de petrecere",
+        "import": "Import de petrecere",
+        "duplicate-merge": "Duplicați îmbinare",
+        "gap-analysis": "Analiza decalajului"
+      },
+      "item-tools": {
+        "reorder-alerts": "Reordonați alertele",
+        "batch-serials": "Loturi și serie",
+        "barcode-labels": "Etichete cu coduri de bare",
+        "item-import": "Import de articol",
+        "gap-analysis": "Analiza decalajului"
+      },
+      "storage": {
+        "client-storage": "Fișiere client",
+        "unifiedtree-storage": "Stocare în cloud"
+      },
+      "alerts": {
+        "accountant-alerts": "Alerte contabile",
+        "compliance-alerts": "Alerte de conformitate",
+        "cash-risk-alerts": "Alerte de numerar și risc",
+        "ca-access": "Acces temporar CA"
+      },
+      "migration": {
+        "import": "Importați date",
+        "export": "Exportați date",
+        "history": "Istoricul importurilor",
+        "tally-import": "Import din Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Achiziții și plăți",
+      "accountingSetup": "Configurare contabilitate",
+      "dataDocuments": "Date și documente"
+    }
+  },
+  "common": {
+    "save": "Salvați modificările",
+    "cancel": "Anula",
+    "create": "Crea",
+    "edit": "Edita",
+    "delete": "Şterge",
+    "search": "Căutare",
+    "connect": "Conectați-vă",
+    "configure": "Configurați",
+    "disconnect": "Deconecta",
+    "sync": "Sincronizează acum",
+    "close": "Aproape",
+    "reset": "Resetați la valorile implicite",
+    "back": "Spate",
+    "continue": "Continua",
+    "all": "Toate",
+    "retry": "Reîncercați",
+    "loading": "Încărcare…",
+    "resetDemo": "Resetați datele demonstrative"
+  },
+  "shell": {
+    "searchPlaceholder": "Cauta orice...",
+    "settings": "Setări",
+    "language": "Limbă",
+    "role": "Rol",
+    "greeting": {
+      "morning": "Bună dimineaţa",
+      "afternoon": "Bună ziua",
+      "evening": "Bună seara"
+    },
+    "settingsItems": {
+      "company-profile": "Profilul Companiei",
+      "configuration": "Configurare",
+      "fiscal-periods": "Perioade fiscale",
+      "roles": "Roluri și utilizatori",
+      "integrations": "Integrari",
+      "notifications": "Notificări",
+      "audit-logs": "Audit și jurnalele",
+      "audit-trail": "Pista de audit inviolabilă",
+      "developer": "Dezvoltator și API"
+    },
+    "translatedLanguages": "Tradus",
+    "untranslatedLanguages": "engleză până la traducere"
+  },
+  "status": {
+    "filed": "Depus",
+    "ready": "Gata de dosar",
+    "open": "Perioada deschisă",
+    "paid": "Plătit",
+    "pending": "În așteptare",
+    "accepted": "Acceptat",
+    "delivered": "Livrat",
+    "rejected": "Respins",
+    "pdf-sent": "PDF trimis",
+    "not-sent": "Nu trimis",
+    "matched": "Potriviți",
+    "mismatch": "Nepotrivire",
+    "missing-supplier": "Nu este raportat de furnizor",
+    "missing-books": "Lipsă în cărți",
+    "deferred": "Amânat",
+    "deducted": "Dedus",
+    "remitted": "Remis",
+    "certified": "Certificat",
+    "to-report": "A raporta",
+    "reported": "Raportat",
+    "accounted": "Contabilizat",
+    "overdue": "Întârziat"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Gata de dosar",
+      "liabilityDue": "Răspunderea datorată",
+      "paidThisYear": "Plătit anul acesta",
+      "nextDeadline": "Următorul termen limită",
+      "noneOverdue": "Nici unul întârziat",
+      "overdue": "{{count}} restante"
+    },
+    "filter": {
+      "ready": "Gata de dosar",
+      "open": "Deschide",
+      "filed": "Depus"
+    },
+    "col": {
+      "period": "Perioadă",
+      "authority": "Autoritate",
+      "rate": "Rata",
+      "due": "Datorită",
+      "netPayable": "Net de plată",
+      "status": "Stare",
+      "ack": "Confirmare"
+    },
+    "file": "Fişier",
+    "view": "Vedere",
+    "fileForm": "Fișier {{form}}",
+    "loadingJurisdiction": "Se încarcă jurisdicția...",
+    "nothingToFile": "Nicio declarație nu așteaptă să fie depusă - toate perioadele închise sunt transmise.",
+    "fileNext": "Fișier următor: {{name}}",
+    "steps": {
+      "review": "Recenzie",
+      "validate": "Valida",
+      "declare": "Declarați și trimiteți",
+      "ack": "Confirmare"
+    },
+    "runValidation": "Rulați validarea",
+    "validating": "Se validează…",
+    "submit": "Trimiteți {{form}}",
+    "submitting": "Se trimite…",
+    "declaration": "Declar că informațiile din această declarație sunt adevărate și complete și că sunt autorizat să le trimit la {{authority}}.",
+    "netAmount": "Suma neta",
+    "submitted": "Trimis",
+    "filedOn": "Depus pe",
+    "regime": {
+      "authority": "Autoritate",
+      "channel": "Canal de depunere",
+      "return": "Reveni",
+      "due": "Datorită",
+      "standardRate": "Tarif standard",
+      "threshold": "Pragul de înregistrare"
+    },
+    "demoNote": "Date demonstrative din API-ul fiscal simulat încorporat — depunerile și plățile sunt simulate și nimic nu este trimis unei autorități fiscale."
+  },
+  "fx": {
+    "title": "Monedă străină",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Factură/factură FX nouă",
+    "kpi": {
+      "netExposure": "Expunerea netă la schimb valutar",
+      "openDocs": "{{count}} documente deschise",
+      "unrealized": "Câștig/pierdere nerealizate",
+      "postedSplit": "{{posted}} postat · {{unposted}} încă nu",
+      "realized": "Realizat anul acesta",
+      "lastReval": "Ultima reevaluare",
+      "never": "Nu",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Articole deschise",
+      "settled": "Asezat",
+      "revaluation": "Reevaluare la sfarsitul lunii",
+      "journal": "Jurnalul FX"
+    },
+    "col": {
+      "document": "Document",
+      "type": "Tip",
+      "openForeign": "Deschis (străin)",
+      "bookedNow": "Rezervat / acum",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Nerealizat",
+      "status": "Stare",
+      "amount": "Cantitate",
+      "bookedRate": "Tarif rezervat",
+      "realized": "Realizat"
+    },
+    "receivable": "De primit",
+    "payable": "Plătibil",
+    "receive": "Primi",
+    "pay": "Plată",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "Asezat",
+      "partial": "Parțial stabilit",
+      "open": "Deschide"
+    },
+    "demoNote": "Date demonstrative din API-ul simulat încorporat — tarifele sunt simulate, nu datele de piață în direct."
+  }
+}

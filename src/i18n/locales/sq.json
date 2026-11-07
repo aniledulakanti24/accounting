@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ditë-për-Ditë",
+      "finance": "Financa",
+      "advanced": "E avancuar"
+    },
+    "mainMenu": "Menyja kryesore",
+    "short": {
+      "parties": "Partitë"
+    },
+    "sections": {
+      "dashboard": "Paneli",
+      "sales": "Shitjet",
+      "receivables": "Paratë në",
+      "procurement": "Blerjet",
+      "payables": "Paratë Jashtë",
+      "cashbank": "Cash & Bank",
+      "expenses": "Shpenzimet",
+      "tax": "Taksa",
+      "reports": "Raportet",
+      "advanced-features": "Karakteristikat e avancuara",
+      "parties": "Konsumatorët & Furnizuesit",
+      "inventory": "Artikuj",
+      "assets": "Asetet fikse",
+      "masters": "Konfigurimi dhe konfigurimi",
+      "business-tools": "Ekipi dhe Mjetet",
+      "party-tools": "Mjetet e Partisë",
+      "item-tools": "Mjetet e artikullit",
+      "storage": "Dokumentet",
+      "alerts": "Alarmet",
+      "migration": "Migrimi i të dhënave"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Vështrim i përgjithshëm",
+        "cash-flow": "Rrjedha e parasë",
+        "tax-calendar": "Kalendari tatimor"
+      },
+      "sales": {
+        "quotations": "Citatet",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fatura",
+        "delivery-challans": "Dorëzimi Challan",
+        "receipts": "Fatura",
+        "invoice-desk": "Tavolina e faturave"
+      },
+      "receivables": {
+        "money-in-center": "Paratë në qendër",
+        "receivables": "Të arkëtueshmet",
+        "payments-received": "Pagesat e marra",
+        "overdue-collections": "Koleksione & Përkujtues",
+        "credit-notes": "Shënime krediti dhe rimbursime",
+        "sales-returns": "Kthimet nga Shitjet",
+        "customer-statements": "Deklaratat e Klientit",
+        "payment-links": "Lidhjet e pagesave"
+      },
+      "procurement": {
+        "purchase-center": "Qendra e blerjeve",
+        "purchase-orders": "Urdhërat e Blerjes",
+        "goods-receipt": "Fatura e Mallrave",
+        "purchase-invoices": "Faturat e Blerjeve",
+        "payment-out": "Pagesat e bëra",
+        "returns-debit-notes": "Shënime kthimesh dhe debiti",
+        "bill-approvals": "Miratimet e projektligjeve"
+      },
+      "payables": {
+        "bills": "Qendra e pagesave",
+        "payments": "Pagesat e furnizuesit",
+        "workforce": "Fuqia punëtore",
+        "adjustments": "Rregullimet",
+        "bank-release": "Lirim bankar"
+      },
+      "cashbank": {
+        "bank-accounts": "Llogaritë e Mia",
+        "reconciliation": "Transaksionet e ndeshjes",
+        "cash-petty": "Petty Cash",
+        "contra": "Midis llogarive",
+        "cheque-register": "Kontrollet",
+        "foreign-currency": "Valuta e huaj",
+        "bank-feeds": "Furnizimet bankare",
+        "bank-rules": "Rregullat dhe pajtimi"
+      },
+      "expenses": {
+        "expense-center": "Të gjitha Shpenzimet",
+        "categories": "Llojet e shpenzimeve",
+        "automated-bills": "Shpenzime të përsëritura",
+        "journal-vouchers": "Regjistrimet manuale",
+        "provisions": "Akruale",
+        "write-offs": "fshirjet",
+        "period-close": "Fund muaji"
+      },
+      "tax": {
+        "gst-returns": "Regjistrimi GST",
+        "gst-filing-wizard": "⚡ Skedari GSTR-3B",
+        "gst-reconciliation": "Përputhja e GST",
+        "e-invoicing": "E-Faturat",
+        "e-way-bills": "Faturat E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Paguani Tatimin",
+        "quarterly-compliance": "Kalendari i Pajtueshmërisë",
+        "ca-access": "Qasje e Përkohshme CA",
+        "gst-from-books": "GST nga Librat"
+      },
+      "reports": {
+        "financial-statements": "Raportet Financiare",
+        "books": "Librat e transaksioneve",
+        "gst-reports": "Raportet e GST",
+        "ar-ap": "Të arkëtueshmet kundrejt të pagueshmeve",
+        "profitability": "Rentabiliteti",
+        "period-comparatives": "Krahasimi i Vitit",
+        "budget-vs-actuals": "Gjurmuesi i buxhetit",
+        "cashflow-projection": "Parashikimi i parave të gatshme",
+        "report-builder": "Raportet e personalizuara",
+        "general-ledger": "Libri i Përgjithshëm",
+        "live-financials": "Financa të drejtpërdrejta",
+        "ai-analyst": "Analist i AI"
+      },
+      "advanced-features": {
+        "overview": "Vështrim i përgjithshëm"
+      },
+      "parties": {
+        "all-parties": "Të gjitha palët",
+        "customer-ledgers": "Konsumatorët",
+        "supplier-ledgers": "Furnizuesit",
+        "shared-ledger": "Libri i Përbashkët",
+        "statements": "Deklarata",
+        "reminders": "Përkujtues",
+        "documents": "Dokumentet e Partisë",
+        "portal": "Portali i Partisë",
+        "import": "Partia Import",
+        "duplicate-merge": "Bashkim dublikatë",
+        "gap-analysis": "Analiza e boshllëqeve"
+      },
+      "inventory": {
+        "inventory-items": "Artikuj",
+        "godowns": "Depot",
+        "stock-movement": "Lëvizja e aksioneve",
+        "item-pricing": "Çmimet",
+        "stock-valuation": "Vlerësimi i aksioneve",
+        "reorder-alerts": "Rirenditni alarmet",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Etiketat e barkodit",
+        "item-import": "Importi i artikullit",
+        "gap-analysis": "Analiza e boshllëqeve"
+      },
+      "assets": {
+        "asset-register": "Lista e aseteve",
+        "depreciation": "amortizimi",
+        "disposal-revaluation": "Shitet ose Rivlerëso"
+      },
+      "masters": {
+        "chart-of-accounts": "Lista e llogarive",
+        "tax-masters": "Normat e taksave",
+        "cost-centers": "Qendrat e kostos",
+        "voucher-types": "Llojet e transaksioneve",
+        "opening-balances": "Balancat fillestare",
+        "currencies": "Monedhat"
+      },
+      "business-tools": {
+        "staff-payroll": "Lista e pagave",
+        "manage-users": "Qasja e përdoruesit",
+        "online-orders": "Porositë online",
+        "sms-marketing": "Marketing me SMS",
+        "accountant-hub": "Kontabilistë dhe Mbështetje"
+      },
+      "party-tools": {
+        "documents": "Dokumentet e Partisë",
+        "portal": "Portali i Partisë",
+        "import": "Partia Import",
+        "duplicate-merge": "Bashkim dublikatë",
+        "gap-analysis": "Analiza e boshllëqeve"
+      },
+      "item-tools": {
+        "reorder-alerts": "Rirenditni alarmet",
+        "batch-serials": "Batch & Serial",
+        "barcode-labels": "Etiketat e barkodit",
+        "item-import": "Importi i artikullit",
+        "gap-analysis": "Analiza e boshllëqeve"
+      },
+      "storage": {
+        "client-storage": "Skedarët e klientit",
+        "unifiedtree-storage": "Ruajtja në renë kompjuterike"
+      },
+      "alerts": {
+        "accountant-alerts": "Alarmet e Kontabilistit",
+        "compliance-alerts": "Alarmet e pajtueshmërisë",
+        "cash-risk-alerts": "Paralajmërime për paratë dhe rrezikun",
+        "ca-access": "Qasje e Përkohshme CA"
+      },
+      "migration": {
+        "import": "Të dhënat e importit",
+        "export": "Eksporto të dhëna",
+        "history": "Historia e importit",
+        "tally-import": "Importi nga Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Blerjet & Pagesat",
+      "accountingSetup": "Konfigurimi i kontabilitetit",
+      "dataDocuments": "Të dhënat dhe dokumentet"
+    }
+  },
+  "common": {
+    "save": "Ruaj Ndryshimet",
+    "cancel": "Anulo",
+    "create": "Krijo",
+    "edit": "Redakto",
+    "delete": "Fshije",
+    "search": "Kërko",
+    "connect": "Lidhu",
+    "configure": "Konfiguro",
+    "disconnect": "Shkëputeni",
+    "sync": "Sinkronizoni tani",
+    "close": "Mbylle",
+    "reset": "Rivendosni në Parazgjedhje",
+    "back": "Mbrapa",
+    "continue": "Vazhdoni",
+    "all": "Të gjitha",
+    "retry": "Provo sërish",
+    "loading": "Po ngarkohet…",
+    "resetDemo": "Rivendos të dhënat demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Kërkoni ndonjë gjë…",
+    "settings": "Cilësimet",
+    "language": "Gjuha",
+    "role": "Roli",
+    "greeting": {
+      "morning": "Mirmengjesi",
+      "afternoon": "Mirëdita",
+      "evening": "Mirëmbrëma"
+    },
+    "settingsItems": {
+      "company-profile": "Profili i Kompanisë",
+      "configuration": "Konfigurimi",
+      "fiscal-periods": "Periudhat fiskale",
+      "roles": "Rolet & Përdoruesit",
+      "integrations": "Integrimet",
+      "notifications": "Njoftimet",
+      "audit-logs": "Auditimi & Regjistrat",
+      "audit-trail": "Gjurmët e auditimit të papërshtatshëm",
+      "developer": "Zhvilluesi dhe API"
+    },
+    "translatedLanguages": "Përkthyer",
+    "untranslatedLanguages": "anglisht deri në përkthim"
+  },
+  "status": {
+    "filed": "Paraqitur",
+    "ready": "Gati për të depozituar",
+    "open": "Periudha e hapur",
+    "paid": "I paguar",
+    "pending": "Në pritje",
+    "accepted": "Pranuar",
+    "delivered": "Dorëzuar",
+    "rejected": "Refuzuar",
+    "pdf-sent": "PDF u dërgua",
+    "not-sent": "Nuk është dërguar",
+    "matched": "Përputhet",
+    "mismatch": "Mospërputhje",
+    "missing-supplier": "Nuk raportohet nga furnizuesi",
+    "missing-books": "Mungon në libra",
+    "deferred": "E shtyrë",
+    "deducted": "Të zbritura",
+    "remitted": "Dërguar",
+    "certified": "I certifikuar",
+    "to-report": "Për të raportuar",
+    "reported": "Raportuar",
+    "accounted": "Llogaritur",
+    "overdue": "I vonuar"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Gati për të depozituar",
+      "liabilityDue": "Përgjegjësia e duhur",
+      "paidThisYear": "Të paguara këtë vit",
+      "nextDeadline": "Afati i ardhshëm",
+      "noneOverdue": "Asnjë e vonuar",
+      "overdue": "{{count}} i vonuar"
+    },
+    "filter": {
+      "ready": "Gati për të depozituar",
+      "open": "Hapur",
+      "filed": "Paraqitur"
+    },
+    "col": {
+      "period": "Periudha",
+      "authority": "Autoriteti",
+      "rate": "Vlerësoni",
+      "due": "Për shkak",
+      "netPayable": "Neto e pagueshme",
+      "status": "Statusi",
+      "ack": "Mirënjohje"
+    },
+    "file": "Skedari",
+    "view": "Shiko",
+    "fileForm": "Skedari {{form}}",
+    "loadingJurisdiction": "Po ngarkohet juridiksioni…",
+    "nothingToFile": "Asnjë kthim nuk pret të dorëzohet - të gjitha periudhat e mbyllura dorëzohen.",
+    "fileNext": "Skedari më pas: {{name}}",
+    "steps": {
+      "review": "Rishikimi",
+      "validate": "Vërtetoni",
+      "declare": "Deklaroni dhe dorëzoni",
+      "ack": "Mirënjohje"
+    },
+    "runValidation": "Ekzekutoni vërtetimin",
+    "validating": "Po verifikon…",
+    "submit": "Submit {{form}}",
+    "submitting": "Po dorëzohet…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Shuma neto",
+    "submitted": "dorëzuar",
+    "filedOn": "Paraqitur në",
+    "regime": {
+      "authority": "Autoriteti",
+      "channel": "Kanali i dosjeve",
+      "return": "Kthimi",
+      "due": "Për shkak",
+      "standardRate": "Norma standarde",
+      "threshold": "Pragu i regjistrimit"
+    },
+    "demoNote": "Të dhënat demonstruese nga API-ja e integruar e taksave - regjistrimet dhe pagesat janë simuluar dhe asgjë nuk i dërgohet një autoriteti tatimor."
+  },
+  "fx": {
+    "title": "Valuta e huaj",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Faturë/faturë e re FX",
+    "kpi": {
+      "netExposure": "Ekspozimi neto FX",
+      "openDocs": "{{count}} dokumente të hapura",
+      "unrealized": "Fitim/humbje e parealizuar",
+      "postedSplit": "{{posted}} postuar · {{unposted}} jo ende",
+      "realized": "Realizuar këtë vit",
+      "lastReval": "Rivlerësimi i fundit",
+      "never": "kurrë",
+      "suggested": "Sugjeruar: {{date}}"
+    },
+    "view": {
+      "open": "Hap artikujt",
+      "settled": "I vendosur",
+      "revaluation": "Rivlerësimi në fund të muajit",
+      "journal": "ditar FX"
+    },
+    "col": {
+      "document": "Dokumenti",
+      "type": "Lloji",
+      "openForeign": "E hapur (e huaj)",
+      "bookedNow": "Rezervuar / tani",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "E parealizuar",
+      "status": "Statusi",
+      "amount": "Shuma",
+      "bookedRate": "Norma e rezervuar",
+      "realized": "E realizuar"
+    },
+    "receivable": "Të arkëtueshme",
+    "payable": "E pagueshme",
+    "receive": "Merrni",
+    "pay": "Paguaj",
+    "netIn": "Net in {{base}}",
+    "state": {
+      "settled": "I vendosur",
+      "partial": "Pjesërisht e vendosur",
+      "open": "Hapur"
+    },
+    "demoNote": "Të dhënat demonstruese nga API-ja e integruar e modelit — tarifat janë të simuluara, jo të dhënat e drejtpërdrejta të tregut."
+  }
+}

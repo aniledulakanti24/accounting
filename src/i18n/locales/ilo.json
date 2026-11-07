@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Inaldaw nga Inaldaw",
+      "finance": "Pirakan",
+      "advanced": "Naiyuna"
+    },
+    "mainMenu": "Kangrunaan a Menu",
+    "short": {
+      "parties": "Dagiti Partido"
+    },
+    "sections": {
+      "dashboard": "Dashboard ti Dashboard",
+      "sales": "Panaglako",
+      "receivables": "Kuarta Iti",
+      "procurement": "Dagiti Gatang",
+      "payables": "Kuarta nga Rummuar",
+      "cashbank": "Kuarta & Banko",
+      "expenses": "Dagiti gasto",
+      "tax": "Buwis",
+      "reports": "Dagiti Report",
+      "advanced-features": "Dagiti Narang-ay a Tampok",
+      "parties": "Dagiti Kostumer & Supplier",
+      "inventory": "Dagiti banag",
+      "assets": "Dagiti Natakder nga Asset",
+      "masters": "Setup & Konfigurasion ti",
+      "business-tools": "Team & Dagiti Remienta",
+      "party-tools": "Dagiti Remienta ti Partido",
+      "item-tools": "Dagiti Remienta ti Item",
+      "storage": "Dagiti Dokumento",
+      "alerts": "Dagiti Alerto",
+      "migration": "Panag-migrasion ti Datos"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Panangmatmat iti pakabuklan",
+        "cash-flow": "Agayus ti Kuarta",
+        "tax-calendar": "Kalendario ti Buis"
+      },
+      "sales": {
+        "quotations": "Dagiti naadaw a sasao",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Babayadan",
+        "delivery-challans": "Challan ti Panagtedted",
+        "receipts": "Resibo",
+        "invoice-desk": "Lamisaan ti Invoice"
+      },
+      "receivables": {
+        "money-in-center": "Kuarta Iti Sentro",
+        "receivables": "Dagiti maawat",
+        "payments-received": "Dagiti Baybayadan a Naawat",
+        "overdue-collections": "Dagiti Koleksion & Palagip",
+        "credit-notes": "Dagiti Note ti Pautang & Refund",
+        "sales-returns": "Dagiti Panagsubli ti Panaglako",
+        "customer-statements": "Dagiti Pakaammo ti Kostumer",
+        "payment-links": "Dagiti Link ti Panagbayad"
+      },
+      "procurement": {
+        "purchase-center": "Sentro ti Panaggatang",
+        "purchase-orders": "Dagiti Order ti Panaggatang",
+        "goods-receipt": "Resibo ti Saniweng",
+        "purchase-invoices": "Dagiti Invoice ti Panaggatang",
+        "payment-out": "Dagiti Baybayadan a Naaramid",
+        "returns-debit-notes": "Dagiti Returns & Debit Notes",
+        "bill-approvals": "Dagiti Panaganam-ammo iti Bill"
+      },
+      "payables": {
+        "bills": "Sentro ti Bayad",
+        "payments": "Dagiti Bayad ti Supplier",
+        "workforce": "Puersa ti panagtrabaho",
+        "adjustments": "Dagiti Panagbalbaliw",
+        "bank-release": "Pannakairuar ti Banko"
+      },
+      "cashbank": {
+        "bank-accounts": "Dagiti Kuentak",
+        "reconciliation": "Dagiti Transaksion ti Pagtunos",
+        "cash-petty": "Bassit a Kuarta",
+        "contra": "Iti Nagbaetan dagiti Kuenta",
+        "cheque-register": "Dagiti tseke",
+        "foreign-currency": "Ganggannaet a Kuarta",
+        "bank-feeds": "Dagiti Pakan ti Banko",
+        "bank-rules": "Paglintegan & Panagtunos"
+      },
+      "expenses": {
+        "expense-center": "Amin a Gastos",
+        "categories": "Dagiti Kita ti Gastos",
+        "automated-bills": "Maulit-ulit a Gastos",
+        "journal-vouchers": "Dagiti Manual nga Entry",
+        "provisions": "Dagiti naurnong",
+        "write-offs": "Dagiti write-off",
+        "period-close": "Bulan-Panagpatingga"
+      },
+      "tax": {
+        "gst-returns": "Panag-file ti GST",
+        "gst-filing-wizard": "⚡ File ti GSTR-3B",
+        "gst-reconciliation": "Panagtunos ti GST",
+        "e-invoicing": "Dagiti E-Invoice",
+        "e-way-bills": "Dagiti Bills ti E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Bayad ti Buis",
+        "quarterly-compliance": "Kalendario ti Panagtungpal",
+        "ca-access": "CA Temporario nga Access",
+        "gst-from-books": "GST manipud iti Libro"
+      },
+      "reports": {
+        "financial-statements": "Dagiti Pinansia a Report",
+        "books": "Dagiti Libro ti Transaksion",
+        "gst-reports": "Dagiti Report ti GST",
+        "ar-ap": "Dagiti Maawat vs Dagiti Mabayadan",
+        "profitability": "Ganansia ti Ganansia",
+        "period-comparatives": "Panangidilig iti Tawen",
+        "budget-vs-actuals": "Tracker ti Badyet",
+        "cashflow-projection": "Panagpakpakauna ti Kuarta",
+        "report-builder": "Dagiti Kostumbre a Report",
+        "general-ledger": "Sapasap a Ledger",
+        "live-financials": "Sibibiag a Pinansia",
+        "ai-analyst": "Analista ti AI"
+      },
+      "advanced-features": {
+        "overview": "Panangmatmat iti pakabuklan"
+      },
+      "parties": {
+        "all-parties": "Amin a Partido",
+        "customer-ledgers": "Dagiti Kostumer",
+        "supplier-ledgers": "Dagiti suplayer",
+        "shared-ledger": "Nabingbingay a Ledger",
+        "statements": "Dagiti Pakaammo",
+        "reminders": "Dagiti Palagip",
+        "documents": "Dagiti Dokumento ti Partido",
+        "portal": "Portal ti Partido",
+        "import": "Import ti Partido",
+        "duplicate-merge": "Duplikado a Panagtipon",
+        "gap-analysis": "Panag-analisar ti Giwang"
+      },
+      "inventory": {
+        "inventory-items": "Dagiti banag",
+        "godowns": "Dagiti bodega",
+        "stock-movement": "Tignay ti Stock",
+        "item-pricing": "Panagpresyo",
+        "stock-valuation": "Panagpateg ti Stock",
+        "reorder-alerts": "Dagiti Alerto nga Urnosen Manen",
+        "batch-serials": "Batch & Serial nga",
+        "barcode-labels": "Dagiti Etiketa ti Barcode",
+        "item-import": "Import ti Item",
+        "gap-analysis": "Panag-analisar ti Giwang"
+      },
+      "assets": {
+        "asset-register": "Listaan ​​ti Asset",
+        "depreciation": "Panagpababa ti pateg",
+        "disposal-revaluation": "Ilako wenno Revalue"
+      },
+      "masters": {
+        "chart-of-accounts": "Listaan ​​dagiti Kuenta",
+        "tax-masters": "Dagiti Rate ti Buis",
+        "cost-centers": "Dagiti Sentro ti Gastos",
+        "voucher-types": "Dagiti Kita ti Transaksion",
+        "opening-balances": "Dagiti Mangrugi a Balanse",
+        "currencies": "Dagiti kuarta"
+      },
+      "business-tools": {
+        "staff-payroll": "Payroll ti sueldo",
+        "manage-users": "Access ti Agus-usar",
+        "online-orders": "Dagiti Online nga Order",
+        "sms-marketing": "SMS Marketing ti Panaglako",
+        "accountant-hub": "Accountants & Suporta"
+      },
+      "party-tools": {
+        "documents": "Dagiti Dokumento ti Partido",
+        "portal": "Portal ti Partido",
+        "import": "Import ti Partido",
+        "duplicate-merge": "Duplikado a Panagtipon",
+        "gap-analysis": "Panag-analisar ti Giwang"
+      },
+      "item-tools": {
+        "reorder-alerts": "Dagiti Alerto nga Urnosen Manen",
+        "batch-serials": "Batch & Serial nga",
+        "barcode-labels": "Dagiti Etiketa ti Barcode",
+        "item-import": "Import ti Item",
+        "gap-analysis": "Panag-analisar ti Giwang"
+      },
+      "storage": {
+        "client-storage": "Dagiti File ti Kliyente",
+        "unifiedtree-storage": "Pagidulin iti Ulep"
+      },
+      "alerts": {
+        "accountant-alerts": "Dagiti Alerto ti Accountant",
+        "compliance-alerts": "Dagiti Alerto ti Panagtungpal",
+        "cash-risk-alerts": "Dagiti Alerto ti Kuarta & Risgo",
+        "ca-access": "CA Temporario nga Access"
+      },
+      "migration": {
+        "import": "Import ti Datos",
+        "export": "I-export ti Datos",
+        "history": "Pakasaritaan ti Panag-import",
+        "tally-import": "Import manipud iti Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Dagiti Gatang & Baybayadan",
+      "accountingSetup": "Setup ti Panagkuenta",
+      "dataDocuments": "Datos & Dokumento"
+    }
+  },
+  "common": {
+    "save": "Idulin Dagiti Panagbalbaliw",
+    "cancel": "Ikansela",
+    "create": "Agaramid",
+    "edit": "Sabalian",
+    "delete": "Ikkaten",
+    "search": "Agbirok",
+    "connect": "Inaig",
+    "configure": "I-configure ti",
+    "disconnect": "Idiskonekta",
+    "sync": "I-sync Ita",
+    "close": "Iserra",
+    "reset": "I-reset kadagiti Default",
+    "back": "Likud",
+    "continue": "Ituloy",
+    "all": "Amin",
+    "retry": "Padasem manen",
+    "loading": "Karga ti...",
+    "resetDemo": "I-reset ti datos ti demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Agbirok iti aniaman...",
+    "settings": "Dagiti Setting",
+    "language": "Lengguahe",
+    "role": "Amad",
+    "greeting": {
+      "morning": "Naimbag a bigat",
+      "afternoon": "Naimbag a malem",
+      "evening": "Naimbag a rabii"
+    },
+    "settingsItems": {
+      "company-profile": "Profile ti Kompania",
+      "configuration": "Konfigurasion ti",
+      "fiscal-periods": "Dagiti Panawen ti Piskal",
+      "roles": "Akem & Dagiti Agus-usar",
+      "integrations": "Dagiti panagtipon",
+      "notifications": "Dagiti Pakaammo",
+      "audit-logs": "Audit & Dagiti Log",
+      "audit-trail": "Dalan ti Audit a saan a ma-tamper",
+      "developer": "Developer & API nga"
+    },
+    "translatedLanguages": "Naipatarus",
+    "untranslatedLanguages": "Ingles agingga a maipatarus"
+  },
+  "status": {
+    "filed": "Naipila",
+    "ready": "Nakasagana nga ag-file",
+    "open": "Periodo a silulukat",
+    "paid": "Nabayadan",
+    "pending": "Naisardeng biit",
+    "accepted": "Naawat",
+    "delivered": "Naipaw-it",
+    "rejected": "Nalaksid",
+    "pdf-sent": "Naipatuloden ti PDF",
+    "not-sent": "Saan a naipatulod",
+    "matched": "Nagtunos",
+    "mismatch": "Di panagtunos",
+    "missing-supplier": "Saan nga impadamag ti supplier",
+    "missing-books": "Awan kadagiti libro",
+    "deferred": "Naitantan",
+    "deducted": "Naibaba",
+    "remitted": "Naipatuloden",
+    "certified": "Sertipikado",
+    "to-report": "Tapno maipadamag",
+    "reported": "Naipadamag",
+    "accounted": "Nagkuenta",
+    "overdue": "Nalpasen ti panawen"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Nakasagana nga ag-file",
+      "liabilityDue": "Liability nga maibayad",
+      "paidThisYear": "Nabayadan ita a tawen",
+      "nextDeadline": "Sumaruno a deadline",
+      "noneOverdue": "Awan ti overdue",
+      "overdue": "{{count}} nalpasen ti panawen"
+    },
+    "filter": {
+      "ready": "Nakasagana nga ag-file",
+      "open": "Lukatan",
+      "filed": "Naipila"
+    },
+    "col": {
+      "period": "Panawen",
+      "authority": "Autoridad",
+      "rate": "Gradoan",
+      "due": "Agsipud",
+      "netPayable": "Neto nga bayadan",
+      "status": "Estado",
+      "ack": "Panagyaman"
+    },
+    "file": "Urnosen",
+    "view": "Kitaen",
+    "fileForm": "File {{form}}",
+    "loadingJurisdiction": "Karga ti hurisdiksion...",
+    "nothingToFile": "Awan ti returns nga agur-uray a maipila — amin a closed periods ket maisubmitir.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Repasoen",
+      "validate": "Balidate ti",
+      "declare": "Ideklara & isubmit",
+      "ack": "Panagyaman"
+    },
+    "runValidation": "Ipataray ti validation",
+    "validating": "Panagvalidate ti...",
+    "submit": "Submit {{form}}",
+    "submitting": "Panagsubmitir ti...",
+    "declaration": "Ideklarak a ti impormasion iti daytoy a panagsubli ket pudno ken kompleto, ken autorisadoak a mangisubmitir iti daytoy iti {{authority}}.",
+    "netAmount": "Neto a kantidad",
+    "submitted": "Naisubmitir",
+    "filedOn": "Naipila iti",
+    "regime": {
+      "authority": "Autoridad",
+      "channel": "Kanal ti panagipila",
+      "return": "Isubli",
+      "due": "Agsipud",
+      "standardRate": "Standard a rate",
+      "threshold": "Threshold ti panagrehistro"
+    },
+    "demoNote": "Demo data manipud iti built-in mock tax API — dagiti panagipila ken panagbayad ket naitulad ken awan ti maipatulod iti maysa nga autoridad ti buis."
+  },
+  "fx": {
+    "title": "Ganggannaet a Kuarta",
+    "subtitle": "Base a kuarta {{base}} · indikatibo a mock market rates",
+    "newDoc": "Baro nga FX invoice / kuenta",
+    "kpi": {
+      "netExposure": "Net nga FX nga exposure",
+      "openDocs": "{{count}} luktan dagiti dokumento",
+      "unrealized": "Di natungpal a ganansia / lugi",
+      "postedSplit": "{{posted}} naiposte · {{unposted}} saan pay",
+      "realized": "Nabigbig daytoy a tawen",
+      "lastReval": "Maudi a revaluation",
+      "never": "Saan uray inton kaano",
+      "suggested": "Suggested: {{date}}"
+    },
+    "view": {
+      "open": "Luktan dagiti banag",
+      "settled": "Nagtaeng",
+      "revaluation": "Panag-revaluation iti ngudo ti bulan",
+      "journal": "FX a pagiwarnak"
+    },
+    "col": {
+      "document": "Dokumento",
+      "type": "Tipo",
+      "openForeign": "Lumakad (ganggannaet) .",
+      "bookedNow": "Nag-book / ita",
+      "valueIn": "Pateg iti {{base}} .",
+      "unrealized": "Di nabigbig",
+      "status": "Estado",
+      "amount": "Gatad",
+      "bookedRate": "Na-book nga rate",
+      "realized": "Napanunot"
+    },
+    "receivable": "Maawat ti maawat",
+    "payable": "Mabayadan",
+    "receive": "Awaten",
+    "pay": "Agbayad",
+    "netIn": "Net iti {{base}} .",
+    "state": {
+      "settled": "Nagtaeng",
+      "partial": "Paset ti naurnos",
+      "open": "Lukatan"
+    },
+    "demoNote": "Datos ti demo manipud iti naibangon a mock API — dagiti rate ket naitulad, saan a ti sibibiag a datos ti merkado."
+  }
+}

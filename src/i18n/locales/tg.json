@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Рӯз аз рӯз",
+      "finance": "Молия",
+      "advanced": "Мукаммал"
+    },
+    "mainMenu": "Менюи асосӣ",
+    "short": {
+      "parties": "Тарафхо"
+    },
+    "sections": {
+      "dashboard": "Панели асбобҳо",
+      "sales": "Фурӯш",
+      "receivables": "Пул даромад",
+      "procurement": "Харидхо",
+      "payables": "Пул берун",
+      "cashbank": "Нақд ва бонк",
+      "expenses": "Хароҷот",
+      "tax": "андоз",
+      "reports": "Ҳисоботҳо",
+      "advanced-features": "Хусусиятҳои пешрафта",
+      "parties": "Мизоҷон ва таъминкунандагон",
+      "inventory": "Ададҳо",
+      "assets": "Воситаҳои асосӣ",
+      "masters": "Насб ва танзимот",
+      "business-tools": "Даста ва асбобҳо",
+      "party-tools": "Воситаҳои ҳизбӣ",
+      "item-tools": "Воситаҳои ашё",
+      "storage": "Ҳуҷҷатҳо",
+      "alerts": "Огоҳӣ",
+      "migration": "Муҳоҷирати маълумот"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Барраси",
+        "cash-flow": "Ҷараёни нақдина",
+        "tax-calendar": "Тақвими андоз"
+      },
+      "sales": {
+        "quotations": "Иқтибосҳо",
+        "proforma-invoices": "ПИ",
+        "sales-invoices": "Ҳисобнома-фактура",
+        "delivery-challans": "Интиқоли Чаллан",
+        "receipts": "Квитансия",
+        "invoice-desk": "Мизи фактура"
+      },
+      "receivables": {
+        "money-in-center": "Дар маркази пул",
+        "receivables": "Қарзҳои дебиторӣ",
+        "payments-received": "Пардохтҳо гирифта шудаанд",
+        "overdue-collections": "Маҷмӯаҳо ва ёдраскуниҳо",
+        "credit-notes": "Қайдҳо ва баргардонидани қарз",
+        "sales-returns": "Бозгашти фурӯш",
+        "customer-statements": "Изҳороти муштариён",
+        "payment-links": "Пайвандҳои пардохт"
+      },
+      "procurement": {
+        "purchase-center": "Маркази харид",
+        "purchase-orders": "Фармоишҳои харид",
+        "goods-receipt": "Кабули мол",
+        "purchase-invoices": "Ҳисобнома-фактураҳои харид",
+        "payment-out": "Пардохтҳо",
+        "returns-debit-notes": "Бозгашт ва қайдҳои дебетӣ",
+        "bill-approvals": "Тасдиқи лоиҳа"
+      },
+      "payables": {
+        "bills": "Маркази пардохт",
+        "payments": "Пардохтҳои таъминкунанда",
+        "workforce": "Кувваи коргарй",
+        "adjustments": "Танзимот",
+        "bank-release": "Варақаи бонк"
+      },
+      "cashbank": {
+        "bank-accounts": "Ҳисобҳои ман",
+        "reconciliation": "Муомилоти мувофиқ",
+        "cash-petty": "Cash Cash",
+        "contra": "Дар байни ҳисобҳо",
+        "cheque-register": "чекхо",
+        "foreign-currency": "Асъори хориҷӣ",
+        "bank-feeds": "Намудҳои бонкӣ",
+        "bank-rules": "Қоидаҳо ва мусолиҳа"
+      },
+      "expenses": {
+        "expense-center": "Ҳама хароҷот",
+        "categories": "Намудҳои хароҷот",
+        "automated-bills": "Хароҷоти такрорӣ",
+        "journal-vouchers": "Воридоти дастӣ",
+        "provisions": "Ҳисобҳо",
+        "write-offs": "Пардохтҳо",
+        "period-close": "Охири моҳ"
+      },
+      "tax": {
+        "gst-returns": "Пешниҳоди GST",
+        "gst-filing-wizard": "⚡ Файли GSTR-3B",
+        "gst-reconciliation": "Мутобиқати GST",
+        "e-invoicing": "Ҳисобнома-фактураҳои электронӣ",
+        "e-way-bills": "Векселҳои электронӣ",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Андоз супоред",
+        "quarterly-compliance": "Тақвими мутобиқат",
+        "ca-access": "Дастрасии муваққатии CA",
+        "gst-from-books": "GST аз китобҳо"
+      },
+      "reports": {
+        "financial-statements": "Ҳисоботи молиявӣ",
+        "books": "Китобҳои транзаксия",
+        "gst-reports": "Ҳисоботи GST",
+        "ar-ap": "Қарзҳои дебиторӣ ва кредиторӣ",
+        "profitability": "Фоиданокй",
+        "period-comparatives": "Муқоисаи сол",
+        "budget-vs-actuals": "Назоратчии буҷет",
+        "cashflow-projection": "Пешгӯии пули нақд",
+        "report-builder": "Ҳисоботи фармоишӣ",
+        "general-ledger": "Генералӣ",
+        "live-financials": "Молияи зинда",
+        "ai-analyst": "Таҳлилгари AI"
+      },
+      "advanced-features": {
+        "overview": "Барраси"
+      },
+      "parties": {
+        "all-parties": "Хамаи Тарафхо",
+        "customer-ledgers": "Мизоҷон",
+        "supplier-ledgers": "Таъминкунандагон",
+        "shared-ledger": "Китоби муштарак",
+        "statements": "Изҳорот",
+        "reminders": "Ёдраскуниҳо",
+        "documents": "Хуччатхои партиявй",
+        "portal": "Портали ҳизб",
+        "import": "Воридоти ҳизб",
+        "duplicate-merge": "Якҷоякунии такрорӣ",
+        "gap-analysis": "Таҳлили холигӣ"
+      },
+      "inventory": {
+        "inventory-items": "Ададҳо",
+        "godowns": "Анборхо",
+        "stock-movement": "Ҳаракати саҳмияҳо",
+        "item-pricing": "Нархгузорӣ",
+        "stock-valuation": "Арзёбии саҳмияҳо",
+        "reorder-alerts": "Тартиби огоҳиҳо",
+        "batch-serials": "Маҷмӯӣ ва силсила",
+        "barcode-labels": "Нишонҳои штрих-код",
+        "item-import": "Воридоти ашё",
+        "gap-analysis": "Таҳлили холигӣ"
+      },
+      "assets": {
+        "asset-register": "Рӯйхати дороиҳо",
+        "depreciation": "Амортизатсия",
+        "disposal-revaluation": "Фурӯш ё аз нав арзиш"
+      },
+      "masters": {
+        "chart-of-accounts": "Рӯйхати ҳисобҳо",
+        "tax-masters": "Меъёрҳои андоз",
+        "cost-centers": "Марказҳои хароҷот",
+        "voucher-types": "Намудҳои транзаксия",
+        "opening-balances": "Тавозуни ибтидоӣ",
+        "currencies": "Асъорҳо"
+      },
+      "business-tools": {
+        "staff-payroll": "Маош",
+        "manage-users": "Дастрасии корбар",
+        "online-orders": "Фармоишҳои онлайн",
+        "sms-marketing": "Маркетинги SMS",
+        "accountant-hub": "Муҳосибон ва дастгирӣ"
+      },
+      "party-tools": {
+        "documents": "Хуччатхои партиявй",
+        "portal": "Портали ҳизб",
+        "import": "Воридоти ҳизб",
+        "duplicate-merge": "Якҷоякунии такрорӣ",
+        "gap-analysis": "Таҳлили холигоҳ"
+      },
+      "item-tools": {
+        "reorder-alerts": "Тартиби огоҳиҳо",
+        "batch-serials": "Маҷмӯӣ ва силсила",
+        "barcode-labels": "Нишонҳои штрих-код",
+        "item-import": "Воридоти ашё",
+        "gap-analysis": "Таҳлили холигӣ"
+      },
+      "storage": {
+        "client-storage": "Файлҳои муштарӣ",
+        "unifiedtree-storage": "Захираи абрӣ"
+      },
+      "alerts": {
+        "accountant-alerts": "Огоҳиҳои муҳосиб",
+        "compliance-alerts": "Огоҳӣ оид ба мувофиқат",
+        "cash-risk-alerts": "Огоҳӣ оид ба пули нақд ва хатар",
+        "ca-access": "Дастрасии муваққатии CA"
+      },
+      "migration": {
+        "import": "Воридоти маълумот",
+        "export": "Содироти маълумот",
+        "history": "Таърихи воридот",
+        "tally-import": "Воридот аз Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Харидҳо ва пардохтҳо",
+      "accountingSetup": "Танзими ҳисобдорӣ",
+      "dataDocuments": "Маълумот ва ҳуҷҷатҳо"
+    }
+  },
+  "common": {
+    "save": "Тағйиротро захира кунед",
+    "cancel": "Бекор кардан",
+    "create": "Эҷод кунед",
+    "edit": "Таҳрир",
+    "delete": "Нобуд кунед",
+    "search": "Ҷустуҷӯ",
+    "connect": "Пайваст кунед",
+    "configure": "Танзим кунед",
+    "disconnect": "Қатъ кунед",
+    "sync": "Ҳамоҳангсозӣ ҳоло",
+    "close": "Пӯшед",
+    "reset": "Баргардонед ба пешфарзҳо",
+    "back": "Бозгашт",
+    "continue": "Давом додан",
+    "all": "Ҳама",
+    "retry": "Аз нав кӯшиш кунед",
+    "loading": "Бор карда мешавад…",
+    "resetDemo": "Барқарорсозии маълумоти намоишӣ"
+  },
+  "shell": {
+    "searchPlaceholder": "Ҳама чизро ҷустуҷӯ кунед…",
+    "settings": "Танзимотҳо",
+    "language": "Забон",
+    "role": "Нақш",
+    "greeting": {
+      "morning": "Субҳ ба хайр",
+      "afternoon": "Нимирӯзи ба хайр",
+      "evening": "Шаб ба хайр"
+    },
+    "settingsItems": {
+      "company-profile": "Чеҳраи Ширкат",
+      "configuration": "Конфигуратсия",
+      "fiscal-periods": "Давраҳои молиявӣ",
+      "roles": "Нақшҳо ва корбарон",
+      "integrations": "Интегратсияҳо",
+      "notifications": "Огоҳиномаҳо",
+      "audit-logs": "Аудит ва гузоришҳо",
+      "audit-trail": "Роҳи аудити ба тағирёбанда",
+      "developer": "Таҳиягар ва API"
+    },
+    "translatedLanguages": "Тарҷума шудааст",
+    "untranslatedLanguages": "Англисӣ то тарҷума"
+  },
+  "status": {
+    "filed": "Пешниҳод карда шуд",
+    "ready": "Омода ба парванда",
+    "open": "Давраи кушода",
+    "paid": "Пардохтшуда",
+    "pending": "Дар интизорӣ",
+    "accepted": "Қабул карда шудааст",
+    "delivered": "Супурд",
+    "rejected": "Рад карда шуд",
+    "pdf-sent": "PDF фиристода шуд",
+    "not-sent": "фиристода нашудааст",
+    "matched": "Муносиб",
+    "mismatch": "Мутобиқати",
+    "missing-supplier": "Аз ҷониби таъминкунанда хабар дода нашудааст",
+    "missing-books": "Дар китобҳо нест",
+    "deferred": "Ба таъхир гузошташуда",
+    "deducted": "Тарҳ карда шудааст",
+    "remitted": "Интиқол дода шуд",
+    "certified": "Сертификатсияшуда",
+    "to-report": "Ба гузориш додан",
+    "reported": "хабар дод",
+    "accounted": "Ҳисоб карда шуд",
+    "overdue": "Муддат гузаштааст"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Омода ба парванда",
+      "liabilityDue": "Масъулият ба ҳисоб меравад",
+      "paidThisYear": "Имсол пардохт",
+      "nextDeadline": "Мӯҳлати оянда",
+      "noneOverdue": "Ҳеҷ кас дер нашудааст",
+      "overdue": "{{count}} ба таъхир афтодааст"
+    },
+    "filter": {
+      "ready": "Омода ба парванда",
+      "open": "Кушода",
+      "filed": "Пешниҳод карда шуд"
+    },
+    "col": {
+      "period": "Давра",
+      "authority": "Ҳокимият",
+      "rate": "Нарх",
+      "due": "Муддати",
+      "netPayable": "Қарзи соф",
+      "status": "Статус",
+      "ack": "Эътироф"
+    },
+    "file": "Файл",
+    "view": "Намоиш",
+    "fileForm": "Файл {{form}}",
+    "loadingJurisdiction": "Ҳуқуқӣ бор карда мешавад…",
+    "nothingToFile": "Ягон эъломия интизори пешниҳод шудан нест - ҳама давраҳои пӯшида пешниҳод карда мешаванд.",
+    "fileNext": "Файли навбатӣ: {{name}}",
+    "steps": {
+      "review": "Барраси",
+      "validate": "Тасдиқ кардан",
+      "declare": "Эълон кардан ва пешниҳод кардан",
+      "ack": "Эътироф"
+    },
+    "runValidation": "Тафтишро иҷро кунед",
+    "validating": "Тасдиқ карда мешавад…",
+    "submit": "Пешниҳод кардан {{form}}",
+    "submitting": "Пешниҳод…",
+    "declaration": "Ман изҳор медорам, ки маълумот дар ин эъломия дуруст ва мукаммал аст ва ман ваколатдорам, ки онро ба {{authority}} пешниҳод кунам.",
+    "netAmount": "Маблағи соф",
+    "submitted": "Пешниҳод карда шуд",
+    "filedOn": "Ба расмият дароварда шудааст",
+    "regime": {
+      "authority": "Ҳокимият",
+      "channel": "Канали сабткунӣ",
+      "return": "Бозгашт",
+      "due": "Муддати",
+      "standardRate": "Меъёри стандартӣ",
+      "threshold": "Ҳадди бақайдгирӣ"
+    },
+    "demoNote": "Маълумоти намоишӣ аз API-и сохташудаи андоз - пешниҳодҳо ва пардохтҳо тақлид карда мешаванд ва ҳеҷ чиз ба мақомоти андоз фиристода намешавад."
+  },
+  "fx": {
+    "title": "Асъори хориҷӣ",
+    "subtitle": "Base currency {{base}} · indicative mock market rates",
+    "newDoc": "Ҳисобнома-фактураи нави FX / вексел",
+    "kpi": {
+      "netExposure": "Гӯшдории холиси FX",
+      "openDocs": "{{count}} ҳуҷҷатҳои кушода",
+      "unrealized": "Фоида/зарари амалӣнашуда",
+      "postedSplit": "{{posted}} posted · {{unposted}} not yet",
+      "realized": "Имсол ба амал омад",
+      "lastReval": "Баҳодиҳии охирин",
+      "never": "Ҳеҷ гоҳ",
+      "suggested": "Пешниҳодшуда: {{date}}"
+    },
+    "view": {
+      "open": "Ададҳоро кушоед",
+      "settled": "Ҳалли",
+      "revaluation": "Азнавбаҳодиҳии охири моҳ",
+      "journal": "Маҷаллаи FX"
+    },
+    "col": {
+      "document": "Ҳуҷҷат",
+      "type": "Навъи",
+      "openForeign": "Кушода (хориҷӣ)",
+      "bookedNow": "Брон карда шуд / ҳоло",
+      "valueIn": "Value in {{base}}",
+      "unrealized": "Амалнашуда",
+      "status": "Статус",
+      "amount": "Маблағ",
+      "bookedRate": "Нархи фармоиш",
+      "realized": "Дарк карда шуд"
+    },
+    "receivable": "Қарзи дебиторӣ",
+    "payable": "пардохтшаванда",
+    "receive": "Гирифтан",
+    "pay": "Пардохт",
+    "netIn": "Нет дар {{base}}",
+    "state": {
+      "settled": "Ҳалли",
+      "partial": "Қисман ҳал карда шудааст",
+      "open": "Кушода"
+    },
+    "demoNote": "Маълумоти намоишӣ аз API-и дарунсохт — нархҳо тақлид карда мешаванд, на маълумоти зиндаи бозор."
+  }
+}

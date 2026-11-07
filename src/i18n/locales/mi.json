@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Ia ra",
+      "finance": "Pūtea",
+      "advanced": "Arā atu"
+    },
+    "mainMenu": "Tahua Matua",
+    "short": {
+      "parties": "Nga roopu"
+    },
+    "sections": {
+      "dashboard": "Papatohu",
+      "sales": "Hokonga",
+      "receivables": "Moni I roto",
+      "procurement": "Nga hokonga",
+      "payables": "Putea Putea",
+      "cashbank": "Moni me te Peeke",
+      "expenses": "Nga whakapaunga",
+      "tax": "Taake",
+      "reports": "Ripoata",
+      "advanced-features": "Āhuatanga Arā Atu Anō",
+      "parties": "Kaihoko & Kaituku",
+      "inventory": "Nga taonga",
+      "assets": "Nga Rawa Pumau",
+      "masters": "Tatūnga me te Whirihoranga",
+      "business-tools": "Rōpū & Utauta",
+      "party-tools": "Utauta Paati",
+      "item-tools": "Utauta Tuemi",
+      "storage": "Tuhinga",
+      "alerts": "Matohi",
+      "migration": "Hekenga Raraunga"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Tirohanga",
+        "cash-flow": "Rere Moni",
+        "tax-calendar": "Maramataka Taake"
+      },
+      "sales": {
+        "quotations": "Nga korero korero",
+        "proforma-invoices": "PI",
+        "sales-invoices": "nama",
+        "delivery-challans": "Tukunga Challan",
+        "receipts": "Rihiti",
+        "invoice-desk": "Tepu nama"
+      },
+      "receivables": {
+        "money-in-center": "Moni Kei Pokapū",
+        "receivables": "Nga nama",
+        "payments-received": "Utu kua riro",
+        "overdue-collections": "Kohinga & Whakamaumahara",
+        "credit-notes": "Nga Panui nama me nga moni whakahoki",
+        "sales-returns": "Nga Whakahoki Hokonga",
+        "customer-statements": "Tauākī Kiritaki",
+        "payment-links": "Hononga Utu"
+      },
+      "procurement": {
+        "purchase-center": "Pokapū Hoko",
+        "purchase-orders": "Nga Ota Hoko",
+        "goods-receipt": "Rihiti Taonga",
+        "purchase-invoices": "Hoko nama",
+        "payment-out": "Nga utu i mahia",
+        "returns-debit-notes": "Nga Whakahoki me nga Panui Nama",
+        "bill-approvals": "Nga Whakaaetanga Pire"
+      },
+      "payables": {
+        "bills": "Pokapū Utu",
+        "payments": "Utu Kaituku",
+        "workforce": "Kaimahi",
+        "adjustments": "Whakaritenga",
+        "bank-release": "Tuku Peeke"
+      },
+      "cashbank": {
+        "bank-accounts": "Aku Kaute",
+        "reconciliation": "Tauwhitinga Whakaorite",
+        "cash-petty": "Petty Cash",
+        "contra": "I waenganui i nga Kaute",
+        "cheque-register": "Takitaki",
+        "foreign-currency": "Moni ke",
+        "bank-feeds": "Whangai Peeke",
+        "bank-rules": "Ture & Whakahoutanga"
+      },
+      "expenses": {
+        "expense-center": "Nga Whakapaunga Katoa",
+        "categories": "Momo Whakapaunga",
+        "automated-bills": "Nga Whakapaunga Whakahoki",
+        "journal-vouchers": "Nga Whakauru a-ringa",
+        "provisions": "Nga utu",
+        "write-offs": "Tuhituhinga",
+        "period-close": "Marama-Mutu"
+      },
+      "tax": {
+        "gst-returns": "Tukunga Taake Hokohoko",
+        "gst-filing-wizard": "⚡ Kōnae GSTR-3B",
+        "gst-reconciliation": "Whakaōrite tāke hokohoko",
+        "e-invoicing": "Nga nama-e",
+        "e-way-bills": "Nga Pire E-Way",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Utua Taake",
+        "quarterly-compliance": "Maramataka Tautukunga",
+        "ca-access": "CA Urunga Rangitahi",
+        "gst-from-books": "GST mai i nga Pukapuka"
+      },
+      "reports": {
+        "financial-statements": "Pūrongo Pūtea",
+        "books": "Pukapuka Whakawhitiwhiti",
+        "gst-reports": "Nga Ripoata Taake Hokohoko",
+        "ar-ap": "Nga nama me nga nama",
+        "profitability": "Te whai hua",
+        "period-comparatives": "Tau Whakatauritenga",
+        "budget-vs-actuals": "Aroturuki Putea",
+        "cashflow-projection": "Matapae Moni",
+        "report-builder": "Ripoti Ritenga",
+        "general-ledger": "Puka Puka Matua",
+        "live-financials": "Nga Putea Ora",
+        "ai-analyst": "Kaitātari AI"
+      },
+      "advanced-features": {
+        "overview": "Tirohanga"
+      },
+      "parties": {
+        "all-parties": "Nga Rōpū Katoa",
+        "customer-ledgers": "Kaihoko",
+        "supplier-ledgers": "Kaituku",
+        "shared-ledger": "Tiri Tiri",
+        "statements": "Nga korero",
+        "reminders": "Whakamaumahara",
+        "documents": "Tuhinga Rōpū",
+        "portal": "Pouaka Paati",
+        "import": "Kawemai Rōpū",
+        "duplicate-merge": "Hanumi Tārite",
+        "gap-analysis": "Tātaritanga āputa"
+      },
+      "inventory": {
+        "inventory-items": "Nga taonga",
+        "godowns": "Whare putunga",
+        "stock-movement": "Nekehanga Stock",
+        "item-pricing": "Te utu",
+        "stock-valuation": "Te Uara Whakatau",
+        "reorder-alerts": "Whakaritea Nga Matohi",
+        "batch-serials": "Puranga & Rangatū",
+        "barcode-labels": "Tapanga Waehere Pae",
+        "item-import": "Kawemai Tūemi",
+        "gap-analysis": "Tātaritanga āputa"
+      },
+      "assets": {
+        "asset-register": "Rarangi Rawa",
+        "depreciation": "Te hekenga uara",
+        "disposal-revaluation": "Hokona, Whakatauhia ranei"
+      },
+      "masters": {
+        "chart-of-accounts": "Rarangi Kaute",
+        "tax-masters": "Reiti Taake",
+        "cost-centers": "Pokapū Utu",
+        "voucher-types": "Momo Tauwhitinga",
+        "opening-balances": "Nga pauna Timata",
+        "currencies": "Moni"
+      },
+      "business-tools": {
+        "staff-payroll": "Te utu utu",
+        "manage-users": "Urunga Kaiwhakamahi",
+        "online-orders": "Ota Online",
+        "sms-marketing": "SMS Marketing",
+        "accountant-hub": "Kaute me te Tautoko"
+      },
+      "party-tools": {
+        "documents": "Tuhinga Rōpū",
+        "portal": "Pouaka Paati",
+        "import": "Kawemai Rōpū",
+        "duplicate-merge": "Hanumi Tārite",
+        "gap-analysis": "Tātaritanga āputa"
+      },
+      "item-tools": {
+        "reorder-alerts": "Whakaritea Nga Matohi",
+        "batch-serials": "Puranga & Rangatū",
+        "barcode-labels": "Tapanga Waehere Pae",
+        "item-import": "Kawemai Tūemi",
+        "gap-analysis": "Tātaritanga āputa"
+      },
+      "storage": {
+        "client-storage": "Kōnae Kiritaki",
+        "unifiedtree-storage": "Kapua Rokiroki"
+      },
+      "alerts": {
+        "accountant-alerts": "Matohi Kaute",
+        "compliance-alerts": "Whakatupato Tautukunga",
+        "cash-risk-alerts": "Moni Moni me nga Matohi Morearea",
+        "ca-access": "CA Urunga Rangitahi"
+      },
+      "migration": {
+        "import": "Kawemai Raraunga",
+        "export": "Kaweake Raraunga",
+        "history": "Kawemai History",
+        "tally-import": "Kawemai mai i a Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Hoko & Utu",
+      "accountingSetup": "Tatūnga Kaute",
+      "dataDocuments": "Raraunga me nga Tuhinga"
+    }
+  },
+  "common": {
+    "save": "Tiaki Huringa",
+    "cancel": "Whakakore",
+    "create": "Waihanga",
+    "edit": "Whakatikatika",
+    "delete": "Mukua",
+    "search": "Rapu",
+    "connect": "Tūhono",
+    "configure": "Whirihora",
+    "disconnect": "Momotu",
+    "sync": "Tukutahi Inaianei",
+    "close": "Katia",
+    "reset": "Tautuhi ki Taunoa",
+    "back": "Whakamuri",
+    "continue": "Haere tonu",
+    "all": "Katoa",
+    "retry": "Ngana ano",
+    "loading": "Uta ana…",
+    "resetDemo": "Tautuhi raraunga demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Rapua tetahi mea...",
+    "settings": "Tautuhinga",
+    "language": "Reo",
+    "role": "Tūnga",
+    "greeting": {
+      "morning": "Ata pai",
+      "afternoon": "Kia pai te ahiahi",
+      "evening": "Kia pai te ahiahi"
+    },
+    "settingsItems": {
+      "company-profile": "Kōtaha Kamupene",
+      "configuration": "Whirihoranga",
+      "fiscal-periods": "Nga Waa Putea",
+      "roles": "Nga Mahi me nga Kaiwhakamahi",
+      "integrations": "Whakakotahitanga",
+      "notifications": "Whakamōhiotanga",
+      "audit-logs": "Arotake me nga Rangitaki",
+      "audit-trail": "Te Ara Takitaki Tamper-proof",
+      "developer": "Kaiwhakawhanake & API"
+    },
+    "translatedLanguages": "Kua whakamaoritia",
+    "untranslatedLanguages": "Ingarihi tae noa ki te whakamaoritanga"
+  },
+  "status": {
+    "filed": "Kua tukuna",
+    "ready": "Kua reri ki te konae",
+    "open": "Wā tuwhera",
+    "paid": "Ka utua",
+    "pending": "Tarewa ana",
+    "accepted": "Whakaaetia",
+    "delivered": "Kua tukuna",
+    "rejected": "Kua whakakorehia",
+    "pdf-sent": "Kua tukuna te PDF",
+    "not-sent": "Kaore i tukuna",
+    "matched": "Whakaritea",
+    "mismatch": "Tauritenga",
+    "missing-supplier": "Kaore i korerotia e te kaiwhakarato",
+    "missing-books": "Kei te ngaro i roto i nga pukapuka",
+    "deferred": "Whakaturia",
+    "deducted": "Kua tangohia",
+    "remitted": "Kua tukuna",
+    "certified": "Kua whaimana",
+    "to-report": "Ki te ripoata",
+    "reported": "Kua ripoatatia",
+    "accounted": "Kaute",
+    "overdue": "Tomuri"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Kua reri ki te konae",
+      "liabilityDue": "Te taunahatanga e tika ana",
+      "paidThisYear": "Ka utua i tenei tau",
+      "nextDeadline": "Te wa mutunga",
+      "noneOverdue": "Karekau he taima",
+      "overdue": "{{count}} kua roa"
+    },
+    "filter": {
+      "ready": "Kua reri ki te konae",
+      "open": "Tuwhera",
+      "filed": "Kua tukuna"
+    },
+    "col": {
+      "period": "Wā",
+      "authority": "Mana",
+      "rate": "Reiti",
+      "due": "E tika ana",
+      "netPayable": "Utu utu",
+      "status": "Tūnga",
+      "ack": "Mihi"
+    },
+    "file": "Kōnae",
+    "view": "Tirohanga",
+    "fileForm": "Kōnae {{form}}",
+    "loadingJurisdiction": "Uta ana i te mana whakahaere…",
+    "nothingToFile": "Kaore he hokinga e tatari ana kia tukuna mai - kua tukuna nga wa kati katoa.",
+    "fileNext": "File next: {{name}}",
+    "steps": {
+      "review": "Arotake",
+      "validate": "Whakamana",
+      "declare": "Whakapuakina me te tuku",
+      "ack": "Mihi"
+    },
+    "runValidation": "Whakahaerehia te whakamana",
+    "validating": "Whakamana…",
+    "submit": "Tukuna {{form}}",
+    "submitting": "Kei te tuku…",
+    "declaration": "I declare that the information in this return is true and complete, and that I am authorised to submit it to {{authority}}.",
+    "netAmount": "Moni kupenga",
+    "submitted": "Kua tukuna",
+    "filedOn": "I tukuna i runga",
+    "regime": {
+      "authority": "Mana",
+      "channel": "Te hongere tuku",
+      "return": "Hoki mai",
+      "due": "E tika ana",
+      "standardRate": "Reeti paerewa",
+      "threshold": "Paepae rehitatanga"
+    },
+    "demoNote": "Ko nga raraunga whakaatu mai i te API taake tawai i hangaia - ka whakatairitehia nga konae me nga utu kaore he mea ka tukuna ki te mana taake."
+  },
+  "fx": {
+    "title": "Moni ke",
+    "subtitle": "Moni turanga {{base}} · tohu reiti maakete tawai",
+    "newDoc": "Te nama / pire FX hou",
+    "kpi": {
+      "netExposure": "Putanga FX Net",
+      "openDocs": "{{count}} tuhinga tuwhera",
+      "unrealized": "Te whiwhinga / ngaronga kore",
+      "postedSplit": "{{posted}} posted · {{unposted}} kaore ano",
+      "realized": "I tutuki i tenei tau",
+      "lastReval": "Te arotakenga whakamutunga",
+      "never": "Kaua rawa",
+      "suggested": "Kua whakaarohia: {{date}}"
+    },
+    "view": {
+      "open": "Tuwhera nga taonga",
+      "settled": "Kua tau",
+      "revaluation": "Te arotake i te mutunga o te marama",
+      "journal": "FX hautaka"
+    },
+    "col": {
+      "document": "Tuhinga",
+      "type": "Momo",
+      "openForeign": "Tuwhera (ke)",
+      "bookedNow": "Kua tohua / inaianei",
+      "valueIn": "Uara i roto i te {{base}}",
+      "unrealized": "Kare i tutuki",
+      "status": "Tūnga",
+      "amount": "Te nui",
+      "bookedRate": "Reiti kua tohua",
+      "realized": "I mohio"
+    },
+    "receivable": "Ka riro mai",
+    "payable": "Utu",
+    "receive": "Whiwhi",
+    "pay": "Utu",
+    "netIn": "Kupenga i {{base}}",
+    "state": {
+      "settled": "Kua tau",
+      "partial": "Wahi-taua",
+      "open": "Tuwhera"
+    },
+    "demoNote": "Ko nga raraunga whakaatu mai i te API whakahianga i hangaia - ka whakatauhia nga reiti, ehara i te raraunga maakete ora."
+  }
+}

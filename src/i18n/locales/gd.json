@@ -1,0 +1,370 @@
+{
+  "nav": {
+    "group": {
+      "daily": "Latha-gu-latha",
+      "finance": "Ionmhas",
+      "advanced": "Adhartach"
+    },
+    "mainMenu": "Prìomh chlàr",
+    "short": {
+      "parties": "Pàrtaidhean"
+    },
+    "sections": {
+      "dashboard": "Deas-bhòrd",
+      "sales": "Reic",
+      "receivables": "Airgead a-steach",
+      "procurement": "Ceannach",
+      "payables": "Airgead a-mach",
+      "cashbank": "Airgead & Banca",
+      "expenses": "Cosgaisean",
+      "tax": "Cìs",
+      "reports": "Aithisgean",
+      "advanced-features": "Feartan adhartach",
+      "parties": "Luchd-ceannach & Solaraichean",
+      "inventory": "Nithean",
+      "assets": "Maoin Stèidhichte",
+      "masters": "Suidheachadh & rèiteachadh",
+      "business-tools": "Sgioba & Innealan",
+      "party-tools": "Innealan pàrtaidh",
+      "item-tools": "Innealan Nì",
+      "storage": "Sgrìobhainnean",
+      "alerts": "Rabhaidhean",
+      "migration": "Imrich dàta"
+    },
+    "tabs": {
+      "dashboard": {
+        "overview": "Ro-shealladh",
+        "cash-flow": "Sruth airgid",
+        "tax-calendar": "Mìosachan Cìse"
+      },
+      "sales": {
+        "quotations": "Quotations",
+        "proforma-invoices": "PI",
+        "sales-invoices": "Fàirdeal",
+        "delivery-challans": "Challan lìbhrigidh",
+        "receipts": "Cuidhteas",
+        "invoice-desk": "Deasg Fàirdeal"
+      },
+      "receivables": {
+        "money-in-center": "Airgead san Ionad",
+        "receivables": "Cuidhteasan",
+        "payments-received": "Pàighidhean air am faighinn",
+        "overdue-collections": "Cruinneachaidhean & Cuimhneachain",
+        "credit-notes": "Notaichean Creideis & Ath-dhìoladh",
+        "sales-returns": "Tilleadh reic",
+        "customer-statements": "Aithrisean Luchd-ceannach",
+        "payment-links": "Ceanglaichean Pàigheadh"
+      },
+      "procurement": {
+        "purchase-center": "Ionad Ceannach",
+        "purchase-orders": "Òrduighean Ceannach",
+        "goods-receipt": "Cuidhteas Bathar",
+        "purchase-invoices": "Fàirdealan Ceannach",
+        "payment-out": "Pàighidhean air an dèanamh",
+        "returns-debit-notes": "Tilleadh & Notaichean Dochair",
+        "bill-approvals": "Aontachadh Bile"
+      },
+      "payables": {
+        "bills": "Ionad Pàighidh",
+        "payments": "Pàighidhean solaraiche",
+        "workforce": "Sgioba-obrach",
+        "adjustments": "Atharrachaidhean",
+        "bank-release": "Sgaoileadh Banca"
+      },
+      "cashbank": {
+        "bank-accounts": "Na Cunntasan agam",
+        "reconciliation": "Gnìomhan Matcha",
+        "cash-petty": "Airgead Beag",
+        "contra": "Eadar Cunntasan",
+        "cheque-register": "Seicichean",
+        "foreign-currency": "Airgead Cèin",
+        "bank-feeds": "Biadhan Banca",
+        "bank-rules": "Riaghailtean & Rèite"
+      },
+      "expenses": {
+        "expense-center": "A h-uile Cosgais",
+        "categories": "Seòrsan Cosgais",
+        "automated-bills": "Cosgaisean Ath-chuairteachaidh",
+        "journal-vouchers": "Cur a-steach làimhe",
+        "provisions": "Accruisean",
+        "write-offs": "Sgiathan-sgrìobhaidh",
+        "period-close": "Mìos-Deireadh"
+      },
+      "tax": {
+        "gst-returns": "Clàradh GST",
+        "gst-filing-wizard": "⚡ Faidhle GSTR-3B",
+        "gst-reconciliation": "Coimeas GST",
+        "e-invoicing": "E-fàirdealan",
+        "e-way-bills": "Bilean E-Slighe",
+        "tds": "TDS",
+        "tcs": "TCS",
+        "tax-payments": "Pàigh Cìs",
+        "quarterly-compliance": "Mìosachan Gèilleadh",
+        "ca-access": "CA Ruigsinneachd Sealach",
+        "gst-from-books": "GOST bho Leabhraichean"
+      },
+      "reports": {
+        "financial-statements": "Aithisgean Ionmhais",
+        "books": "Leabhraichean Gnìomhan",
+        "gst-reports": "Aithisgean GST",
+        "ar-ap": "Cuidhteasan ri fhaotainn vs Pàighidhean",
+        "profitability": "Prothaid",
+        "period-comparatives": "Coimeas Bliadhna",
+        "budget-vs-actuals": "Lorgaire Buidseit",
+        "cashflow-projection": "Ro-shealladh airgid",
+        "report-builder": "Aithisgean Custom",
+        "general-ledger": "Leabhar-cunntais Coitcheann",
+        "live-financials": "Ionmhas beò",
+        "ai-analyst": "Mion-sgrùdaire AI"
+      },
+      "advanced-features": {
+        "overview": "Ro-shealladh"
+      },
+      "parties": {
+        "all-parties": "A h-uile pàrtaidh",
+        "customer-ledgers": "Luchd-cleachdaidh",
+        "supplier-ledgers": "Luchd-solair",
+        "shared-ledger": "Leabhar-cunntais co-roinnte",
+        "statements": "Aithrisean",
+        "reminders": "Cuimhneachain",
+        "documents": "Sgrìobhainnean pàrtaidh",
+        "portal": "Portal pàrtaidh",
+        "import": "Import pàrtaidh",
+        "duplicate-merge": "Co-aonadh dùblaichte",
+        "gap-analysis": "Mion-sgrùdadh beàrn"
+      },
+      "inventory": {
+        "inventory-items": "Nithean",
+        "godowns": "Taighean-stòir",
+        "stock-movement": "Gluasad Stoc",
+        "item-pricing": "Prìsean",
+        "stock-valuation": "Luachadh stoc",
+        "reorder-alerts": "Ath-òrdachadh rabhaidhean",
+        "batch-serials": "Baidse & sreath",
+        "barcode-labels": "Bileagan còd-barra",
+        "item-import": "Import nì",
+        "gap-analysis": "Mion-sgrùdadh beàrn"
+      },
+      "assets": {
+        "asset-register": "Liosta maoin",
+        "depreciation": "Ìsleachadh",
+        "disposal-revaluation": "Reic no ath-luachadh"
+      },
+      "masters": {
+        "chart-of-accounts": "Liosta nan cunntasan",
+        "tax-masters": "Ìrean Cìse",
+        "cost-centers": "Ionadan Cosgais",
+        "voucher-types": "Seòrsan Gnìomhan",
+        "opening-balances": "Cothroman tòiseachaidh",
+        "currencies": "Airgead-airgid"
+      },
+      "business-tools": {
+        "staff-payroll": "Pàighidh",
+        "manage-users": "Cothrom Cleachdaiche",
+        "online-orders": "Òrdughan air-loidhne",
+        "sms-marketing": "Margaidheachd SMS",
+        "accountant-hub": "Luchd-cunntais & Taic"
+      },
+      "party-tools": {
+        "documents": "Sgrìobhainnean pàrtaidh",
+        "portal": "Portal pàrtaidh",
+        "import": "Import pàrtaidh",
+        "duplicate-merge": "Co-aonadh dùblaichte",
+        "gap-analysis": "Mion-sgrùdadh beàrn"
+      },
+      "item-tools": {
+        "reorder-alerts": "Ath-òrdachadh rabhaidhean",
+        "batch-serials": "Baidse & sreath",
+        "barcode-labels": "Bileagan còd-barra",
+        "item-import": "Import nì",
+        "gap-analysis": "Mion-sgrùdadh beàrn"
+      },
+      "storage": {
+        "client-storage": "Faidhlichean Cliant",
+        "unifiedtree-storage": "Stòradh Cloud"
+      },
+      "alerts": {
+        "accountant-alerts": "Rabhadh neach-cunntais",
+        "compliance-alerts": "Rabhaidhean Gèilleadh",
+        "cash-risk-alerts": "Rabhaidhean Airgid & Cunnart",
+        "ca-access": "CA Ruigsinneachd Sealach"
+      },
+      "migration": {
+        "import": "Cuir a-steach dàta",
+        "export": "Dàta às-mhalairt",
+        "history": "Eachdraidh ion-phortaich",
+        "tally-import": "Import bho Tally & Zoho"
+      }
+    },
+    "areas": {
+      "purchasesPayments": "Ceannach & Pàighidhean",
+      "accountingSetup": "Suidheachadh cunntasachd",
+      "dataDocuments": "Dàta & Sgrìobhainnean"
+    }
+  },
+  "common": {
+    "save": "Sàbhail Atharrachaidhean",
+    "cancel": "Sguir dheth",
+    "create": "Cruthaich",
+    "edit": "Deasaich",
+    "delete": "Sguab às",
+    "search": "Rannsaich",
+    "connect": "Ceangail",
+    "configure": "Dèan rèiteachadh",
+    "disconnect": "Disconnect",
+    "sync": "Sioncronaich an-dràsta",
+    "close": "Dùin",
+    "reset": "Ath-shuidheachadh gu Defaults",
+    "back": "Air ais",
+    "continue": "Lean air adhart",
+    "all": "Uile",
+    "retry": "Feuch a-rithist",
+    "loading": "A’ luchdachadh…",
+    "resetDemo": "Ath-shuidhich dàta demo"
+  },
+  "shell": {
+    "searchPlaceholder": "Lorg rud sam bith…",
+    "settings": "Suidhichidhean",
+    "language": "Cànain",
+    "role": "Ròl",
+    "greeting": {
+      "morning": "Madainn mhath",
+      "afternoon": "Feasgar math",
+      "evening": "Feasgar math"
+    },
+    "settingsItems": {
+      "company-profile": "Pròifil companaidh",
+      "configuration": "Rèiteachadh",
+      "fiscal-periods": "Ùinean fiosgail",
+      "roles": "Dleastanasan & Luchd-cleachdaidh",
+      "integrations": "Amalachaidhean",
+      "notifications": "Brathan",
+      "audit-logs": "Sgrùdadh & Logaichean",
+      "audit-trail": "Slighe Sgrùdaidh dìon-tamper",
+      "developer": "Luchd-leasachaidh & API"
+    },
+    "translatedLanguages": "Eadar-theangaichte",
+    "untranslatedLanguages": "Beurla gus an deach eadar-theangachadh"
+  },
+  "status": {
+    "filed": "Faidhle",
+    "ready": "Deiseil airson faidhleadh",
+    "open": "Ùine fosgailte",
+    "paid": "Phàigh",
+    "pending": "A' feitheamh",
+    "accepted": "Air gabhail ris",
+    "delivered": "Air a lìbhrigeadh",
+    "rejected": "Air a dhiùltadh",
+    "pdf-sent": "PDF air a chuir",
+    "not-sent": "Gun a chuir",
+    "matched": "Air a mhaidseadh",
+    "mismatch": "Mì-chothromachadh",
+    "missing-supplier": "Gun aithris leis an t-solaraiche",
+    "missing-books": "A dhìth ann an leabhraichean",
+    "deferred": "Air a chur dheth",
+    "deducted": "Air a thoirt às",
+    "remitted": "Remitted",
+    "certified": "Deimhnichte",
+    "to-report": "Gus aithris",
+    "reported": "Air aithris",
+    "accounted": "Cunntas",
+    "overdue": "Thar ùine"
+  },
+  "tax": {
+    "kpi": {
+      "readyToFile": "Deiseil airson faidhleadh",
+      "liabilityDue": "Dleastanas ri phàigheadh",
+      "paidThisYear": "Pàighte am-bliadhna",
+      "nextDeadline": "An ath cheann-latha",
+      "noneOverdue": "Chan eil gin fadalach",
+      "overdue": "{{count}} fadalach"
+    },
+    "filter": {
+      "ready": "Deiseil airson faidhleadh",
+      "open": "Fosgailte",
+      "filed": "Faidhle"
+    },
+    "col": {
+      "period": "Ùine",
+      "authority": "Ùghdarras",
+      "rate": "Ìre",
+      "due": "Air sgàth",
+      "netPayable": "Glan ri phàigheadh",
+      "status": "Inbhe",
+      "ack": "Aithneachadh"
+    },
+    "file": "Faidhle",
+    "view": "Sealladh",
+    "fileForm": "Faidhle {{form}}",
+    "loadingJurisdiction": "A’ luchdachadh uachdranas…",
+    "nothingToFile": "Chan eil tilleadh sam bith a’ feitheamh ri bhith air a chlàradh - tha a h-uile ùine dùinte air a chuir a-steach.",
+    "fileNext": "An ath fhaidhle: {{name}}",
+    "steps": {
+      "review": "Lèirmheas",
+      "validate": "Dearbhaich",
+      "declare": "Cuir an cèill & cuir a-steach",
+      "ack": "Aithneachadh"
+    },
+    "runValidation": "Ruith dearbhadh",
+    "validating": "A’ dearbhadh…",
+    "submit": "Cuir a-steach {{form}}",
+    "submitting": "A’ cur a-steach…",
+    "declaration": "Tha mi a' cur an cèill gu bheil am fiosrachadh sa tilleadh seo fìor agus coileanta, agus gu bheil cead agam a chur a-steach gu {{authority}}.",
+    "netAmount": "Suim lom",
+    "submitted": "Air a chuir a-steach",
+    "filedOn": "Air a chlàradh",
+    "regime": {
+      "authority": "Ùghdarras",
+      "channel": "Sianal faidhleadh",
+      "return": "Tilleadh",
+      "due": "Air sgàth",
+      "standardRate": "Ìre àbhaisteach",
+      "threshold": "Ìre clàraidh"
+    },
+    "demoNote": "Dàta demo bhon API cìs meallta togte - thathas ag atharrais air filmean agus pàighidhean agus chan eil dad air a chuir gu ùghdarras chìsean."
+  },
+  "fx": {
+    "title": "Airgead Cèin",
+    "subtitle": "Airgead bunaiteach {{base}} · reataichean margaidh meallta",
+    "newDoc": "Fàirdeal / bile FX ùr",
+    "kpi": {
+      "netExposure": "Taisbeanadh lom FX",
+      "openDocs": "{{count}} sgrìobhainnean fosgailte",
+      "unrealized": "Buannachd / call neo-aithnichte",
+      "postedSplit": "{{posted}} postadh · {{unposted}} gun phostadh fhathast",
+      "realized": "Air a thoirt gu buil am-bliadhna",
+      "lastReval": "Ath-luachadh mu dheireadh",
+      "never": "A-riamh",
+      "suggested": "Air a mholadh: {{date}}"
+    },
+    "view": {
+      "open": "Feartan fosgailte",
+      "settled": "Suidhich",
+      "revaluation": "Ath-luachadh deireadh mìos",
+      "journal": "Leabhar-latha FX"
+    },
+    "col": {
+      "document": "Sgrìobhainn",
+      "type": "Seòrsa",
+      "openForeign": "Fosgailte (cèin)",
+      "bookedNow": "Glèidhte / a-nis",
+      "valueIn": "Luach ann an {{base}}",
+      "unrealized": "Neo-aithnichte",
+      "status": "Inbhe",
+      "amount": "Suim",
+      "bookedRate": "Ìre glèidhte",
+      "realized": "Thuig"
+    },
+    "receivable": "Gabhail",
+    "payable": "Pàigheadh",
+    "receive": "Gabhail",
+    "pay": "Pàigh",
+    "netIn": "Lìon ann an {{base}}",
+    "state": {
+      "settled": "Suidhich",
+      "partial": "Pàirt-rèiteachadh",
+      "open": "Fosgailte"
+    },
+    "demoNote": "Dàta demo bhon API meallta togte - tha ìrean air an samhlachadh, chan e dàta margaidh beò."
+  }
+}
