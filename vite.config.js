@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  // GitHub Pages serves the app from /accounting/; the deploy workflow sets BASE_PATH.
+  base: process.env.BASE_PATH || '/',
   server: {
     headers: {
       'Cache-Control': 'no-store',

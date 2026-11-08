@@ -6,7 +6,9 @@
 */
 
 const CACHE_NAME  = 'ut-accounting-v2'
-const SHELL_URLS  = ['/', '/index.html']
+// Paths are relative to the SW scope so the app works under a sub-path (e.g. /accounting/).
+const BASE        = new URL(self.registration.scope).pathname
+const SHELL_URLS  = [BASE, BASE + 'index.html']
 
 /* ── Install: pre-cache shell ── */
 self.addEventListener('install', (event) => {
@@ -36,10 +38,10 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return
   if (url.origin !== location.origin) return
   if (url.hostname === 'localhost' || url.hostname === '127.0.0.1' || url.hostname === '::1') return
-  if (url.pathname.startsWith('/src/') || url.pathname.startsWith('/node_modules/.vite/')) return
+  if (url.pathname.startsWith(BASE + 'src/') || url.pathname.startsWith('/node_modules/.vite/')) return
 
   // App shell — cache first
-  if (SHELL_URLS.includes(url.pathname) || url.pathname === '/') {
+  if (SHELL_URLS.includes(url.pathname) || url.pathname === BASE) {
     event.respondWith(cacheFirst(request))
     return
   }
@@ -78,7 +80,7 @@ async function networkFirst(request) {
     if (cached) return cached
     // Return offline fallback for navigation requests
     if (request.mode === 'navigate') {
-      const shell = await caches.match('/index.html')
+      const shell = await caches.match(BASE + 'index.html')
       if (shell) return shell
     }
     return new Response('Offline — please check your connection', { status: 503 })
@@ -92,17 +94,17 @@ self.addEventListener('push', (event) => {
   event.waitUntil(
     self.registration.showNotification(data.title ?? 'UnifiedTree', {
       body: data.body,
-      icon: '/favicon.svg',
-      badge: '/favicon.svg',
+      icon: BASE + 'favicon.svg',
+      badge: BASE + 'favicon.svg',
       tag: data.tag ?? 'ut-notification',
-      data: { url: data.url ?? '/' },
+      data: { url: data.url ?? BASE },
     })
   )
 })
 
 self.addEventListener('notificationclick', (event) => {
   event.notification.close()
-  const target = event.notification.data?.url ?? '/'
+  const target = event.notification.data?.url ?? BASE
   event.waitUntil(
     self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clients) => {
       const existing = clients.find((c) => c.url === target)

@@ -499,6 +499,6 @@ const router = createBrowserRouter([
       { path: 'settings/developer',          element: <RequireAccess sectionId="settings"><DeveloperPlatform /></RequireAccess> },
     ],
   },
-])
+], { basename: import.meta.env.BASE_URL.replace(/\/$/, '') || '/' })
 
 export default router

@@ -10,7 +10,7 @@ import { toast } from '../../lib/toast'
 import { Chip, KpiStrip, ErrorBox } from '../tax/global/shared'
 import { fmtDate } from '../tax/global/taxUtils'
 
-const checkoutUrl = id => `${window.location.origin}/pay/${id}`
+const checkoutUrl = id => `${window.location.origin}${import.meta.env.BASE_URL}pay/${id}`
 
 export default function PaymentLinks() {
   const providers = useApi('/bank/providers')
